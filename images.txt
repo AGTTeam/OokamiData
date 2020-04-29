@@ -32,7 +32,7 @@ title/titlemenu
 
 title/titlemenu2
 セ一ブ画面へ=
-タイ卜ル画面に戻る=
+タイトル画面に戻る=
 
 towninfo/TownInfo01
 TODO
