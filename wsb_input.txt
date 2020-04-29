@@ -105,7 +105,6 @@
 　―　大口で投資　―|　【 銀貨@<trade_b@>枚 】=
 はい、今回は見送ります=
 いや、やっぱり投資します！=
-いらっしゃいませ。=Welcome.
 こんな噂を聞きましたよ。=I heard this rumor.
 特にありませんよ。=Nothing in particular.
 !FILE:event/ev_act/act_010_opening.wsb
@@ -314,6 +313,7 @@
 なんじゃ、ぬか喜びさせおって。|つまらん雄（おす）じゃな。|わっちは向こうで待っておるぞ。=Why does that make you so happy? What a boring male you are. I will wait for you elsewhere.
 ホロと話す=Talk to Holo
 シュミットと話す=Talk to Schmidt
+いらっしゃいませ。=Welcome.
 知り合いとやらの話は|終わったのかや？=Have you finished speaking with your acquaintance?
 いや、まだなんだ。|もう少し待っててよ、ホロ。=No, not yet. Wait a little longer, Holo.
 だったら、わっちゃあ|１杯ひっかけておるからの。|かまわんじゃろ？=Then I will also drink a bit. Do you mind?
@@ -7919,10 +7919,13 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 できれば……っくん……|もう１つ|食いたいところじゃが……。=
 ダメだよ。１個だけ。=
 しかたがない。あきらめるかや。=
+!FILE:event/ev_sys/normal_pub.wsb
+いらっしゃいませ。=Welcome.
 !FILE:event/ev_sys/t01_aima_mon_ashidome.wsb
 あの詩人とやらに|会わなくてもいいのかや？=Should you not meet with the Poet?
 !FILE:event/ev_sys/t01_aima_pub.wsb
 吟遊詩人と話す=Talk to the Minstrel
+いらっしゃいませ。=Welcome.
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg. How about we drink to my song?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=It's an old romance in a new tune of feelings.
 最近、町の様子はどうです？=How are things here lately?
@@ -7943,10 +7946,12 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=If you say so, then it must be good. Please, your favor.
 !FILE:event/ev_sys/t04_seab_pub.wsb
 店員と話す =Talk to the Clerk
+いらっしゃいませ。=Welcome.
 エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're going to Erle, make sure you're careful.
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=Arout now, the seas get really rough with big storms.
 !FILE:event/ev_sys/t06_meru_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
 とりあえず、ビールじゃ。=For now, beer.
 それから、この店のお勧めの|つまみをお願いします。=Well then, please give me your recommended dish.
@@ -7980,6 +7985,7 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 店員と話す=Talk to the Clerk
 サーセンと話す=Talk to Sarsen
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 もしかして、お客さん、|東のほうに行きたいんですか？=Mister Customer, could it be that you want to go east?
 はい、そのつもりなんです。=Yes, that's my intention.
 いいえ、考えてませんよ。=No, you can't even think it.
@@ -8002,6 +8008,7 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Alright. Please escort me on a round trip from this town the the neighboring "Valerie".
 !FILE:event/ev_sys/t14_shul_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you take a wagon to Yubel, you'll get to an old mine and have to go through there.
 でも、廃坑になって|しばらく経つから、|ちょっと心配ですね。=But it'd be a while before you get there, so don't worry.
 !FILE:event/ev_sys/t17_dess_act_140_ichiba_asidome.wsb
@@ -8015,10 +8022,12 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 ソフィー=Sophie
 !FILE:event/ev_sys/t18_maru_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 ワーデンまでは|山越えしかないから、|あんまり道が良くないよ。=You'll have to cross a mountain to get to Warden. The roads are horrible, though.
 それに、天気が変わりやすくて|いきなり吹雪いたりするから|気をつけることね。=Also, the weather changes in an instant, with heavy wind and all so be careful.
 !FILE:event/ev_sys/t20_vinc_pub.wsb
 シュミットと話す=Talk to Schmidt
+いらっしゃいませ。=Welcome.
 やあ、元気そうだね。|商売のほうはどうだい？=So, you seem well.|How is your trade going?
 たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not that well.|I still haven't repaid that wagon debt yet.
 だったら、|しばらくはこの辺りで|行商を続けてみることだな。=Then, I suppose you'll keep peddling around here.
@@ -8051,6 +8060,7 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 わっちは大蛇の湖とやらを|見てみたい。|ついてきてくりゃれ？=I am going to see the Serpent's Lake.|Are you coming along?
 !FILE:event/ev_sys/t23_sila_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 あら、めずらしいね。|あんたたち、行商人かい？=My, how unusual.|Are you merchants?
 ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, we are. By the way, do you know of the "Ancient Wolf Forest" around here?
 『古狼の森』……？|いや、聞いたこともないよ。="Ancient Wolf Forest"...?|No, I've heard no such thing.
@@ -8068,14 +8078,17 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 じゃあ、それを両方とも。|それから葡萄酒を持ってきて。=Then I'll have both.|Bring me some wine afterwards.
 !FILE:event/ev_sys/t24_elle_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, a huge wolf came to this town from across the sea to the east.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=The wolf stayed here for two days in the forest and since then, its just been a story.
 !FILE:event/ev_sys/t25_ward_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 西の森から大きな狼が|やってきたせいで、この辺りには|狼が多いそうなんです。=A huge wolf came from the western forest, and around here they say there's lots of wolves.
 ここから東に２日ぐらい|行ったところの森に、|狼たちは住みついたって話です。=The story is that the wolves came from the east for two days and lived in the forest.
 !FILE:event/ev_sys/t26_jube_pub.wsb
 店員と話す=Talk to the Clerk
+いらっしゃいませ。=Welcome.
 人の言葉を話す狼が、|北のほうからやってきたっていう|昔話がこの村に伝わってるの。=There's a legend in this town about a wolf from the north that could speak human words.
 狼は、この村から|２日ぐらい南に行った森に|住みついたらしいわ。=The wolf lived in the forest south of here for about two days.
 !FILE:event/ev_sys/test_koubou.wsb
@@ -8101,6 +8114,7 @@ FLAG / SIRA_KNOWN ： %d, flag_check(1)\n=
 !FILE:event/ev_sys/test_pub.wsb
 店員に話しかける=Talk to the Clerk
 ホロに話しかける=Talk to Holo
+いらっしゃいませ。=Welcome.
 店員（酒場娘１キャラ）との会話=Talk to the Clerk (Bar Girl)
 　　　ホロとの会話|（ＮＰＣとかもこれに相当）=      Talk to Holo|(NPC may consider)
 !FILE:event/ev_sys/time_event_06month.wsb
