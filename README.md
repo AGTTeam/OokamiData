@@ -10,7 +10,7 @@ To blank out a line, use a single `!`. If just left empty, the line will be left
 The COMMON section at the beginning contains some system lines that are repeated a lot of times in different files, including character names.  
 ## dat_input.txt
 Miscellaneous text used for item descriptions, rumors, etc.  
-The text for the "goods.dat" file is automatically wordwrapped.  
+The text in the "goods.dat" and "gossip.dat" files is automatically wordwrapped.  
 ## bin_input.txt
 System text.  
 Control codes are specified as `<XX>` or `UNK(XXXX)`, they should usually be kept.  
