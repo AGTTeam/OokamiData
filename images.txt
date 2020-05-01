@@ -1,26 +1,41 @@
-goods/goodslevel
-家畜=
-魚介類=
-農産物=
-加工食品=
-鉱物素材=
-道具類=
-酒類=
-贅沢品=
-香料=
+﻿goods/goodslevel
+枚=GLD#money counter. Make coin icon?
+家畜=Livestock
+魚介類=Seafood
+農産物=Fresh produce
+加工食品=Processed food
+鉱物素材=Raw minerals
+道具類=Tools
+酒類= Liquor
+贅沢品=Luxury items
+香料=Spices
 
 gossipinfo/List
-TODO
+最近の噂=Recent rumors
 
 menu/Menu
-TODO
+地図=Map
+商品=Goods#ITM?
+噂=Rumors
+情報=News
+SYS=SYS
+購入＝Buy
+売却=Sell
+全選択=Select all
+戻る=Back
+進む=Continue#GO?
 
 playerinfo/PlayerInfo
+親密度 Lv=Intimacy LVL
 商人レベル:=Merchant LVL:
-TODO
+商人経験値:=Trading Experience:
+次のレベルUP:=Points to next LVL:
 
 title/copyright
-TODO
+(C)支倉凍砂/アスキー・メディアワークス/=
+「狼と香辛料」製作委員会=
+(C)2008 「狼どと香辛料」奥作委員会/=
+ASCII MEDIA WORKS Inc.=
 
 title/titlemenu
 つずきから=Continue
@@ -31,29 +46,65 @@ title/titlemenu
 セーブダタ初期化=
 
 title/titlemenu2
-セ一ブ画面へ=
-タイトル画面に戻る=
+セ一ブ画面へ=View save menu
+タイトル画面に戻る=Return to title screen
+
+
+Towninfo/Towncommon (bottom 2 boxes)
+販売品=Items for sale:
+買値=Asking price
+人気の品=Popular items:
+売値=Selling price
 
 towninfo/TownInfo01
-TODO
+交易都市 アイマベルグ=Trade City Eimeberg
+東西の交通の要所にある、文=
+化・経済の中心地。近年では=
+正教の教化が進み、教会の支=
+配下に置かれつつある。=
 
 towninfo/TownInfo02
-TODO
+交易都市 クライシュタイン=Trade City Kleistein
+西海岸沿いに作られた商業都=
+市。歴史こそ浅いものの、流=
+行に毎感な商人が集まる町と=
+してその名を知らしめている。=
 
 towninfo/TownInfo03
-TODO
+港湾都市 メリンツ=Trade City Melintz
+大規模な潜を抱えるメリンツ=
+は異国への玄関口。遥か外洋=
+を渡ってくる大船団は巨万の=
+富を街にもたらし続けている。=
 
 towninfo/TownInfo04
-TODO
+港湾都市 セアベルク=Trade City Seabelk
+西海岸屈指の置易港。生活に=
+根ざした輸入品が大量に商わ=
+れており、海沿いの酒場には=
+常に歌と人とがあふれている。=
 
 towninfo/TownInfo05
-TODO
+地方都市 タルリッヒ=Provincial Town Tallihi
+独自の自治と文化を誇る芸術=
+の都。高品質の美術品や調度=
+品を求めて工房へと足を運ぶ=
+人々は古来より後を絶たない。=
 
 towninfo/TownInfo06
-TODO
+地方都市 メルス・クリッツ= Provincial Town Mars Kritz
+氷に閉ざされる地方との境界=
+にある小さな交易都市。北の=
+地からもたらされる毛皮や細=
+工品、肉の煮込みが有名。=
+
 
 towninfo/TownInfo07
-TODO
+要塞都市 ロマネスブルグ=Fortress Romannesberg
+堅牢な城壁を擁する城塞都市。=
+異教徒との戦いに赴く軍隊や=
+志願兵たちが篤い信仰心と立=
+身出世を胸に集まってくる。=
 
 towninfo/TownInfo08
 TODO
