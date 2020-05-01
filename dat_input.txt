@@ -20,16 +20,16 @@
 【商館】||思わぬ儲け話が聞けることも？=[Trading House]|You might get tips about making money.
 【門】||町を出て街道に戻ります。=[Gate]|Leave town to the road.
 　　　　　　　　　　　　？？？=               ???
-【取引先商人の家】|いつもお世話になっている塩商人の店です。=[Client Trader's House]|A shop run by a helpful salter.
-【村長の家】|デッセル村の村長の家です。=[Mayor's House]|Where the mayor of Dessel lives.
-【骨董商】|情報通の骨董商のお店です。=[Antique Shop]|A shop run by a well-informed antique dealer.
-【グスタの家】|グスタに会って話を聞くことができます。=[Gusuta's House]|Meet Gusuta and hear his story.
+【取引先商人の家】||いつもお世話になっている塩商人の店です。=[Client Trader's House]|A shop run by a helpful salter.
+【村長の家】||デッセル村の村長の家です。=[Mayor's House]|Where the mayor of Dessel lives.
+【骨董商】||情報通の骨董商のお店です。=[Antique Shop]|A shop run by a well-informed antique dealer.
+【グスタの家】||グスタに会って話を聞くことができます。=[Gusuta's House]|Meet Gusuta and hear his story.
 【屋敷】　※イベント用です（仮）=[Mansion]|*For an event.
-【吟遊詩人の家】|ロウメスに会って話を聞くことができます。=[Minstrel's House]|Meet Roumes and hear his story.
-【湖】|村の西にある湖に行くことができます。=[Lake]|Go to the lake located west of the village.
-【屋敷】|アニスに会って話を聞くことができます。=[Mansion]|Meet Anice and hear her story.
-【古狼の森】|ホロの故郷と思われる場所です。=[Forest of Ancient Wolves]|Supposed to be Holo's hometown.
-【村長の家】|デッセル村の村長の家です=[Mayor's House]|Where the mayor of Dessel village lives.
+【吟遊詩人の家】||ロウメスに会って話を聞くことができます。=[Minstrel's House]|Meet Roumes and hear his story.
+【湖】||村の西にある湖に行くことができます。=[Lake]|Go to the lake located west of the village.
+【屋敷】||アニスに会って話を聞くことができます。=[Mansion]|Meet Anice and hear her story.
+【古狼の森】||ホロの故郷と思われる場所です。=[Forest of Ancient Wolves]|Supposed to be Holo's hometown.
+【村長の家】||デッセル村の村長の家です=[Mayor's House]|Where the mayor of Dessel village lives.
 !FILE:goods.dat
 牛=Cow
 役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for food and milk.
