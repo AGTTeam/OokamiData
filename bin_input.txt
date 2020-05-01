@@ -18,7 +18,7 @@
 合計：=Total:
 選択中：=Selecting:
 本当に購入しますか？=Do you really want to purchase?
-金が足りません　=Insufficient funds
+金が足りません　=Insufficient funds #Keep the space
 本当に売却しますか？=Do you really want to sell?
 取引を終了しますか？=Complete the transaction?
 取引を中止しますか？=Cancel the transaction?
