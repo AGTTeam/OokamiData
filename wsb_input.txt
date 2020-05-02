@@ -319,7 +319,7 @@
 だったら、わっちゃあ|１杯ひっかけておるからの。|かまわんじゃろ？=Then I will also drink a bit. Do you mind?
 ダメだよ。お金がもったいない。=You can't. It's a waste of money.
 かまわないけど、ほどほどにしてよ。=I don't care, but be mindful.
-うん、わかった。|好きなだけ飲んでいいよ。=Okay, that's fine. Drink as much as you like.
+うん、わかった。|好きなだけ飲んでいいよ。=Okay, that's fine.|Drink as much as you like.
 なんじゃ、ぬしは。|なんとも|ケチくさい雄じゃの。=What is that? You are such a stingy male.
 狼の雄も人の雄も|雌の機嫌をいかに取るかが|甲斐性というもの。=For male wolves and humans, you must learn to take a female's temper in your stride.
 そんなことでは、|これから先の旅が思いやられるの。=Keep that in mind on our future travels.
