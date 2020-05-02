@@ -33,8 +33,8 @@ playerinfo/PlayerInfo
 次のレベルUP:=Exp to next LVL:
 
 title/copyright
-©支倉凍砂/アスキー・メディアワークス/「狼と香辛料」製作委員会=©Isuna Hasekura/ASCII MEDIA WORKS/"Spice & Wolf" Production Committee
-©2008 「狼どと香辛料」製作委員会/ASCII MEDIA WORKS Inc.=©2008 "Spice & Wolf" Production Committee/ASCII MEDIA WORKS Inc.
+(C)支倉凍砂/アスキー・メディアワークス/「狼と香辛料」製作委員会=(C)Isuna Hasekura/ASCII MEDIA WORKS/"Spice & Wolf" Production Committee
+(C)2008 「狼どと香辛料」製作委員会/ASCII MEDIA WORKS Inc.=(C)2008 "Spice & Wolf" Production Committee/ASCII MEDIA WORKS Inc.
 
 title/titlemenu
 つずきから=Continue
