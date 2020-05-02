@@ -1,0 +1,5 @@
+ndstextgen --center --vert 7 --no-crop holo8 --spacing 1 --width 192 text.txt
+(C)Isuna Hasekura / ASCII MEDIA WORKS /
+"Spice & Wolf" Production Committee
+(C)2008 "Spice & Wolf" Production Committee /
+ASCII MEDIA WORKS Inc.

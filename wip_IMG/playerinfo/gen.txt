@@ -1,0 +1,1 @@
+ndstextgen --color "#F8F0D8" holo12 "Intimacy LVL\nMerchant LVL:\nTrading Exp:\nTo Next LVL:\nSLV"

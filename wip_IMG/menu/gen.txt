@@ -1,0 +1,1 @@
+ndstextgen --color white holo12 "Map\nGoods\nRumor\nInfo\nMenu\nBuy\nSell\nAll\nBack\nGo"
