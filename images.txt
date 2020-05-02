@@ -12,7 +12,7 @@
 香料=Spices
 
 gossipinfo/List
-最近の噂=Recent Rumor
+最近の噂=New Rumor
 
 menu/Menu
 地図=Map
