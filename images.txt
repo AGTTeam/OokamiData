@@ -18,7 +18,7 @@ menu/Menu
 地図=Map
 商品=Goods
 噂=Rumors
-情報=News
+情報=Info
 SYS=Menu
 購入=Buy
 売却=Sell
@@ -30,11 +30,11 @@ playerinfo/PlayerInfo
 親密度 Lv=Intimacy LVL
 商人レベル:=Merchant LVL:
 商人経験値:=Trading Exp:
-次のレベルUP:=Exp to next LVL:
+次のレベルUP:=To Next LVL:
 
 title/copyright
-(C)支倉凍砂/アスキー・メディアワークス/「狼と香辛料」製作委員会=(C)Isuna Hasekura/ASCII MEDIA WORKS/"Spice & Wolf" Production Committee
-(C)2008 「狼どと香辛料」製作委員会/ASCII MEDIA WORKS Inc.=(C)2008 "Spice & Wolf" Production Committee/ASCII MEDIA WORKS Inc.
+(C)支倉凍砂/アスキー・メディアワークス/「狼と香辛料」製作委員会=(C)Isuna Hasekura / ASCII MEDIA WORKS / "Spice & Wolf" Production Committee
+(C)2008 「狼どと香辛料」製作委員会/ASCII MEDIA WORKS Inc.=(C)2008 "Spice & Wolf" Production Committee / ASCII MEDIA WORKS Inc.
 
 title/titlemenu
 つずきから=Continue
