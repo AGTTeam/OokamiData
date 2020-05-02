@@ -99,68 +99,145 @@ towninfo/TownInfo06
 
 
 towninfo/TownInfo07
-要塞都市 ロマネスブルグ=Fortress Romannesberg
+要塞都市 ロマネスブルグ=Fortress Romannesberg#Fortified City Romannesberg
 堅牢な城壁を擁する城塞都市。=
 異教徒との戦いに赴く軍隊や=
 志願兵たちが篤い信仰心と立=
 身出世を胸に集まってくる。=
 
 towninfo/TownInfo08
-TODO
+要塞都市 グラバラス=Fortress Gravaras
+異教の地の要塞都市。異なる=
+文化圏にほど近いため、様々=
+な人や言葉、珍しい産物がめ=
+まぐるしく行き交っている。=
 
 towninfo/TownInfo09
-TODO
+教会都市 ドルトンク=Parish Town Doltonkh
+この地方に於ける正教信仰の=
+中心地。天高くそびえ立つ大=
+聖堂は神の威光にふさわしい=
+荘厳さを以て人々を迎える=。
 
 towninfo/TownInfo10
-TODO
+教会都市 クリーグル=Parish Town Kriegel
+教会の教えを守り、慎ましく=
+暮らす信徒が集まる町。大き=
+な修道院では独自の農法や醸=
+造の研究が日々行われている。=
 
 towninfo/TownInfo11
-TODO
+漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
+古くより漁業で栄える町。特=
+産であるニシンの産卵期には=
+季節の味を求める旅人たちで=
+人口が何倍にもふくれあがる。=
 
 towninfo/TownInfo12
-TODO
+漁業都市 ランドルタット=Fishing Village Landoltatt
+島の湾に面した小さな港町。=
+干満の差が大きな干潟や岩場=
+では地物の貝を採る人々の姿=
+が常に見受けられる。=
 
 towninfo/TownInfo13
-TODO
+鉱山都市 ヴァルアリー=Mining Town Valerie
+古来は銅の採掘で栄え、現在=
+は高い製錬技術で栄える街。=
+大きな鍛冶工房には各地より=
+農具や武具の注文が相次ぐ。=
 
 towninfo/TownInfo14
-TODO
+鉱山都市 シュリンケル=Mining Town Sulinkel
+かつては炭坑があったものの=
+石炭が枯れた現在は住む者も=
+少ない。山から切り出せる資=
+源で細々と生活を営んでいる。=
 
 towninfo/TownInfo15
-TODO
+村ノーリン=Village Norlin
+森を切り開いた田園と放牧地=
+の中程にたたずむ小さな村。=
+畜産が盛んで、保存の知恵を=
+生かした特産品も多数。=
 
 towninfo/TownInfo16
-TODO
+村 ナウレナス=Village Naulenas
+長い街道を旅する人々を癒す=
+宿場町。華やかな特産こそな=
+いものの、温かな宿ともてな=
+しはなによりのごちそう。=
 
 towninfo/TownInfo17
-TODO
+村 デッセル=Village Dessel
+夕日に映える水車屋が目印=
+の素朴な村。水と緑に恵まれ=
+た肥沃な土地には広大な妻畑=
+と綿花畑が広がっている。=
 
 towninfo/TownInfo18
-TODO
+村 マールケ=Village Marlke
+夏の短い、北の荒涼とした地=
+に根ざした小さな村。痩せた=
+土地が続く風景は訪れる者に=
+二抹の寂しさを感じさせる。=
 
 towninfo/TownInfo19
-TODO
+村 ナインドルハ=Village Neindolha
+景観の良高原に作られた村。=
+有閑階級の保養地として知ら=
+れ、木々の間には瀟洒な建物=
+と手入れされた庭園が覗く。=
 
 towninfo/TownInfo20
-TODO
+村 ヴィンヘン=Village Vinchen
+農業で栄える小さな村。低地=
+にはアーモンドの花が、ゆる=
+い丘々に連なる斜面にはブド=
+ウとオリーブの緑が美しい。=
+
 
 towninfo/TownInfo21
-TODO
+村 スウィージ=Village Suize
+雪に覆われた連峰の懐にある=
+小さな村。高山のため交通は=
+不便だが、温泉の療養に遠く=
+から旅してくる者も多い。=
 
 towninfo/TownInfo22
-TODO
+村　ミランド=Village Miland
+穏やかな風の吹く静かな集落。=
+色とりどりの果樹が立ち並び、=
+牛や馬がのんびりと草を食む=
+光景は昔から変わらない。=
 
 towninfo/TownInfo23
-TODO
+故郷　シラ=Historic Village Shila
+湖のほとりに面した田舎の村。=
+魚取りの小舟がゆっくりと湖=
+面を行き交うさまは、いつ見=
+ても心奪われる美しい情景。=
 
 towninfo/TownInfo24
-TODO
+故郷　エーレ=Historic Village Erle
+島の東端にある小さな漁村。=
+稀に美しい二枚貝より採れる=
+真珠は、海の宝石として古来=
+より高値で取引されている。=
 
 towninfo/TownInfo25
-TODO
+故郷　ワーデン=Historic Village Warden
+冬は厚く雪に閉ざされる吹雪=
+の町。近郊の塩湖よりもたら=
+される貴重な食材を求めて訪=
+れる商人の姿を稀に目にする。=
 
 towninfo/TownInfo26
-TODO
+故郷 ユーベル=Historic Village Yubel
+資源を求める人々ガが新たに切=
+り開いた炭坑の近くに作った=
+村。量は少ないものの、質の=
+良い石炭を産するとの噂。=
 
 kaiwa/back/bg_sys_tutorial_01
 TODO
