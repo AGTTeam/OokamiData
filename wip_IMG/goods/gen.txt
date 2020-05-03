@@ -1,1 +1,1 @@
-ndstextgen --color "#F8E8D8" holo12 "Livestock\nSeafood\nProduce\nProcessed Food\nMinerals\nFabrics\nTools\nLiquors\nLuxury Items\nSpices"
+ndstextgen --color "#F8E8D8" holo12 "Livestock\nSeafood\nProduce\nProcessed Food\nMinerals\nFabrics\nTools\nLiquors\nLuxuries\nSpices"

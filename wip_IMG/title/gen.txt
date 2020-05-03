@@ -1,5 +1,8 @@
-ndstextgen --center --vert 7 --no-crop holo8 --spacing 1 --width 192 text.txt
+ndstextgen --center --vert 7 --no-crop --spacing 1 --width 192 holo8 text.txt
 (C)Isuna Hasekura / ASCII MEDIA WORKS /
 "Spice & Wolf" Production Committee
 (C)2008 "Spice & Wolf" Production Committee /
 ASCII MEDIA WORKS Inc.
+
+ndstextgen --center --vert 17 --no-crop --spacing 1 --width 167 --color "#F8F8F8" mamoru16 "Continue\nNew  Game\nEvent  CG\nOptions\nEndings\nReset  Save  Data"
+ndstextgen --center --vert 17 --no-crop --spacing 1 --width 167 --color "#F8F8F8" mamoru16 "View  Save  Menu\nReturn  to  Title"
