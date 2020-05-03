@@ -114,24 +114,24 @@ towninfo/TownInfo08
 
 towninfo/TownInfo09
 教会都市 ドルトンク=Parish Town Doltonkh
-この地方に於ける正教信仰の=
-中心地。天高くそびえ立つ大=
-聖堂は神の威光にふさわしい=
-荘厳さを以て人々を迎える=。
+この地方に於ける正教信仰の=#This region's center of faith.
+中心地。天高くそびえ立つ大=#A towering cathedral welcomes
+聖堂は神の威光にふさわしい=#men and women with the majesty
+荘厳さを以て人々を迎える。=#of God's great influence.
 
 towninfo/TownInfo10
 教会都市 クリーグル=Parish Town Kriegel
-教会の教えを守り、慎ましく=
-暮らす信徒が集まる町。大き=
-な修道院では独自の農法や醸=
-造の研究が日々行われている。=
+教会の教えを守り、慎ましく=#A town where those live a humble life and whom
+暮らす信徒が集まる町。大き=#follow the teachings of the church come together.
+な修道院では独自の農法や醸=#There is some research on cultivation and brewing 
+造の研究が日々行われている。=#methods being carried ont on a daily basis.
 
 towninfo/TownInfo11
 漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
-古くより漁業で栄える町。特=
-産であるニシンの産卵期には=
-季節の味を求める旅人たちで=
-人口が何倍にもふくれあがる。=
+古くより漁業で栄える町。特=#A town which has long prospered from its fishing.
+産であるニシンの産卵期には=#During the spawining period of its renowned
+季節の味を求める旅人たちで=#herring, the population swells with travelers
+人口が何倍にもふくれあがる。=#seeking this seasonal delicacy.
 
 towninfo/TownInfo12
 漁業都市 ランドルタット=Fishing Village Landoltatt
