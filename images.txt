@@ -100,17 +100,17 @@ towninfo/TownInfo06
 
 towninfo/TownInfo07
 要塞都市 ロマネスブルグ=Fortress Romannesberg#Fortified City Romannesberg
-堅牢な城壁を擁する城塞都市。=
-異教徒との戦いに赴く軍隊や=
-志願兵たちが篤い信仰心と立=
-身出世を胸に集まってくる。=
+堅牢な城壁を擁する城塞都市。=#A citadel with strong sturdy walls.
+異教徒との戦いに赴く軍隊や=#Where armies and voulunteer soldiers who have
+志願兵たちが篤い信仰心と立=#sworn to fight the heretics come to
+身出世を胸に集まってくる。=#fill their hearts with faith and success.
 
 towninfo/TownInfo08
 要塞都市 グラバラス=Fortress Gravaras
-異教の地の要塞都市。異なる=
-文化圏にほど近いため、様々=
-な人や言葉、珍しい産物がめ=
-まぐるしく行き交っている。=
+異教の地の要塞都市。異なる=#A fortified city in pagan territory.
+文化圏にほど近いため、様々=#Being in close proximity to various
+な人や言葉、珍しい産物がめ=#spheres of culture, there are all manner of people,
+まぐるしく行き交っている。=#dialects, and rare goods hecticly flowing throughout.
 
 towninfo/TownInfo09
 教会都市 ドルトンク=Parish Town Doltonkh
