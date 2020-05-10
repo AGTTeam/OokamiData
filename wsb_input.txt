@@ -109,10 +109,10 @@
 特にありませんよ。=Nothing in particular.
 !FILE:event/ev_act/act_010_opening.wsb
 ――これなら、|なんとか明日の夕方には|たどり着けそうだな。=--At this pace, I should arrive around tomorrow evening.
-ボクは焚き火を見つめながら、|塩の詰まった背負子（しょいこ）に|手を置いた。=While I looked at the fire, a box packed full of salt was held tightly in my hands.
-この塩は大事な商品だ。=Salt is a valuable commodity.
-この先のミランドの村まで=At least until Miland, it is...
-|届けることになっている。|納期までは、あと２日しかない。=|I want to deliver it soon. But until then, it'll take 2 days.
+ボクは焚き火を見つめながら、|塩の詰まった背負子（しょいこ）に|手を置いた。=As I looked at the fire, I placed my hand on a box packed tightly with salt.
+この塩は大事な商品だ。= This salt is a valuable commodity.
+この先のミランドの村まで=I'm going to deliver this package
+|届けることになっている。|納期までは、あと２日しかない。=| to the town of Miland up ahead. It'll only take 2 more days to get there.
 ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm an amateur merchant. My old master had shown me the ropes. I've been alone half a year now.
 それ以来、背負えるだけの|商品を担いで、この辺りの村々を|巡っている。=Since then, I've traveled to nearby villages, selling people various commodities.
 ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like me, paid deliveries are our only means.
@@ -251,13 +251,13 @@
 ほう、ぬしが？=Oh, you are?
 こんなに若い商人だとはの。|さて、どうしたものか。=Such a young merchant. Then what's to be done?
 ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo faced me with a look that seemed as if she were appraising me.
-かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With a cute girl (and naked!) staring so intently at me, my heart sped up.
+かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With a cute (and naked!) girl staring so intently at me, my heart sped up.
 だけど、そのとき、|ボクは初めて気がついたんだ。=But by then, I had noticed it.
 あ、あれ……？|その耳……それに尻尾……!?=Wha, what...? Those ears... that tail...!?
 なんじゃ、ぬしは？|今ごろ気づいたのか。|まったく、どこを見ておったのやら。=What is it, good sir? Did you just notice? Honestly, just where have your eyes been?
 （そんなこと、|　答えられるわけがない！）=(There's no way I can answer that!)
 くふ。まあ、想像はつくがの。=Hah, so be your fantasies.
-わっちは麦に宿る狼――|賢狼ホロじゃ。=I am a wolf who lives in wheat--|Or, the Wise Wolf Holo.
+わっちは麦に宿る狼――|賢狼ホロじゃ。=I am the wolf who lives in wheat--|Or, the Wise Wolf Holo.
 こうして人の姿をとったとしても|尻尾まで隠すわけにはいかぬ。|わっちの誇りじゃからな。=And even when taking human form, I cannot hide my tail, for it is my pride.
 とはいえ、|ぬしが茹であがっても困る。|少し待っておれ。=Nonetheless, you seem to be troubled by it. Please wait.
 さ、これで良かろう。=It should be fine now.
@@ -1202,8 +1202,8 @@
 ボクは悲鳴を飲みこみ、|必死で森のほうに駆け出した。=I held in my screams and desperately ran into the forest.
 森に入るか入らないかのところで、|誰かがボクの手をつかんだ。=Whether I was in the forest or not, someone grabbed my hand.
 ぬしよ。こっちじゃ。=Here, Chief.
-ボクはホロに導かれるまま、|真っ暗な森の奥へと進んでいった。=
-思ったとおり、ホロなら|この闇夜でも不自由しないようだ。|昼間のように駆けぬけてゆく。=
+ボクはホロに導かれるまま、|真っ暗な森の奥へと進んでいった。= I proceeded into the pitch-dark forest with Holo leading the way.
+思ったとおり、ホロなら|この闇夜でも不自由しないようだ。|昼間のように駆けぬけてゆく。= As I thought, Holo isn't hindered even by this darkness. She runs through the forest as if it's midday.
 サーセンたちから|だいぶ離れたところで|ホロは立ち止まった。=
 ここまで離れれば、|しばらく休むぐらいはできよう。=
 傷の手当てもせねばならんしの。|ぬしよ。だいじょうぶかや？=
