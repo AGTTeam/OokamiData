@@ -48,7 +48,6 @@ title/titlemenu2
 セ一ブ画面へ=View Save Menu
 タイトル画面に戻る=Return to Title
 
-
 Towninfo/Towncommon (bottom 2 boxes)
 販売品=Items for sale:
 買値=Asking price
@@ -97,41 +96,40 @@ towninfo/TownInfo06
 地からもたらされる毛皮や細=
 工品、肉の煮込みが有名。=
 
-
 towninfo/TownInfo07
 要塞都市 ロマネスブルグ=Fortress Romannesberg#Fortified City Romannesberg
-堅牢な城壁を擁する城塞都市。=#A citadel with strong sturdy walls.
-異教徒との戦いに赴く軍隊や=#Where armies and voulunteer soldiers who have
-志願兵たちが篤い信仰心と立=#sworn to fight the heretics come to
-身出世を胸に集まってくる。=#fill their hearts with faith and success.
+堅牢な城壁を擁する城塞都市。=A citadel with strong sturdy walls.
+異教徒との戦いに赴く軍隊や=Armies and volunteer soldiers gather
+志願兵たちが篤い信仰心と立=to fight the heretics with faith and
+身出世を胸に集まってくる。=determination in their hearts.
 
 towninfo/TownInfo08
 要塞都市 グラバラス=Fortress Gravaras
-異教の地の要塞都市。異なる=#A fortified city in pagan territory.
-文化圏にほど近いため、様々=#Being in close proximity to various
-な人や言葉、珍しい産物がめ=#spheres of culture, there are all manner of people,
-まぐるしく行き交っている。=#dialects, and rare goods hecticly flowing throughout.
+異教の地の要塞都市。異なる=A fortified city in pagan territory.
+文化圏にほど近いため、様々=Being close to various spheres of
+な人や言葉、珍しい産物がめ=culture, there are all manners of people,
+まぐるしく行き交っている。=dialects, and rare goods whizzing around.
 
 towninfo/TownInfo09
 教会都市 ドルトンク=Parish Town Doltonkh
-この地方に於ける正教信仰の=#This region's center of faith.
-中心地。天高くそびえ立つ大=#A towering cathedral welcomes
-聖堂は神の威光にふさわしい=#men and women with the majesty
-荘厳さを以て人々を迎える。=#of God's great influence.
+この地方に於ける正教信仰の=This region's center of faith.
+中心地。天高くそびえ立つ大=A towering cathedral welcomes
+聖堂は神の威光にふさわしい=visitors with the majesty
+荘厳さを以て人々を迎える。=of God's mighty power.
 
 towninfo/TownInfo10
 教会都市 クリーグル=Parish Town Kriegel
-教会の教えを守り、慎ましく=#A town where those live a humble life and whom
-暮らす信徒が集まる町。大き=#follow the teachings of the church come together.
-な修道院では独自の農法や醸=#There is some research on cultivation and brewing 
-造の研究が日々行われている。=#methods being carried ont on a daily basis.
+教会の教えを守り、慎ましく=A town where those who follow the teachings
+暮らす信徒が集まる町。大き=of the church live together modestly.
+な修道院では独自の農法や醸=Research on cultivation and brewing methods
+造の研究が日々行われている。=are carried out in the abbey daily.
 
 towninfo/TownInfo11
 漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
-古くより漁業で栄える町。特=#A town which has long prospered from its fishing.
-産であるニシンの産卵期には=#During the spawining period of its renowned
-季節の味を求める旅人たちで=#herring, the population swells with travelers
-人口が何倍にもふくれあがる。=#seeking this seasonal delicacy.
+古くより漁業で栄える町。特=A town which has long prospered from its fishing.
+産であるニシンの産卵期には=During the spawning period of its renowned
+季節の味を求める旅人たちで=herring, the population swells with travelers
+人口が何倍にもふくれあがる。=seeking this seasonal delicacy.
 
 towninfo/TownInfo12
 漁業都市 ランドルタット=Fishing Village Landoltatt
@@ -196,7 +194,6 @@ towninfo/TownInfo20
 い丘々に連なる斜面にはブド=
 ウとオリーブの緑が美しい。=
 
-
 towninfo/TownInfo21
 村 スウィージ=Village Suize
 雪に覆われた連峰の懐にある=
@@ -240,26 +237,62 @@ towninfo/TownInfo26
 良い石炭を産するとの噂。=
 
 kaiwa/back/bg_sys_tutorial_01
-TODO
+施設アイコン=
+イベントが発生している施設=
 
 kaiwa/back/bg_sys_tutorial_02
-TODO
+酒場=
+町の酒場で=
+噂話を間く=
+交易マップ=
+噂話アイコン=
+を馬車で通る=
+(right)噂話を間けます=
 
 kaiwa/back/bg_sys_tutorial_03
-TODO
+噂話を間くと…
+新しい町
+が出現
+イベント
+が発生
 
 kaiwa/back/bg_sys_tutorial_04
-TODO
+商品アイコン=
+荷馬車=
+購入アイコン=
+在庫数=
+相場目史=
+高騰⇈=
+高値↑=
+同額→=
+暴落⇊ =
+安値↓=
 
 kaiwa/back/bg_sys_tutorial_05
+商品名=
+商品ランク=
+商品ジャンル=
 *For the small icons, see goods/goodslevel
-TODO
 
 kaiwa/back/bg_sys_tutorial_06
-TODO
+商品アイコン=
+荷馬車=
+売却アイコン=
+売値=
+売却数=
+購入時の値段=
 
 kaiwa/back/bg_sys_tutorial_07
-TODO
+(box)販売品=
+(box)買値=
+買値の平均値=
+噂を聞いていない=
+ので買えない販売品=
+(box)人気の品=
+(box)買値=
+売値の平均値=
+所持している=
+人気の品(黄色フチ取り)=
 
 kaiwa/back/sg_bg*
 スタッフ=Staff
@@ -271,4 +304,149 @@ kaiwa/back/sg_bg*
 
 キャラクターデザイン=Character Design
 黒田和也=Kazuya Kuroda
-TODO
+キャラクター設定=Character Design
+置弓 枷=
+田丸 まこと=
+
+背景協力=Background Cooperation
+スタジオ美峰=Studio Bihou
+
+キャスト=Cast
+ホロ=Holo
+小清水 亜美=Ami Koshimizu
+
+シュミット=Schmidt
+福山 潤=Jun Fukuyama
+
+アニス=Anise
+後藤 邑子=Yuuko Gotou
+ロウメス=Loumes
+鳥海 勝美=Katsumi Toriumi
+グスタ=Gösta
+中 博史=Hiroshi Naka
+
+サーセン=Sarsen
+石川ひろあき=Hiroaki Ishikawa
+白熊寬嗣=Hiroshi Shirokuma
+菅原淳一=Jun'ichi Sugawara
+藤原美央子=Mioko Fujiwara
+
+企画=Planning
+吉田 桂一=
+高橋 健二=Kenji Ohba
+火野 峻志=Takashi Hino
+山根敬洋=
+
+メインストーリー=Main Story
+メインシナリオ=Main Scenario
+火野 峻志=Takashi Hino
+
+シナリオ=Scenario
+山根 敬洋=
+有限会社=Company#combine with next line i.e. Lambda Planning Co., Ltd?
+ラムダプランニング=Lambda Planning
+伊藤ヒロ=Itou Hiro
+氷鳥隆一=Ryuichi Hitori
+
+スクリプト=Script
+山根 敬洋=
+火野 峻志=Takashi Hino
+氷鳥隆一=Ryuichi Hitori
+
+メインプログラム=Main Programming
+山田 晋=
+プログラム=Programming
+諸永力=
+今橋孝典=Takanori Imahashi
+
+メイングラフィック=Main Graphics
+池田 爾=
+グラフィック=Graphics
+田中 幸子=Sachiko Tanaka
+伊藤 美和子=
+はしえめぐ=
+
+キャラクターグラフイック=Character Art
+IMAGIN=Imagin Co., Ltd
+イベント原画=Event Art
+置弓 枷=
+小堺 能夫=Yoshio Kozakai
+清水 空翔=Sorato Shimizu
+林 あすか=
+阿部 可奈子=
+コンポジットディレクター=Composite Director
+天花寺伸宏=Tengeji Nobuhiro
+
+サウンド=Sound
+福田康文=Yasufumi Fukuda
+
+音響制作=Sound Work
+石橋 利香=Rika Ishibashi
+(デルファイサウンド)=(Delfi Studio)
+収録スタジオ=Recording Studio
+a Springスタジオ=A Spring Studio
+収録エンジニア=Recording Engineer
+神保直史=Naofumi Jinbo
+(AUDIO-タナカ)(Audio Tanaka)
+渡辺基(VOK)=
+収録コーディネート=Recording Coordinator
+桑本 彰弘=Akihiro Kuwamoto
+(ぶろだくしょんオバブ)=( Production Baobab)
+
+SDホロイラスト=Chibi Holo Art
+?む=
+
+テーマソング=Theme Song
+「隣にいるよ」=“Next To You”
+作詞：平野ハイジ=Lyrics: Haiji Hirano
+作曲：相澤 大=Composer: Dai Aizawa
+編曲：凸 =Arrangement: Macado
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
+
+オープニング映像制作=Opening Movie Production
+有限会社=Company#combine with next line?
+e-plus digital works
+阿波田 稔子=
+宣伝= Promotion
+藤本 裕子=
+佐々木 健=Takeshi Sasaki
+菊池 明菜=Akina Nakamori
+
+営業=Sales
+高橋 孝造=Kozo Takahashi
+加納 宏樹=
+
+制作協力=Production Cooperation
+「狼と香辛料」製作委員会="Spice & Wolf" Production Committee
+ポニーキャニオン=Pony Canyon Inc.
+IMAGIN=Imagin Co., Ltd
+電擊文庫編集部=Dengeki Bunko Editorial Department
+
+アシスタント=Assistant
+高橋理恵=Rie Takahashi
+
+アシスタント・プロデューサー=Assistant Producer
+丸尾 加奈江=Maruo Kanae
+荒木 人美=
+
+プロデューサー=Prodcuer
+宮下 知幸=
+德田 直巳=
+
+統括プロデューサー=General Producer
+鈴木 則道=Norimichi Suzuki
+
+制作総指揮=Executive Producer
+髙野 潔=
+
+ゲームディレクター=Game Director
+高橋 健二=Kenji Ohba
+
+ディレクター=Director
+吉田 桂一=
+
+企画・開発=Planning and Development
+热中日和=Netchubiyori
+
+企画・製作=Planning and Production
+ASCII MEDIA WORKS
