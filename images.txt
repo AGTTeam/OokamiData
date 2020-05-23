@@ -304,12 +304,12 @@ kaiwa/back/sg_bg*
 
 キャラクターデザイン=Character Design
 黒田和也=Kazuya Kuroda
-キャラクター設定=Character Design
-置弓 枷=
-田丸 まこと=
+キャラクター設定=Character Artist
+置弓 枷=Kase Okiyumi
+田丸 まこと=Makoto Tamaru
 
 背景協力=Background Cooperation
-スタジオ美峰=Studio Bihou
+スタジオ美峰=Studio Biho
 
 キャスト=Cast
 ホロ=Holo
@@ -342,19 +342,18 @@ kaiwa/back/sg_bg*
 火野 峻志=Takashi Hino
 
 シナリオ=Scenario
-山根 敬洋=
-有限会社=Company#combine with next line i.e. Lambda Planning Co., Ltd?
-ラムダプランニング=Lambda Planning
-伊藤ヒロ=Itou Hiro
+山根 敬洋=Takahiro Yamane
+有限会社ラムダプランニング=Lambda Planning Co., Ltd
+伊藤ヒロ=Hiro Itou
 氷鳥隆一=Ryuichi Hitori
 
 スクリプト=Script
-山根 敬洋=
+山根 敬洋=Takahiro Yamane
 火野 峻志=Takashi Hino
 氷鳥隆一=Ryuichi Hitori
 
 メインプログラム=Main Programming
-山田 晋=
+山田 晋=Shin Yamada
 プログラム=Programming
 諸永力=
 今橋孝典=Takanori Imahashi
@@ -363,17 +362,17 @@ kaiwa/back/sg_bg*
 池田 爾=
 グラフィック=Graphics
 田中 幸子=Sachiko Tanaka
-伊藤 美和子=
-はしえめぐ=
+伊藤 美和子=Miwako Ito
+はしぇめぐ=Meg Hashe
 
 キャラクターグラフイック=Character Art
 IMAGIN=Imagin Co., Ltd
 イベント原画=Event Art
-置弓 枷=
+置弓 枷=Kase Okiyumi
 小堺 能夫=Yoshio Kozakai
 清水 空翔=Sorato Shimizu
-林 あすか=
-阿部 可奈子=
+林 あすか=Asuka Hayashi
+阿部 可奈子=Kanako Abe
 コンポジットディレクター=Composite Director
 天花寺伸宏=Tengeji Nobuhiro
 
@@ -384,14 +383,14 @@ IMAGIN=Imagin Co., Ltd
 石橋 利香=Rika Ishibashi
 (デルファイサウンド)=(Delfi Studio)
 収録スタジオ=Recording Studio
-a Springスタジオ=A Spring Studio
+a Springスタジオ=a Spring Studio
 収録エンジニア=Recording Engineer
 神保直史=Naofumi Jinbo
-(AUDIO-タナカ)(Audio Tanaka)
-渡辺基(VOK)=
+(AUDIO-タナカ)(AUDIO TANAKA)
+渡辺基(VOK)=Motoi Watanabe (VOK)
 収録コーディネート=Recording Coordinator
 桑本 彰弘=Akihiro Kuwamoto
-(ぶろだくしょんオバブ)=( Production Baobab)
+(ぶろだくしょんオバブ)=(Production BAOBAB)
 
 SDホロイラスト=Chibi Holo Art
 ?む=
@@ -399,16 +398,15 @@ SDホロイラスト=Chibi Holo Art
 テーマソング=Theme Song
 「隣にいるよ」=“Next To You”
 作詞：平野ハイジ=Lyrics: Haiji Hirano
-作曲：相澤 大=Composer: Dai Aizawa
-編曲：凸 =Arrangement: Macado
+作曲：相澤 大=Composition: Dai Aizawa
+編曲：凸 =Arrangement: macado
 歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
 
 オープニング映像制作=Opening Movie Production
-有限会社=Company#combine with next line?
-e-plus digital works
-阿波田 稔子=
-宣伝= Promotion
-藤本 裕子=
+有限会社e-plus digital works Co., Ltd
+阿波田 稔子=Toshiko Awata
+宣伝=Promotion
+藤本 裕子=Yuko Fujimoto
 佐々木 健=Takeshi Sasaki
 菊池 明菜=Akina Nakamori
 
@@ -426,7 +424,7 @@ IMAGIN=Imagin Co., Ltd
 高橋理恵=Rie Takahashi
 
 アシスタント・プロデューサー=Assistant Producer
-丸尾 加奈江=Maruo Kanae
+丸尾 加奈江=Kanae Maruo
 荒木 人美=
 
 プロデューサー=Prodcuer
