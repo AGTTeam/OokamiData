@@ -332,10 +332,10 @@ kaiwa/back/sg_bg*
 藤原美央子=Mioko Fujiwara
 
 企画=Planning
-吉田 桂一=
+吉田 桂一=Keiichi Yoshida
 高橋 健二=Kenji Ohba
 火野 峻志=Takashi Hino
-山根敬洋=
+山根敬洋=Takahiro Yamane
 
 メインストーリー=Main Story
 メインシナリオ=Main Scenario
@@ -359,7 +359,7 @@ kaiwa/back/sg_bg*
 今橋孝典=Takanori Imahashi
 
 メイングラフィック=Main Graphics
-池田 爾=
+池田 靖爾=Seiji Ikeda
 グラフィック=Graphics
 田中 幸子=Sachiko Tanaka
 伊藤 美和子=Miwako Ito
@@ -393,7 +393,7 @@ a Springスタジオ=a Spring Studio
 (ぶろだくしょんオバブ)=(Production BAOBAB)
 
 SDホロイラスト=Chibi Holo Art
-?む=
+ゑむ=emu
 
 テーマソング=Theme Song
 「隣にいるよ」=“Next To You”
@@ -412,7 +412,7 @@ SDホロイラスト=Chibi Holo Art
 
 営業=Sales
 高橋 孝造=Kozo Takahashi
-加納 宏樹=
+加納 宏樹=Hisako Kanou
 
 制作協力=Production Cooperation
 「狼と香辛料」製作委員会="Spice & Wolf" Production Committee
@@ -425,23 +425,23 @@ IMAGIN=Imagin Co., Ltd
 
 アシスタント・プロデューサー=Assistant Producer
 丸尾 加奈江=Kanae Maruo
-荒木 人美=
+荒木 人美=Hitomi Araki
 
-プロデューサー=Prodcuer
-宮下 知幸=
-德田 直巳=
+プロデューサー=Producer
+宮下 知幸=Tomoyuki Miyashita
+徳田 直巳=Naomi Tokuda
 
 統括プロデューサー=General Producer
 鈴木 則道=Norimichi Suzuki
 
 制作総指揮=Executive Producer
-髙野 潔=
+高野 潔=Kiyoshi Takano
 
 ゲームディレクター=Game Director
 高橋 健二=Kenji Ohba
 
 ディレクター=Director
-吉田 桂一=
+吉田 桂一=Keiichi Yoshida
 
 企画・開発=Planning and Development
 热中日和=Netchubiyori
