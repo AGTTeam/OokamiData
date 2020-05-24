@@ -1,4 +1,4 @@
-﻿goods/goodslevel
+goods/goodslevel
 枚=SLV #money counter. Make coin icon?
 家畜=Livestock
 魚介類=Seafood
@@ -196,45 +196,45 @@ towninfo/TownInfo20
 
 towninfo/TownInfo21
 村 スウィージ=Village Suize
-雪に覆われた連峰の懐にある=
-小さな村。高山のため交通は=
-不便だが、温泉の療養に遠く=
-から旅してくる者も多い。=
+雪に覆われた連峰の懐にある=#A small village in the pocket of the snow-
+小さな村。高山のため交通は=#covered mountain ranges. Due to the high mountains,
+不便だが、温泉の療養に遠く=#travel is inconvenient, but many travelers from afar
+から旅してくる者も多い。=#come for the theraputic hot springs.
 
 towninfo/TownInfo22
 村　ミランド=Village Miland
-穏やかな風の吹く静かな集落。=
-色とりどりの果樹が立ち並び、=
-牛や馬がのんびりと草を食む=
-光景は昔から変わらない。=
+穏やかな風の吹く静かな集落。=#A quiet village (maybe settlement is more appropriate?) with a gentle blowing breeze. 
+色とりどりの果樹が立ち並び、=#With multi-colored fruit trees standing
+牛や馬がのんびりと草を食む=#side by side, the visage of the cows and horses peacfully
+光景は昔から変わらない。=#partaking of the grass has not changed since days of old.
 
 towninfo/TownInfo23
 故郷　シラ=Historic Village Shila
-湖のほとりに面した田舎の村。=
-魚取りの小舟がゆっくりと湖=
-面を行き交うさまは、いつ見=
-ても心奪われる美しい情景。=
+湖のほとりに面した田舎の村。=#A rural village facing (the banks of) of a lake.
+魚取りの小舟がゆっくりと湖=#The beautiful spectacle of small fishing boats
+面を行き交うさまは、いつ見=#slowly crossing over the surface of the lake
+ても心奪われる美しい情景。=#never fails to captivate.
 
 towninfo/TownInfo24
 故郷　エーレ=Historic Village Erle
-島の東端にある小さな漁村。=
-稀に美しい二枚貝より採れる=
-真珠は、海の宝石として古来=
-より高値で取引されている。=
+島の東端にある小さな漁村。=#A small fishing village on the eastern edge of the island.
+稀に美しい二枚貝より採れる=#Since ancient times, the pearls found out of the rare and beautiful
+真珠は、海の宝石として古来=#bivalvia (oysters? for simplicity), have fetched a high
+より高値で取引されている。=#price as jewels of the sea.
 
 towninfo/TownInfo25
 故郷　ワーデン=Historic Village Warden
-冬は厚く雪に閉ざされる吹雪=
-の町。近郊の塩湖よりもたら=
-される貴重な食材を求めて訪=
-れる商人の姿を稀に目にする。=
+冬は厚く雪に閉ざされる吹雪=#In winter, a town which is deeply covered in snow.
+の町。近郊の塩湖よりもたら=#It is a rare sight to see mearchants who
+される貴重な食材を求めて訪=#come in search of valuable ingredients
+れる商人の姿を稀に目にする。=#brought from the neighboring salt lake.
 
 towninfo/TownInfo26
 故郷 ユーベル=Historic Village Yubel
-資源を求める人々ガが新たに切=
-り開いた炭坑の近くに作った=
-村。量は少ないものの、質の=
-良い石炭を産するとの噂。=
+資源を求める人々ガが新たに切=#A village built by people seeking resources near to 
+り開いた炭坑の近くに作った=#the newly opened (cleared?) coal mines.
+村。量は少ないものの、質の=#Even though the quantity may be small, rumor has it
+良い石炭を産するとの噂。=#that it produces coal of good quality.
 
 kaiwa/back/bg_sys_tutorial_01
 施設アイコン=
