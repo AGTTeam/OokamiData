@@ -1,4 +1,4 @@
-goods/goodslevel
+﻿goods/goodslevel
 枚=SLV #money counter. Make coin icon?
 家畜=Livestock
 魚介類=Seafood
@@ -56,55 +56,55 @@ Towninfo/Towncommon (bottom 2 boxes)
 
 towninfo/TownInfo01
 交易都市 アイマベルグ=Trade City Eimeberg
-東西の交通の要所にある、文=#A center of cultural and economic importance
-化・経済の中心地。近年では=#in the east-west exchange. In recent years,
-正教の教化が進み、教会の支=#indoctrination into the orthodoxy has progressed,
-配下に置かれつつある。=#and is now under the control of the church.
+東西の交通の要所にある、文=Strategically located on the east-west trading
+化・経済の中心地。近年では=route, it is a center of business and culture. 
+正教の教化が進み、教会の支= In recent years, the church’s influence has 
+配下に置かれつつある。=grown and the city is now under their control.
 
 towninfo/TownInfo02
 交易都市 クライシュタイン=Trade City Kleistein
-西海岸沿いに作られた商業都=#A city of commerce built along the west coast.
-市。歴史こそ浅いものの、流=#Although still young in its history,
-行に毎感な商人が集まる町と=#its known as a town where merchants who have their
-してその名を知らしめている。=#pulse on the latest crazes gather. (always aware of the latsest fashions?)
+西海岸沿いに作られた商業都=A commercial city built along the west coast.
+市。歴史こそ浅いものの、流=Although still young in its history, it’s
+行に毎感な商人が集まる町と=gained a reputation as a town where merchants
+してその名を知らしめている。=who have their pulse on the latest crazes gather. 
 
 towninfo/TownInfo03
 港湾都市 メリンツ=Trade City Melintz
-大規模な潜を抱えるメリンツ=
-は異国への玄関口。遥か外洋=
-を渡ってくる大船団は巨万の=#A large fleet of boats across the distant seas (open ocean)
-富を街にもたらし続けている。=#continue to bring enormous wealth to the city.
+大規模な港を抱えるメリンツ=With its large port, Melintz is a gateway
+は異国への玄関口。遥か外洋=for international commerce. Traversing the
+を渡ってくる大船団は巨万の=open ocean, large fleets of boats continue
+富を街にもたらし続けている。=to bring enormous wealth to the city.
 
 towninfo/TownInfo04
 港湾都市 セアベルク=Trade City Seabelk
-西海岸屈指の置易港。生活に=#The foremost (one of the best) trade port on the west coast.
-根ざした輸入品が大量に商わ=#Many of the imported goods which are rooted in daily
-れており、海沿いの酒場には=#life are sold here, and the seaside taverns are aways full 
-常に歌と人とがあふれている。=#of people and song.
+西海岸屈指の貿易港。生活に=The foremost trading port on the west coast.
+根ざした輸入品が大量に商わ=Many of the imported goods which are rooted in daily
+れており、海沿いの酒場には=life are sold here, and the seaside taverns are always full 
+常に歌と人とがあふれている。=of people and song.
 
 towninfo/TownInfo05
 地方都市 タルリッヒ=Provincial Town Tallihi
-独自の自治と文化を誇る芸術=#An artisanal city that boasts (takes pride in) its own (or unique? not sure in this case)
-の都。高品質の美術品や調度=#autonomy and culture. Since ancient times,
-品を求めて工房へと足を運ぶ=#there has been no end to the people who come to the workshops 
-人々は古来より後を絶たない。=#seeking high quality works of art and furnishings.
+独自の自治と文化を誇る芸術=An artisanal town which prides itself on its own
+の都。高品質の美術品や調度=autonomy and culture. Since ancient times,
+品を求めて工房へと足を運ぶ=there has been no end to the people who come to the workshops 
+人々は古来より後を絶たない。=seeking high quality works of art and furnishings.
 
 towninfo/TownInfo06
 地方都市 メルス・クリッツ= Provincial Town Mars Kritz
-氷に閉ざされる地方との境界=#A small trading city on the border
-にある小さな交易都市。北の=#of the lands that are cut off by ice. (Ice-bound Region)
+氷に閉ざされる地方との境界=A small trading town on the border
+にある小さな交易都市。北の=a region cut off by ice.
 地からもたらされる毛皮や細=#Famous for its furs, crafts, and
 工品、肉の煮込みが有名。=#stewed meats from the Northern territories.
 
 towninfo/TownInfo07
-要塞都市 ロマネスブルグ=Fortress Romannesberg#Fortified City Romannesberg
+要塞都市 ロマネスブルグ=Fortified City Romannesberg 
 堅牢な城壁を擁する城塞都市。=A citadel with strong sturdy walls.
 異教徒との戦いに赴く軍隊や=Armies and volunteer soldiers gather
 志願兵たちが篤い信仰心と立=to fight the heretics with faith and
 身出世を胸に集まってくる。=determination in their hearts.
 
 towninfo/TownInfo08
-要塞都市 グラバラス=Fortress Gravaras
+要塞都市 グラバラス=Fortified City Gravaras
 異教の地の要塞都市。異なる=A fortified city in pagan territory.
 文化圏にほど近いため、様々=Being close to various spheres of
 な人や言葉、珍しい産物がめ=culture, there are all manners of people,
@@ -133,108 +133,109 @@ towninfo/TownInfo11
 
 towninfo/TownInfo12
 漁業都市 ランドルタット=Fishing Village Landoltatt
-島の湾に面した小さな港町。=#A small port town facing the gulf of the island.
-干満の差が大きな干潟や岩場=#In the tidelands and rocky areas where the
-では地物の貝を採る人々の姿=#ebb and flow of the waters are largest,
-が常に見受けられる。=#you can always catch sight of people gathering the local shellfish.
+島の湾に面した小さな港町。=A small port town facing the gulf of the island.#This is what the Japanese suggests, but looking at the world map, I feel like “A small port town on an island facing the gulf.” https://www.reddit.com/r/SpiceandWolf/comments/8oh0nh/spice_and_wolf_nds_game_map/
+干満の差が大きな干潟や岩場=In the tidelands and rocky areas where the
+では地物の貝を採る人々の姿=ebb and flow of the waters are largest,
+が常に見受けられる。=you can always spot people gathering the local shellfish.
 
 towninfo/TownInfo13
 鉱山都市 ヴァルアリー=Mining Town Valerie
-古来は銅の採掘で栄え、現在=#A town (district?)that has long-since prospered from its mining of copper,
-は高い製錬技術で栄える街。=#is now thriving on its advanced smelting (refining?) techniques.
-大きな鍛冶工房には各地より=#Orders for farming tools and arms come into the large
-農具や武具の注文が相次ぐ。=#blacksmith atelier one after another.
+古来は銅の採掘で栄え、現在=A town that has long-since prospered from its copper mining and
+は高い製錬技術で栄える街。=is now thriving on its advanced smelting techniques.
+大きな鍛冶工房には各地より=Orders for farming tools and arms come into the large
+農具や武具の注文が相次ぐ。=blacksmithery one after another.
 
 towninfo/TownInfo14
 鉱山都市 シュリンケル=Mining Town Sulinkel
-かつては炭坑があったものの=#Once a former coal mine, with the coal
-石炭が枯れた現在は住む者も=#being dried up, is now a place were few live.
-少ない。山から切り出せる資=#Now they are just getting by with leading a life
-源で細々と生活を営んでいる。=#on what resources can be extracted from the mountain.
+かつては炭坑があったものの=Once a former coal mine, the exhausted coal 
+石炭が枯れた現在は住む者も=supply means it’s now a place were few live.
+少ない。山から切り出せる資=Those who remain scrape by on what
+源で細々と生活を営んでいる。=little can be extracted from the mountain.
 
 towninfo/TownInfo15
 村ノーリン=Village Norlin
-森を切り開いた田園と放牧地=#A small village that stands (is nestled?) in
-の中程にたたずむ小さな村。=#the rural district and grazing lands of the cleared forest.
-畜産が盛んで、保存の知恵を=#The raising of livestock is flourshing, and there are many local
-生かした特産品も多数。=#specialties that leverage the wisdom (teachings?) of preservation.
+森を切り開いた田園と放牧地=A small village nestled between farmland
+の中程にたたずむ小さな村。=and clear pastures where the forest once was.
+畜産が盛んで、保存の知恵を=Livestock rearing is flourishing, and there are many local
+生かした特産品も多数。=specialties that leverage the wisdom of preservation.
 
 towninfo/TownInfo16
 村 ナウレナス=Village Naulenas
-長い街道を旅する人々を癒す=#An inn town that heals the spirts of travelers
-宿場町。華やかな特産こそな=#on a long journey. Even though there are no
-いものの、温かな宿ともてな=#showy local specialties, you can expect nothing less than
-しはなによりのごちそう。=#a warm lodging (bed maybe sounds more natural?) and great hospitality.
+長い街道を旅する人々を癒す=An inn town that heals the spirts of travelers
+宿場町。華やかな特産こそな=on long journeys. Even though there are no
+いものの、温かな宿ともてな=showy local specialties, you can expect nothing less than
+しはなによりのごちそう。=warm lodgings and great hospitality.
 
 towninfo/TownInfo17
 村 デッセル=Village Dessel
-夕日に映える水車屋が目印=#A simple village with a water-wheel mill that glows in the setting sun
-の素朴な村。水と緑に恵まれ=#as its landmark. The fertile land, blessed with waters and verdure (greenery), 
-た肥沃な土地には広大な妻畑=#has vast (fields?) and cotton fields
-と綿花畑が広がっている。=#that are expanding.
+夕日に映える水車屋が目印=A simple village with a water-wheel mill that glows in the setting sun
+の素朴な村。水と緑に恵まれ=as its landmark. The fertile land, rich with 
+た肥沃な土地には広大な麦畑=water and greenery, is home to vast wheat and
+と綿花畑が広がっている。=cotton fields.
+
 
 towninfo/TownInfo18
 村 マールケ=Village Marlke
-夏の短い、北の荒涼とした地=#A village with a short summer,
-に根ざした小さな村。痩せた=#rooted in the desolate lands of the north.
-土地が続く風景は訪れる者に=#The continous scenery of infertile lands
-二抹の寂しさを感じさせる。=#gives visitors a touch of loneliness. (二抹=I don't think this word exists. Shouldn't it be 一抹?)
+夏の短い、北の荒涼とした地=A village with a short summer,
+に根ざした小さな村。痩せた=rooted in the desolate lands of the north.
+土地が続く風景は訪れる者に=The endless sight of barren terrain 
+一抹の寂しさを感じさせる。=leaves visitors with an empty feeling. 
 
 towninfo/TownInfo19
 村 ナインドルハ=Village Neindolha
-景観の良高原に作られた村。=#A town built on scenic highlands (plateaus?).
-有閑階級の保養地として知ら=#Known as a sort of health resort for the leisure class,
-れ、木々の間には瀟洒な建物=#you can catch a glimpse of elegant buildings and
-と手入れされた庭園が覗く。=#landscaped gardens among the trees.
+景観の良高原に作られた村。=A town built on scenic highlands.
+有閑階級の保養地として知ら=Notorious as a retreat for the leisure class,
+れ、木々の間には瀟洒な建物=you can catch a glimpse of elegant buildings and
+と手入れされた庭園が覗く。=landscaped gardens among the trees.
 
 towninfo/TownInfo20
 村 ヴィンヘン=Village Vinchen
-農業で栄える小さな村。低地=#A small village that thrives on agriculture.
-にはアーモンドの花が、ゆる=#In the lowlands, the almond flowers bloom, (I think a word is missing from the Japanese text)
-い丘々に連なる斜面にはブド=#and in the extended slopes of the gentle hills,
-ウとオリーブの緑が美しい。=#the green of the grapes and olives are beautiful.
+農業で栄える小さな村。低地=A small village that thrives on agriculture.
+にはアーモンドの花が、ゆる=In the lowlands, almond flowers bloom, 
+い丘々に連なる斜面にはブド=and on the gently sloping hills,
+ウとオリーブの緑が美しい。=the green of the grapes and olives is beautiful.
 
 towninfo/TownInfo21
 村 スウィージ=Village Suize
-雪に覆われた連峰の懐にある=#A small village in the pocket of the snow-
-小さな村。高山のため交通は=#covered mountain ranges. Due to the high mountains,
-不便だが、温泉の療養に遠く=#travel is inconvenient, but many travelers from afar
-から旅してくる者も多い。=#come for the theraputic hot springs.
+雪に覆われた連峰の懐にある=A small village in the pocket of the snow-
+小さな村。高山のため交通は=clad mountain ranges. Due to the high mountains
+不便だが、温泉の療養に遠く=travel is inconvenient, but many come from 
+から旅してくる者も多い。=afar for the therapeutic hot springs.
 
 towninfo/TownInfo22
 村　ミランド=Village Miland
-穏やかな風の吹く静かな集落。=#A quiet village (maybe settlement is more appropriate?) with a gentle blowing breeze. 
-色とりどりの果樹が立ち並び、=#With multi-colored fruit trees standing
-牛や馬がのんびりと草を食む=#side by side, the visage of the cows and horses peacfully
-光景は昔から変わらない。=#partaking of the grass has not changed since days of old.
+穏やかな風の吹く静かな集落。=A quiet village with a gentle breeze. 
+色とりどりの果樹が立ち並び、=The scenery of multi-colored fruit trees standing
+牛や馬がのんびりと草を食む=side by side, and cows and horses peacefully
+光景は昔から変わらない。=grazing has not changed through the ages.
 
 towninfo/TownInfo23
 故郷　シラ=Historic Village Shila
-湖のほとりに面した田舎の村。=#A rural village facing (the banks of) of a lake.
-魚取りの小舟がゆっくりと湖=#The beautiful spectacle of small fishing boats
-面を行き交うさまは、いつ見=#slowly crossing over the surface of the lake
-ても心奪われる美しい情景。=#never fails to captivate.
+湖のほとりに面した田舎の村。=A rural village facing a lake.
+魚取りの小舟がゆっくりと湖=The beautiful sight of small boats
+面を行き交うさまは、いつ見=slowly breaking the surface of the lake
+ても心奪われる美しい情景。=catching fish never fails to captivate.
 
 towninfo/TownInfo24
 故郷　エーレ=Historic Village Erle
-島の東端にある小さな漁村。=#A small fishing village on the eastern edge of the island.
-稀に美しい二枚貝より採れる=#Since ancient times, the pearls found out of the rare and beautiful
-真珠は、海の宝石として古来=#bivalvia (oysters? for simplicity), have fetched a high
-より高値で取引されている。=#price as jewels of the sea.
+島の東端にある小さな漁村。=A small fishing village on the eastern edge of an island.
+稀に美しい二枚貝より採れる=Since ancient times, the rare and beautiful
+真珠は、海の宝石として古来=pearls found in oysters have fetched a high
+より高値で取引されている。=price as jewels of the sea.
 
 towninfo/TownInfo25
 故郷　ワーデン=Historic Village Warden
-冬は厚く雪に閉ざされる吹雪=#In winter, a town which is deeply covered in snow.
-の町。近郊の塩湖よりもたら=#It is a rare sight to see mearchants who
-される貴重な食材を求めて訪=#come in search of valuable ingredients
-れる商人の姿を稀に目にする。=#brought from the neighboring salt lake.
+冬は厚く雪に閉ざされる吹雪=A snowy town which becomes shut off in the
+の町。近郊の塩湖よりもたら=thick snows of winter. Occasionally, merchants
+される貴重な食材を求めて訪=come in search of the valuable preservative
+れる商人の姿を稀に目にする。=harvested from the neighboring salt-lake.
 
 towninfo/TownInfo26
 故郷 ユーベル=Historic Village Yubel
-資源を求める人々ガが新たに切=#A village built by people seeking resources near to 
-り開いた炭坑の近くに作った=#the newly opened (cleared?) coal mines.
-村。量は少ないものの、質の=#Even though the quantity may be small, rumor has it
-良い石炭を産するとの噂。=#that it produces coal of good quality.
+資源を求める人々が新たに切=A village built near the newly opened 
+り開いた炭坑の近くに作った=coal mines by people seeking a profit.
+村。量は少ないものの、質の=Even though the quantity may be small, rumor has it
+良い石炭を産するとの噂。=that it produces coal of good quality.
 
 kaiwa/back/bg_sys_tutorial_01
 施設アイコン=
@@ -322,7 +323,7 @@ kaiwa/back/sg_bg*
 後藤 邑子=Yuuko Gotou
 ロウメス=Loumes
 鳥海 勝美=Katsumi Toriumi
-グスタ=Gösta
+グスタ=Gusta
 中 博史=Hiroshi Naka
 
 サーセン=Sarsen
