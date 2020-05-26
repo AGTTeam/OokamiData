@@ -115,7 +115,7 @@
 |届けることになっている。|納期までは、あと２日しかない。=|to the village of Miland up ahead. There's only two more days left until the deadline.
 ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm a novice merchant. I took over the ropes about six months ago, after my mentor retired.
 それ以来、背負えるだけの|商品を担いで、この辺りの村々を|巡っている。=Since then, I've been travelling around the nearby villages, taking as much as I can carry on my back.
-ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.#qc 
+ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.#qc
 できれば明日中には|ミランドまでたどり着いて|納品しておきたかった。=If possible, I’d like to arrive in Miland tomorrow and hand off the goods.
 さてと……。|そろそろ寝るかな。=Well then... I should get some sleep.
 １人きりで行商を|するようになってから、|独り言が増えた気がする。=I get the feeling I’ve started talking to myself more since I’ve been alone.
@@ -150,14 +150,14 @@
 不思議と、|ボクは恐怖を感じなかった。=Strangely enough, I wasn’t frightened.
 それよりも何か悲しげな遠吠えだと|感じていた。=Somehow, the howling had seemed so sad.
 それからしばらくの間、|ボクは警戒を続けた。=I kept watch for a while after that.
-だけど、その後は遠吠えが|聞こえることもなく、|ボクは焚き火のそばで眠りについた。=But I didn’t hear any more noise, and soon fell asleep by the fire. 
+だけど、その後は遠吠えが|聞こえることもなく、|ボクは焚き火のそばで眠りについた。=But I didn’t hear any more noise, and soon fell asleep by the fire.
 翌日の夕方近くになって、|ボクはようやくミランドの村に|たどり着いた。=Early evening the next day, I finally came upon the town of Miland.
 たしかに塩の目方（めかた）は|約束通りだった。=Indeed, this is the amount we agreed on.
 ほら、これが塩の代金だ。|銀貨で払うよ。=Here is your payment for the salt in silver coins.
 銀貨300枚　受け取った！|所持金が　銀貨@<number1@>枚になった！=Received 300 Silver coins!|You currently have @<number1@>!
 ――はい、たしかに。|ありがとうございました。|これからも、どうぞごひいきに。=--Yes, just right. Thank you very much. I look forward to doing business with you again.
 店主と話す=Speak with Shopkeeper
-荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=By now, the cart vendors should be in the woods by the outskirts of town. 
+荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=By now, the cart vendors should be in the woods by the outskirts of town.
 ああ、ちょっと待ってくれ。|少し話があるんだよ。=Ah, please wait a moment. I’d like to speak with you.
 どこに行くんだ？|引き受けるにしろ、断るにしろ、|いま決めてほしいんだよ。=Where are you going? Whether you take it or leave it, I'd like you to choose now.
 少し話があるんだが、|聞いてく時間はあるかい？=I have a proposal to make, if you would hear me out?
@@ -188,14 +188,14 @@
 そうですね。引き受けます。=Sure. I'll take the cart.
 すみませんが、|少し考えさせてください。=Terribly sorry,|but I should think it over.
 そうですね。引き受けます。|詳しい話を教えてください。=Sure, I'll take the deal. Please tell me the details.
-悩んだのは確かだが、|どうせボクのような駆け出し商人の|全財産なんて高が知れている。=I had my doubts, but either way, it’s not as though novice like myself has that much to lose. 
+悩んだのは確かだが、|どうせボクのような駆け出し商人の|全財産なんて高が知れている。=I had my doubts, but either way, it’s not as though novice like myself has that much to lose.
 だったら、こういう怪しい取引に|賭けてみるのもいいだろう。=Which means that I can afford to take a gamble.
 店主が羊皮紙を取り出して、|ボクに見せてくれた。|これが正式な契約書らしい。=The shopkeeper took out a sheet of parchment and showed it to me. The official written contract.
 つらつらと読んでゆくと、|目的地まで連れていく人物とは|売主本人のことらしい。=Reading it through, it seems the person I am to accompany is the client themselves.
 名前は『ホロ』とある。|それしか書いてない。=Their name is "Holo". That’s all that it says.
 ホロ……？|これはファーストネームですか？=Holo...?|Is that a first name?
 いや、それが名前のすべてだ。=No, that's their full name.
-それを聞いて、|少し取引の輪郭が見えてきた。=Hearing that, I came to understand the nature of this deal. https://youtu.be/bB-aTWmhHu4?t=469
+それを聞いて、|少し取引の輪郭が見えてきた。=Hearing that, I came to understand the nature of this deal.#https://youtu.be/bB-aTWmhHu4?t=469
 ファーストネームや|ファミリーネームの概念がない|文化もある。異教徒たちがそうだ。=In some cultures, first names and family names don't exist. For example, Pagans.
 おそらく異教徒をかくまいながら、|どこか異教の地まで送り届ける|ということなのだろう。=I guess this deal was about secretly escorting a Pagan to a Pagan place.
 それなら旅の行商人に|同行しようとするのは理解できる。=This person must have wanted to accompany a merchant there.
@@ -1452,7 +1452,7 @@
 ――さあ、ぬし様よ。|これを見ても、まだ信じられぬかや？=Now, Professor.|Do you still not believe me, even after seeing this?
 わっちにとっても、|教会は避けたい相手なんじゃ。|ぬし様と同じようにな。=I'm someone who'd rather not get involved with the church. Just like yourself.
 だから、|ぬし様が何を言ったところで|教会に伝わることはない。=So whatever you say, we won't let the church know about it.
-ななな、なんと!?|あなた様は異教の神だったのか！=W-w-what?!|You were a pagan god!
+ななな、なんと!?|あなた様は異教の神だったのか！=W-W-What?!|You were a pagan god!
 わっちは神などではありんせん。|ただのホロ。賢狼ホロじゃ。=I'm nothing as grand as a god.|I'm merely Holo. Holo the Wisewolf.
 おお、なんということだ！|わしが長年、|探し求めていた答えがついに……！=Oh, my goodness! The answers I've been looking for all these years, finally...
 先ほどまでの数々のご無礼、|どうかお許しください、ホロ様。=O, Holo, forgive me for acting so rude before.
@@ -1510,12 +1510,12 @@
 月は昔と|ちっとも変っておらぬ。=The moon looks the same as ever.
 わっちの故郷で見たときと、|同じままじゃ。=Exactly the same as it was when I looked upon it from my old home.
 それなのに……。=And yet...
-そ、そんなに|心配することないよ、ホロ。=D-don't feel so down about it, Holo.
+そ、そんなに|心配することないよ、ホロ。=D-Don't feel so down about it, Holo.
 あれは、きっと|何かの間違いだから！=That must've been some kind of mistake!
 そうだよ。だって、|森を呑みこむような大蛇なんて|いるわけがないだろ？=It must be.|How could a serpent that swallows whole forests exists?
 …………|……………………。=......|..........
 だったら、人の言葉を話す、|人より大きな狼も|いるはずがありんせん。=Just like how a giant wolf who can speak with humans couldn't exist?
-そ、それは……。=W-well...
+そ、それは……。=W-Well...
 わっちゃあ、|独りきりになってしまった。=I'm all alone in this world now.
 わっちの帰りを待ってる者は|もうおらぬ。=There is no one to await my return.
 |どこにも……おらぬ。=|...Nowhere.
@@ -1524,7 +1524,7 @@
 わっちを抱いてくりゃれ？=Will you make love to me?
 わっちゃあ、もう独りは嫌なんじゃ。|だから、の？=I don't want to be alone anymore. Come...
 ボクはホロが好きなんだ。=I love you, Holo.
-ボ、ボクで良ければ……。=I-if you're fine with me...
+ボ、ボクで良ければ……。=I-If you're fine with me...
 ホロまで……|そんなことを言うんだね……。=So you're also going to...|say things like that...
 ボクはホロが好きなんだ。=
 ……だから、|今のホロとだけは絶対いやだ。=
@@ -7690,7 +7690,7 @@
 ……わかった。=All right...
 これはぬしの馬じゃからの。|好きにするがよい。=It's your horse, after all.|Do what you think is best.
 わかった！|わかったよ、ホロ！=I got it!|Holo, I got it!
-ど、どうしたんじゃ？=W-what happened?
+ど、どうしたんじゃ？=W-What happened?
 原因が、わかったんだよ！=I found out what caused it!
 原因……？=The cause...?
 ほら、これ！|蹄鉄のところ！=Look, here!|The horseshoe!
@@ -7727,7 +7727,7 @@
 商人だというのに、|なんとお人好しで、なんと欲のない|者だと思っておったが……=I found it strange, a merchant so altruistic, so bereft of greed...
 ぬしは、力がないのではないのだな。|その心が、空のように大きいのだな。=But you were not powerless.|Your kindness is boundless, like the sky.
 ふふ、ぬしのような者がおるから|こそ、人の世界というものは|回っておるのやも知れぬな。=Fufu. It might be thanks to people like you, that the world doesn't collapse on itself.
-ほ、褒めすぎだよ……=T-that's an awful lot of praise...
+ほ、褒めすぎだよ……=T-That's an awful lot of praise...
 そんなに謙虚にならずともよい。|ま、そこがよいところなんじゃがの。=No need to be so humble.|Although, that is part of what I like about you.
 いずれにせよ、|もう“ホロお姉さん”は|卒業じゃの……=Either way, I suppose it's the end for "big sister" Holo...
 ホ、ホロ？=H-Holo?
@@ -8132,7 +8132,7 @@
 わっちがぬしと旅を始めてから|ずいぶん時間が経ったように|思えるのじゃが……=A while has passed since I started traveling with you, hasn't it...
 旅は順調に進んでおるのかや？=Has it been going well?
 ぬしには何かと迷惑をかけて|おるのですまんと思うが、|ついつい気になってしまっての。=I simply have come to feel that something is bothering you.
-も、もちろん順調だよ。|安心して、ボクに任せておいて。=O-of course its going well.|Don't worry, leave it to me.
+も、もちろん順調だよ。|安心して、ボクに任せておいて。=O-Of course its going well.|Don't worry, leave it to me.
 本当かや？=Truly?
 本当だとも！=Yes, truly!
 たぶん……=Probably......
@@ -8207,4 +8207,3 @@
 わっちはぬしを少し侮っておった|ようじゃ。|これほどの逸材だったとはの……。=I even feel a little bit of hatred towards you. Because you are so amazing...
 ぬしと一緒におると、わっちまで|誇らしい。|やったな、ぬしよ！=I am with you, and so you have made me very proud.|Good job, Chief!
 商人レベルが最高になった！=Merchant level has raised!
-
