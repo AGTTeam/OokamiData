@@ -173,7 +173,6 @@ towninfo/TownInfo17
 た肥沃な土地には広大な麦畑=water and greenery, is home to vast wheat and
 と綿花畑が広がっている。=cotton fields.
 
-
 towninfo/TownInfo18
 村 マールケ=Village Marlke
 夏の短い、北の荒涼とした地=A village with a short summer,
@@ -238,62 +237,62 @@ towninfo/TownInfo26
 良い石炭を産するとの噂。=that it produces coal of good quality.
 
 kaiwa/back/bg_sys_tutorial_01
-施設アイコン=
-イベントが発生している施設=
+施設アイコン=#Place Icon
+イベントが発生している施設=#Event Scene Available
 
 kaiwa/back/bg_sys_tutorial_02
-酒場=
-町の酒場で=
-噂話を間く=
-交易マップ=
-噂話アイコン=
-を馬車で通る=
-(right)噂話を間けます=
+酒場=#Pub
+町の酒場で=#Listen to rumors
+噂話を間く=#at the town pub
+交易マップ=#Trade Map
+噂話アイコン=#Rumor Icon
+を馬車で通る=#Go by the rumor
+(right)噂話を間けます=#icon by cart
 
 kaiwa/back/bg_sys_tutorial_03
-噂話を間くと…
-新しい町
-が出現
-イベント
-が発生
+噂話を間くと…=#When you hear a rumor...
+新しい町=#A new town
+が出現=#appears
+イベント=#An event
+が発生=#occurs
 
 kaiwa/back/bg_sys_tutorial_04
-商品アイコン=
-荷馬車=
-購入アイコン=
-在庫数=
-相場目史=
-高騰⇈=
-高値↑=
-同額→=
-暴落⇊ =
-安値↓=
+商品アイコン=#Goods Icon
+荷馬車=#Cart
+購入アイコン=#Purchase Icon
+在庫数=#Stock Number
+相場目史=#Market (Price) History
+高騰⇈=#Soaring (Sudden Price Jump)
+高値↑=#High (High Price)
+同額→=#Same (Same Amount)
+暴落⇊ =#Crashing (Sudden drop)
+安値↓=#Low (Low Price)
 
 kaiwa/back/bg_sys_tutorial_05
-商品名=
-商品ランク=
-商品ジャンル=
+商品名=#Goods Name
+商品ランク=#Goods Rank
+商品ジャンル=#Goods Genre
 *For the small icons, see goods/goodslevel
 
 kaiwa/back/bg_sys_tutorial_06
-商品アイコン=
-荷馬車=
-売却アイコン=
-売値=
-売却数=
-購入時の値段=
+商品アイコン=#Goods Icon
+荷馬車=#Cart
+売却アイコン=#Sale Icon
+売値=#Sales Price
+売却数=#Sales Number
+購入時の値段=#Price at time of Purchase
 
 kaiwa/back/bg_sys_tutorial_07
-(box)販売品=
-(box)買値=
-買値の平均値=
-噂を聞いていない=
-ので買えない販売品=
-(box)人気の品=
-(box)買値=
-売値の平均値=
-所持している=
-人気の品(黄色フチ取り)=
+(box)販売品=#Sale Item
+(box)買値=#Purchase Price
+買値の平均値=#Average Purchase Price (perhaps "expected" purchase price is more suitable?)
+噂を聞いていない=#An item that you cannot buy
+ので買えない販売品=#because you have not heard the rumor
+(box)人気の品=#Popular Item
+(box)買値=#Purchase Price
+売値の平均値=#Average Sales Price
+所持している=#Popular Items Owned
+人気の品(黄色フチ取り)=#Yellow Border
 
 kaiwa/back/sg_bg*
 スタッフ=Staff
