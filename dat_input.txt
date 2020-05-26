@@ -1,4 +1,4 @@
-!FILE:endview.dat
+﻿!FILE:endview.dat
 故郷に到着！|ボクとホロの二人だけの結婚式！=We reached her homeland!|A wedding just for me and Holo!
 故郷に到着！|ボクとホロは両思いに…=We reached her homeland!|Holo and I are in love...
 故郷に到着！|ボクとホロは旅を続けていくことに…=We reached her homeland!|Our journey continues...
@@ -623,7 +623,7 @@
 キャビア不足で？=Caviar Shortage?
 スウィージの町では今空前のキャ|ビアブームらしいよ。|ひと月は３割増しの値段で売れるっ|て話だから商品を持っているなら|行ってみてはどうかな？=
 契約の内容=Contract Details
-売主ホロの指示に従い、荷馬車の|代金を銀貨２０００枚として|返済する。|ホロを来年の８月３０日中に|指定された場所まで連れてゆく。=
+売主ホロの指示に従い、荷馬車の|代金を銀貨２０００枚として|返済する。|ホロを来年の８月３０日中に|指定された場所まで連れてゆく。=Following the wishes of the client, Holo, the cost of the cart shall be repaid as 2,000 silver coins. Before August the 30th of the following year, she is to be delivered to the designated location.
 シュミットとの約束=Promise to Schmidt
 荷馬車の借金を返し終わったら|シュミットさんと|ヴィンヘンの酒場で会うことに|した。行商に関して、|色々と教えてくれそうだ。=
 デッセルの用事が済んだら、|シュミットさんと|ヴィンヘンの酒場で会うことに|した。行商に関して、|色々と教えてくれそうだ。=

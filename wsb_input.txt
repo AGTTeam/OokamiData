@@ -157,7 +157,7 @@
 銀貨300枚　受け取った！|所持金が　銀貨@<number1@>枚になった！=Received 300 Silver coins!|You currently have @<number1@>!
 ――はい、たしかに。|ありがとうございました。|これからも、どうぞごひいきに。=--Yes, just right. Thank you very much. I look forward to doing business with you again.
 店主と話す=Speak with Shopkeeper
-荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=By now, the cart vendors should be in the woods by the outskirts of town.
+荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=By now, the owner of the cart should be in the woods by the outskirts of town.
 ああ、ちょっと待ってくれ。|少し話があるんだよ。=Ah, please wait a moment. I’d like to speak with you.
 どこに行くんだ？|引き受けるにしろ、断るにしろ、|いま決めてほしいんだよ。=Where are you going? Whether you take it or leave it, I'd like you to choose now.
 少し話があるんだが、|聞いてく時間はあるかい？=I have a proposal to make, if you would hear me out?
@@ -195,39 +195,38 @@
 名前は『ホロ』とある。|それしか書いてない。=Their name is "Holo". That’s all that it says.
 ホロ……？|これはファーストネームですか？=Holo...?|Is that a first name?
 いや、それが名前のすべてだ。=No, that's their full name.
-それを聞いて、|少し取引の輪郭が見えてきた。=Hearing that, I came to understand the nature of this deal.#https://youtu.be/bB-aTWmhHu4?t=469
-ファーストネームや|ファミリーネームの概念がない|文化もある。異教徒たちがそうだ。=In some cultures, first names and family names don't exist. For example, Pagans.
-おそらく異教徒をかくまいながら、|どこか異教の地まで送り届ける|ということなのだろう。=I guess this deal was about secretly escorting a Pagan to a Pagan place.
-それなら旅の行商人に|同行しようとするのは理解できる。=This person must have wanted to accompany a merchant there.
-教会とのトラブルもありうるし、|破格の値段には|それらの迷惑料も含んでいるのだ。=Though there may be trouble with the Church, the low price would make it worth the trouble.
-なるほど。この契約書とは別に、|売主に対する銀貨@<number1@>枚の|借用書にサインするんですね。=I see. It's not just a contract,|the fee of @<number1@> coins are to be|signed away with it.
-この借金を返済して、|さらに付帯条件を達成できれば|荷馬車の所有権がボクに移る、と。=If I can repay it by collecting the collateral fee, then the cart will be mine permanently.
-その通り。=That's right.
-売主が取引を承諾しなかった場合、|契約書ならびに借用書は|はじめから無効……っていうのは？=And "if the seller doesn't agree, the contract and payment would be invalid... from the start"?
-売主は少し気難し屋でな。|気に入った相手と|取引したいらしいんだ。=The seller is quite picky. They'll only deal with a person they approve of.
+それを聞いて、|少し取引の輪郭が見えてきた。=Hearing that, I came to understand the nature of this deal. 
+ファーストネームや|ファミリーネームの概念がない|文化もある。異教徒たちがそうだ。=There are some cultures with no notion of first and last names. Pagans, that is.
+おそらく異教徒をかくまいながら、|どこか異教の地まで送り届ける|ということなのだろう。=This deal must be about secretly escorting a Pagan to a Pagan place.
+それなら旅の行商人に|同行しようとするのは理解できる。=That would explain why they’d want to try allying with a peddler. 
+教会とのトラブルもありうるし、|破格の値段には|それらの迷惑料も含んでいるのだ。=Since there could be trouble with the Church, the lower price stands to reason. なるほど。この契約書とは別に、|売主に対する銀貨@<number1@>枚の|借用書にサインするんですね。=I see. It's not just this contract, but there’s another to borrow @<number1@> coins from the seller I’m expected to sign.
+この借金を返済して、|さらに付帯条件を達成できれば|荷馬車の所有権がボクに移る、と。=If I can repay the loan and fulfil the other condition, then the ownership of the cart will be transferred to me.
+その通り。=Precisely.
+売主が取引を承諾しなかった場合、|契約書ならびに借用書は|はじめから無効……っていうのは？="If the client does not approve of the deal, both the contract and loan will be void." ...What’s that about?
+売主は少し気難し屋でな。|気に入った相手と|取引したいらしいんだ。=The seller is a bit picky.|They won’t make a deal with someone unless they’ve taken a liking to them.
 売主が嫌だと言えば|取引は成立しないから、|くれぐれも機嫌を損ねないようにな。=So if the seller says no, the deal can't be made. Try to stay on their good side.
-あと、目的地についての詳細は、|取引の成立後に売主が|口頭で伝える……とありますが。=The details of where to escort the seller - it says they'll tell me directly when I meet them.
-そう。正直なところ、|こっちも知らないんだよ。|どこが目的地なのかは。=Yes. To be honest, even I don't know the destination.
-早い話がすべての主導権は|売主にあるということだった。=In short, the seller gets to call all the shots.
-すでに口約束が成立しているので、|ここでごねてもしょうがない。|ボクはサインをした。=I've already promised him that, so I won't make any trouble. I've signed it now.
-それじゃあ、|村はずれの森に行ってくれ。=Well then, to the woods on the outskirts of town.
-この時間なら、たぶん|そこにいるはずだからな。=By this time, the seller's probably around there.
+あと、目的地についての詳細は、|取引の成立後に売主が|口頭で伝える……とありますが。=And as for the destination... it says that the client will tell me the details once the deal has been finalized.
+ そう。正直なところ、|こっちも知らないんだよ。|どこが目的地なのかは。=Yes. To be honest, even I don't know the destination.
+早い話がすべての主導権は|売主にあるということだった。=In short, the client gets to call all the shots.
+すでに口約束が成立しているので、|ここでごねてもしょうがない。|ボクはサインをした。=Still, after already giving my consent to proceed, I’m in no place to grumble. I sign the documents.
+それじゃあ、|村はずれの森に行ってくれ。=Well then, I’d advise you make for the woods on the outskirts of town.
+この時間なら、たぶん|そこにいるはずだからな。=That’s where the client is most likely to be at this time.
 慎重になるのは良いことだがね。|これほど格安で荷馬車が|手に入る機会はそうそうないぞ。=Well, it's good to be wary. However, it’s not every day that you come across a wagon as cheap as this.
 引き受けるにしろ、断るにしろ、|いま決めてほしいんだよ。=Whether you take it or leave it, I'd must ask for a decision here and now.
-――やあ。久しぶりだね。=--My, it's been a while.
+――やあ。久しぶりだね。=--My, now there’s a sight for sore eyes.
 あっ、シュミットさん！=Oh, Schmidt!
-荷馬車の御者台に座っていたのは、|ランドル・シュミットという|若い行商人だった。=The one driving the cart was Randal Schmidt, a young merchant.
-ボクよりも２つか３つ、|年上なだけだが、|かなり手広く商売しているらしい。=He was only two or three years older than me, but he conducted widespread business.
-ボクたちの行商路が|少し重なっているので、|ときどき行商先で会うことがある。=Our business sometimes caused us to cross paths with one another, so I had met him a few times.
-年が近いせいか、なにかと|ボクに目をかけてくれていた。=Though he wasn't especially well known, he somehow caught my eye.
-俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I could leave my cart and go visit a pub. What do you say?
-いえ……ちょっと、|このあと用事がありまして。=I'm sorry... I have a few things to do right now.
-そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the pub. We'll have a toast.
+荷馬車の御者台に座っていたのは、|ランドル・シュミットという|若い行商人だった。=Sitting poised atop a cart there was Randal Schmidt, a young merchant.
+ボクよりも２つか３つ、|年上なだけだが、|かなり手広く商売しているらしい。=He’s only two or three years older than me, but has quite the extensive business.
+ボクたちの行商路が|少し重なっているので、|ときどき行商先で会うことがある。=Our trade rounds overlap a bit, so we sometimes bump into each other.
+年が近いせいか、なにかと|ボクに目をかけてくれていた。=Maybe it’s because we’re similar in age, but he always seemed to be looking out for me.
+俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head for the tavern once I’ve secured my cart. Would you care to join?
+いえ……ちょっと、|このあと用事がありまして。=I'm sorry...|I have some business to attend to right now.
+そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the tavern.|I’ll buy you a drink.#https://youtu.be/bB-aTWmhHu4?t=576
 　|　　　―　移動について　―= |       - On the Journey -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=To access the town map, choose the "Place Icon" and you can move to another place.
 『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=Places marked with "!" are where an event scene will occur. Be sure to visit them.
 !FILE:event/ev_act/act_030_nibasya_clr_tenshu_talk.wsb
-荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=The cart merchant should be at the outskirts of town right now. You should pay him a visit.
+荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=The owner of the cart should be at the outskirts of town right now. You should pay them a visit.
 !FILE:event/ev_act/act_050_horo_hajimete.wsb
 契約のとき、店主に言われた通り、|ボクは村はずれの森に向かった。=When I made the contract, he said I should go to the outskirts.
 森の中をしばらく進むと|少し開けた場所にたどり着いた。=After a long time, I finally got to the somewhat empty forest.
