@@ -355,7 +355,7 @@ kaiwa/back/sg_bg*
 メインプログラム=Main Programming
 山田 晋=Shin Yamada
 プログラム=Programming
-諸永力=
+諸永力=Chikara Moronaga
 今橋孝典=Takanori Imahashi
 
 メイングラフィック=Main Graphics
