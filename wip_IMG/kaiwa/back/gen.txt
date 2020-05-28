@@ -1,0 +1,2 @@
+ndstextgen --center --vert 7 --no-crop --spacing 1 --width 132 --height 200 --color white holo12 "Staff"
+ndstextgen --color white --spacing 1 holo8 ""
