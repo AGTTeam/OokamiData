@@ -5,9 +5,9 @@ out_*
 *_output.txt
 *_analysis.txt
 *.nds
-*.idb
 *.xdelta
 *.mkv
+*.wav
 font_data.bin
 *.iml
 /.idea/
