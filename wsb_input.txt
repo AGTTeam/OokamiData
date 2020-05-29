@@ -111,8 +111,8 @@
 ――これなら、|なんとか明日の夕方には|たどり着けそうだな。=--At this pace, I should arrive around tomorrow evening.
 ボクは焚き火を見つめながら、|塩の詰まった背負子（しょいこ）に|手を置いた。=As I stared at the fire, I placed a hand on my backpack, tightly packed with salt.#Not sure if there’s a better word for “背負子” that sounds less modern.
 この塩は大事な商品だ。=This salt is valuable merchandise.
-この先のミランドの村まで=I'm supposed to deliver it
-|届けることになっている。|納期までは、あと２日しかない。=|to the village of Miland up ahead. There's only two more days left until the deadline.
+この先のミランドの村まで=I'm supposed to deliver it to the village
+|届けることになっている。|納期までは、あと２日しかない。=|of Miland up ahead. There's only two more days left until the deadline.
 ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm a novice merchant. I took over the ropes about six months ago, after my mentor retired.
 それ以来、背負えるだけの|商品を担いで、この辺りの村々を|巡っている。=Since then, I've been traveling around the nearby villages, taking as much as I can carry on my back.
 ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.#qc
@@ -120,8 +120,8 @@
 さてと……。|そろそろ寝るかな。=Well then... I should get some sleep.
 １人きりで行商を|するようになってから、|独り言が増えた気がする。=I get the feeling I’ve started talking to myself more since I’ve been alone.
 ボクが安物の毛布を|荷物から引っ張り出したとき、|それが聞こえてきた――=I went to grab a cheap blanket from my bag, and that’s when I heard it--
-　|『=|#
-アオオォォォォォォォォォォン！』="Awooooooooooooo!"
+　|『=!
+アオオォォォォォォォォォォン！』=|"Awooooooooooooo!"
 まさか――山神さま？=Could it be... the Mountain God?
 ボクは昨日、|ノーリンの村で聞いたことを|思い出していた。=I remembered something I’d heard yesterday, in the village of Norlin.
 山越えでミランドに行く？=Crossin’ the mountain to get to Miland?
@@ -142,8 +142,8 @@
 たしかに商人なら|『触らぬ神に祟りなし』と|考えるのが普通だろう。=Normally, merchants aren’t the type to tempt fate...
 ただし、場合によりけりだ。|いま最も大事なのは商品を届ける|期限を守ること。=But it depends on the situation. In this case, it's more important to deliver the goods on time.
 ――つまり、『信用』を守ることだ。=I have a reputation to uphold.
-　|『=  | #
-ウォォォォォゥゥゥルルル……！』="Auwoooooooooooohhh....!"
+　|『=!
+ウォォォォォゥゥゥルルル……！』=|"Auwoooooooooooohhh....!"
 狼、なのか？|あの声が山神さま？=Is that a wolf?|Or... the voice of the Mountain God?
 ボクは緊張して辺りを警戒したが、|特に変った気配はない。=I looked around cautiously, but there was no sign that anything had moved.
 遠吠えもかなり離れたところから|聞こえてくるだけだ。=The noise I heard must have come from somewhere far away.
@@ -199,14 +199,15 @@
 ファーストネームや|ファミリーネームの概念がない|文化もある。異教徒たちがそうだ。=There are some cultures with no notion of first and last names. Pagans, that is.
 おそらく異教徒をかくまいながら、|どこか異教の地まで送り届ける|ということなのだろう。=This deal must be about secretly escorting a Pagan to a Pagan place.
 それなら旅の行商人に|同行しようとするのは理解できる。=That would explain why they’d want to try allying with a peddler.
-教会とのトラブルもありうるし、|破格の値段には|それらの迷惑料も含んでいるのだ。=Since there could be trouble with the Church, the lower price stands to reason. なるほど。この契約書とは別に、|売主に対する銀貨@<number1@>枚の|借用書にサインするんですね。=I see. It's not just this contract, but there’s another to borrow @<number1@> coins from the seller I’m expected to sign.
-この借金を返済して、|さらに付帯条件を達成できれば|荷馬車の所有権がボクに移る、と。=If I can repay the loan and fulfil the other condition, then the ownership of the cart will be transferred to me.
+教会とのトラブルもありうるし、|破格の値段には|それらの迷惑料も含んでいるのだ。=Since there could be trouble with the Church, the lower price stands to reason.
+なるほど。この契約書とは別に、|売主に対する銀貨@<number1@>枚の|借用書にサインするんですね。=I see. It's not just this contract, but|there’s another to borrow @<number1@> coins|from the seller I’m expected to sign.
+この借金を返済して、|さらに付帯条件を達成できれば|荷馬車の所有権がボクに移る、と。=If I can repay the loan and fulfill the other condition, then the ownership of the cart will be transferred to me.
 その通り。=Precisely.
 売主が取引を承諾しなかった場合、|契約書ならびに借用書は|はじめから無効……っていうのは？="If the client does not approve of the deal, both the contract and loan will be void." ...What’s that about?
 売主は少し気難し屋でな。|気に入った相手と|取引したいらしいんだ。=The seller is a bit picky.|They won’t make a deal with someone unless they’ve taken a liking to them.
 売主が嫌だと言えば|取引は成立しないから、|くれぐれも機嫌を損ねないようにな。=So if the seller says no, the deal can't be made. Try to stay on their good side.
 あと、目的地についての詳細は、|取引の成立後に売主が|口頭で伝える……とありますが。=And as for the destination... it says that the client will tell me the details once the deal has been finalized.
- そう。正直なところ、|こっちも知らないんだよ。|どこが目的地なのかは。=Yes. To be honest, even I don't know the destination.
+そう。正直なところ、|こっちも知らないんだよ。|どこが目的地なのかは。=Yes. To be honest, even I don't know the destination.
 早い話がすべての主導権は|売主にあるということだった。=In short, the client gets to call all the shots.
 すでに口約束が成立しているので、|ここでごねてもしょうがない。|ボクはサインをした。=Still, after already giving my consent to proceed, I’m in no place to grumble. I sign the documents.
 それじゃあ、|村はずれの森に行ってくれ。=Well then, I’d advise you make for the woods on the outskirts of town.
@@ -221,7 +222,7 @@
 年が近いせいか、なにかと|ボクに目をかけてくれていた。=Maybe it’s because we’re similar in age, but he always seemed to be looking out for me.
 俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head to the pub once I’ve secured my cart. Would you care to join?
 いえ……ちょっと、|このあと用事がありまして。=I'm sorry...|I have some business to attend to right now.
-そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the pub.|I’ll buy you a drink to toast our reunion. 
+そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the pub.|I’ll buy you a drink to toast our reunion.
 　|　　　―　移動について　―= |       - Getting Around -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
 『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=An "!" indicates places where an event scene will occur. Be sure to visit them.
@@ -2647,7 +2648,7 @@
 そろそろ、ぬしとの契約で|取り決めた１年が過ぎたようじゃが。=The year-long contract we agreed upon is about to come to an end.
 ……………うん。=...Yes.
 まだわっちの故郷には、|たどり着いておらぬ。=We haven't reached my hometown yet.
-わかってるよ。|ボクは契約を果たせなかった。|契約不履行だ。=I know! I couldn't fulfil the agreement. It's a breach of contract.
+わかってるよ。|ボクは契約を果たせなかった。|契約不履行だ。=I know! I couldn't fulfill the agreement. It's a breach of contract.
 うむ、そうじゃな。|ぬしには少し|荷が重かったかもしれぬ。=Yes, it seems like it. Maybe it was a bit too much for you to handle.
 このあとは、わっち独りで|故郷を目指すつもりじゃ。=From now on I'll search for my hometown on my own.
 そう……だよね。|役に立たなくて、ごめん。=I see.. Sorry I wasn't of any help to you.#tc alternative: It figures. Sorry I couldn't assist you.

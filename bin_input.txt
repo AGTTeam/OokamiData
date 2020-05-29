@@ -13,7 +13,7 @@
 ２回タッチで商品を選択。「売却」タッチで決定。=Tap 2 times to select an item. Tap "Sell" to confirm.
 購入金額= Buy Price
 売却金額=Sell Price
-%d枚=x%d
+%d枚= %d
 × %d=x %d
 合計：=Total:
 選択中：=Selected:
