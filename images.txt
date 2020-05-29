@@ -49,66 +49,66 @@ title/titlemenu2
 タイトル画面に戻る=Return to Title
 
 Towninfo/Towncommon (bottom 2 boxes)
-販売品=Items for sale:
-買値=Asking price
+販売品=For sale:
+買値=Buy price
 人気の品=Popular items:
-売値=Selling price
+売値=Sell price
 
 towninfo/TownInfo01
 交易都市 アイマベルグ=Trade City Eimeberg
-東西の交通の要所にある、文=Strategically located on the east-west trading
-化・経済の中心地。近年では=route, it is a center of business and culture. 
-正教の教化が進み、教会の支= In recent years, the church’s influence has 
-配下に置かれつつある。=grown and the city is now under their control.
+東西の交通の要所にある、文=A center of business and culture 
+化・経済の中心地。近年では=well-placed on the east-west 
+正教の教化が進み、教会の支=trading route. In recent years, the 
+配下に置かれつつある。=church’s influence over the city has grown.#”Recently,” and “influence” > “control” if too long.
 
 towninfo/TownInfo02
 交易都市 クライシュタイン=Trade City Kleistein
-西海岸沿いに作られた商業都=A commercial city built along the west coast.
-市。歴史こそ浅いものの、流=Although still young in its history, it’s
-行に毎感な商人が集まる町と=gained a reputation as a town where merchants
-してその名を知らしめている。=who have their pulse on the latest crazes gather. 
+西海岸沿いに作られた商業都=A commercial city on the west coast.
+市。歴史こそ浅いものの、流=It was built relatively recently,
+行に毎感な商人が集まる町と=but has already gained a reputation
+してその名を知らしめている。=as a hot-spot for trendy items.
 
 towninfo/TownInfo03
-港湾都市 メリンツ=Trade City Melintz
-大規模な港を抱えるメリンツ=With its large port, Melintz is a gateway
-は異国への玄関口。遥か外洋=for international commerce. Traversing the
-を渡ってくる大船団は巨万の=open ocean, large fleets of boats continue
-富を街にもたらし続けている。=to bring enormous wealth to the city.
+港湾都市 メリンツ=Port Town Melintz
+大規模な港を抱えるメリンツ=A gateway for international
+は異国への玄関口。遥か外洋=commerce. Crossing the open
+を渡ってくる大船団は巨万の=ocean, large convoys continue
+富を街にもたらし続けている。=to bring enormous wealth to the city.#”continue to bring enormous wealth in.” if too long.
 
 towninfo/TownInfo04
-港湾都市 セアベルク=Trade City Seabelk
-西海岸屈指の貿易港。生活に=The foremost trading port on the west coast.
-根ざした輸入品が大量に商わ=Many of the imported goods which are rooted in daily
-れており、海沿いの酒場には=life are sold here, and the seaside taverns are always full 
-常に歌と人とがあふれている。=of people and song.
+港湾都市 セアベルク=Port Town Seabelk
+西海岸屈指の貿易港。生活に=The foremost port on the west coast.
+根ざした輸入品が大量に商わ=Specializing in items for every-
+れており、海沿いの酒場には=day life, the seaside pubs are
+常に歌と人とがあふれている。=always full of people and song.
 
 towninfo/TownInfo05
 地方都市 タルリッヒ=Provincial Town Tallihi
-独自の自治と文化を誇る芸術=An artisanal town which prides itself on its own
-の都。高品質の美術品や調度=autonomy and culture. Since ancient times,
-品を求めて工房へと足を運ぶ=there has been no end to the people who come to the workshops 
-人々は古来より後を絶たない。=seeking high quality works of art and furnishings.
+独自の自治と文化を誇る芸術=An artisanal town proud of its
+の都。高品質の美術品や調度=unique heritage. People continue
+品を求めて工房へと足を運ぶ=to flock to its walls seeking high
+人々は古来より後を絶たない。=quality works of art and furnishings.#Cut “works of” if too long.
 
 towninfo/TownInfo06
 地方都市 メルス・クリッツ= Provincial Town Mars Kritz
 氷に閉ざされる地方との境界=A small trading town on the border
-にある小さな交易都市。北の=a region cut off by ice.
-地からもたらされる毛皮や細=#Famous for its furs, crafts, and
-工品、肉の煮込みが有名。=#stewed meats from the Northern territories.
+にある小さな交易都市。北の=of a region cut off by ice.
+地からもたらされる毛皮や細=Famous for its furs, crafts, and
+工品、肉の煮込みが有名。=stewed meats from up north.
 
 towninfo/TownInfo07
 要塞都市 ロマネスブルグ=Fortified City Romannesberg 
 堅牢な城壁を擁する城塞都市。=A citadel with strong sturdy walls.
-異教徒との戦いに赴く軍隊や=Armies and volunteer soldiers gather
-志願兵たちが篤い信仰心と立=to fight the heretics with faith and
+異教徒との戦いに赴く軍隊や=Armies and volunteers gather
+志願兵たちが篤い信仰心と立=to fight heretics with faith and
 身出世を胸に集まってくる。=determination in their hearts.
 
 towninfo/TownInfo08
 要塞都市 グラバラス=Fortified City Gravaras
-異教の地の要塞都市。異なる=A fortified city in pagan territory.
-文化圏にほど近いため、様々=Being close to various spheres of
-な人や言葉、珍しい産物がめ=culture, there are all manners of people,
-まぐるしく行き交っている。=dialects, and rare goods whizzing around.
+異教の地の要塞都市。異なる=A fortified city in pagan 
+文化圏にほど近いため、様々=territory. All manner of
+な人や言葉、珍しい産物がめ=people, dialects and rare
+まぐるしく行き交っている。=goods can be seen whizzing around.
 
 towninfo/TownInfo09
 教会都市 ドルトンク=Parish Town Doltonkh
@@ -119,180 +119,179 @@ towninfo/TownInfo09
 
 towninfo/TownInfo10
 教会都市 クリーグル=Parish Town Kriegel
-教会の教えを守り、慎ましく=A town where those who follow the teachings
-暮らす信徒が集まる町。大き=of the church live together modestly.
-な修道院では独自の農法や醸=Research on cultivation and brewing methods
-造の研究が日々行われている。=are carried out in the abbey daily.
+教会の教えを守り、慎ましく=A town where followers of
+暮らす信徒が集まる町。大き=the church live modestly.
+な修道院では独自の農法や醸=Research on self-sufficiency
+造の研究が日々行われている。=is carried out daily.
 
 towninfo/TownInfo11
 漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
-古くより漁業で栄える町。特=A town which has long prospered from its fishing.
-産であるニシンの産卵期には=During the spawning period of its renowned
-季節の味を求める旅人たちで=herring, the population swells with travelers
-人口が何倍にもふくれあがる。=seeking this seasonal delicacy.
-
+古くより漁業で栄える町。特=With a booming fish industry,
+産であるニシンの産卵期には=the population swells with 
+季節の味を求める旅人たちで=travelers during the spawning 
+人口が何倍にもふくれあがる。=period of its renowned herring.
 towninfo/TownInfo12
 漁業都市 ランドルタット=Fishing Village Landoltatt
-島の湾に面した小さな港町。=A small port town facing the gulf of the island.#This is what the Japanese suggests, but looking at the world map, I feel like “A small port town on an island facing the gulf.” https://www.reddit.com/r/SpiceandWolf/comments/8oh0nh/spice_and_wolf_nds_game_map/
-干満の差が大きな干潟や岩場=In the tidelands and rocky areas where the
-では地物の貝を採る人々の姿=ebb and flow of the waters are largest,
-が常に見受けられる。=you can always spot people gathering the local shellfish.
-
+島の湾に面した小さな港町。=A small port overlooks the 
+干満の差が大きな干潟や岩場=island’s gulf. You can always 
+では地物の貝を採る人々の姿=spot people gathering 
+が常に見受けられる。=shellfish by the shallow waters.
+ 
 towninfo/TownInfo13
 鉱山都市 ヴァルアリー=Mining Town Valerie
-古来は銅の採掘で栄え、現在=A town that has long-since prospered from its copper mining and
-は高い製錬技術で栄える街。=is now thriving on its advanced smelting techniques.
-大きな鍛冶工房には各地より=Orders for farming tools and arms come into the large
-農具や武具の注文が相次ぐ。=blacksmithery one after another.
+古来は銅の採掘で栄え、現在=Having developed a unique
+は高い製錬技術で栄える街。=smelting method, orders
+大きな鍛冶工房には各地より=for tools and arms come 
+農具や武具の注文が相次ぐ。=continuously pouring in.
 
 towninfo/TownInfo14
 鉱山都市 シュリンケル=Mining Town Sulinkel
-かつては炭坑があったものの=Once a former coal mine, the exhausted coal 
-石炭が枯れた現在は住む者も=supply means it’s now a place were few live.
-少ない。山から切り出せる資=Those who remain scrape by on what
-源で細々と生活を営んでいる。=little can be extracted from the mountain.
+かつては炭坑があったものの=A former coal mine, now 
+石炭が枯れた現在は住む者も=empty. The few people who
+少ない。山から切り出せる資=who remain rely on the#”rely on resources from the mountain” if room. 
+源で細々と生活を営んでいる。=mountain to scrape by.
 
 towninfo/TownInfo15
 村ノーリン=Village Norlin
-森を切り開いた田園と放牧地=A small village nestled between farmland
-の中程にたたずむ小さな村。=and clear pastures where the forest once was.
-畜産が盛んで、保存の知恵を=Livestock rearing is flourishing, and there are many local
-生かした特産品も多数。=specialties that leverage the wisdom of preservation.
+森を切り開いた田園と放牧地=A small village nestled
+の中程にたたずむ小さな村。=in greenery. Local specialties
+畜産が盛んで、保存の知恵を=include animal-based and
+生かした特産品も多数。=preserved goods.#qc I inferred animal products based on the fact livestock rearing is said to be flourishing, might not be accurate.
 
 towninfo/TownInfo16
 村 ナウレナス=Village Naulenas
-長い街道を旅する人々を癒す=An inn town that heals the spirts of travelers
-宿場町。華やかな特産こそな=on long journeys. Even though there are no
-いものの、温かな宿ともてな=showy local specialties, you can expect nothing less than
-しはなによりのごちそう。=warm lodgings and great hospitality.
+長い街道を旅する人々を癒す=An inn town that makes up
+宿場町。華やかな特産こそな=for a lack of fancy specialties
+いものの、温かな宿ともてな=with its great hospitality
+しはなによりのごちそう。=offered to travelers. #visiting travelers.
 
 towninfo/TownInfo17
 村 デッセル=Village Dessel
-夕日に映える水車屋が目印=A simple village with a water-wheel mill that glows in the setting sun
-の素朴な村。水と緑に恵まれ=as its landmark. The fertile land, rich with 
-た肥沃な土地には広大な麦畑=water and greenery, is home to vast wheat and
-と綿花畑が広がっている。=cotton fields.
+夕日に映える水車屋が目印=A simple village marked by
+の素朴な村。水と緑に恵まれ=a water-wheel mill. Flush with 
+た肥沃な土地には広大な麦畑=greenery, it’s home to vast 
+と綿花畑が広がっている。=wheat and cotton fields.
 
 towninfo/TownInfo18
 村 マールケ=Village Marlke
 夏の短い、北の荒涼とした地=A village with a short summer,
-に根ざした小さな村。痩せた=rooted in the desolate lands of the north.
-土地が続く風景は訪れる者に=The endless sight of barren terrain 
-一抹の寂しさを感じさせる。=leaves visitors with an empty feeling. 
+に根ざした小さな村。痩せた=in the desolate northern lands.
+土地が続く風景は訪れる者に=The endlessly barren terrain 
+一抹の寂しさを感じさせる。=leaves visitors feeling empty. 
 
 towninfo/TownInfo19
 村 ナインドルハ=Village Neindolha
-景観の良高原に作られた村。=A town built on scenic highlands.
-有閑階級の保養地として知ら=Notorious as a retreat for the leisure class,
-れ、木々の間には瀟洒な建物=you can catch a glimpse of elegant buildings and
-と手入れされた庭園が覗く。=landscaped gardens among the trees.
+景観の良高原に作られた村。=A retreat for the leisure class,
+有閑階級の保養地として知ら=built on scenic highlands.
+れ、木々の間には瀟洒な建物=Elegant buildings and gardens can
+と手入れされた庭園が覗く。=be seen hidden amongst the trees.
 
 towninfo/TownInfo20
 村 ヴィンヘン=Village Vinchen
-農業で栄える小さな村。低地=A small village that thrives on agriculture.
-にはアーモンドの花が、ゆる=In the lowlands, almond flowers bloom, 
-い丘々に連なる斜面にはブド=and on the gently sloping hills,
-ウとオリーブの緑が美しい。=the green of the grapes and olives is beautiful.
+農業で栄える小さな村。低地=A small village where
+にはアーモンドの花が、ゆる=agriculture thrives.
+い丘々に連なる斜面にはブド=Beautiful greenery spreads
+ウとオリーブの緑が美しい。=throughout the lands.
 
 towninfo/TownInfo21
 村 スウィージ=Village Suize
-雪に覆われた連峰の懐にある=A small village in the pocket of the snow-
-小さな村。高山のため交通は=clad mountain ranges. Due to the high mountains
-不便だが、温泉の療養に遠く=travel is inconvenient, but many come from 
-から旅してくる者も多い。=afar for the therapeutic hot springs.
+雪に覆われた連峰の懐にある=Wedged in the snowy mountains,
+小さな村。高山のため交通は=travel is difficult, but
+不便だが、温泉の療養に遠く=many still come from afar 
+から旅してくる者も多い。=for the therapeutic hot springs.
 
 towninfo/TownInfo22
 村　ミランド=Village Miland
-穏やかな風の吹く静かな集落。=A quiet village with a gentle breeze. 
-色とりどりの果樹が立ち並び、=The scenery of multi-colored fruit trees standing
-牛や馬がのんびりと草を食む=side by side, and cows and horses peacefully
-光景は昔から変わらない。=grazing has not changed through the ages.
+穏やかな風の吹く静かな集落。=An idyllic village, where the
+色とりどりの果樹が立ち並び、=rows of multi-colored fruit trees 
+牛や馬がのんびりと草を食む=and peacefully grazing cattle 
+光景は昔から変わらない。=remain untouched by time.
 
 towninfo/TownInfo23
 故郷　シラ=Historic Village Shila
 湖のほとりに面した田舎の村。=A rural village facing a lake.
-魚取りの小舟がゆっくりと湖=The beautiful sight of small boats
-面を行き交うさまは、いつ見=slowly breaking the surface of the lake
-ても心奪われる美しい情景。=catching fish never fails to captivate.
+魚取りの小舟がゆっくりと湖=The sight of small fishing 
+面を行き交うさまは、いつ見=boats on the surface of the 
+ても心奪われる美しい情景。=lake never fails to captivate.
 
 towninfo/TownInfo24
 故郷　エーレ=Historic Village Erle
-島の東端にある小さな漁村。=A small fishing village on the eastern edge of an island.
-稀に美しい二枚貝より採れる=Since ancient times, the rare and beautiful
-真珠は、海の宝石として古来=pearls found in oysters have fetched a high
-より高値で取引されている。=price as jewels of the sea.
+島の東端にある小さな漁村。=A small fishing village in
+稀に美しい二枚貝より採れる=the east. Since ancient times, 
+真珠は、海の宝石として古来=the rare pearls found here
+より高値で取引されている。=have fetched a high price.
 
 towninfo/TownInfo25
 故郷　ワーデン=Historic Village Warden
-冬は厚く雪に閉ざされる吹雪=A snowy town which becomes shut off in the
-の町。近郊の塩湖よりもたら=thick snows of winter. Occasionally, merchants
-される貴重な食材を求めて訪=come in search of the valuable preservative
-れる商人の姿を稀に目にする。=harvested from the neighboring salt-lake.
+冬は厚く雪に閉ざされる吹雪=A town which gets snowed
+の町。近郊の塩湖よりもたら=in every winter. Occasionally, 
+される貴重な食材を求めて訪=merchants come seeking
+れる商人の姿を稀に目にする。=valuable salt from the nearby lake.
 
 towninfo/TownInfo26
 故郷 ユーベル=Historic Village Yubel
-資源を求める人々が新たに切=A village built near the newly opened 
-り開いた炭坑の近くに作った=coal mines by people seeking a profit.
-村。量は少ないものの、質の=Even though the quantity may be small, rumor has it
-良い石炭を産するとの噂。=that it produces coal of good quality.
+資源を求める人々が新たに切=A village built near newly
+り開いた炭坑の近くに作った=opened coal mines.
+村。量は少ないものの、質の=Rumor has it that their
+良い石炭を産するとの噂。=coal is of high quality.
 
 kaiwa/back/bg_sys_tutorial_01
-施設アイコン=#Place Icon
-イベントが発生している施設=#Event Scene Available
+施設アイコン=Place Icon#refers to the “TownEntranceIcon” image. Maybe we can weasel our way out of having to give it a name?
+イベントが発生している施設=Event Scene Available#Indicates that an event is available at this location
 
 kaiwa/back/bg_sys_tutorial_02
-酒場=#Pub
-町の酒場で=#Listen to rumors
-噂話を間く=#at the town pub
-交易マップ=#Trade Map
-噂話アイコン=#Rumor Icon
-を馬車で通る=#Go by the rumor
-(right)噂話を間けます=#icon by cart
+酒場=Pub
+町の酒場で=Listen to rumors
+噂話を間く=at the town pub.
+交易マップ=Trade Map#qc Maybe travel map or just map? 
+噂話アイコン=Pass by the rumour
+を馬車で通る=icon cart via cart
+(right)噂話を聞けます=Listen to rumors#Maybe shuffle the text around so “Rumor icon” is on the left, and “Pass by the icon whilst traveling to hear rumors” is on the right?
 
 kaiwa/back/bg_sys_tutorial_03
-噂話を間くと…=#When you hear a rumor...
-新しい町=#A new town
-が出現=#appears
-イベント=#An event
-が発生=#occurs
+噂話を間くと…=When you hear a rumor...
+新しい町=New towns
+が出現=appear
+イベント=Events
+が発生=occur
 
 kaiwa/back/bg_sys_tutorial_04
-商品アイコン=#Goods Icon
-荷馬車=#Cart
-購入アイコン=#Purchase Icon
-在庫数=#Stock Number
-相場目史=#Market (Price) History
-高騰⇈=#Soaring (Sudden Price Jump)
-高値↑=#High (High Price)
-同額→=#Same (Same Amount)
-暴落⇊ =#Crashing (Sudden drop)
-安値↓=#Low (Low Price)
+商品アイコン=Goods Icon
+荷馬車=Cart
+購入アイコン=Touch to make a purchase#’Buy Icon’ doesn’t sound quite right.
+在庫数=Stock Number#Current Stock
+相場目史=Market History
+高騰⇈=Up#Maybe shift the images left to make more room for text. Would like to extend these if possible
+高値↑=High
+同額→=Steady
+暴落⇊ =Drop
+安値↓=Low
 
 kaiwa/back/bg_sys_tutorial_05
-商品名=#Goods Name
-商品ランク=#Goods Rank
-商品ジャンル=#Goods Genre
+商品名=Goods Name#Item name maybe more natural?
+商品ランク=Goods Rank
+商品ジャンル=Goods Type
 *For the small icons, see goods/goodslevel
 
 kaiwa/back/bg_sys_tutorial_06
-商品アイコン=#Goods Icon
-荷馬車=#Cart
-売却アイコン=#Sale Icon
-売値=#Sales Price
-売却数=#Sales Number
-購入時の値段=#Price at time of Purchase
+商品アイコン=Goods Icon
+荷馬車=Cart
+売却アイコン=Sell Icon#Again, replace with instructions?
+売値=Sell Price
+売却数=No. to sell
+購入時の値段=Price at time of purchase#Original price paid
 
 kaiwa/back/bg_sys_tutorial_07
-(box)販売品=#Sale Item
-(box)買値=#Purchase Price
-買値の平均値=#Average Purchase Price (perhaps "expected" purchase price is more suitable?)
-噂を聞いていない=#An item that you cannot buy
-ので買えない販売品=#because you have not heard the rumor
-(box)人気の品=#Popular Item
-(box)買値=#Purchase Price
-売値の平均値=#Average Sales Price
-所持している=#Popular Items Owned
-人気の品(黄色フチ取り)=#Yellow Border
+(box)販売品=For Sale
+(box)買値=Buy Price
+買値の平均値=Average Buy Price#Mean Buy Price 
+噂を聞いていない=An item you can’t buy as
+ので買えない販売品=you haven’t heard the rumor
+(box)人気の品=Popular 
+(box)買値=Buy Price
+売値の平均値=Average Sell Price
+所持している=Popular items you own are
+人気の品(黄色フチ取り)=indicated by a yellow border
 
 kaiwa/back/sg_bg*
 スタッフ=Staff

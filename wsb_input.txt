@@ -213,53 +213,53 @@
 この時間なら、たぶん|そこにいるはずだからな。=That’s where the client is most likely to be at this time.
 慎重になるのは良いことだがね。|これほど格安で荷馬車が|手に入る機会はそうそうないぞ。=Well, it's good to be wary. However, it’s not every day that you come across a wagon as cheap as this.
 引き受けるにしろ、断るにしろ、|いま決めてほしいんだよ。=Whether you take it or leave it, I'd must ask for a decision here and now.
-――やあ。久しぶりだね。=--My, now there’s a sight for sore eyes.
+――やあ。久しぶりだね。=--My, now there’s a sight for sore eyes!
 あっ、シュミットさん！=Oh, Schmidt!
 荷馬車の御者台に座っていたのは、|ランドル・シュミットという|若い行商人だった。=Sitting poised atop a cart there was Randal Schmidt, a young merchant.
 ボクよりも２つか３つ、|年上なだけだが、|かなり手広く商売しているらしい。=He’s only two or three years older than me, but has quite the extensive business.
 ボクたちの行商路が|少し重なっているので、|ときどき行商先で会うことがある。=Our trade rounds overlap a bit, so we sometimes bump into each other.
 年が近いせいか、なにかと|ボクに目をかけてくれていた。=Maybe it’s because we’re similar in age, but he always seemed to be looking out for me.
-俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head for the tavern once I’ve secured my cart. Would you care to join?
+俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head to the pub once I’ve secured my cart. Would you care to join?
 いえ……ちょっと、|このあと用事がありまして。=I'm sorry...|I have some business to attend to right now.
-そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the tavern.|I’ll buy you a drink.#https://youtu.be/bB-aTWmhHu4?t=576
-　|　　　―　移動について　―= |       - On the Journey -
-町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=To access the town map, choose the "Place Icon" and you can move to another place.
-『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=Places marked with "!" are where an event scene will occur. Be sure to visit them.
+そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the pub.|I’ll buy you a drink to toast our reunion. 
+　|　　　―　移動について　―= |       - Getting Around -
+町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
+『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=An "!" indicates places where an event scene will occur. Be sure to visit them.
 !FILE:event/ev_act/act_030_nibasya_clr_tenshu_talk.wsb
-荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=The owner of the cart should be at the outskirts of town right now. You should pay them a visit.
+荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=The owner of the cart should be on the outskirts of town right now. You’d best pay them a visit.
 !FILE:event/ev_act/act_050_horo_hajimete.wsb
-契約のとき、店主に言われた通り、|ボクは村はずれの森に向かった。=When I made the contract, he said I should go to the outskirts.
-森の中をしばらく進むと|少し開けた場所にたどり着いた。=After a long time, I finally got to the somewhat empty forest.
-そこには、木陰に隠すようにして|馬と荷車が置いてあった。=There was a horse and cart, partially visible in the trees.
-これだ……！=...There it is!
-この荷馬車が|ボクの物になるかもしれない！=This should be the cart in question!
-ボクは荷馬車に駆けよると、|売主の姿を探した。=I ran up to the cart and looked for the merchant.
-荷馬車のそばにいるという|話だったが、売主らしき人物は|どこにも見当たらない。=He said he would be beside it, but no matter where I looked, I couldn't find him.
-何の気なしに、ボクは|荷台にかぶせてあった布を|めくってみた。=I calmly pulled off the cloth that was covering the cart bed.
-すると、そこには――=And what I saw was--
+契約のとき、店主に言われた通り、|ボクは村はずれの森に向かった。=I headed for the forest on the edge of town, as suggested by the shopkeeper.
+森の中をしばらく進むと|少し開けた場所にたどり着いた。=After clambering my way through the trees, I finally happened upon a clearing.
+そこには、木陰に隠すようにして|馬と荷車が置いてあった。=And there I found a horse and cart, resting in the leafy shade of a tree.
+これだ……！=This must be it...!
+この荷馬車が|ボクの物になるかもしれない！=This is the cart that might someday be mine!
+ボクは荷馬車に駆けよると、|売主の姿を探した。=I hurried closer, looking for the client.
+荷馬車のそばにいるという|話だったが、売主らしき人物は|どこにも見当たらない。=They were supposed to be by the carriage, but I couldn’t see anyone.
+何の気なしに、ボクは|荷台にかぶせてあった布を|めくってみた。=Without thinking, I tore off the sheet that was covering the cart.
+すると、そこには――=And, what I saw was--
 ええっ!?=What!?
-――ん？　なんじゃ。|ひと眠りしようと思っておったのに。=--Hm? Goodness. Even though I wanted a nap.
-あの……その……|ごご、ごめんなさいっ！=Ehm... Err...|I, I'm sorry!
-別に謝ることなどありんせん。|わっちに何か用でもあるのかや？=You've naught to be sorry for. Might you have a need for me?
+――ん？　なんじゃ。|ひと眠りしようと思っておったのに。=--Hm? What is it?|I was about to take a nap.
+あの……その……|ごご、ごめんなさいっ！=Ehm... Err...|I-I'm sorry!
+別に謝ることなどありんせん。|わっちに何か用でもあるのかや？=You've naught to be sorry for. Did you need for something?
 えっ？　あ、そうだ。|もしかすると……|あなたが、ホロ、さん？=Huh? Oh, yes. By any chance... Might you be, Miss.. Holo?
 いかにも。わっちがホロじゃ。=Indeed, I am Holo.
-くふ。それにしても、|ぬしは何をそんなに|赤くなっておる。=Heh.. but there seems to be something other than my name making you, sir, turn red.
-雌（めす）の裸を見るのは|はじめてかや？|初心（うぶ）じゃのう。=Is this the first time you have seen a female pube? How innocent.
-それで、ぬしは|なんでこんなところにおるんじゃ。=Anyhow, for what reason is it that you grace me?
-えっと……ボクは、その、|荷馬車の取引をして……それで。=Um... I am, well, here for the cart... you see.
-ほう、ぬしが？=Oh, you are?
-こんなに若い商人だとはの。|さて、どうしたものか。=Such a young merchant. Then what's to be done?
-ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo faced me with a look that seemed as if she were appraising me.
-かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With a cute (and naked!) girl staring so intently at me, my heart sped up.
-だけど、そのとき、|ボクは初めて気がついたんだ。=But by then, I had noticed it.
-あ、あれ……？|その耳……それに尻尾……!?=Wha, what...? Those ears... that tail...!?
-なんじゃ、ぬしは？|今ごろ気づいたのか。|まったく、どこを見ておったのやら。=What is it, good sir? Did you just notice? Honestly, just where have your eyes been?
-（そんなこと、|　答えられるわけがない！）=(There's no way I can answer that!)
-くふ。まあ、想像はつくがの。=Hah, so be your fantasies.
-わっちは麦に宿る狼――|賢狼ホロじゃ。=I am the wolf who lives in wheat--|Or, the Wise Wolf Holo.
-こうして人の姿をとったとしても|尻尾まで隠すわけにはいかぬ。|わっちの誇りじゃからな。=And even when taking human form, I cannot hide my tail, for it is my pride.
-とはいえ、|ぬしが茹であがっても困る。|少し待っておれ。=Nonetheless, you seem to be troubled by it. Please wait.
-さ、これで良かろう。=It should be fine now.
+くふ。それにしても、|ぬしは何をそんなに|赤くなっておる。=Hehe. I daresay that something has made you turn quite red.
+雌（めす）の裸を見るのは|はじめてかや？|初心（うぶ）じゃのう。=Is this your first time seeing the bare skin of a female? How innocent.
+それで、ぬしは|なんでこんなところにおるんじゃ。=So, what is it that brought you here?
+えっと……ボクは、その、|荷馬車の取引をして……それで。=Um... I made a, er, deal about that cart, you see...
+ほう、ぬしが？=Oh, you did?
+こんなに若い商人だとはの。|さて、どうしたものか。=Quite the young merchant you are. Now, what shall we do?
+ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo, looked me up and down as if measuring my worth.
+かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With such a cute (and naked, nontheless!) girl staring so intently at me, my heart grew louder and louder.
+だけど、そのとき、|ボクは初めて気がついたんだ。=However, it had taken me all that time before I noticed...
+あ、あれ……？|その耳……それに尻尾……!?=Wha-What...? Those ears... and a tail...!?
+なんじゃ、ぬしは？|今ごろ気づいたのか。|まったく、どこを見ておったのやら。=Hm, have you only just noticed? Honestly, just where have your eyes been?
+（そんなこと、|　答えられるわけがない！）=(As if I could answer that!)
+くふ。まあ、想像はつくがの。=Hehe. Well, I can imagine.
+わっちは麦に宿る狼――|賢狼ホロじゃ。=I am the wolf who resides in wheat--|Holo the Wisewolf
+こうして人の姿をとったとしても|尻尾まで隠すわけにはいかぬ。|わっちの誇りじゃからな。=Even when taking this human form, I cannot bring myself to hide my tail for it is my pride.
+とはいえ、|ぬしが茹であがっても困る。|少し待っておれ。=Yet, it does us no good if you are too distracted. Wait a moment.
+さ、これで良かろう。=This should do. #https://youtu.be/bB-aTWmhHu4?t=751
 どうして、|服を……着てなかったの？=Why don't you... wear any clothes?
 別に大した理由はない。|散歩から帰ったばかりじゃった。=No particular reason. I simply returned from a walk.
 えっ!?|ってことは、裸で散歩してたの？=What!? Then you were walking naked?
@@ -8037,7 +8037,7 @@
 そうだな。だからといって、|あまり欲をかかないほうがいい。=Probably. But even so, you shouldn't become greedy.
 地道にやっていれば|損することは、まずないからな。|がんばれよ。=If you work honestly, then you won't risk losing it all.|Good luck.
 !FILE:event/ev_sys/t22_mira_ichiba_asidome.wsb
-この時間では、|すでに市場は閉まっていた。=By now, the market has already closed.
+この時間では、|すでに市場は閉まっていた。=The market will already be closed by now.
 !FILE:event/ev_sys/t22_mira_mon2_asidome.wsb
 何も商品を買ってないが|いいのかや？=Is it alright for you to not buy anything?
 空荷で旅するのはやめろと、|さっきの若い商人が|言っておったじゃろう？=Since that young merchant said that less cargo means you will travel quicker?
@@ -8048,9 +8048,9 @@
 よく知ってるね。|ホロには話してないのに。=You know about it.|Even though I didn't tell you.
 くふ。わっちの狼の耳は|なんでも良く聞こえるんじゃ。=Kufu. My wolf's ears hear everything.
 !FILE:event/ev_sys/t22_mira_mon_asidome.wsb
-（森はこっちじゃないな……。|　村はずれの森って、どっちだ？）=(I visited the bar. Anyways, I need to go to the forest outside of town...)
+（森はこっちじゃないな……。|　村はずれの森って、どっちだ？）=(This isn’t right... |How do I get to the forest on the edge of town, again?)
 !FILE:event/ev_sys/t22_mira_pub_asidome.wsb
-（酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(The forest isn't here... Where's the outside forest?)
+（酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(No, going to the pub can come later.|Right now, I need to head for the forest on the edge of town.)
 !FILE:event/ev_sys/t23_sila_act_440_mon2_asidome.wsb
 ......|..........
 ぬしに話があるのじゃ。|今日はこの村でゆっくりしたい。=I wish to tell you something.|I want to rest in town today.
