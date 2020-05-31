@@ -56,184 +56,217 @@ Towninfo/Towncommon (bottom 2 boxes)
 
 towninfo/TownInfo01
 交易都市 アイマベルグ=Trade City Eimeberg
-東西の交通の要所にある、文=A center of business and culture 
-化・経済の中心地。近年では=well-placed on the east-west 
-正教の教化が進み、教会の支=trading route. In recent years, the 
-配下に置かれつつある。=church’s influence over the city has grown.#”Recently,” and “influence” > “control” if too long.
+東西の交通の要所にある、文
+化・経済の中心地。近年では
+正教の教化が進み、教会の支
+配下に置かれつつある。
+A center of business and culture well-placed on the east-west trading route. In recent years, the church’s influence over the city has grown.
+#”Recently,” and “influence” > “control” if too long.
 
 towninfo/TownInfo02
 交易都市 クライシュタイン=Trade City Kleistein
-西海岸沿いに作られた商業都=A commercial city on the west coast.
-市。歴史こそ浅いものの、流=It was built relatively recently,
-行に毎感な商人が集まる町と=but has already gained a reputation
-してその名を知らしめている。=as a hot-spot for trendy items.
+西海岸沿いに作られた商業都
+市。歴史こそ浅いものの、流
+行に毎感な商人が集まる町と
+してその名を知らしめている。
+A commercial city on the west coast. It was built relatively recently, but has already gained a reputation as a hot-spot for trendy items.
 
 towninfo/TownInfo03
 港湾都市 メリンツ=Port Town Melintz
-大規模な港を抱えるメリンツ=A gateway for international
-は異国への玄関口。遥か外洋=commerce. Crossing the open
-を渡ってくる大船団は巨万の=ocean, large convoys continue
-富を街にもたらし続けている。=to bring enormous wealth to the city.#”continue to bring enormous wealth in.” if too long.
+大規模な港を抱えるメリンツ
+は異国への玄関口。遥か外洋
+を渡ってくる大船団は巨万の
+富を街にもたらし続けている。
+A gateway for international commerce. Crossing the open ocean, large convoys continue to bring enormous wealth to the city.
+#”continue to bring enormous wealth in.” if too long.
 
 towninfo/TownInfo04
 港湾都市 セアベルク=Port Town Seabelk
-西海岸屈指の貿易港。生活に=The foremost port on the west coast.
-根ざした輸入品が大量に商わ=Specializing in items for every-
-れており、海沿いの酒場には=day life, the seaside pubs are
-常に歌と人とがあふれている。=always full of people and song.
+西海岸屈指の貿易港。生活に
+根ざした輸入品が大量に商わ
+れており、海沿いの酒場には
+常に歌と人とがあふれている。
+The foremost port on the west coast. Specializing in items for every-day life, the seaside pubs are always full of people and song.
 
 towninfo/TownInfo05
 地方都市 タルリッヒ=Provincial Town Tallihi
-独自の自治と文化を誇る芸術=An artisanal town proud of its
-の都。高品質の美術品や調度=unique heritage. People continue
-品を求めて工房へと足を運ぶ=to flock to its walls seeking high
-人々は古来より後を絶たない。=quality works of art and furnishings.#Cut “works of” if too long.
+独自の自治と文化を誇る芸術
+の都。高品質の美術品や調度
+品を求めて工房へと足を運ぶ
+人々は古来より後を絶たない。
+An artisanal town proud of its unique heritage. People continue to flock to its walls seeking high quality works of art and furnishings.
+#Cut “works of” if too long.
 
 towninfo/TownInfo06
 地方都市 メルス・クリッツ= Provincial Town Mars Kritz
-氷に閉ざされる地方との境界=A small trading town on the border
-にある小さな交易都市。北の=of a region cut off by ice.
-地からもたらされる毛皮や細=Famous for its furs, crafts, and
-工品、肉の煮込みが有名。=stewed meats from up north.
+氷に閉ざされる地方との境界
+にある小さな交易都市。北の
+地からもたらされる毛皮や細
+工品、肉の煮込みが有名。
+A small trading town on the border of a region cut off by ice. Famous for its furs, crafts, and stewed meats from up north.
 
 towninfo/TownInfo07
-要塞都市 ロマネスブルグ=Fortified City Romannesberg 
-堅牢な城壁を擁する城塞都市。=A citadel with strong sturdy walls.
-異教徒との戦いに赴く軍隊や=Armies and volunteers gather
-志願兵たちが篤い信仰心と立=to fight heretics with faith and
-身出世を胸に集まってくる。=determination in their hearts.
+要塞都市 ロマネスブルグ=Fortified City Romannesberg
+堅牢な城壁を擁する城塞都市。
+異教徒との戦いに赴く軍隊や
+志願兵たちが篤い信仰心と立
+身出世を胸に集まってくる。
+A citadel with strong sturdy walls. Armies and volunteers gather to fight heretics with faith and determination in their hearts.
 
 towninfo/TownInfo08
 要塞都市 グラバラス=Fortified City Gravaras
-異教の地の要塞都市。異なる=A fortified city in pagan 
-文化圏にほど近いため、様々=territory. All manner of
-な人や言葉、珍しい産物がめ=people, dialects and rare
-まぐるしく行き交っている。=goods can be seen whizzing around.
+異教の地の要塞都市。異なる
+文化圏にほど近いため、様々
+な人や言葉、珍しい産物がめ
+まぐるしく行き交っている。
+A fortified city in pagan territory. All manner of people, dialects and rare goods can be seen whizzing around.
 
 towninfo/TownInfo09
 教会都市 ドルトンク=Parish Town Doltonkh
-この地方に於ける正教信仰の=This region's center of faith.
-中心地。天高くそびえ立つ大=A towering cathedral welcomes
-聖堂は神の威光にふさわしい=visitors with the majesty
-荘厳さを以て人々を迎える。=of God's mighty power.
+この地方に於ける正教信仰の
+中心地。天高くそびえ立つ大
+聖堂は神の威光にふさわしい
+荘厳さを以て人々を迎える。
+This region's center of faith. A towering cathedral welcomes visitors with the majesty of God's mighty power.
 
 towninfo/TownInfo10
 教会都市 クリーグル=Parish Town Kriegel
-教会の教えを守り、慎ましく=A town where followers of
-暮らす信徒が集まる町。大き=the church live modestly.
-な修道院では独自の農法や醸=Research on self-sufficiency
-造の研究が日々行われている。=is carried out daily.
+教会の教えを守り、慎ましく
+暮らす信徒が集まる町。大き
+な修道院では独自の農法や醸
+造の研究が日々行われている。
+A town where followers of the church live modestly. Research on self-sufficiency is carried out daily.
 
 towninfo/TownInfo11
 漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
-古くより漁業で栄える町。特=With a booming fish industry,
-産であるニシンの産卵期には=the population swells with 
-季節の味を求める旅人たちで=travelers during the spawning 
-人口が何倍にもふくれあがる。=period of its renowned herring.
+古くより漁業で栄える町。特
+産であるニシンの産卵期には
+季節の味を求める旅人たちで
+人口が何倍にもふくれあがる。
+With a booming fish industry, the population swells with travelers during the spawning period of its renowned herring.
+
 towninfo/TownInfo12
 漁業都市 ランドルタット=Fishing Village Landoltatt
-島の湾に面した小さな港町。=A small port overlooks the 
-干満の差が大きな干潟や岩場=island’s gulf. You can always 
-では地物の貝を採る人々の姿=spot people gathering 
-が常に見受けられる。=shellfish by the shallow waters.
- 
+島の湾に面した小さな港町。
+干満の差が大きな干潟や岩場
+では地物の貝を採る人々の姿
+が常に見受けられる。
+A small port overlooks the island’s gulf. You can always spot people gathering shellfish by the shallow waters.
+
 towninfo/TownInfo13
 鉱山都市 ヴァルアリー=Mining Town Valerie
-古来は銅の採掘で栄え、現在=Having developed a unique
-は高い製錬技術で栄える街。=smelting method, orders
-大きな鍛冶工房には各地より=for tools and arms come 
-農具や武具の注文が相次ぐ。=continuously pouring in.
+古来は銅の採掘で栄え、現在
+は高い製錬技術で栄える街。
+大きな鍛冶工房には各地より
+農具や武具の注文が相次ぐ。
+Having developed a unique smelting method, orders for tools and arms come continuously pouring in.
 
 towninfo/TownInfo14
 鉱山都市 シュリンケル=Mining Town Sulinkel
-かつては炭坑があったものの=A former coal mine, now 
-石炭が枯れた現在は住む者も=empty. The few people who
-少ない。山から切り出せる資=who remain rely on the#”rely on resources from the mountain” if room. 
-源で細々と生活を営んでいる。=mountain to scrape by.
+かつては炭坑があったものの
+石炭が枯れた現在は住む者も
+少ない。山から切り出せる資
+源で細々と生活を営んでいる。
+A former coal mine, now empty. The few people who who remain rely on the mountain to scrape by.
+#"rely on" -> "rely on resources from" if room.
 
 towninfo/TownInfo15
 村ノーリン=Village Norlin
-森を切り開いた田園と放牧地=A small village nestled
-の中程にたたずむ小さな村。=in greenery. Local specialties
-畜産が盛んで、保存の知恵を=include animal-based and
-生かした特産品も多数。=preserved goods.#qc I inferred animal products based on the fact livestock rearing is said to be flourishing, might not be accurate.
+森を切り開いた田園と放牧地
+の中程にたたずむ小さな村。
+畜産が盛んで、保存の知恵を
+生かした特産品も多数。
+A small village nestled in greenery. Local specialties include animal-based and preserved goods.
+#qc I inferred animal products based on the fact livestock rearing is said to be flourishing, might not be accurate.
 
 towninfo/TownInfo16
 村 ナウレナス=Village Naulenas
-長い街道を旅する人々を癒す=An inn town that makes up
-宿場町。華やかな特産こそな=for a lack of fancy specialties
-いものの、温かな宿ともてな=with its great hospitality
-しはなによりのごちそう。=offered to travelers. #visiting travelers.
+長い街道を旅する人々を癒す
+宿場町。華やかな特産こそな
+いものの、温かな宿ともてな
+しはなによりのごちそう。
+An inn town that makes up for a lack of fancy specialties with its great hospitality offered to travelers.
+#visiting travelers.
 
 towninfo/TownInfo17
 村 デッセル=Village Dessel
-夕日に映える水車屋が目印=A simple village marked by
-の素朴な村。水と緑に恵まれ=a water-wheel mill. Flush with 
-た肥沃な土地には広大な麦畑=greenery, it’s home to vast 
-と綿花畑が広がっている。=wheat and cotton fields.
+夕日に映える水車屋が目印
+の素朴な村。水と緑に恵まれ
+た肥沃な土地には広大な麦畑
+と綿花畑が広がっている。
+A simple village marked by a water-wheel mill. Flush with greenery, it’s home to vast wheat and cotton fields.
 
 towninfo/TownInfo18
 村 マールケ=Village Marlke
-夏の短い、北の荒涼とした地=A village with a short summer,
-に根ざした小さな村。痩せた=in the desolate northern lands.
-土地が続く風景は訪れる者に=The endlessly barren terrain 
-一抹の寂しさを感じさせる。=leaves visitors feeling empty. 
+夏の短い、北の荒涼とした地
+に根ざした小さな村。痩せた
+土地が続く風景は訪れる者に
+一抹の寂しさを感じさせる。
+A village with a short summer, in the desolate northern lands. The endlessly barren terrain leaves visitors feeling empty.
 
 towninfo/TownInfo19
 村 ナインドルハ=Village Neindolha
-景観の良高原に作られた村。=A retreat for the leisure class,
-有閑階級の保養地として知ら=built on scenic highlands.
-れ、木々の間には瀟洒な建物=Elegant buildings and gardens can
-と手入れされた庭園が覗く。=be seen hidden amongst the trees.
+景観の良高原に作られた村。
+有閑階級の保養地として知ら
+れ、木々の間には瀟洒な建物
+と手入れされた庭園が覗く。
+A retreat for the leisure class, built on scenic highlands. Elegant buildings and gardens can be seen hidden amongst the trees.
 
 towninfo/TownInfo20
 村 ヴィンヘン=Village Vinchen
-農業で栄える小さな村。低地=A small village where
-にはアーモンドの花が、ゆる=agriculture thrives.
-い丘々に連なる斜面にはブド=Beautiful greenery spreads
-ウとオリーブの緑が美しい。=throughout the lands.
+農業で栄える小さな村。低地
+にはアーモンドの花が、ゆる
+い丘々に連なる斜面にはブド
+ウとオリーブの緑が美しい。
+A small village where agriculture thrives. Beautiful greenery spreads throughout the lands.
 
 towninfo/TownInfo21
 村 スウィージ=Village Suize
-雪に覆われた連峰の懐にある=Wedged in the snowy mountains,
-小さな村。高山のため交通は=travel is difficult, but
-不便だが、温泉の療養に遠く=many still come from afar 
-から旅してくる者も多い。=for the therapeutic hot springs.
+雪に覆われた連峰の懐にある
+小さな村。高山のため交通は
+不便だが、温泉の療養に遠く
+から旅してくる者も多い。
+Wedged in the snowy mountains, travel is difficult, but many still come from afar for the therapeutic hot springs.
 
 towninfo/TownInfo22
 村　ミランド=Village Miland
-穏やかな風の吹く静かな集落。=An idyllic village, where the
-色とりどりの果樹が立ち並び、=rows of multi-colored fruit trees 
-牛や馬がのんびりと草を食む=and peacefully grazing cattle 
-光景は昔から変わらない。=remain untouched by time.
+穏やかな風の吹く静かな集落。
+色とりどりの果樹が立ち並び、
+牛や馬がのんびりと草を食む
+光景は昔から変わらない。
+An idyllic village, where the rows of multi-colored fruit trees and peacefully grazing cattle remain untouched by time.
 
 towninfo/TownInfo23
 故郷　シラ=Historic Village Shila
-湖のほとりに面した田舎の村。=A rural village facing a lake.
-魚取りの小舟がゆっくりと湖=The sight of small fishing 
-面を行き交うさまは、いつ見=boats on the surface of the 
-ても心奪われる美しい情景。=lake never fails to captivate.
+湖のほとりに面した田舎の村。
+魚取りの小舟がゆっくりと湖
+面を行き交うさまは、いつ見
+ても心奪われる美しい情景。
+A rural village facing a lake. The sight of small fishing boats on the surface of the lake never fails to captivate.
 
 towninfo/TownInfo24
 故郷　エーレ=Historic Village Erle
-島の東端にある小さな漁村。=A small fishing village in
-稀に美しい二枚貝より採れる=the east. Since ancient times, 
-真珠は、海の宝石として古来=the rare pearls found here
-より高値で取引されている。=have fetched a high price.
+島の東端にある小さな漁村。
+稀に美しい二枚貝より採れる
+真珠は、海の宝石として古来
+より高値で取引されている。
+A small fishing village in the east. Since ancient times, the rare pearls found here have fetched a high price.
 
 towninfo/TownInfo25
 故郷　ワーデン=Historic Village Warden
-冬は厚く雪に閉ざされる吹雪=A town which gets snowed
-の町。近郊の塩湖よりもたら=in every winter. Occasionally, 
-される貴重な食材を求めて訪=merchants come seeking
-れる商人の姿を稀に目にする。=valuable salt from the nearby lake.
+冬は厚く雪に閉ざされる吹雪
+の町。近郊の塩湖よりもたら
+される貴重な食材を求めて訪
+れる商人の姿を稀に目にする。
+A town which gets snowed in every winter. Occasionally, merchants come seeking valuable salt from the nearby lake.
 
 towninfo/TownInfo26
 故郷 ユーベル=Historic Village Yubel
-資源を求める人々が新たに切=A village built near newly
-り開いた炭坑の近くに作った=opened coal mines.
-村。量は少ないものの、質の=Rumor has it that their
-良い石炭を産するとの噂。=coal is of high quality.
+資源を求める人々が新たに切
+り開いた炭坑の近くに作った
+村。量は少ないものの、質の
+良い石炭を産するとの噂。
+A village built near newly opened coal mines. Rumor has it that their coal is of high quality.
 
 kaiwa/back/bg_sys_tutorial_01
 施設アイコン=Place Icon#refers to the “TownEntranceIcon” image. Maybe we can weasel our way out of having to give it a name?
@@ -243,7 +276,7 @@ kaiwa/back/bg_sys_tutorial_02
 酒場=Pub
 町の酒場で=Listen to rumors
 噂話を間く=at the town pub.
-交易マップ=Trade Map#qc Maybe travel map or just map? 
+交易マップ=Trade Map#qc Maybe travel map or just map?
 噂話アイコン=Pass by the rumour
 を馬車で通る=icon cart via cart
 (right)噂話を聞けます=Listen to rumors#Maybe shuffle the text around so “Rumor icon” is on the left, and “Pass by the icon whilst traveling to hear rumors” is on the right?
@@ -284,10 +317,10 @@ kaiwa/back/bg_sys_tutorial_06
 kaiwa/back/bg_sys_tutorial_07
 (box)販売品=For Sale
 (box)買値=Buy Price
-買値の平均値=Average Buy Price#Mean Buy Price 
+買値の平均値=Average Buy Price#Mean Buy Price
 噂を聞いていない=An item you can’t buy as
 ので買えない販売品=you haven’t heard the rumor
-(box)人気の品=Popular 
+(box)人気の品=Popular
 (box)買値=Buy Price
 売値の平均値=Average Sell Price
 所持している=Popular items you own are
