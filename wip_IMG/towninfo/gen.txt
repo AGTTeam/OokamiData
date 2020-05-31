@@ -1,0 +1,3 @@
+ndstextgen --color "#F8F8F8" holo12 "For Sale\nPopular"
+ndstextgen --color "#F8F8F8" holo8 "Buy Price\nSell Price"
+ndstextgen --color "#F8F8F8" --width 166 --wwrap --vert 1 holo12 "A center of business and culture well-placed on the east-west trading route. In recent years, the church's influence over the city has grown."

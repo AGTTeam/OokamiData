@@ -60,8 +60,8 @@ towninfo/TownInfo01
 化・経済の中心地。近年では
 正教の教化が進み、教会の支
 配下に置かれつつある。
-A center of business and culture well-placed on the east-west trading route. In recent years, the church’s influence over the city has grown.
-#”Recently,” and “influence” > “control” if too long.
+A center of business and culture well-placed on the east-west trading route. In recent years, the church's influence over the city has grown.
+#"Recently," and "influence" > "control" if too long.
 
 towninfo/TownInfo02
 交易都市 クライシュタイン=Trade City Kleistein
@@ -78,7 +78,7 @@ towninfo/TownInfo03
 を渡ってくる大船団は巨万の
 富を街にもたらし続けている。
 A gateway for international commerce. Crossing the open ocean, large convoys continue to bring enormous wealth to the city.
-#”continue to bring enormous wealth in.” if too long.
+#"continue to bring enormous wealth in." if too long.
 
 towninfo/TownInfo04
 港湾都市 セアベルク=Port Town Seabelk
@@ -95,7 +95,7 @@ towninfo/TownInfo05
 品を求めて工房へと足を運ぶ
 人々は古来より後を絶たない。
 An artisanal town proud of its unique heritage. People continue to flock to its walls seeking high quality works of art and furnishings.
-#Cut “works of” if too long.
+#Cut "works of" if too long.
 
 towninfo/TownInfo06
 地方都市 メルス・クリッツ= Provincial Town Mars Kritz
@@ -138,7 +138,7 @@ towninfo/TownInfo10
 A town where followers of the church live modestly. Research on self-sufficiency is carried out daily.
 
 towninfo/TownInfo11
-漁業都市 ルッシ=Fishing Village Lutz#Technically “Town/city” but I think village sounds more natural in English. “Port” could also work?
+漁業都市 ルッシ=Fishing Village Lutz#Technically "Town/city" but I think village sounds more natural in English. "Port" could also work?
 古くより漁業で栄える町。特
 産であるニシンの産卵期には
 季節の味を求める旅人たちで
@@ -151,7 +151,7 @@ towninfo/TownInfo12
 干満の差が大きな干潟や岩場
 では地物の貝を採る人々の姿
 が常に見受けられる。
-A small port overlooks the island’s gulf. You can always spot people gathering shellfish by the shallow waters.
+A small port overlooks the island's gulf. You can always spot people gathering shellfish by the shallow waters.
 
 towninfo/TownInfo13
 鉱山都市 ヴァルアリー=Mining Town Valerie
@@ -167,8 +167,7 @@ towninfo/TownInfo14
 石炭が枯れた現在は住む者も
 少ない。山から切り出せる資
 源で細々と生活を営んでいる。
-A former coal mine, now empty. The few people who who remain rely on the mountain to scrape by.
-#"rely on" -> "rely on resources from" if room.
+A former coal mine, now empty. The few people who remain rely on resources from the mountain to scrape by.
 
 towninfo/TownInfo15
 村ノーリン=Village Norlin
@@ -185,8 +184,7 @@ towninfo/TownInfo16
 宿場町。華やかな特産こそな
 いものの、温かな宿ともてな
 しはなによりのごちそう。
-An inn town that makes up for a lack of fancy specialties with its great hospitality offered to travelers.
-#visiting travelers.
+An inn town that makes up for a lack of fancy specialties with its great hospitality offered to visiting travelers.
 
 towninfo/TownInfo17
 村 デッセル=Village Dessel
@@ -194,7 +192,7 @@ towninfo/TownInfo17
 の素朴な村。水と緑に恵まれ
 た肥沃な土地には広大な麦畑
 と綿花畑が広がっている。
-A simple village marked by a water-wheel mill. Flush with greenery, it’s home to vast wheat and cotton fields.
+A simple village marked by a water-wheel mill. Flush with greenery, it's home to vast wheat and cotton fields.
 
 towninfo/TownInfo18
 村 マールケ=Village Marlke
@@ -269,7 +267,7 @@ towninfo/TownInfo26
 A village built near newly opened coal mines. Rumor has it that their coal is of high quality.
 
 kaiwa/back/bg_sys_tutorial_01
-施設アイコン=Place Icon#refers to the “TownEntranceIcon” image. Maybe we can weasel our way out of having to give it a name?
+施設アイコン=Place Icon#refers to the "TownEntranceIcon" image. Maybe we can weasel our way out of having to give it a name?
 イベントが発生している施設=Event Scene Available#Indicates that an event is available at this location
 
 kaiwa/back/bg_sys_tutorial_02
@@ -279,7 +277,7 @@ kaiwa/back/bg_sys_tutorial_02
 交易マップ=Trade Map#qc Maybe travel map or just map?
 噂話アイコン=Pass by the rumour
 を馬車で通る=icon cart via cart
-(right)噂話を聞けます=Listen to rumors#Maybe shuffle the text around so “Rumor icon” is on the left, and “Pass by the icon whilst traveling to hear rumors” is on the right?
+(right)噂話を聞けます=Listen to rumors#Maybe shuffle the text around so "Rumor icon" is on the left, and "Pass by the icon whilst traveling to hear rumors" is on the right?
 
 kaiwa/back/bg_sys_tutorial_03
 噂話を間くと…=When you hear a rumor...
@@ -291,7 +289,7 @@ kaiwa/back/bg_sys_tutorial_03
 kaiwa/back/bg_sys_tutorial_04
 商品アイコン=Goods Icon
 荷馬車=Cart
-購入アイコン=Touch to make a purchase#’Buy Icon’ doesn’t sound quite right.
+購入アイコン=Touch to make a purchase#'Buy Icon' doesn't sound quite right.
 在庫数=Stock Number#Current Stock
 相場目史=Market History
 高騰⇈=Up#Maybe shift the images left to make more room for text. Would like to extend these if possible
@@ -318,8 +316,8 @@ kaiwa/back/bg_sys_tutorial_07
 (box)販売品=For Sale
 (box)買値=Buy Price
 買値の平均値=Average Buy Price#Mean Buy Price
-噂を聞いていない=An item you can’t buy as
-ので買えない販売品=you haven’t heard the rumor
+噂を聞いていない=An item you can't buy as
+ので買えない販売品=you haven't heard the rumor
 (box)人気の品=Popular
 (box)買値=Buy Price
 売値の平均値=Average Sell Price
@@ -428,7 +426,7 @@ SDホロイラスト=Chibi Holo Art
 ゑむ=emu
 
 テーマソング=Theme Song
-「隣にいるよ」=“Next To You”
+「隣にいるよ」="Next To You"
 作詞：平野ハイジ=Lyrics: Haiji Hirano
 作曲：相澤 大=Composition: Dai Aizawa
 編曲：凸 =Arrangement: macado
