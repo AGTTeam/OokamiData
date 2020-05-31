@@ -357,7 +357,7 @@
 町情報　シュリンケル=Town News: Sulinkel
 シュリンケルって町は、昔は石炭|がとれたんだが今はな･･･。|どうにか数少ない資源を掘り出し|て生計を立ててるみたいだがな。=The town Sulinkel used to be a coal mine, but nowadays... they manage to dig up just enough to make a living.
 町情報　ノーリン=Town News: Norlin
-ノーリンって所は長閑な村だよ。|田園や放牧地に囲まれててね。|そこで育った牛やら豚がまた美味|くてたまらんね。|商人もよく買い付けに行くよ。=Norlin is a quiet village. It's surrounded by fields and pasture. The cattle and pigs they raise are unbelievably delicious. Even merchants often buy them.
+ノーリンって所は長閑な村だよ。|田園や放牧地に囲まれててね。|そこで育った牛やら豚がまた美味|くてたまらんね。|商人もよく買い付けに行くよ。=Norlin is a quiet village surrounded by fields and pastures. The cattle and pigs they raise there are unbelievably tasty- even merchants often make the trip to buy them.
 町情報　ナウレナス=Town News: Naulenas
 ナウレナスって宿場町があるのは|知ってるかい？|あの辺りは周りに何も無くてね。|よく行商人や旅人が休憩がてら立|ち寄ってくんだよ。=Did you know there's a post town called Naulenas? There's nothing else around there. Merchants and travelers often stop by to rest.
 町情報　デッセル=Town News: Dessel
