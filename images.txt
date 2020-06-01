@@ -135,6 +135,7 @@ towninfo/TownInfo10
 暮らす信徒が集まる町。大き
 な修道院では独自の農法や醸
 造の研究が日々行われている。
+A town where those who follow the teachings of the church live together modestly. Research on cultivation and brewing methods are carried out daily.
 A town where followers of the church live modestly. Research on self-sufficiency is carried out daily.
 
 towninfo/TownInfo11
@@ -143,6 +144,7 @@ towninfo/TownInfo11
 産であるニシンの産卵期には
 季節の味を求める旅人たちで
 人口が何倍にもふくれあがる。
+A town which has long prospered from its fishing. The population swells with travelers during the spawning period of its renowned herring.
 With a booming fish industry, the population swells with travelers during the spawning period of its renowned herring.
 
 towninfo/TownInfo12
@@ -159,6 +161,7 @@ towninfo/TownInfo13
 は高い製錬技術で栄える街。
 大きな鍛冶工房には各地より
 農具や武具の注文が相次ぐ。
+Having developed a unique smelting method, orders for farming tools and arms come into the large blacksmithery one after another.
 Having developed a unique smelting method, orders for tools and arms come continuously pouring in.
 
 towninfo/TownInfo14
@@ -167,6 +170,7 @@ towninfo/TownInfo14
 石炭が枯れた現在は住む者も
 少ない。山から切り出せる資
 源で細々と生活を営んでいる。
+Once a former coal mine, the exhausted coal supply means it's now a place were few live. Those who remain rely on resources from the mountain to scrape by.
 A former coal mine, now empty. The few people who remain rely on resources from the mountain to scrape by.
 
 towninfo/TownInfo15
@@ -184,6 +188,7 @@ towninfo/TownInfo16
 宿場町。華やかな特産こそな
 いものの、温かな宿ともてな
 しはなによりのごちそう。
+An inn town that heals the spirits of travelers on long journeys. It makes up for a lack of fancy specialties with its warm lodgings and great hospitality.
 An inn town that makes up for a lack of fancy specialties with its great hospitality offered to visiting travelers.
 
 towninfo/TownInfo17
@@ -192,6 +197,7 @@ towninfo/TownInfo17
 の素朴な村。水と緑に恵まれ
 た肥沃な土地には広大な麦畑
 と綿花畑が広がっている。
+A simple village with a water-wheel mill that glows in the setting sun as its landmark. Flush with greenery, it's home to vast wheat and cotton fields.
 A simple village marked by a water-wheel mill. Flush with greenery, it's home to vast wheat and cotton fields.
 
 towninfo/TownInfo18
@@ -200,6 +206,7 @@ towninfo/TownInfo18
 に根ざした小さな村。痩せた
 土地が続く風景は訪れる者に
 一抹の寂しさを感じさせる。
+A village with a short summer, rooted in the desolate lands of the north. The endless sight of barren terrain leaves visitors with an empty feeling.
 A village with a short summer, in the desolate northern lands. The endlessly barren terrain leaves visitors feeling empty.
 
 towninfo/TownInfo19
@@ -216,6 +223,7 @@ towninfo/TownInfo20
 にはアーモンドの花が、ゆる
 い丘々に連なる斜面にはブド
 ウとオリーブの緑が美しい。
+A small village that thrives on agriculture. In the lowlands, almond flowers bloom, and on the sloping hills, the green of the grapes and olives is beautiful.
 A small village where agriculture thrives. Beautiful greenery spreads throughout the lands.
 
 towninfo/TownInfo21
@@ -224,6 +232,7 @@ towninfo/TownInfo21
 小さな村。高山のため交通は
 不便だが、温泉の療養に遠く
 から旅してくる者も多い。
+A small village in the pocket of the snow-clad mountain ranges. Travel is difficult, but many still come from afar for the therapeutic hot springs.
 Wedged in the snowy mountains, travel is difficult, but many still come from afar for the therapeutic hot springs.
 
 towninfo/TownInfo22
@@ -232,6 +241,7 @@ towninfo/TownInfo22
 色とりどりの果樹が立ち並び、
 牛や馬がのんびりと草を食む
 光景は昔から変わらない。
+A quiet village with a gentle breeze, where the rows of multi-colored fruit trees and peacefully grazing cattle remain untouched by time.
 An idyllic village, where the rows of multi-colored fruit trees and peacefully grazing cattle remain untouched by time.
 
 towninfo/TownInfo23
@@ -240,6 +250,7 @@ towninfo/TownInfo23
 魚取りの小舟がゆっくりと湖
 面を行き交うさまは、いつ見
 ても心奪われる美しい情景。
+A rural village facing a lake. The beautiful sight of small boats slowly breaking the surface of the lake catching fish never fails to captivate.
 A rural village facing a lake. The sight of small fishing boats on the surface of the lake never fails to captivate.
 
 towninfo/TownInfo24
@@ -248,6 +259,7 @@ towninfo/TownInfo24
 稀に美しい二枚貝より採れる
 真珠は、海の宝石として古来
 より高値で取引されている。
+A small fishing village on the eastern edge of an island. Since ancient times, the rare pearls found here have fetched a high price as jewels of the sea.
 A small fishing village in the east. Since ancient times, the rare pearls found here have fetched a high price.
 
 towninfo/TownInfo25
@@ -256,6 +268,7 @@ towninfo/TownInfo25
 の町。近郊の塩湖よりもたら
 される貴重な食材を求めて訪
 れる商人の姿を稀に目にする。
+A snowy town which becomes shut off in the thick snows of winter. Occasionally, merchants come seeking valuable salt from the nearby lake.
 A town which gets snowed in every winter. Occasionally, merchants come seeking valuable salt from the nearby lake.
 
 towninfo/TownInfo26
@@ -264,6 +277,7 @@ towninfo/TownInfo26
 り開いた炭坑の近くに作った
 村。量は少ないものの、質の
 良い石炭を産するとの噂。
+A village built near the newly opened coal mines by people seeking a profit.\nRumor has it that their coal is of high quality.
 A village built near newly opened coal mines. Rumor has it that their coal is of high quality.
 
 kaiwa/back/bg_sys_tutorial_01
