@@ -9,7 +9,7 @@
 ホロ=Holo
 店員=Clerk
 シュミット=Schmidt
-酒場の主人=Pubkeeper
+酒場の主人=Barkeeper
 村人=Villager
 店主=Shopkeeper
 村長=Mayor
@@ -220,9 +220,9 @@
 ボクよりも２つか３つ、|年上なだけだが、|かなり手広く商売しているらしい。=He’s only two or three years older than me, but has quite the extensive business.
 ボクたちの行商路が|少し重なっているので、|ときどき行商先で会うことがある。=Our trade rounds overlap a bit, so we sometimes bump into each other.
 年が近いせいか、なにかと|ボクに目をかけてくれていた。=Maybe it’s because we’re similar in age, but he always seemed to be looking out for me.
-俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head to the pub once I’ve secured my cart. Would you care to join?
+俺は荷馬車を預けたら、|酒場に顔を出すつもりなんだ。|いっしょに来るかい？=I’m planning to head to the tavern once I’ve secured my cart. Would you care to join?
 いえ……ちょっと、|このあと用事がありまして。=I'm sorry...|I have some business to attend to right now.
-そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the pub.|I’ll buy you a drink to toast our reunion.
+そうか。|用が済んだら、酒場に寄るといい。|乾杯ぐらいはおごってやるよ。=I see. When you're done, drop by the tavern.|I’ll buy you a drink to toast our reunion.
 　|　　　―　移動について　―= |<<- Getting Around -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
 『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=An "!" indicates places where an event scene will occur. Be sure to visit them.
@@ -341,15 +341,15 @@
 たしか、おまえの師匠も|徒歩の行商人だったよな？=If I recall, your mentor was also a peddler, correct?
 だったら、何に気をつけるべきか|少し教えておいてやろう。=Then, let me tell you a bit about what to watch out for.
 よろしくお願いします！=That’d be a big help!
-まずは酒場に入ったら、|どんな噂が流れてるかを|調べておく必要がある。=First, when you head into a pub, you need to find out what kind of rumors are going around.
+まずは酒場に入ったら、|どんな噂が流れてるかを|調べておく必要がある。=First, when you head into a tavern, you need to find out what kind of rumors are going around.
 もう『噂話』を聞いてみたか？=Have you already tried asking about the latest “rumors”?
 いえ。まだ聞いてません。=No, not yet.
 それなら、俺の話より先に|『噂話』を聞いてくるといい。=Then, you should do that before we continue.
-はい。聞いてみました。=Yes, I spoke with the Pubkeeper.
+はい。聞いてみました。=Yes, I spoke with the Barkeeper.
 『噂話』を聞いたときには、|忘れないうちに|書きとめておくようにな。=Once you’ve heard a rumor, make sure to write it down before you forget.
 そして、『噂話』を|いつでも確認できるようにするのが|大事だ。=Plus, it’s handy to be able to check them whenever you’d like.#tc
 『噂話』を書きとめるのは、|ボクの師匠にも言われていたので|すでにやっておいた。=My mentor had told me the same, so I’ve already written it down.
-『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only pubs that you can hear rumors, but you can also speak to other merchants when you’re out on the road.
+『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only taverns that you can hear rumors, but you can also speak to other merchants when you’re out on the road.
 聞いたことのある『噂話』は、|いつでも確認できるように|クセをつけておくんだ。=Make it a habit to go back and check rumors you’ve heard before.
 とりあえず、『噂話』については|こんなところか。=Well, that’s about all I have to say on “rumors” for now.
 ありがとうございました！=Thanks a lot!
@@ -358,11 +358,11 @@
 しばらく雑談をしたあとで、|シュミットさんは勘定をすませて|酒場を出ていった。=We spoke for a while before he settled the bill and left.
 酒場の入口まで見送ってから、|ボクはホロのところに行った。=I saw him to the exit and then returned to check up on Holo.
 ごめんよ、ホロ。|ちょっと話が長引いちゃってね。=Sorry, Holo. We ended up talking for a while.
-まったく、ぬしはなっとらん。|酒場で雌を放っておくなど、|雄の風上にもおけぬ。=Honestly. That was rather unbecoming of you. Any male who would leave a female alone at a pub is unworthy of her.#Occurs if you don’t speak to Holo at all.
+まったく、ぬしはなっとらん。|酒場で雌を放っておくなど、|雄の風上にもおけぬ。=Honestly. That was rather unbecoming of you. Any male who would leave a female alone at a tavern is unworthy of her.#Occurs if you don’t speak to Holo at all.
 他の雄に言い寄られたり|しないよう、気をつかうのが|雄の甲斐性というものじゃ。=It is the male's duty to pay attention, otherwise other males will court her.
 ぬしに|ないがしろにされた分の|埋め合わせはしてもらうからの。=For ignoring me like that, I shall have you make it up to me.
 とりあえずは葡萄酒で、|それから羊肉の香草焼きと、|豚肉の果実漬け、それに――=First, some wine and then grilled lamb followed by sweet pickled pork, and then--
-まったく、ぬしはなっとらん。|雌を酒場に連れてきておいて|飲み食いさせんとはな。=Honestly. That was rather unbecoming of you. Bringing a female to a pub and not giving her food and drink...
+まったく、ぬしはなっとらん。|雌を酒場に連れてきておいて|飲み食いさせんとはな。=Honestly. That was rather unbecoming of you. Bringing a female to a tavern and not giving her food and drink...
 いくら若いとはいえ、|ぬしも雄のはしくれじゃ。|少しは甲斐性を見せてくりゃれ。=Even though you are young, you are still a man. Show a little more tact.
 こんなケチくさい雄を旅の相手に|選んだなど、賢狼ホロの名に|傷がつこうというもの。=Choosing such a stingy male to travel with is an insult to the great name of Holo the Wisewolf.
 これ、ぬしよ。笑っとらんで|何とか言ったらどうじゃ？=Hmph. You cannot even answer me back without a smile?#tc
@@ -380,11 +380,11 @@
 本当に？|ああ、良かった……。=Really? What a relief......
 ……と、思ったけど、|３０杯でもボクの予算より|すごく多いんだけど。=...Though, 30 pints is still much more than I expected.
 荷馬車を使った行商では|行動範囲が広くなる分、|情報の扱いが大切になるんだ。=When you have a cart, your area of business becomes larger, so how you deal with information becomes more important.
-酒場でどんな『噂話』が流れてるか、|もう聞いてみたか？=Have you already asked at the bar about the latest “rumors”? #https://youtu.be/bB-aTWmhHu4?t=1109
+酒場でどんな『噂話』が流れてるか、|もう聞いてみたか？=Have you already asked at the bar about the latest “rumors”?
 　|　　　　―　噂について　―= |<<- About Rumors -
 この作品では、たくさんの重要な|情報が「噂話（うわさばなし）」と|して世界中に流れています。=In this line of work, a lot of important information travels around as “rumors”.
-「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Pub" and on the "Map".
-町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Pub", you can hear rumors from the people inside.
+「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Tavern " and on the "Map".
+町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Tavern ", you can hear rumors from the people inside.
 「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the "Map", you can hear rumors by passing by the location where a "?" mark appears.
 集めた噂はいつでも読み返すことが|できます。たくさん集めてゲームを|有利に進めましょう。=You may re-read rumors at any time. Collecting many will help you better progress through the game.
 　|　　　―　噂を聞くと……？　―=　|<<- When you hear a rumor...? -
@@ -3564,8 +3564,8 @@
 『！』がついている施設では、|イベントが発生しています。|是非訪れてみましょう。=An "!" indicates places where an event scene will occur. Be sure to visit them.
 　|　　　　―　噂について　―= |<<- About Rumors -
 この作品では、たくさんの重要な|情報が「噂話（うわさばなし）」と|して世界中に流れています。=In this line of work, a lot of important information travels around as “rumors”.
-「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Pub" and on the "Map".
-町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Pub", you can hear rumors from the people inside.
+「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Tavern" and on the "Map".
+町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Tavern", you can hear rumors from the people inside.
 「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the "Map", you can hear rumors by passing by the location where a "?" mark appears.
 集めた噂はいつでも読み返すことが|できます。たくさん集めてゲームを|有利に進めましょう。=You may re-read rumors at any time. Collecting many will help you better progress through the game.
 　|　　　―　噂を聞くと……？　―=　|<<- When you hear a rumor...? -
@@ -8045,13 +8045,13 @@
 !FILE:event/ev_sys/t22_mira_mon3_asidome.wsb
 わっちは腹が減った。|何か食べさせてくりゃれ。=I am rather hungry.|Can we not get something to eat first?
 !FILE:event/ev_sys/t22_mira_mon4_asidome.wsb
-昨夜の若い商人と|市場で会うのではないのかや？|酒場で約束してたじゃろう。=Are you not going to meet that young merchant at the market? You arranged thus last night at the pub.
+昨夜の若い商人と|市場で会うのではないのかや？|酒場で約束してたじゃろう。=Are you not going to meet that young merchant at the market? You arranged thus last night at the tavern.
 よく知ってるね。|ホロには話してないのに。=You’re well-informed.|Even though I never told you about that...
 くふ。わっちの狼の耳は|なんでも良く聞こえるんじゃ。=Hehe. My wolf ears hear everything.
 !FILE:event/ev_sys/t22_mira_mon_asidome.wsb
 （森はこっちじゃないな……。|　村はずれの森って、どっちだ？）=(This isn’t right... How do I get to the forest on the edge of town, again?)
 !FILE:event/ev_sys/t22_mira_pub_asidome.wsb
-（酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(No, going to the pub can come later.|Right now, I need to head for the forest on the edge of town.)
+（酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(No, going to the tavern can come later.|Right now, I need to head for the forest on the edge of town.)
 !FILE:event/ev_sys/t23_sila_act_440_mon2_asidome.wsb
 ......|..........
 ぬしに話があるのじゃ。|今日はこの村でゆっくりしたい。=I wish to tell you something.|I want to rest in town today.
