@@ -3,12 +3,12 @@
 家畜=Livestock
 魚介類=Seafood
 農産物=Produce
-加工食品=Processed Food
+加工食品=Processed# Food
 衣料素材=Fabrics
 鉱物素材=Minerals
 道具類=Tools
 酒類=Liquors
-贅沢品=Luxury Items
+贅沢品=Luxuries# Luxury Items
 香料=Spices
 
 gossipinfo/List
@@ -17,14 +17,14 @@ gossipinfo/List
 menu/Menu
 地図=Map
 商品=Goods
-噂=Rumors
+噂=Rumor
 情報=Info
 SYS=Menu
 購入=Buy
 売却=Sell
 全選択=All #Select all
 戻る=Back
-進む=Go #Continue
+進む=Next
 
 playerinfo/PlayerInfo
 親密度 Lv=Intimacy LVL
@@ -49,9 +49,9 @@ title/titlemenu2
 タイトル画面に戻る=Return to Title
 
 Towninfo/Towncommon (bottom 2 boxes)
-販売品=For sale:
+販売品=For sale
 買値=Buy price
-人気の品=Popular items:
+人気の品=Popular
 売値=Sell price
 
 towninfo/TownInfo01
@@ -86,7 +86,7 @@ towninfo/TownInfo04
 根ざした輸入品が大量に商わ
 れており、海沿いの酒場には
 常に歌と人とがあふれている。
-The foremost port on the west coast. Specializing in items for every-day life, the seaside pubs are always full of people and song.
+The foremost port on the west coast. Specializing in items for every-day life, the seaside taverns are always full of people and song.
 
 towninfo/TownInfo05
 地方都市 タルリッヒ=Provincial Town Tallihi
@@ -285,11 +285,11 @@ kaiwa/back/bg_sys_tutorial_01
 イベントが発生している施設=Event Scene Available#Indicates that an event is available at this location
 
 kaiwa/back/bg_sys_tutorial_02
-酒場=Pub
+酒場=Tavern
 町の酒場で=Listen to rumors
-噂話を間く=at the town pub.
+噂話を間く=at the town tavern.
 交易マップ=Trade Map#qc Maybe travel map or just map?
-噂話アイコン=Pass by the rumour
+噂話アイコン=Pass by the rumor
 を馬車で通る=icon cart via cart
 (right)噂話を聞けます=Listen to rumors#Maybe shuffle the text around so "Rumor icon" is on the left, and "Pass by the icon whilst traveling to hear rumors" is on the right?
 
@@ -303,14 +303,14 @@ kaiwa/back/bg_sys_tutorial_03
 kaiwa/back/bg_sys_tutorial_04
 商品アイコン=Goods Icon
 荷馬車=Cart
-購入アイコン=Touch to make a purchase#'Buy Icon' doesn't sound quite right.
-在庫数=Stock Number#Current Stock
-相場目史=Market History
-高騰⇈=Up#Maybe shift the images left to make more room for text. Would like to extend these if possible
-高値↑=High
+購入アイコン=Touch to purchase
+在庫数=Stock# Stock Number
+相場目史=History# Market History
+高騰⇈=Soaring
+高値↑=Up
 同額→=Steady
-暴落⇊ =Drop
-安値↓=Low
+暴落⇊ =Crash
+安値↓=Down
 
 kaiwa/back/bg_sys_tutorial_05
 商品名=Goods Name#Item name maybe more natural?
@@ -321,19 +321,19 @@ kaiwa/back/bg_sys_tutorial_05
 kaiwa/back/bg_sys_tutorial_06
 商品アイコン=Goods Icon
 荷馬車=Cart
-売却アイコン=Sell Icon#Again, replace with instructions?
+売却アイコン=Touch to sell
 売値=Sell Price
 売却数=No. to sell
-購入時の値段=Price at time of purchase#Original price paid
+購入時の値段=Original price# Price at time of purchase
 
 kaiwa/back/bg_sys_tutorial_07
 (box)販売品=For Sale
 (box)買値=Buy Price
-買値の平均値=Average Buy Price#Mean Buy Price
+買値の平均値=Average Buy Price# Mean Buy Price
 噂を聞いていない=An item you can't buy as
 ので買えない販売品=you haven't heard the rumor
 (box)人気の品=Popular
-(box)買値=Buy Price
+(box)買値=Sell Price
 売値の平均値=Average Sell Price
 所持している=Popular items you own are
 人気の品(黄色フチ取り)=indicated by a yellow border
