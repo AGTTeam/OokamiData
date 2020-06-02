@@ -42,11 +42,11 @@
  1月=Jan
 %s%2d日=%s %2d
 店主=Shopkeeper
-いらっしゃい。|今日はどういった御用向きで？=Welcome.|What can I do fer ya today?
+いらっしゃい。|今日はどういった御用向きで？=Welcome.|What will it be today?
 買いにきた=Here to buy
 売りにきた=Here to sell
 町に戻る=Return to town
-なんだ、見もせずに帰るのかい？=What? Going home without checking|anything?
+なんだ、見もせずに帰るのかい？=Oh? Going home without checking|anything?
 他に用はあるかい？=Is there anything else you need?
 またよろしく頼むよ。=Thanks again.
 次は何か買っていってくれよ。=Please buy something when you come next|time.
