@@ -12,7 +12,7 @@
 酒場の主人=Barkeeper
 村人=Villager
 店主=Shopkeeper
-村長=Mayor
+村長=Village Leader
 アニス=Anise
 執事=Steward
 吟遊詩人=Bard
@@ -59,7 +59,7 @@
 はい=Yes
 いいえ=No
 おにーさんは取引しなくて、|大丈夫だった？|それともバッチリ？=
-ようこそ！|私どもの商館へ。=
+ようこそ！|私どもの商館へ。=Welcome to our trading house!
 当商会の儲け話の噂をお聞きに|なられたとおっしゃいますか？|おお、それはお耳が早い！=
 では、依頼された商人の方へ|お取次ぎいたしますか？=
 ……と思ったのですが、失礼ながら|お手持ちの資金が足りないご様子|ですね。=
@@ -414,7 +414,7 @@
 ホロ？=Holo?
 ……ははっ！|そいつは縁起のいい名前だね。=......Haha!|Sounds like a good name.
 どういうことですか？=What do you mean?
-ホロってのは、|麦の豊作を司る女神の名前なんだよ。=Holo is the name of the goddess said to be responsible for a bountiful wheat harvest.
+ホロってのは、|麦の豊作を司る女神の名前なんだよ。=Holo is the name of the god said to be responsible for a bountiful wheat harvest.
 わっちは神などと|大層なものじゃありんせん。|ただのホロじゃ。=I am nothing so great as a deity.|I am merely Holo.
 もちろん、それはそうだろう。|だけど商人にとって、|縁起はいいにこしたことがない。=Of course.|But for a merchant, a lucky name can’t hurt.
 俺だって、こいつには|金貨を集めるっていう妖精の=Even I named my horse after a sprite
@@ -422,7 +422,7 @@
 そう言いながら、力強そうな雄馬の|首の辺りを軽くなでると、|シュミットさんは御者台に登った。=As he spoke, Schmidt gently stroked his horse's neck then climbed into the driver's seat.
 このあと、どこに行くんですか？=Where are you heading next?
 まずはデッセルの村だな。|あそこで今年の麦を|仕入れるつもりなんだ。=To Dessel.|I plan to get some of this year's wheat.
-じゃあ、またな。|豊穣の女神さんも、ごきげんよう。=Farewell, then. And to you as well, Ms. Harvest Goddess.
+じゃあ、またな。|豊穣の女神さんも、ごきげんよう。=Farewell, then. And to you as well, Ms. Harvest God.
 デッセルか。=Dessel, huh?
 知ってるの、ホロ？=You know it, Holo?
 ふん。よく知っとる。|おそらく村人たちよりも|ずっとずっとな。=Very well, in fact.|Much more than the current dwellers, I wager.
@@ -431,7 +431,7 @@
 市場では商品の売買ができます。|町を行き来して交易をおこない、|お金を増やしていきましょう。=You can buy and sell goods in the marketplace. Travel around and trade to earn money.
 商品は、店の商品棚に並んでいます。|商品の購入は、下画面で行います。=Goods are put on a store’s shelf. You can buy them using the lower screen.
 商品アイコンを一度タッチすると|選択状態に、更にもう一度タッチ|すると商品が荷馬車に移動します。=Tap on a “Goods Icon” to select it. Touch again to move it to your cart.
-商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left-hand side of the screen to pay and complete your purchase.
+商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left	 side of the screen to pay and complete your purchase.
 安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get higher than normal profits on selling them.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
@@ -518,7 +518,7 @@
 人気の品は、町ごとに異なります。|うまく使えば、大きな儲けを得る|ことができるでしょう。=Popular products vary from town to town. Take advantage of them, and you can turn a tidy profit.
 ちなみにノーリンでは、リンゴが|「人気の品」となっています。|試してみてはいかがでしょうか？=By the way, apples are currently popular in Norlin. Why not give it a try?#qc Do popular products ever change?
 なお、この世界での時間の進みは|ひと月３０日間です。|一年は３６０日となります。=Additionally, note that in this world there are 30 days a month and 360 days in every year.
-契約の期限である８月３０日中に|ホロを故郷まで連れて行けるよう、|上手に商売を進めてください。=Conduct your business wisely so that you may take Holo to her hometown before the contract ends on August the 30th.
+契約の期限である８月３０日中に|ホロを故郷まで連れて行けるよう、|上手に商売を進めてください。=Conduct yourself wisely so that you may take Holo to her hometown before the contract ends on August the 30th.
 !FILE:event/ev_act/act_120_desel_horo_bunri.wsb
 ボクとホロは、小麦の栽培が盛んな|デッセルの村へとやってきた。=Holo and I arrived at the village of Dessel, where wheat cultivation was thriving.
 村から続く街道の入口の近くで、|向こうからやってくる=As we neared the village entrance from the road, I noticed a cart coming out the other side.
@@ -546,74 +546,74 @@
 野暮な質問は|するもんじゃありんせん。=Nothing that you need pry into.
 そうじゃな。夜になったら、|酒場で落ち合うことにしよう。|それで良いかや？=Right. Let’s reconvene in the tavern after it gets dark.|Is that acceptable?
 !FILE:event/ev_act/act_130_desel_soncho_kiku.wsb
-おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what business do you have?#https://youtu.be/QfNFU7oTEik?t=348
-この村の麦は有名ですからね。|少しお話を聞きたいと思いまして。|今年の出来はどうでしたか？=This town is famous for wheat.|I thought I could speak with you for a bit. How is it this year?
-今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It's fine this year. We were a little worried, but we managed to get some fine wheat.
-心配……というと？|天候でも悪かったのですか？=Worried... you say?|Was the weather bad?
-いえ、そうわけでは|ありませんよ。実はですね……。=No, it's not that.|Actually, it was really....
-村長さんの話によると、|豊穣祈願の祭りを今年から|大きく変更したのだという。=The mayor said that there was a major change in this year's Harvest Festival.
-去年までは、この村で|信じられている豊穣の女神に|祈っていたらしい。=Last year, the townsfolk prayed to the harvest goddess that they believed in.
-だけど、教会に異端の疑いを|かけられたことがあり、今年からは|正教の神に祈ることにした。=But the church accused them of heresy, so this year they prayed to the orthodox God.
-そして、いままで祭っていた|豊穣の女神の名前とは――=And the name of the Harvest Goddess they prayed to was---
-……ホロ、ですか？=......It's Holo?
-ええ、そうです。|何百年もの昔から、この村で|麦を見守っていると言われてます。=That's correct. It's said that she has watched over this town's wheat for hundreds of years.
+おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what can I help you with? 
+この村の麦は有名ですからね。|少しお話を聞きたいと思いまして。|今年の出来はどうでしたか？=This village’s wheat is famous, so I was hoping to hear more about it. How was this year’s harvest?
+今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but, in the end, we reaped fine wheat. 
+心配……というと？|天候でも悪かったのですか？=Concerns... you say?|Was the weather bad?
+いえ、そうわけでは|ありませんよ。実はですね……。=No, nothing like that.|You see, actually...
+村長さんの話によると、|豊穣祈願の祭りを今年から|大きく変更したのだという。=According to the village leader, this year’s harvest festival had seen big changes.
+去年までは、この村で|信じられている豊穣の女神に|祈っていたらしい。=Until last year, the villagers had prayed to a harvest goddess they believed lived there.
+だけど、教会に異端の疑いを|かけられたことがあり、今年からは|正教の神に祈ることにした。=But the Church began to accuse them of heresy, so from this year they decided to offer prayers to the orthodox god instead.
+そして、いままで祭っていた|豊穣の女神の名前とは――=And the name of the harvest goddess they had once prayed to was--
+……ホロ、ですか？=...Holo?
+ええ、そうです。|何百年もの昔から、この村で|麦を見守っていると言われてます。=Yes, that’s right. It's said that she has watched over this village’s wheat for centuries.
 今年になってホロへの祈りを|やめたので、もしかすると、|不作になるかと心配しておりました。=We were worried that because we didn't pray to Holo this year, our crops would fail.
-しかし、無事に麦は実りました。|時代遅れの女神の力など、|たいしたことはないようですな。=But our crops turned out fine.|I suppose some old-fashioned Goddess was nothing to fret over.
-元々、ここ最近は、ホロのことを|信じている村人も少なくなって|おりましたからね。=The people had begun to lose their faith in Holo in any case.
-そうでしたか。|麦の出来が良かったのは|何よりでしたね。=I see.|Well, it's good that the wheat was alright.
-ありがとうございます。|ぜひ、この村の麦を|仕入れていってくださいよ。=Thank you.|Please, stock yourself with as much of it as you like.
+しかし、無事に麦は実りました。|時代遅れの女神の力など、|たいしたことはないようですな。=But the wheat grew without any trouble.|Looks like the power of that outdated goddess didn’t amount to much after all.
+元々、ここ最近は、ホロのことを|信じている村人も少なくなって|おりましたからね。=Besides, the number of villagers who believe in Holo has been dwindling recently anyway.
+そうでしたか。|麦の出来が良かったのは|何よりでしたね。=I see.|At any rate, I’m happy to hear that the harvest went well.
+ありがとうございます。|ぜひ、この村の麦を|仕入れていってくださいよ。=Thank you.|Please, do buy some whilst you’re here.
 !FILE:event/ev_act/act_130_desel_soncho_kiku_soncho_talk.wsb
-いままで祭っていた|豊穣の女神ホロへの祈りをやめて、|心配していたのですがね。=We prayed to the Harvest Goddess Holo up until now, so we were a bit worried.
-今年も、いままでと同じように|良い麦が実りました。|これで、ひと安心ですよ。=Our wheat was as good as any year, though.|It was such a relief.
+いままで祭っていた|豊穣の女神ホロへの祈りをやめて、|心配していたのですがね。=We stopped praying to the harvest goddess Holo that we had worshipped until now, so we were a bit worried.
+今年も、いままでと同じように|良い麦が実りました。|これで、ひと安心ですよ。=But our wheat this year was as good as any.|It was such a relief.
 !FILE:event/ev_act/act_140_desel_horo_saikai.wsb
-どいつもこいつも、|本当にわっちのことを忘れおって！|恩知らずどもめ！=No matter where we go, all the people have forgotten me!|What ungrateful lice!
-ホロは酒場の隅のほうの|テーブルに１人で座っていた。=Holo sat alone at a table in the corner of the bar.
-どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven't you had enough to drink?
-放っといてくりゃれ！|わっちがしてやったことなど、|無駄だったとぬかしよる。=Leave me be! Even with all I did for them, they do not even remember me!
-せめて酒でも飲んで|憂さを晴らさなければ|やっとられんわ。=At least I can drink my anger away, and forget all of it!
-何をそんなに|ホロが怒っているのかは|正直、よくわからなかった。=It was pretty obvious that something got Holo really mad, but I didn't really know.
-それでもボクは、|なんとかホロをなだめようと|相づちを打ったりしていた。=But I still tried to calm her down however I could.
-ボクは話題を変るため、|村で聞いた話をホロに伝えた。=I changed the subject and told her about the talk of the town.
-ああ、そういえばね。|村の人から面白い話を聞いたよ。=Oh, right. I heard something interesting from the townsfolk.
-この村では、ホロっていう|名前の女神を祭ってるんだってさ。=They said that they worshipped a goddess called Holo here.
-シュミットさんも言ってたけど、|本当にホロとおんなじ名前なんだね。=Schmidt mentioned that, too, but it looks like it WAS you.
-たわけ！|それは、わっちのことじゃ。=Fool!|Of course it is I.
-わっちは麦に宿る狼じゃと|初めて会ったときに言ったろう？=I am a wolf who lives in wheat.|Did I not say that when we met?
-なあ、ぬしよ。わっちはな。|何百年もの間、ここの麦畑に宿って|実りを見守ってきたのじゃ。=You know, Chief. I lived in these wheat fields for hundreds of years, guarding the harvest.
-途中からはいやいやじゃったが、|それでも手を抜くことなど|ありんせん。=I felt like giving up many times, but I grudgingly went on and did no such thing.
-それなのに、この村の連中ときたら|教会を恐れて、もうわっちは|用なしじゃとか言いおった。=Even so, this town is controlled by fear of the church, so they deemed me to be useless.
-そもそも、わっちのことを|信じる者など、ここ何十年の間、|どんどん減るばかりで――。=The people believed in me for a very long time, but such people have rapidly disappeared.
-ホロは酔っ払ってるんだと思った。|悪魔憑きなのは確かだけれど、|この話はとても信じられなかった。=She must have been drunk.|There certainly was a demon here, but I couldn't believe her.
-なんじゃ、ぬしは。|またわっちの話を疑っておるのか。=Come now, you still doubt the things I tell you?
-いや……えっと、その、|それじゃあ、ホロは神様ってこと？=No, but... doesn't that make you a goddess?
-前にも言った通り、|わっちは神なんかじゃありんせん。|ただのホロ……賢狼ホロじゃ。=I have told you before that I am nothing like a goddess.|I am simply Holo. Wise Wolf Holo.
-この村に来たばかりのときは、|わっちも神などとは呼ばれんかった。=Shortly after I came here, they also called me a goddess.
-いつの間にか、神などと|まつり上げられておったがの。=And soon enough, they were having festivals in my honor.
-ってことは、|この村はホロの故郷じゃないの？=But then... isn't this town your home?
-わっちの故郷は|もっと北のほうじゃ。=My home is farther to the north.
-この村にずっといたのは、|大昔、この村の青年と|約束したからにすぎん。=The reason I was here for so long was because I made a promise with a young townsman, so I stayed.
-この村の麦を|良く実らせてくりゃれ、と。=And here, I gave them a plentiful wheat harvest.
-えっと、|その約束はもういいの？=Then... you fulfilled your promise?
-充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I served this town for a long time. I have more than fulfilled my promise.
-そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, she didn't say any more. It felt like talking about it was too painful for her.
-くふ。=Hm.
-とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=Still, I would have appreciated a little more gratitude from the townsfolk.
-今年、この村では|わっちのための祭りをしなかった。=There was no festival held in my honor this year.
-そのおかげで、こうして|わっちの宿った麦とともに|村から抜け出すことができたんじゃ。=Because of that, I was able to get away from the town, through the wheat that I dwelled in.
-ほれ。これが|わっちの宿っておる麦じゃ。=Look. This is the wheat that I was living in.
-ホロは首から提げている袋を|ボクに見せてくれた。=Holo showed me the sack that she kept around her neck.
-袋の中には、ひと握りの麦が|詰まっていた。=Inside the sack was a fistful of wheat.
-この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=This wheat is safe for me, so I can take it anywhere I please.
-もう、この村に|しばられることもありんせん。=With this, I will no longer be bound to this town.
-わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am so... tired of being alone.
-敬われて、遠ざけられて、|恐れられるのは、もう……。=Honoring, distancing, fearing... it is all...
-ホロはそのまま|酔いつぶれてしまった。=She was passed out, drunk.
-ボクは正体をなくしたホロを|宿屋まで担いでいくはめになった。=I ended up having to take Holo, who lost herself, to the inn.
-……ぬしよ……。|水を持ってきてくりゃれ。=...Chief...|get me some water...
-うっぷ！|気持ちが……うっぷ！=Blegh!|I feel... blegh!
-わっちとしたことが、|やけ酒はいかんの……。=I must have drunk myself stupid...
-悪酔いして……うっぷ！|水を……早く……くりゃれ……。=I am hungover... blegh!|Hurry... with... that water...
-結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=Of course, Holo and I ended up spending all morning stuck inside the inn.
+どいつもこいつも、|本当にわっちのことを忘れおって！|恩知らずどもめ！=To think they really forgot about me!|What ingrates!
+ホロは酒場の隅のほうの|テーブルに１人で座っていた。=Holo was sat alone at a table in the corner of the tavern.
+どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven’t you drank a bit too much?
+放っといてくりゃれ！|わっちがしてやったことなど、|無駄だったとぬかしよる。=Leave me be! After all that I did for them, that they would have the impudence to say it was meaningless!
+せめて酒でも飲んで|憂さを晴らさなければ|やっとられんわ。=At least I might drown out my sorrows in a pint.#tc
+何をそんなに|ホロが怒っているのかは|正直、よくわからなかった。=To be honest, I had no idea what had gotten Holo so angry.
+それでもボクは、|なんとかホロをなだめようと|相づちを打ったりしていた。=But I tried to go along with it, in an attempt to calm her down.
+ボクは話題を変るため、|村で聞いた話をホロに伝えた。=To change the subject, I told her about what I’d heard in the village.
+ああ、そういえばね。|村の人から面白い話を聞いたよ。=Oh, right. I heard something interesting from the villagers.
+この村では、ホロっていう|名前の女神を祭ってるんだってさ。=Apparently they used to worship a goddess called Holo.
+シュミットさんも言ってたけど、|本当にホロとおんなじ名前なんだね。=Just like Schmidy said, there really is a god with your name.
+たわけ！|それは、わっちのことじゃ。=Fool!|They were talking about me!
+わっちは麦に宿る狼じゃと|初めて会ったときに言ったろう？=I am the wolf who lives in wheat.|Did I not say that when we met?
+なあ、ぬしよ。わっちはな。|何百年もの間、ここの麦畑に宿って|実りを見守ってきたのじゃ。=You know, I have lived in these wheat fields for hundreds of years, watching over the crop.
+途中からはいやいやじゃったが、|それでも手を抜くことなど|ありんせん。=Over time my eagerness to do so faded, but never did I do my job neglectfully.
+それなのに、この村の連中ときたら|教会を恐れて、もうわっちは|用なしじゃとか言いおった。=And yet, they became fearful of the church and declared I was not needed.
+そもそも、わっちのことを|信じる者など、ここ何十年の間、|どんどん減るばかりで――。=Not to mention that the number of people who believe in me has been steadily declining for decades... 
+ホロは酔っ払ってるんだと思った。|悪魔憑きなのは確かだけれど、|この話はとても信じられなかった。=It seemed that Holo was drunk.|I had no doubt that she was possessed by something...>>but this story was just too far-fetched to believe.
+なんじゃ、ぬしは。|またわっちの話を疑っておるのか。=What’s with that look?|You still doubt my words?
+いや……えっと、その、|それじゃあ、ホロは神様ってこと？=No, but... Wouldn't that make you a god?
+前にも言った通り、|わっちは神なんかじゃありんせん。|ただのホロ……賢狼ホロじゃ。=As I said before, I am nothing so great as a deity.|I am merely Holo... Holo the Wisewolf.
+この村に来たばかりのときは、|わっちも神などとは呼ばれんかった。=When I first came to this village, I was not called a god, either.
+いつの間にか、神などと|まつり上げられておったがの。=Although at some point, I had come to be revered as one.
+ってことは、|この村はホロの故郷じゃないの？=You mean... You’re not from this village?
+わっちの故郷は|もっと北のほうじゃ。=My home is far to the north.
+この村にずっといたのは、|大昔、この村の青年と|約束したからにすぎん。=I remained here in honor of a promise I made with a youth of the village long ago...
+この村の麦を|良く実らせてくりゃれ、と。=That I would ensure the village’s harvest.
+えっと、|その約束はもういいの？=So, it’s all said and done now?
+充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I worked long and hard enough. I have more than fulfilled my promise.
+そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, Holo fell silent.|The story aside, her bitter feelings felt genuine.
+くふ。=Heh.
+とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=Such as it is, the villagers’ ingratitude proved to be quite useful.
+今年、この村では|わっちのための祭りをしなかった。=This year, they did not hold a festival in my name.
+そのおかげで、こうして|わっちの宿った麦とともに|村から抜け出すことができたんじゃ。=Thanks to that, I was able to leave the village through the wheat that I dwelt in.
+ほれ。これが|わっちの宿っておる麦じゃ。=Look. This is the wheat I reside in.
+ホロは首から提げている袋を|ボクに見せてくれた。=Holo showed me the pouch that she kept around her neck.
+袋の中には、ひと握りの麦が|詰まっていた。=Inside was a handful of wheat.
+この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=As long as it’s safe, I can go wherever I please.
+もう、この村に|しばられることもありんせん。= I am no longer be bound to this village.
+わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am... so tired of being alone.
+敬われて、遠ざけられて、|恐れられるのは、もう……。=Of being revered, feared, kept at a distance...
+ホロはそのまま|酔いつぶれてしまった。=And just like that, she had passed out, drunk.
+ボクは正体をなくしたホロを|宿屋まで担いでいくはめになった。=I ended up having to carry the unconscious Holo back to the inn.
+……ぬしよ……。|水を持ってきてくりゃれ。=...Mm...|Could you bring me some water...?
+うっぷ！|気持ちが……うっぷ！=Ugh!|I feel... Uogh!
+わっちとしたことが、|やけ酒はいかんの……。=I am the one who did it but, drinking that much was not a good idea...
+悪酔いして……うっぷ！|水を……早く……くりゃれ……。=Being hungover... urk!|Water... please... hurry...
+結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=In the end, we spent the whole morning recuperating at the inn.
 !FILE:event/ev_act/act_140_desel_horo_saikai_aniki_talk_mihensai.wsb
 やあ、元気そうだね。|商売のほうはどうだい？=Oh, you look well.|How's your business doing?
 たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off my cart debt yet.
@@ -3575,7 +3575,7 @@
 市場では商品の売買ができます。|町を行き来して交易をおこない、|お金を増やしていきましょう。=You can buy and sell goods in the marketplace. Travel around and trade to earn money.
 商品は、店の商品棚に並んでいます。|商品の購入は、下画面で行います。=Goods are put on a store’s shelf. You can buy them using the lower screen.
 商品アイコンを一度タッチすると|選択状態に、更にもう一度タッチ|すると商品が荷馬車に移動します。=Tap on a “Goods Icon” to select it. Touch again to move it to your cart.
-商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left-hand side of the screen to pay and complete your purchase.
+商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left of the screen to pay and complete your purchase.
 安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get higher than normal profits on selling them.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
@@ -5040,7 +5040,7 @@
 その分、陸路は大賑わい。|そのうち、あの町の交易は|陸路だけになるんじゃないかな。=
 せっかくの立派な港が|もったいないけど、|ま、仕方ないよね。=
 !FILE:event/ev_mou/mou_def.wsb
-現在、当商会に依頼は舞い込んで|おりません。=
+現在、当商会に依頼は舞い込んで|おりません。=We do not have any commissions for you at this present time.
 ですが、他の町の商会で人を|探していると聞きました。=
 なんでも、|『海鮮料理人対決！』の|件で相談したいことがあるとか。=
 なんでも、|『かまど騒動』の|件で相談したいことがあるとか。=
@@ -5066,8 +5066,8 @@
 現在は……、おお、|『お菓子開発競争』の|商談が進行しているようですな。=
 現在は……、おお、|『海千山千』の|商談が進行しているようですな。=
 結果の報告が参りましたら、|当商会より使いの者を寄越します。|いましばらく、お待ちください。=
-現在、当商会に依頼は舞い込んで|おりません。=
-それでは、ごきげんよう。|幸多き旅でありますように。=
+現在、当商会に依頼は舞い込んで|おりません。=We do not have any commissions for you at this present time.#tc
+それでは、ごきげんよう。|幸多き旅でありますように。=Well then, good day to you.|I wish you fortune on your travels.
 !FILE:event/ev_mou/mou_end.wsb
 やっほー、おにーさん！|商館から、伝言だよ！=
 ※システムで入れます※|「案件名」の件の顛末だよ。|おにーさんに、伝えてくれって。=
@@ -7528,7 +7528,7 @@
 …………=......
 ……あ、ボクたちは|ホロの故郷に向かっているんだから、|同じことか。あははは……。=
 !FILE:event/ev_ren/ren_e10_nazegyoshoninni.wsb
-よい天気じゃの……。=
+よい天気じゃの……。=#https://youtu.be/QfNFU7oTEik?t=696
 こうして荷馬車でのんびり行く旅と|いうのもまたよいものじゃな。=
 これでリンゴなり梨なり、何か気の|利いた積み荷でもあれば文句なし|なんじゃがの、ぬしよ。=
 ホロはさっきまで、|荷台でぐうぐう寝てたのに……。=
@@ -8153,23 +8153,23 @@
 信じておるぞ……=I have faith.....
 約束の期限まで　あと１ヶ月です=There is 1 month until the promised time
 !FILE:event/ev_sys/traderlv_up2.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up3.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up4.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up5.wsb
 のう、ぬしよ。|最近、売り買いをしている|ぬしの様子なのじゃが……=Hey, Chief.|Lately, the way you have been trading things has...
 なかなかにさまになっておるぞ。|買い物の態度も堂に入っておる。|いい雰囲気じゃ。=become very good. Your attitude to buying is grand.|Customers feel at ease with you.
@@ -8178,29 +8178,29 @@
 商人レベルが上がった！=Merchant level has raised!
 女心もこれぐらいわかれば|いいんじゃがの……=If only you understood a girl's heart like this...
 !FILE:event/ev_sys/traderlv_up6.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up7.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up8.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up9.wsb
-のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Hey, Chief.|Lately, I have been thinking...
-ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=I think you only know a small part of what your trade really is.
-ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=Do you not have the presence that comes with being a merchant? Well, I am on your side.
-出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=With an able male beside me, I also am proud.|Keep diligence in your ways.
-商人レベルが上がった！=Merchant level has raised!
+のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say.|I have been thinking lately...
+ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
+ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it? Although I do take the credit.
+出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such an capable male at my side.|Do keep it up.
+商人レベルが上がった！=Merchant level increased!
 !FILE:event/ev_sys/traderlv_up10.wsb
 のう、ぬしよ。|わっちも、ずいぶんと長い間|いろんな人間を見てきたが……=Hey, Chief. After such a long time, I too have seen many different humans.
 今のぬしほど商才に長けた|人間は、これまで見たことが|ないやも知れぬ！=As for a human with your current trading ability, I have not known one before!

@@ -19,9 +19,9 @@
 【ＮＰＣの家】　※イベント用です（仮）=[NPC House]|*For an event.
 【商館】||思わぬ儲け話が聞けることも？=[Trading House]|You might get tips about making money.
 【門】||町を出て街道に戻ります。=[Gate]|Leave town and get back on the road.
-　　　　　　　　　　　　？？？=               ???
+　　　　　　　　　　　　？？？=                              ???
 【取引先商人の家】||いつもお世話になっている塩商人の店です。=[Client Trader's House]|A shop run by a helpful salt merchant.
-【村長の家】||デッセル村の村長の家です。=[Mayor's House]|Where the mayor of Dessel village lives.
+【村長の家】||デッセル村の村長の家です。=[Village Leader's House]|Where the head of Dessel village lives.
 【骨董商】||情報通の骨董商のお店です。=[Antique Shop]|A shop run by a well-informed antique dealer.
 【グスタの家】||グスタに会って話を聞くことができます。=[Gusuta's House]|Meet Gusuta and hear his story.
 【屋敷】　※イベント用です（仮）=[Mansion]|*For an event.
@@ -29,7 +29,7 @@
 【湖】||村の西にある湖に行くことができます。=[Lake]|The lake located west of the village.
 【屋敷】||アニスに会って話を聞くことができます。=[Mansion]|Meet Anise and hear her story.
 【古狼の森】||ホロの故郷と思われる場所です。=[Ancient Forest]|It appears to be Holo's birthplace.
-【村長の家】||デッセル村の村長の家です=[Mayor's House]|Where the mayor of Dessel village lives.
+【村長の家】||デッセル村の村長の家です。=[Village Leader's House]|Where the head of Dessel village lives.
 !FILE:goods.dat
 牛=Cow
 役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for food and milk.
@@ -366,8 +366,8 @@
 北の方に寂れた村があってな、マ|ールケという村なんだが…、どう|もとても珍しい品がひとつあるら|しいんだ。|何かまでは知らないがな。=There is an isolated village to the north called Marlke... apparently there is a very rare item there. I don't know what it is though.
 町情報　ナインドルハ=Town Information: Neindolha
 ナインドルハにはとにかく金持ち|が集まるんだ。|貴族やら何やらがね。|あいつらは贅沢品に目がないから|宝石とかを持っていくといいぜ。=Rich people gather in Neindolha. Nobles and all that. They have a penchant for luxury, so bring some jewelry with you.
-町情報　ヴィンヘン=Town Information: Vinhen
-ヴィンヘンはとても綺麗な村だよ。|アーモンドの畑に、果樹園。|緑が多いってのは心が癒されるね。|そうそう、ここのブドウ酒は他の|町でもとても有名なんだよ。=Vinhen is a very beautiful village, with its almond fields and orchards. The green scenery is very soothing. Oh yeah, their wine is very famous.
+町情報　ヴィンヘン=Town Information: Vinchen
+ヴィンヘンはとても綺麗な村だよ。|アーモンドの畑に、果樹園。|緑が多いってのは心が癒されるね。|そうそう、ここのブドウ酒は他の|町でもとても有名なんだよ。=Vinchen is a really beautiful village, with its almond fields and orchards. Being surrounded by so much greenery just makes you feel relaxed. Oh, and by the by, their wine is pretty famous too.#Repacking this causes the rumor to be skipped.
 町情報　スウィージ=Town Information: Suize
 スウィージの村は年中雪が積もっ|てるからとにかく寒くてね。|でもそんな寒さの中入る温泉は格|別だ。|特産品のチーズも絶品だぜ。=It's so cold in the village of Suize that snow piles up all year round, but there's nothing like a hot spring in such a cold weather. The local specialty cheese is also superb.
 町情報　ミランド=Town Information: Miland
@@ -668,7 +668,7 @@
 噂を聞くには？=Hearing a Rumor?
 色んな噂を聞きたければ、酒場に|顔を出すといい。|店主は色々と噂を聞いてるからな。|あとは移動中の街道でも色んな噂|を聞けることがあるよ。=
 ！アイコンは何？=What's the ! Icon?
-町に入ると色んな施設があるよな。|その中で「！」がついてる施設が|あったら、それは何かが起こるサ|インだ。|何が起こる…まではわからんがな。=
+町に入ると色んな施設があるよな。|その中で「！」がついてる施設が|あったら、それは何かが起こるサ|インだ。|何が起こる…まではわからんがな。=There are many places you can visit once in a town. If a location has a “!” on it, it’s a sign that something will happen there. What that something is... You won’t know until you get there.
 商品を売り買いするには=Buying and Selling
 商品を売り買いするにはまずその|商品を知らないと駄目だ。|商品を知るには町の噂か、その商|品の噂を聞けばいい。|知ってると知らないじゃ大違いさ。=
 販売品って？=Selling Goods?

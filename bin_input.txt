@@ -22,7 +22,7 @@
 本当に売却しますか？=Sell these goods?
 取引を終了しますか？=Finished trading?
 取引を中止しますか？=Cancel the transaction?
-%sの知識レベルが上がりました。|(%d → %d)=Knowledge level for %s has increased.|(%d → %d)
+%sの知識レベルが上がりました。|(%d → %d)=Knowledge level for|%s has increased.|(%d → %d)
 本当に町から出ますか？=Leave town?
 は い= Yes
 Ｏ Ｋ=　OK
