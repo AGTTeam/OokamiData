@@ -337,11 +337,11 @@
 町情報　セアベルク=Town Information: Seabelk
 北西にあるセアベルクって町は活|気のある町だね。|貿易が盛んで商品だけでなく、|酒場なんかは商人や船乗りたちで|いつも賑わってるよ。=The town of Seabelk to the northwest is a lively one. The trade is thriving, and the pubs are always crowded with merchants and sailors.
 町情報　タルリッヒ=Town Information: Tallihi
-ヴィンヘンから南東にある町。|芸術の町と呼ばれている。|美術品や調度品などが売られてい|る。=Located southeast of Vinhen, it's usually called the Town of Arts. Goods like paintings and furniture are sold there.
+ヴィンヘンから南東にある町。|芸術の町と呼ばれている。|美術品や調度品などが売られてい|る。=Located southeast of Vinhen, people call it the home of art. |Goods like paintings and furniture are sold there.
 町情報　メルス・クリッツ=Town Information: Mars Kritz
 メルス・クリッツっていう町から|北へ行くとそこからは寒さが厳し|くなる。|毛皮なんかはそこで仕入れてから|行くといいと思うぜ。=North of Mars Kritz, it gets bitterly cold. I think it's a good idea to stock up on furs before venturing there.
 町情報　ロマネスブルグ=Town Information: Romannesberg
-ヴィンヘンから南西にある町。|異教徒を立ち入れさせないために|要塞都市になっている。|武具や食料などを高く引き|取ってくれる。=The town southwest of Vinhen. It became a fortified city in order to keep out the pagans. They pay good prices for things like armor and food.
+ヴィンヘンから南西にある町。|異教徒を立ち入れさせないために|要塞都市になっている。|武具や食料などを高く引き|取ってくれる。=The town southwest of Vinhen.|It became a fortified city in order to keep out the pagans. They pay good money for things like armor and food.
 町情報　グラバラス=Town Information: Gravaras
 グラバラスは異教徒たちが集まる|町だよ。|色んな国の人間が集まるから珍し|い商品も扱ってるみたいだ。|一度は訪ねてみると良いと思うな。=Gravaras is a town where pagans gather. People come from all over, carrying rare and unusual goods. It's worth visiting at least once.
 町情報　ドルトンク=Town Information: Doltonkh
