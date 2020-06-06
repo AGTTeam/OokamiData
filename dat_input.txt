@@ -331,7 +331,7 @@
 町情報　アイマベルグ=Town Information: Eimeberg
 アイマベルグという町には、全国|から様々な商人が集まっててね。|武具やら香水やら色んな商品を取|り扱ってるよ。|まさに大交易都市ってやつさ。=Merchants from all over the country gather in Eimeberg. They deal in armor, perfume and all sorts of goods. It's a big trading city.
 町情報　クライシュタイン=Town Information: Kleistein
-海岸沿いにお洒落な町があるよ。|たしかクライシュタインって言っ|てたかな？|コーヒーや紅茶みたいな珍しい商|品も扱ってるみたいだよ。=There is a fancy city along the coast. I think it's called Kleistein. They deal in unusual products like black tea and coffee.
+海岸沿いにお洒落な町があるよ。|たしかクライシュタインって言っ|てたかな？|コーヒーや紅茶みたいな珍しい商|品も扱ってるみたいだよ。=There’s a fancy city along the coast which is all the rage. I think it's called Kleistein?|I heard they deal in unusual products like black tea and coffee.
 町情報　メリンツ=Town Information: Melintz
 沿岸沿いにメリンツという大きい|港町があるのは知ってるか？|そこには海の向こうからたくさん|の船がやってきて香辛料とか高価|なものを売っているらしい。=Do you know the port city of Melintz near the shore? I've heard there are a lot of ships coming from afar bringing spices and other expensive goods.
 町情報　セアベルク=Town Information: Seabelk
