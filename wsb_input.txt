@@ -482,7 +482,7 @@
 いや、嫌いだよ。=No, I hate them.
 ボクがそう言った瞬間、|笑顔のままでホロの気配が変った。=As soon as I said that, something about Holo’s smile changed.
 ボクは気がつかなかったけれど。=Though, I continued unaware of the change in mood.
-狼を好きな行商人なんて|いないんじゃないかな。=I don't think that any merchant likes wolves. 
+狼を好きな行商人なんて|いないんじゃないかな。=I don't think that any merchant likes wolves.
 何度か襲われたこともあるし、|殺されそうになったこともある。|――だから、嫌いだよ。=I've been attacked a few times and nearly lost my life. That’s why I hate them.
 ほほう？|よくぞ、わっちの前で|そんなことが言えたもんじゃの。=Oho?|How bold of you to say that before me.
 気を悪くしたのなら、ごめん。=Sorry if I’ve offended you.
@@ -546,9 +546,9 @@
 野暮な質問は|するもんじゃありんせん。=Nothing that you need pry into.
 そうじゃな。夜になったら、|酒場で落ち合うことにしよう。|それで良いかや？=Right. Let’s reconvene in the tavern after it gets dark.|Is that acceptable?
 !FILE:event/ev_act/act_130_desel_soncho_kiku.wsb
-おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what can I help you with? 
+おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what can I help you with?
 この村の麦は有名ですからね。|少しお話を聞きたいと思いまして。|今年の出来はどうでしたか？=This village’s wheat is famous, so I was hoping to hear more about it. How was this year’s harvest?
-今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but, in the end, we reaped fine wheat. 
+今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but, in the end, we reaped fine wheat.
 心配……というと？|天候でも悪かったのですか？=Concerns... you say?|Was the weather bad?
 いえ、そうわけでは|ありませんよ。実はですね……。=No, nothing like that.|You see, actually...
 村長さんの話によると、|豊穣祈願の祭りを今年から|大きく変更したのだという。=According to the village leader, this year’s harvest festival had seen big changes.
@@ -582,7 +582,7 @@
 なあ、ぬしよ。わっちはな。|何百年もの間、ここの麦畑に宿って|実りを見守ってきたのじゃ。=You know, I have lived in these wheat fields for hundreds of years, watching over the crop.
 途中からはいやいやじゃったが、|それでも手を抜くことなど|ありんせん。=Over time my eagerness to do so faded, but never did I do my job neglectfully.
 それなのに、この村の連中ときたら|教会を恐れて、もうわっちは|用なしじゃとか言いおった。=And yet, they became fearful of the church and declared I was not needed.
-そもそも、わっちのことを|信じる者など、ここ何十年の間、|どんどん減るばかりで――。=Not to mention that the number of people who believe in me has been steadily declining for decades... 
+そもそも、わっちのことを|信じる者など、ここ何十年の間、|どんどん減るばかりで――。=Not to mention that the number of people who believe in me has been steadily declining for decades...
 ホロは酔っ払ってるんだと思った。|悪魔憑きなのは確かだけれど、|この話はとても信じられなかった。=It seemed that Holo was drunk.|I had no doubt that she was possessed by something...>>but this story was just too far-fetched to believe.
 なんじゃ、ぬしは。|またわっちの話を疑っておるのか。=What’s with that look?|You still doubt my words?
 いや……えっと、その、|それじゃあ、ホロは神様ってこと？=No, but... Wouldn't that make you a god?
@@ -890,7 +890,7 @@
 ホロの機嫌をとるため、|いろいろな言い訳を考えていると|アニスさんが戻ってきた。=I was thinking about a lot of excuses to get on Holo's good side when Anise returned.
 お待たせしました。|なかなか思い出せなくて、|やっと見つけました。=Sorry for the wait.|It took me a while to remember, but I finally found it.
 この本は、北の地方の伝承を|集めているものなんです。|ほら、ここに書いてあります。=This book has a collection of folklore from the North.|Look, it's written here.
-かつて巨大な狼が|『メルス・クリッツ』の町に|現れたそうです。=It says s giant wolf once appeared in the town of "Mars Kritz".
+かつて巨大な狼が|『メルス・クリッツ』の町に|現れたそうです。=It says s giant wolf once appeared in the town of "Mels-Kritz".
 その狼は人語を解し、|名前をホロウと名乗りました。=It could speak the language of men and called itself Holou.
 ホロウはときどき|可愛らしい少女に姿を変えて、|人々と宴を繰り返したそうです。=Sometimes, Holou would change into a beautiful girl and join the feasts of the people.
 そして……まあ、ふふ。|大喰らいの大酒呑みだそうで、|よく二日酔いになったらしいわ。=And she... well, fufu.|She ate and drank so much and got the worst hangovers.
@@ -1812,7 +1812,7 @@
 はーい！|お客さん、２名さま、|テーブルにご案内しまーす！=Two guests, coming right in! Let me lead you to your table!
 ああ、ちょっと|聞きたいことがあるんだ。=Err, I'd just like to ask something.
 この町から|西の海を越えたところにある|村とか町を知らないかな？=Is there a village or town to the west, across the sea?
-西の海ですか？|それじゃ、|エーレの村に行くんですね。=To the west? Then you must be going to Erle.
+西の海ですか？|それじゃ、|エーレの村に行くんですね。=To the west? Then you must be going to Ehre.
 でも、エーレに行くんなら、|気をつけたほうがいいですよ。=But if you're heading that way, you should be careful.
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=Around this time, there are often storms at sea.
 ええ、わかりました。|ありがとう。=I see, thank you.
@@ -1907,7 +1907,7 @@
 そして、洪水に追われた|狼たちの行方について、|何かの伝承が残ってないかを尋ねた。=Then asked whether he knew of any legends about wolves escaping from a flood.
 ふむ……洪水ね。|で、そこにいた狼たちの|行方が知りたい、と？=Hm... a flood, huh. And now you want to know where those wolves went, right?
 はい、そうなんです。|なにか知りませんか？=That's the gist of it.|Do you know anything?
-狼についての話ではないが、|ここから北東にあるマールケの村に|こんな伝承があるね。=It's not about wolves per se, but there's such a legend in the village of Marlke, to the north.
+狼についての話ではないが、|ここから北東にあるマールケの村に|こんな伝承があるね。=It's not about wolves per se, but there's such a legend in the village of Mahlke, to the north.
 「１００年以上前、|　ずぶ濡れの獣たちが|　西の森から逃げてきた」="Over a hundred years ago, beasts with soaking wet furs appeared from the forests to the west."
 「彼らは村で休んだあと、|　いつの間にか山の向こうへと|　去っていった」="After a short rest near the village, they disappeared into the mountains."
 まあ、こんな内容だったよ。|洪水で故郷を追われたと考えれば、|ありそうな話だろう？=That's about it. If they were chased out of their home by a flood, this might refer to them.
@@ -1921,7 +1921,7 @@
 いまの話を信じる=Let's believe him
 もう少し、他の伝承を調べてみる=Let's find other legends
 いまの話を信じてみよう。|たしかロウメスさんは、|こんな話をしていたよね？=Let's believe him. Let me think about what it was he said.
-うむ。そうじゃな。|それでは、そのマールケの村に|行ってみるかや。=Hm. Let's do that.|In that case, we should see this Marlke village for ourselves.
+うむ。そうじゃな。|それでは、そのマールケの村に|行ってみるかや。=Hm. Let's do that.|In that case, we should see this Mahlke village for ourselves.
 いまの話を疑うわけじゃないけど、|もう少し他の伝承も|調べたほうがいいと思うんだ。=
 うむ。そうじゃな。|あのたわけた詩人の言うことは、|あまり信用できんせん。=
 !FILE:event/ev_act/act_rt2_010_sizin_kiku_clr_sizin_talk.wsb
@@ -2012,7 +2012,7 @@
 あっ、それとですね。=Oh, and by the way...
 高い会費は取ってますけど、|特別サービスはありませんからね。|ウチは健全な酒場ですから。=The membership fee is high, but it still doesn't grant you special service. This is a respectable establishment.
 いらっしゃいませ！|商人さんなんて、珍しいですね。|どこから来たんですか？=Welcome! It's rare to see merchants here. Where did you come from?
-マールケからです。|ちょっと聞きたいんだけど|この近くに狼っていませんか？=From Marlke.|I wanted to ask, are there any wolves nearby?
+マールケからです。|ちょっと聞きたいんだけど|この近くに狼っていませんか？=From Mahlke.|I wanted to ask, are there any wolves nearby?
 いくらでもいますよ。|この辺りは、|けっこう狼が多いんです。=Oh, there's lots. We have many wolves around here.
 それじゃ、|狼に関する古い伝承って|知りませんか？=Then do you know of any old legends about wolves?
 狼の……|昔話ってことですよね？|それなら、わたし、知ってますよ。=Like... folk tales about wolves? There is one I know.
@@ -2041,7 +2041,7 @@
 そして、洪水に追われた|狼たちの行方について、|何かの伝承が残ってないかを尋ねた。=Then I asked whether he knew of any legends regarding where the fleeing wolves could've went.
 うむ、なるほど。|大蛇というのは|洪水のことであったか。=Hm, I understand.|So the giant serpent was referring to a flood.
 ならば、わしの知っている民話が|何かの手がかりになるかも|しれませんぞ、ホロ様。=I know of a folk tale that might serve as a clue, esteemed Holo.
-『シュリンケル』という都市には|こんな民話が伝わっております。=There's such a folk tale in the town of Sulinkel.
+『シュリンケル』という都市には|こんな民話が伝わっております。=There's such a folk tale in the town of Schrinkel.
 「かつて、ずぶ濡れの獣たちが|　はるばる北の森からやってきた」="Long time ago, a pack of beasts, soaking wet, arrived from the farawey northern forests."
 「自分たちの住める森を探して|　村に立ち寄ったが、彼らは|　そのまま山を越えて旅を続けた」="Searching for a new forest to call home, they approached the village, but then immediately disappeared into the mountains."
 ……というような民話です。|この獣というのが、ホロ様のお仲間|という可能性はありますな。=That's how the tale goes. These so-called beasts might just be your kin, esteemed Holo.
@@ -2055,7 +2055,7 @@
 いまの話を信じる=Believe his story
 もう少し、他の伝承を調べてみる=Let's look around|for other legends
 いまの話を信じてみよう。|たしかグスタさんは、|こんな話をしていたよね？=Let's assume it's true.|Let me think about what he said.
-うむ。そうじゃな。|それでは、そのシュリンケルの町に|行ってみるかや。=Hm, all right.|Then the town of Sulinkel is where we must go.
+うむ。そうじゃな。|それでは、そのシュリンケルの町に|行ってみるかや。=Hm, all right.|Then the town of Schrinkel is where we must go.
 いまの話を疑うわけじゃないけど、|もう少し他の伝承も|調べたほうがいいと思うんだ。=
 うむ。そうじゃな。|わっちとしても、あの老人は|あまり好きじゃありんせん。=
 !FILE:event/ev_act/act_rt3_010_gakusya_kiku_clr_gakusya_talk.wsb
@@ -2381,7 +2381,7 @@
 あれから時が流れ……=Time has since passed...
 ボクはアイマベルグで|暮らしている。=I'm living in the town of Eimeberg now.
 ボクはクライシュタインで|暮らしている。=I'm living in the town of Kleistein now.
-ボクはタルリッヒで慎ましく|暮らしている。=I'm living in the town of Tallihi now.
+ボクはタルリッヒで慎ましく|暮らしている。=I'm living in the town of Tarlich now.
 この町でボクは……=And in this town...
 ボクは商館の長となった。=
 この町にきて、@<top_goods@>を扱う|お店を開いたところ、これが|予想外の大成功！=
@@ -7318,7 +7318,7 @@
 やっと町に着いたかや。|馬車に揺られ続けて|ちょっと疲れてしまいんす。=We finally made it to town!|I am a little tired from being rocked by the cart.
 余計に疲れた気がするのは、|居眠りのし過ぎだよ。ホロ。|──さてと、宿を決めないと。=You’re only tired because you took too many naps. Anyway, we ought to find somewhere to spend the night.
 そこの宿はどうじゃ？|厨房から美味そうな匂いがする。|食事が期待できそうじゃ。=How about that inn? There’s a delicious smell coming from the kitchen. I am sure that we can expect something good.
-夕食ならさっき、|向こうの通りの食堂で|食べたばかりだよね？=If it’s dinner you’re after, didn’t you just have your fill at that eatery a few streets back? 
+夕食ならさっき、|向こうの通りの食堂で|食べたばかりだよね？=If it’s dinner you’re after, didn’t you just have your fill at that eatery a few streets back?
 じゃから、明日の朝食の話じゃ。=I meant for breakfast tomorrow!
 さて、もう寝るとしよう。|ぬしはまだ、寝んのかや？=I think I will head to bed.|Are you not going to sleep yet?
 帳簿つけてから寝るよ。|ホロは先に寝てて。=I’ve some accounting to finish first.|You go ahead and sleep.
@@ -7726,7 +7726,7 @@
 悲しいがの、わっちの切り札は“狩|る”ということにしか役に立たぬ。|ぬしのように、癒すことは出来ぬ。=As sad as it is, my specialty lies in hunting. Unlike you, I can't soothe others.
 ぬしは、何も求めぬ。|いつも、ただ黙って与えてくれる|のみじゃ。=And you always just quietly give, without wanting to take.
 商人だというのに、|なんとお人好しで、なんと欲のない|者だと思っておったが……=I found it strange, a merchant so altruistic, so bereft of greed...
-ぬしは、力がないのではないのだな。|その心が、空のように大きいのだな。=But you were not powerless.|Your kindness is boundless, like the sky.
+ぬしは、力がないのではないのだな。|その心が、空のように大きいのだな。=But you were not powEhress.|Your kindness is boundless, like the sky.
 ふふ、ぬしのような者がおるから|こそ、人の世界というものは|回っておるのやも知れぬな。=Fufu. It might be thanks to people like you, that the world doesn't collapse on itself.
 ほ、褒めすぎだよ……=T-That's an awful lot of praise...
 そんなに謙虚にならずともよい。|ま、そこがよいところなんじゃがの。=No need to be so humble.|Although, that is part of what I like about you.
@@ -7947,7 +7947,7 @@
 !FILE:event/ev_sys/t04_seab_pub.wsb
 店員と話す =Talk to the Clerk
 いらっしゃいませ。=Welcome.
-エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're going to Erle, make sure you're careful.
+エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're going to Ehre, make sure you're careful.
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=Arout now, the seas get really rough with big storms.
 !FILE:event/ev_sys/t06_meru_pub.wsb
 店員と話す=Talk to the Clerk
