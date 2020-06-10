@@ -89,7 +89,7 @@ towninfo/TownInfo04
 The foremost port on the west coast. Specializing in items for every-day life, the seaside taverns are always full of people and song.
 
 towninfo/TownInfo05
-地方都市 タルリッヒ=Provincial Town Tallihi
+地方都市 タルリッヒ=Provincial Town Tarlich
 独自の自治と文化を誇る芸術
 の都。高品質の美術品や調度
 品を求めて工房へと足を運ぶ
@@ -98,7 +98,7 @@ An artisanal town proud of its unique heritage. People continue to flock to its 
 #Cut "works of" if too long.
 
 towninfo/TownInfo06
-地方都市 メルス・クリッツ= Provincial Town Mars Kritz
+地方都市 メルス・クリッツ= Provincial Town Mels-Kritz
 氷に閉ざされる地方との境界
 にある小さな交易都市。北の
 地からもたらされる毛皮や細
@@ -106,7 +106,7 @@ towninfo/TownInfo06
 A small trading town on the border of a region cut off by ice. Famous for its furs, crafts, and stewed meats from up north.
 
 towninfo/TownInfo07
-要塞都市 ロマネスブルグ=Fortified City Romannesberg
+要塞都市 ロマネスブルグ=Fortified City Romannesburg
 堅牢な城壁を擁する城塞都市。
 異教徒との戦いに赴く軍隊や
 志願兵たちが篤い信仰心と立
@@ -139,7 +139,7 @@ A town where those who follow the teachings of the church live together modestly
 A town where followers of the church live modestly. Research on self-sufficiency is carried out daily.
 
 towninfo/TownInfo11
-漁業都市 ルッシ=Fishing Village Lutz#Technically "Town/city" but I think village sounds more natural in English. "Port" could also work?
+漁業都市 ルッシ=Fishing Village Lusch#Technically "Town/city" but I think village sounds more natural in English. "Port" could also work?
 古くより漁業で栄える町。特
 産であるニシンの産卵期には
 季節の味を求める旅人たちで
@@ -165,7 +165,7 @@ Having developed a unique smelting method, orders for farming tools and arms com
 Having developed a unique smelting method, orders for tools and arms come continuously pouring in.
 
 towninfo/TownInfo14
-鉱山都市 シュリンケル=Mining Town Sulinkel
+鉱山都市 シュリンケル=Mining Town Schrinkel
 かつては炭坑があったものの
 石炭が枯れた現在は住む者も
 少ない。山から切り出せる資
@@ -201,7 +201,7 @@ A simple village with a water-wheel mill that glows in the setting sun as its la
 A simple village marked by a water-wheel mill. Flush with greenery, it's home to vast wheat and cotton fields.
 
 towninfo/TownInfo18
-村 マールケ=Village Marlke
+村 マールケ=Village Mahlke
 夏の短い、北の荒涼とした地
 に根ざした小さな村。痩せた
 土地が続く風景は訪れる者に
@@ -254,7 +254,7 @@ A rural village facing a lake. The beautiful sight of small boats slowly breakin
 A rural village facing a lake. The sight of small fishing boats on the surface of the lake never fails to captivate.
 
 towninfo/TownInfo24
-故郷　エーレ=Historic Village Erle
+故郷　エーレ=Historic Village Ehre
 島の東端にある小さな漁村。
 稀に美しい二枚貝より採れる
 真珠は、海の宝石として古来
