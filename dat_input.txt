@@ -632,7 +632,7 @@
 骨董商への情報料=News to the Antique Store
 クライシュタインの骨董商に、|銀貨１００００枚を渡さないと|情報を教えてくれない。=
 年代記作家の探索=Chronicler Search
-昔の話を調べたいのなら、年代記|作家を探してみてはどうか。|年代記作家はその地方の昔話や言|い伝えなども収集して書きとめた|りしているらしい。=
+昔の話を調べたいのなら、年代記|作家を探してみてはどうか。|年代記作家はその地方の昔話や言|い伝えなども収集して書きとめた|りしているらしい。=If you want to know more about old lore, why not look for a chronicler? Chronicler’s collect and write down local legends and folktales.
 ホロウの住んでた森=Holou's Forest
 メルス・クリッツに現れた|ホロウと名乗る巨大な狼は、|“古狼の森”と呼ばれる森に|住んでいた。=
 アニスに聞いた年代記作家の噂=From the Chronicler Anise
