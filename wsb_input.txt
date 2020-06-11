@@ -113,7 +113,7 @@
 この塩は大事な商品だ。=This salt is valuable merchandise.
 この先のミランドの村まで=I'm supposed to deliver it to the village
 |届けることになっている。|納期までは、あと２日しかない。=|of Miland up ahead. There's only two more days left until the deadline.
-ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm a novice merchant. I took over the ropes about six months ago, after my mentor retired.
+ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm a novice merchant. I took over the ropes about six months ago, after my master retired.
 それ以来、背負えるだけの|商品を担いで、この辺りの村々を|巡っている。=Since then, I've been traveling around the nearby villages, taking as much as I can carry on my back.
 ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.#qc
 できれば明日中には|ミランドまでたどり着いて|納品しておきたかった。=If possible, I’d like to arrive in Miland tomorrow and hand off the goods.
@@ -338,7 +338,7 @@
 だとしたら考えるべきなのは、|荷馬車を使ってこれから|どうやって儲けるかってことだ。=Then, all you can do is think about how you can make a profit using the cart.
 徒歩の行商と|荷馬車を使った行商じゃ、|だいぶ勝手が違うからな。=Using a cart to trade is a world away from peddling on foot.
 行動範囲が広くなる分、|情報の扱いが大切になるんだ。=The larger the field you’re playing, the more important it is to pay attention to news.
-たしか、おまえの師匠も|徒歩の行商人だったよな？=If I recall, your mentor was also a peddler, correct?
+たしか、おまえの師匠も|徒歩の行商人だったよな？=If I recall, your master was also a peddler, correct?
 だったら、何に気をつけるべきか|少し教えておいてやろう。=Then, let me tell you a bit about what to watch out for.
 よろしくお願いします！=That’d be a big help!
 まずは酒場に入ったら、|どんな噂が流れてるかを|調べておく必要がある。=First, when you head into a tavern, you need to find out what kind of rumors are going around.
@@ -348,7 +348,7 @@
 はい。聞いてみました。=Yes, I spoke with the Barkeeper.
 『噂話』を聞いたときには、|忘れないうちに|書きとめておくようにな。=Once you’ve heard a rumor, make sure to write it down before you forget.
 そして、『噂話』を|いつでも確認できるようにするのが|大事だ。=Plus, it’s handy to be able to check them whenever you’d like.#tc
-『噂話』を書きとめるのは、|ボクの師匠にも言われていたので|すでにやっておいた。=My mentor had told me the same, so I’ve already written it down.
+『噂話』を書きとめるのは、|ボクの師匠にも言われていたので|すでにやっておいた。=My master had told me the same, so I’ve already written it down.
 『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only taverns that you can hear rumors, but you can also speak to other merchants when you’re out on the road.
 聞いたことのある『噂話』は、|いつでも確認できるように|クセをつけておくんだ。=Make it a habit to go back and check rumors you’ve heard before.
 とりあえず、『噂話』については|こんなところか。=Well, that’s about all I have to say on “rumors” for now.
@@ -824,25 +824,25 @@
 古い地名を調べるのなら、|年代記作家に|聞いてみたらいいと思いますよ。=If you're looking for old place names, I think you should try asking a chronicler.
 作家によっては、|異教の伝承などを集める者も|いるという話です。=I’ve heard there are some who even gather legends passed down by the pagans.
 !FILE:event/ev_act/act_190_boku_no_kako.wsb
-こうして焚き火を見てると、|昔を思い出しんす。=Looking at a fire like this makes me think of the old days.#https://youtu.be/Ct33j3UxWSM?t=1119
-誰かとこんなふうに|旅をするのは久しぶりじゃが、|悪くはないの。=It has been a long time since I have gone on a journey with someone, but I have no qualms.
-うん、そうだね。|ボクもこの１年ぐらい、|ずっと独り旅だったから。=Yeah, me too.|For about a year, I traveled alone.
-ふむ。その前は|誰といっしょだったんじゃ？=Hm. And before that, who did you travel with?
-ボクの師匠だよ。|徒歩の行商人だったんだけど、|去年、引退するって言い出してね。=My master.|He went around on foot, and last year, he said he was retiring.
-いままでの行商路をボクに譲って、|巡礼の旅に出たんだ。|それ以来、師匠には会ってないけど。=He gave me all the roads he used and went on a pilgrimage.|I haven't seen him since then.
-それで、ぬしは|寂しがっとったわけかや。|ずいぶんと慕っておるようじゃな。=You must have been very lonely all that time.|I am sure you miss him.
-まあ……ね。|ボクは物心ついたときから、ずっと|師匠の商売の手伝いをしてきたし。=I... guess.|I'd helped my master out with trading since I was a kid.
-ほう？|ぬしはそんなに幼い頃から|働きに出たのかや？=Oh?|You were forced into labor as a child?
-そうじゃないよ。ボクは|赤ん坊のころ、街道の道端で|泣いてたのを師匠に拾われたんだ。=No, no. When I was a baby, my master picked me up from the side of the road.
-なんで赤ん坊が|そんなところにいたのか、|事情はわからないんだけどね。=I don't know why anyone would leave a baby out there like that, though.
-商人というのは|ずいぶん心が広いらしいの。|皆、そうなのかや？=The merchant seems to have a big heart. Are all of them as gracious?
-さあね。|普通は違うんじゃないかな。|師匠は偏屈で変った人だったから。=I dunno.|Maybe not all of them. My master was kind of a strange guy.
-――それに、とても孤独な人だった。=--He was also very lonely.
-なるほどの。|ぬしにとっては|育ての親といったところじゃな。=I see.|You were raised by foster parents.
-それは……違うよ。|確かに育ててもらったけど、|親代わりというわけじゃ……ない。=Not exactly...|He's raised me, but we weren't exactly like parent and child.
-あくまでも|商売の師匠と弟子の関係なんだ。=It was more of a teacher and student relationship.
-ふむ。そんなものかや。=Hm. Is that so?
-それ以上は|詳しく聞かれなかったので、|ボクは内心でホッとしていた……。=She didn't ask anything else, and it came to me as quite a relief...
+こうして焚き火を見てると、|昔を思い出しんす。=Looking into a campfire like this makes me reminisce about the past.
+誰かとこんなふうに|旅をするのは久しぶりじゃが、|悪くはないの。=It has been a long time since I last traveled together with anyone, but it’s not so bad.
+うん、そうだね。|ボクもこの１年ぐらい、|ずっと独り旅だったから。=I think so too.|I’ve been travelling alone for the past year or so.
+ふむ。その前は|誰といっしょだったんじゃ？=Hm. So, who was your companion before that?
+ボクの師匠だよ。|徒歩の行商人だったんだけど、|去年、引退するって言い出してね。=My master.|He was a peddler but decided to retire last year.
+いままでの行商路をボクに譲って、|巡礼の旅に出たんだ。|それ以来、師匠には会ってないけど。=He left me his trade routes and went on a pilgrimage.|I haven't seen him since.
+それで、ぬしは|寂しがっとったわけかや。|ずいぶんと慕っておるようじゃな。=And hence, you’ve been lonely.|You must have been close.
+まあ……ね。|ボクは物心ついたときから、ずっと|師匠の商売の手伝いをしてきたし。=I suppose...|I’d been his assistant for as far back as I can remember.
+ほう？|ぬしはそんなに幼い頃から|働きに出たのかや？=Oh?|So you’ve been working from such a young age?
+そうじゃないよ。ボクは|赤ん坊のころ、街道の道端で|泣いてたのを師匠に拾われたんだ。=Not exactly. He’d found me as a wailing babe by the roadside and took me in.
+なんで赤ん坊が|そんなところにいたのか、|事情はわからないんだけどね。=Though, I still have no idea how I ended up in such a predicament.
+商人というのは|ずいぶん心が広いらしいの。|皆、そうなのかや？=It seems that merchants are kind-hearted indeed.|Are all of you like that?
+さあね。|普通は違うんじゃないかな。|師匠は偏屈で変った人だったから。=Who knows.|I’d say most people are different. My master was an eccentric person to begin with.
+――それに、とても孤独な人だった。=...And, a very lonely one.
+なるほどの。|ぬしにとっては|育ての親といったところじゃな。=I see.|So for you, he was something of a father-figure.
+それは……違うよ。|確かに育ててもらったけど、|親代わりというわけじゃ……ない。=I... wouldn’t say that.|Although he did raise me, he wasn’t really like a parent to me.
+あくまでも|商売の師匠と弟子の関係なんだ。=Our relationship was strictly that of master and apprentice.
+ふむ。そんなものかや。=Hm. So that’s what it was.
+それ以上は|詳しく聞かれなかったので、|ボクは内心でホッとしていた……。=She didn't ask me anything else after that, which I was relieved about...
 !FILE:event/ev_act/act_200_rt1_situzi_kiku.wsb
 おや、あなたは？|当家に何か御用でしょうか？=Oh? You are? What business do you have here?
 ボクは旅の行商人です。|少しお話を聞かせて|いただきたいのですが……。=I'm a traveling merchant.|I came here because I had something to ask...
@@ -5309,7 +5309,7 @@
 ん～……むにゃむにゃ……|もう少し寝かせてくりゃれ……。=
 出発するよ。|ホロ、早く乗ってってば！=
 !FILE:event/ev_ren/ren_a06_bedgahitotu.wsb
-やれやれ、|やっと町に着いたはよいが、|何やら混雑した町じゃのう。=Oh my.|We finally reach a town, and it ends up being so packed.
+やれやれ、|やっと町に着いたはよいが、|何やら混雑した町じゃのう。=Oh my.|We finally reach a town, and it ends up being so packed.#https://youtu.be/nD4ItjZ57KM?t=7
 さ、急ごう。|この混雑ぶりだ。早くしないと|宿が取れなくなっちゃうよ。=Let's hurry.|With this crowd, rooms will be sold out soon.
 残念ですが、お客さん。|２人用の部屋は、ついさっき|満室になってしまって。=I'm terribly sorry, but all our double rooms are full.
 そこを何とかなりませんか？|ベッドのある部屋なら、|どこでも構いません。=Is there anything else?|As long as we have beds, it'd be fine.
