@@ -962,13 +962,13 @@
 ふむ。心当たりがないこともない。|ここではちょっと困るな。=Hm. I might be able to help you. But this is not the right place for it.
 私は吟遊詩人を|生業（なりわい）にしているが、|旅暮らしというわけではなくてね。=Although I make my living as a bard, I am not one for traveling.
 この町で暮らしているんだよ。|町外れに私の家があるから、|そこで話をしよう。=Hence, I live in this town.|My house is just on the outskirts, so let us talk there.
-ふん。|あの詩人とやら、気に入らんの。=Hmph.|I can’t quite stomach that poet.
+ふん。|あの詩人とやら、気に入らんの。=Hmph.|I can’t quite stomach that wordsmith.
 どうしたの、ホロ。|あの人が嘘をついているとか？=What’s wrong, Holo?|Was he lying to us?
 そういうことではありんせん。|なんと言うか、|なんともたわけ臭いとでもいうか。=I did not say that.|I’m not quite sure how to put it, but it has the smell of hogwash.
 たわけ臭い？|よくわからないけど、あんまり|人のことを悪く言わないほうが……。=Hogwash?|I’m not really sure what you mean, but it’s better not to speak ill of others like that...
 まったく、ぬしときたら、|妙に疑り深いかと思えば|とんだお人好しであったりするの。=Honestly. One moment you are suspicious of the strangest things, and next you are incredibly good-natured.#tc
 そんなことで、本当に世間の荒波を|渡っていけるのかや？=With a disposition like that, can you really withstand the rough seas of life?
-まあ、よいわ。|ともかく、あの詩人とやらの家に|行ってみようではないか。=Well, no matter.|Anyway, I suppose we ought to go see this poet at his house.
+まあ、よいわ。|ともかく、あの詩人とやらの家に|行ってみようではないか。=Well, no matter.|Anyway, I suppose we ought to go see this wordsmith at his house.
 !FILE:event/ev_act/act_230_rt2_sizin_kiku.wsb
 やあ、いらっしゃい。|よく来てくれたね。=Welcome, welcome!|Glad you could make it. 
 早速ですが、|酒場で話していた年代記作家の|心当たりを教えてください。=Well then, if we could pick up from our last conversation, I’d like to know more about this chronicler you mentioned.
@@ -991,7 +991,7 @@
 ………|……………………。=......|.........
 本当に面白いお嬢さんだ。=An interesting lady indeed.
 ええ、貴女の言う通り。|どうしてわかったのかな？=Yes, it's just as you say.|How did you know?
-ぬしの手には|インクの匂いが染みついておる。=The smell of ink has saturated your fingers.
+ぬしの手には|インクの匂いが染みついておる。=The smell of ink just permeates from your fingers.
 常日頃から|書き物でもしていないかぎり、|そんなに匂わんからの。=Unless you wrote on a regular basis, it would not be so strong.
 なるほどね。今度からは、|指先まで香水をつけることにしよう。=I see. I’ll make sure to perfume even my fingertips from now on.
 どういうこと!?|もしかすると、この人が……。=What’s going on?|Could you be...
@@ -1031,12 +1031,12 @@
 ああ、やっと追いついた。=Haah, I finally caught up to you.
 ねえ、ホロ。|なんでそんなに怒ってるの？=C'mon, Holo.|Why are you so upset?
 たわけっ！=Fool!
-あの詩人がぬしを狙っておったのが|わからんのかや？=Could you not see that the poet wanted to get his claws on you?
+あの詩人がぬしを狙っておったのが|わからんのかや？=Could you not tell that the wordsmith wanted to get his claws on you?
 ええっ!?|どどど、どういうこと？=Whaaat?!|Wh-Wh-Wh-What are you on about?
 わっちら狼にも、たまにおるのじゃ。|雄のくせに雄にしか|興味のない輩（やから）がの。=It happens at times with us wolves as well. Males who only have interest in other males.
 わっちのような|魅力的な雌を無視して、|雄を口説く阿呆どもじゃ。=Fools who would ignore a beauty like myself and court other males.
 ええええっ!?=Eeeeeeh?!
-まあ、あの詩人とやらは|人の獲物を横取りしようとせんだけ、|賢いかもしれんがの。=Well,  at least this poet was wise enough not to try swiping away someone else’s prey.
+まあ、あの詩人とやらは|人の獲物を横取りしようとせんだけ、|賢いかもしれんがの。=Well,  at least this wordsmith was wise enough not to try swiping away someone else’s prey.
 !FILE:event/ev_act/act_230_rt2_sizin_kiku_sizin_talk.wsb
 やあ、いらっしゃい。|私の顔を見にきてくれたのかな？=Oh, welcome.|I wonder if you came to see me.
 い、いえ……|そういうわけでは……。=W-Well...|not exactly...
@@ -1057,57 +1057,57 @@
 【 銀貨@<number1@>枚 】を寄付する=Donate @<number1@> silver
 申し訳ないが、|善意の相場に足りないようだ。|気持ちだけ、受け取っておこう。=I'm sorry, but it seems thou are lacking the usual offering.|We shalt take only thy kind intentions, with gratitude.
 神はいつでも、|なんじらの行いを見守っているのだ。=The Lord is ever-watching over us all.
-銀貨@<number1@>枚　支払った！=Spent @<number1@> silver!# https://youtu.be/uboLCtDzX7A?t=43
-なんじの行いに|神も喜んでいるだろう。=The Lord is very pleased with your good deed.
-なんじの善意は|必ずや、この町のために役立てよう。=This town will surely make use of your good will.
-ええ、お願いします。|ところで、少し聞きたいことが|あるのですが、よろしいですか？=Yes, please do.|Also, there's something I want to ask you. May I?
-こちらの教会はかなり|大きいようですが、年代記作家を|雇ったりはしてませんか？=This is a very large church.|Do you happen to employ a chronicler?
-年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=A chronicler?|That's quite the unusual request. Why ever would you need one?
+銀貨@<number1@>枚　支払った！=Spent @<number1@> silver!
+なんじの行いに|神も喜んでいるだろう。=The Lord will surely be pleased by thy actions.
+なんじの善意は|必ずや、この町のために役立てよう。=Thy good will shall serve the betterment of this town.
+ええ、お願いします。|ところで、少し聞きたいことが|あるのですが、よろしいですか？=It’s my pleasure.|By the way, do you mind if I ask you a few questions?
+こちらの教会はかなり|大きいようですが、年代記作家を|雇ったりはしてませんか？=From what I’ve seen, this is quite the large church you have.|Do you happen to employ any chroniclers?
+年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=Chroniclers?|A most unusual request. Why dost thou seek one?
 実は、ボクの依頼主が|自分の故郷を探しています。=To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
 覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the "Ancient Forest".
-『古狼の森』……？|まさか異教の神に関することでは|あるまいね？=The "Ancient Wolf Forest"...?|Isn't that a story with those pagan gods?
-いえ、ちがう…………とは|言い切れないのですが、|実はボクにもわかりません。=No. Well...|I can't say I'm sure. Actually, I don't know.
-おそらく、|今は使われてないような|古い地名じゃないかと思うのですが。=It's probably the name of a place, but they just don't call it that now.
-ふむ、そういうことなら|かまわないか……。=Hm, so that's what it was about...
-この町から東に行ったところにある|スウィージの村に、歴史を|研究している神学者がいたはずだ。=To the east of this town, there should be a theologian who studies history.
-ただし、その神学者に会うのは|お勧めしない。=However, I can't say that it would benefit you to meet him.
+『古狼の森』……？|まさか異教の神に関することでは|あるまいね？=The "Ancient Forest"...?|That wouldn’t have anything to do with the heretics, would it?
+いえ、ちがう…………とは|言い切れないのですが、|実はボクにもわかりません。=No... is what I’d like to say, but I don’t know for sure myself.
+おそらく、|今は使われてないような|古い地名じゃないかと思うのですが。=I suspect that it’s an older name no longer in use.
+ふむ、そういうことなら|かまわないか……。=Hm, in that case, there shouldn’t be any problems...
+この町から東に行ったところにある|スウィージの村に、歴史を|研究している神学者がいたはずだ。=There should be a theologian studying history to the east, in the village of Suize.
+ただし、その神学者に会うのは|お勧めしない。=However, I can't recommend seeking this theologian out.
 どうしてですか？=Why is that?
-いろいろと悪い噂があるのだ。|かつて異端審問にかけられそうに|なったことがあるぐらいでね。=There are many bad rumors.|At least since the Inquisition seemed to have happened.
-そのときは、異端と疑われるような|研究は２度としない、ということで|許されたらしい。=All the heretics and suspicious people were forgiven if they promised to give up research.
-まあ、会いにゆこうにも、|この町から東に行く街道は|封鎖されているから無理だがね。=Well, even if you did try to meet them, the eastern road is blocked, so you couldn't.
-街道が……封鎖？|いったい、どうしてですか？=The road is... blocked?|Do you have any idea why?
-巨大な狼だか熊だかの化け物を|見たという訴えが、|我が教会に持ちこまれてね。=There were reports of a giant wolf or bear, so the church has taken over the situation.
+いろいろと悪い噂があるのだ。|かつて異端審問にかけられそうに|なったことがあるぐらいでね。=There are bad rumors about him.|The kind that drew the attention of the inquisition before.
+そのときは、異端と疑われるような|研究は２度としない、ということで|許されたらしい。=He was apparently forgiven after swearing to never again conduct research pertaining to heresy.
+まあ、会いにゆこうにも、|この町から東に行く街道は|封鎖されているから無理だがね。=Well, even if thou did want to meet him, the roads to the east are closed off.
+街道が……封鎖？|いったい、どうしてですか？=They’ve been closed off...?|Have you any idea why?
+巨大な狼だか熊だかの化け物を|見たという訴えが、|我が教会に持ちこまれてね。=Our church received reports that there have been sightings of a giant wolf or bear or similar creature.
 巨大な……狼、ですか？=A giant... wolf?
-熊かもしれんが、はっきりしない。|異教徒どもが、あやしげな妖術を|使ったということも考えられる。=Or bear. We aren't very sure.|It may be the work of some suspicious heretic's black magic.
-とはいえ、実際に|無残な姿で見つかった旅人の死体が|いくつもあるのだ。=Whether it is or not, many bodies of poor travelers have been found along the road.
-となると、原因をつきとめ、|化け物がいるなら退治するしかない。=In any case, we must find the cause and eradicate the monster.
-そのため、教会のほうで|聖騎士団に依頼をして|東の街道を封鎖しているのだ。=In order to do so, the church has requested the Holy Knights to block off the eastern road.
-なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=Until we remedy the problem, the road will not be unblocked.
+熊かもしれんが、はっきりしない。|異教徒どもが、あやしげな妖術を|使ったということも考えられる。=Or bear, we aren't very sure.|It’s possible those accursed heretics have been practicing their dark magicks. 
+とはいえ、実際に|無残な姿で見つかった旅人の死体が|いくつもあるのだ。=Whatever the case may be, the fact we discovered the ruthlessly savaged corpses of travelers remains.
+となると、原因をつきとめ、|化け物がいるなら退治するしかない。=Hence, our only option is to determine the source and eliminate whatever beast lies behind it.
+そのため、教会のほうで|聖騎士団に依頼をして|東の街道を封鎖しているのだ。=To that end, our church contacted the Holy Knights and had the road closed.
+なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=Until we remedy the problem, the road shalt remain so.
 神父と話す=Talk to the Priest
-東の街道に出るという、|巨大な狼だか熊だかの化け物を|退治するまでは街道を封鎖している。=The eastern road will be blocked off until we eradicate the giant wolf or bear that is there.
-野生の生き物かもしれんし、|異教徒どもの|あやしげな妖術かもしれない。=It may be a wild animal or the work of some heretic's black magic.
-聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights find an answer in their investigation, the eastern road will be blocked.
-――ぬしよ。|先ほどの神父の話に出てきた|化け物とやらをどう思うかや？=--Say, Chief.|What do you think about the monster the priest mentioned?
-もしかすると、|わっちの仲間かもしれんの。=I was wondering if it might have been one of my kin.
-もし、そうだとしたら……|わっちはなんとしても|会いにゆきたい。=If it is...|I want to see them at all costs.
-それって、前に話してた|ホロの正体は巨大な狼だとか|なんとかいう話のこと？=Because it's like what you said before? How your true form is actually a giant wolf?
+東の街道に出るという、|巨大な狼だか熊だかの化け物を|退治するまでは街道を封鎖している。=The eastern roads will remain closed until we eradicate the monstrous giant wolf or bear which stalks them.
+野生の生き物かもしれんし、|異教徒どもの|あやしげな妖術かもしれない。=We don’t know whether it is simply a wild animal or the work of those accursed heretic's dark magick.
+聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights reach a conclusion in their investigation, the eastern road shalt remain blocked.
+――ぬしよ。|先ほどの神父の話に出てきた|化け物とやらをどう思うかや？=--Say...|What do you make of this monster the priest mentioned?
+もしかすると、|わっちの仲間かもしれんの。=It could be one of my kin.
+もし、そうだとしたら……|わっちはなんとしても|会いにゆきたい。=If it is...|I wish to go there and meet them.
+それって、前に話してた|ホロの正体は巨大な狼だとか|なんとかいう話のこと？=Is this about what you said before? How your true form is actually a giant wolf and whatnot?
 ぬしが信じてないのは|知っておるがの。=I am well aware that you don't believe me.
-どう思われていようと関係ない。|とにかく、わっちは|その化け物とやらを見にいきたい。=It does not matter if you do.|Anyway, I want to go meet that monster.
-う～ん……。|たしかに東の村にいるっていう|神学者には会ってみたいしね。=Hmm...|If we go to the villages in the east, we'll see the theologian.
-でも、街道が封鎖されてるとすると|そう簡単には|いかないんじゃないのかな。=But it won't be easy getting there while the road is blocked.
-――そういうことでしたら、|お役に立てると思いますよ。=--If that is your problem, I think I can be of assistance.
+どう思われていようと関係ない。|とにかく、わっちは|その化け物とやらを見にいきたい。=But that matters not.|Regardless, I wish to see this so-called “monster” for myself. 
+う～ん……。|たしかに東の村にいるっていう|神学者には会ってみたいしね。=Hmm...|Well, we should try to meet up with this theologian said to be in a village eastwards too.
+でも、街道が封鎖されてるとすると|そう簡単には|いかないんじゃないのかな。=But with the roads closed, getting there is easier said than done.
+――そういうことでしたら、|お役に立てると思いますよ。=--If that is what troubles you, I believe I could be of assistance.
 なんですか、あなたは？=Who are you?
-いえ、失礼かと思ったのですが、|あなたがたの話が耳に入って|しまいましてね。=I do think it was impolite of me, but I couldn't help but overhear your conversation.
-私はサーセンと申します。|どうやら、東の街道が封鎖されて|お困りのようですな。=My name is Sarsen.|It seems you're having trouble because of the road blockade.
-さすがに教会の前で|詳しい話をするのはまずいんで、|場所を変えましょう。=Of course, we cannot speak at length in front of the church, so we must go elsewhere.
-どうです？|酒場のほうで話しませんか？|お待ちしておりますよ。=How about it?|Shall we talk at the pub? I'll be waiting.
+いえ、失礼かと思ったのですが、|あなたがたの話が耳に入って|しまいましてね。=Ah, I realize this is rude of me, but I couldn't help but overhear your conversation.
+私はサーセンと申します。|どうやら、東の街道が封鎖されて|お困りのようですな。=I’m Sarsen, at your service.|It appears the road closures are giving you some grief.
+さすがに教会の前で|詳しい話をするのはまずいんで、|場所を変えましょう。=I can’t really go into the details in front of the church, so what say we take this elsewhere?
+どうです？|酒場のほうで話しませんか？|お待ちしておりますよ。=Will you join me at the tavern for a chat?|I'll be waiting.
 !FILE:event/ev_act/act_240_rt3_sinpu_kiku_sinpu_talk.wsb
-東の街道に出るという、|巨大な狼だか熊だかの化け物を|退治するまでは街道を封鎖している。=The eastern road will be blocked off until we eradicate the giant wolf or bear that is there.
-野生の生き物かもしれんし、|異教徒どもの|あやしげな妖術かもしれない。=It may be a wild animal or the work of some heretic's black magic.
-聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights find an answer in their investigation, the eastern road will be blocked.
+東の街道に出るという、|巨大な狼だか熊だかの化け物を|退治するまでは街道を封鎖している。=The eastern roads will remain closed until we eradicate the monstrous giant wolf or bear which stalks them.
+野生の生き物かもしれんし、|異教徒どもの|あやしげな妖術かもしれない。=We don’t know whether it is simply a wild animal or the work of those accursed heretic's dark magick.
+聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights reach a conclusion in their investigation, the eastern road shalt remain blocked.
 !FILE:event/ev_act/act_260_rt3_sarsen_kiku.wsb
-教会の前で声をかけてきた|サーセンは、酒場の奥にある|テーブルに座っていた。=Sarsen, who called out to us in front of the church, was sitting at a table in the pub.
+教会の前で声をかけてきた|サーセンは、酒場の奥にある|テーブルに座っていた。=Sarsen, who called out to us in front of the church, was sitting at a table in the pub.#https://youtu.be/uboLCtDzX7A?t=299
 ああ、よくいらっしゃいました。|やはり東に行きたいようですな。=Oh, you really came.|I guess you do want to go east.
 それでは、|具体的な話をいたしましょうか。=In that case, I will definitely speak to you.
 このサーセンという男は|この辺りに詳しくて、街道を|使わない抜け道を知っているらしい。=The man called Sarsen seemed to know the area very well, and even knew the unused pathways.
@@ -7922,7 +7922,7 @@
 !FILE:event/ev_sys/normal_pub.wsb
 いらっしゃいませ。=Welcome.
 !FILE:event/ev_sys/t01_aima_mon_ashidome.wsb
-あの詩人とやらに|会わなくてもいいのかや？=Should you not meet with the Poet?
+あの詩人とやらに|会わなくてもいいのかや？=Should you not meet with the wordsmith?
 !FILE:event/ev_sys/t01_aima_pub.wsb
 吟遊詩人と話す=Talk to the Minstrel
 いらっしゃいませ。=Welcome.
