@@ -326,7 +326,7 @@
 うむ、わかっておる。|ぬしのような若い雄の|懐具合には期待しておらんからの。=Yes, I understand. You are a young male, after all, one cannot have too high hopes for your financial situation.
 ビールと葡萄酒、|あとは美味いつまみがあればよい。=All I ask for is beer, wine, and a delicious snack to follow up.
 まずは、この店でお勧めの皿を|いくつか持ってきてくりゃれ？=To start, won’t you bring me some of the best dishes here?
-ほほう！|思ったよりも、ぬしは物分りがよい。=Hoho! You are more discerning than I thought!
+ほほう！|思ったよりも、ぬしは物分りがよい。=Oh ho! You are more discerning than I thought!
 若いくせに雌の扱いが|上手いかもしれんな。=Despite your age, you may know how to treat a female after all.
 わっちの人を見る目が|たしかだったということかや。=Looks like I did judge your character correctly.
 わっちのことはいいから、|ぬしは早く知り合いとやらの話を|済ませてくりゃれ。=I am quite all right, so you should hurry up and finish speaking with your acquaintance.
@@ -484,7 +484,7 @@
 ボクは気がつかなかったけれど。=Though, I continued unaware of the change in mood.
 狼を好きな行商人なんて|いないんじゃないかな。=I don't think that any merchant likes wolves.
 何度か襲われたこともあるし、|殺されそうになったこともある。|――だから、嫌いだよ。=I've been attacked a few times and nearly lost my life. That’s why I hate them.
-ほほう？|よくぞ、わっちの前で|そんなことが言えたもんじゃの。=Oho?|How bold of you to say that before me.
+ほほう？|よくぞ、わっちの前で|そんなことが言えたもんじゃの。=Oh ho?|How bold of you to say that before me.
 気を悪くしたのなら、ごめん。=Sorry if I’ve offended you.
 だけど、本物の狼って奴は|狡猾（こうかつ）で|それはそれは恐ろしいんだ。=But real wolves are cunning devils and that’s what makes them so frightening.
 くふ。=Heh.
@@ -576,7 +576,7 @@
 ボクは話題を変るため、|村で聞いた話をホロに伝えた。=To change the subject, I told her about what I’d heard in the village.
 ああ、そういえばね。|村の人から面白い話を聞いたよ。=Oh, right. I heard something interesting from the villagers.
 この村では、ホロっていう|名前の女神を祭ってるんだってさ。=Apparently they used to worship a goddess called Holo.
-シュミットさんも言ってたけど、|本当にホロとおんなじ名前なんだね。=Just like Schmidy said, there really is a god with your name.
+シュミットさんも言ってたけど、|本当にホロとおんなじ名前なんだね。=Just like Schmidt said, there really is a god with your name.
 たわけ！|それは、わっちのことじゃ。=Fool!|They were talking about me!
 わっちは麦に宿る狼じゃと|初めて会ったときに言ったろう？=I am the wolf who lives in wheat.|Did I not say that when we met?
 なあ、ぬしよ。わっちはな。|何百年もの間、ここの麦畑に宿って|実りを見守ってきたのじゃ。=You know, I have lived in these wheat fields for hundreds of years, watching over the crop.
@@ -615,11 +615,11 @@
 悪酔いして……うっぷ！|水を……早く……くりゃれ……。=Being hungover... urk!|Water... please... hurry...
 結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=In the end, we spent the whole morning recuperating at the inn.
 !FILE:event/ev_act/act_140_desel_horo_saikai_aniki_talk_mihensai.wsb
-やあ、元気そうだね。|商売のほうはどうだい？=Oh, you look well.|How's your business doing?
-たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off my cart debt yet.
-だったら、|しばらくはこの辺りで|行商を続けてみることだな。=Then you should keep doing some trades around here.
-もし、荷馬車の借金を|返し終わったら、|またこの酒場まで会いにきてくれ。=When you manage to pay off all of your debt, we should have a drink at the bar.
-ほかの地方への行商路のこととか|教えてやるよ。=I'll tell you how to make it in other places.
+やあ、元気そうだね。|商売のほうはどうだい？=You’re looking well.|How goes business?
+たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.
+だったら、|しばらくはこの辺りで|行商を続けてみることだな。= Then you're probably best sticking to trading around this area for now.
+もし、荷馬車の借金を|返し終わったら、ヴィンヘンの|酒場まで会いにきてくれ。=If you manage to pay off the cart, meet me at the tavern in Vinchen.
+ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
 !FILE:event/ev_act/act_150_flag_syakkin_hensai.wsb
 そろそろ、この辺りを|行ったり来たりするのにも|あきてきたの。=I am rather tiring of going back and forth along this route.
@@ -739,58 +739,58 @@
 他に手がかりも無いことじゃし、|それで行くかの。=Seeing as we do not have any other clues, ‘twould be a fair place to start.
 で、そのクライなんとかいう町には、|何か美味いものでもあるのかや？=I wonder what delicacies this Klei-|something might hold?
 !FILE:event/ev_act/act_170_kottou_yuudou_dorutonku_sakaba_talk.wsb
-もしかして、お客さん、|東のほうに行きたいんですか？=Sir, did you say that you wanted to head north?
-はい、そのつもりなんです。=Yes, I did.
-いいえ、考えてませんよ。=No, I didn't.
-だったら、いまは無理ですよ。|東のほうに行く街道は封鎖されてて、|誰も通れないんですから。=If so, you can't right now.|The eastern road is blocked off. No one can pass it.
+もしかして、お客さん、|東のほうに行きたいんですか？=Sir, could it be that you’re wanting to head East?
+はい、そのつもりなんです。=Yes, that’s the plan.
+いいえ、考えてませんよ。=No, I don’t think so.
+だったら、いまは無理ですよ。|東のほうに行く街道は封鎖されてて、|誰も通れないんですから。=Then, you’d be best abandoning that idea. The eastern road is blocked off, no one is allowed through.
 なんでも、|教会が依頼した聖騎士団が|街道を封鎖してるってことですよ。=I heard that the church sent a group of Holy Knights to block off the road.
-早く通れるようにならないと、|いろいろ不便で|困るんですけどねえ……。=I'm just a little worried that keeping the roads blocked off will be inconvenient...
-あら、そうなんですか。|変なことを聞いちゃって、|ごめんなさい。=Oh, you weren't?|I apologize for asking something strange, then.
-注文は、なんになさいます？=What can I do for you?
+早く通れるようにならないと、|いろいろ不便で|困るんですけどねえ……。=If they don’t unblock them soon, it’s going to cause all sorts of trouble...
+あら、そうなんですか。|変なことを聞いちゃって、|ごめんなさい。=Oh, is that so?|Sorry for asking something so strange.
+注文は、なんになさいます？=What would you like?
 !FILE:event/ev_act/act_170_kottou_yuudou_merusu_sakaba_talk.wsb
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-とりあえず、ビールじゃ。=Just a beer for now.
-それから、この店のお勧めの|つまみをお願いします。=And an order of the special side dish, too.
-うむ。ぬしも話が|わかるようになったの。=Mm. It looks like you understand now, too.
-ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special.|Got it.|We'll have it ready!
+とりあえず、ビールじゃ。=Beer, to start.
+それから、この店のお勧めの|つまみをお願いします。=And a side order of the house specialty, please.
+うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’ve wizened up a little, too.
+ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special.|Got it.|I’ll bring it out to you shortly!
 !FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb
-教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The church's doors are always open. Did you come to this church because you need God's power?
-えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That's not really what I had in mind...
-もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=Perhaps when you are faced with an ordeal, come to this town and rest assured.
-近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord will help you with His divine protection.
+教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The church's doors are always open. Did thou come to receive God’s blessing?
+えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
+もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou are concerned about what ordeals may fall on this town, have no fear.#qc
+近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put rights to them all.
 !FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb
 おや、あなたは？|当家に何か御用でしょうか？=Oh, and who might you be?|Do you have business at this estate?
-ボクは旅の行商人です。|こちらは、どなたのお屋敷ですか？|かなり大きなお屋敷ですけど。=I'm a traveling merchant.|Whose residence is this? It's a very big mansion.
-当家は、このメリンツの町が|興されたころから続く名門中の名門、|ルーデンス侯の屋敷です。=This is the home of the noble among nobles who revived this town of Melintz, Lord Ludens.
-ルーデンス侯は、主に海運事業を|手がけてますので、行商人の方とも|何かとご縁がございます。=Because Lord Ludens is mainly in the shipping business, he has to deal with merchants.
-もしかすると|当家との取引をお望みですかな？=Did you, perhaps, come to this residence to do business?
-えっ、いや……。|ボクなんて、|まだ駆け出しですから……。=Uh, no...|I mean I'm still just a novice merchant...
-どんな大商人も|最初は駆け出しです。=Every great merchant starts off as a novice.
-若い商人の方とのおつきあいは|将来への投資だと、ルーデンス侯は|よくおっしゃっております。=Lord Ludens always says that meeting young merchants is an investment for the future.
-何かございましたら、|当家まで足をお運びください。=If there is something you need, please go to the house on foot.
+ボクは旅の行商人です。|こちらは、どなたのお屋敷ですか？|かなり大きなお屋敷ですけど。=I'm a traveling merchant.|May I ask whose residence this is?|It's a mighty large estate.
+当家は、このメリンツの町が|興されたころから続く名門中の名門、|ルーデンス侯の屋敷です。=This is the home of prestigious Lord Ludens, whose lineage traces back to the very founding of Melintz.
+ルーデンス侯は、主に海運事業を|手がけてますので、行商人の方とも|何かとご縁がございます。=As Lord Ludens deals mainly in maritime trade, he has some ties with peddlers.
+もしかすると|当家との取引をお望みですかな？=Did you by chance come here to do business?
+えっ、いや……。|ボクなんて、|まだ駆け出しですから……。=Ah, no...|I mean; I'm still just a novice merchant...
+どんな大商人も|最初は駆け出しです。=Every great merchant was once a beginner.
+若い商人の方とのおつきあいは|将来への投資だと、ルーデンス侯は|よくおっしゃっております。=Lord Ludens often says that trading with young merchants is an investment for the future.
+何かございましたら、|当家まで足をお運びください。=If there is something you need, please do pay us a visit.
 !FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk_repeat.wsb
 当家は、ルーデンス侯の|屋敷でございます。=This is the residence of Lord Ludens.
-若い商人の方とのつきあいは、|将来への投資だとルーデンス侯は|おっしゃっております。=Lord Ludens always says that meeting young merchants is an investment for the future.
-何かございましたら、|当家まで足をお運びください。=If there is something you need, please go to the house on foot.
+若い商人の方とのつきあいは、|将来への投資だとルーデンス侯は|おっしゃっております。=Lord Ludens often says that trading with young merchants is an investment for the future.
+何かございましたら、|当家まで足をお運びください。=If there is something you need, please do pay us a visit.
 !FILE:event/ev_act/act_170_kottou_yuudou_sizin_talk.wsb
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
-最近、町の様子はどうです？=How's the town these days?
-おやおや、無粋な人だね。|吟遊詩人に歌を頼まないとは。=Oh my, you're so boorish.|Don't ask a bard for his song.
-あ、すみません。|優雅なことには縁のない|暮らしをしているもので……。=Oh, sorry.|In my line of work, you don't need elegance...
-それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=That's so wasteful.|When you tell me that, I very much want to tell you.
-ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Oh, please do.|A town's rumors are very important to a merchant.
+最近、町の様子はどうです？=How's town these days?
+おやおや、無粋な人だね。|吟遊詩人に歌を頼まないとは。=Dear me, what an unromantic man. Not asking for a minstrel's song.
+あ、すみません。|優雅なことには縁のない|暮らしをしているもので……。=Oh, sorry.|The life I lead is pretty far removed from all that elegant stuff...#tc
+それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=What a waste.|Hearing that makes me want to inform you of the world.
+ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Aye, please do.|What rumors are going around is most important information for a merchant.
 …………|……………………。=......|..........
-そういう意味ではないのだがね。|まだ君には少し早いかな。=That means nothing to me.|You're still a little too early.
-そうじゃな。|わっちは陽気な歌が聞きたい。=I suppose we are.|I want to hear a joyous song.
+そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early for you.
+そうじゃな。|わっちは陽気な歌が聞きたい。=Truly.|I for one, would like to hear a merry song.
 それでは、とっておきの歌を|美しき女性のために。=Then I will perform my best song for the beautiful lady.
-吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang for us a song about a careless knight who looked for his perfect wife.
-騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=In many places, he fell in love at first glance and proposed right away.
-ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his lovers weren't human.|They were bears, and birds, and deer.
-１０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=His tenth proposal was to a huge vixen, and this time, his proposal was accepted.
-すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=In the end, the vixen turned into a beautiful girl, and she married the knight.
-うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. That is a delightful song.|The story is rather foolish, but it certainly stays with you.
-そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes me glad I performed it.|Please, a favor.
+吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for the perfect wife.
+騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=Wherever he went, he would fall in love at first glance and propose straight away.
+ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his sweethearts weren't human.|They were bears, and birds, and deer.
+１０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=The tenth he courted was a huge vixen, who finally accepted his proposal.
+すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden, and they end up married.
+うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. ‘Tis a delightful song.|The story is rather foolish, but it certainly stays with you.
+そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Your favor, please.
 !FILE:event/ev_act/act_180_kottou_kiku.wsb
 いらっしゃいませ。|私どもの店に、|どういった御用向きでしょう？=Welcome to my humble establishment.|How may I be of assistance? 
 こんにちは。|こちらでは骨董品を扱ってるという|ことですよね？=Hello.|You sell antiques here, don't you?
@@ -917,38 +917,38 @@
 とても参考になりました。|ありがとうございます。=You've been very helpful.|Thank you.
 どこに行くんじゃ、ぬしよ。|その小娘に|話を聞かなくていいのかや？=Where are you going?|Are you not going to talk to that maid?
 !FILE:event/ev_act/act_210_rt1_megane_kiku_megane_talk.wsb
-その女の子が|故郷を探してるんですか？=That girl is looking for her home?
+その女の子が|故郷を探してるんですか？=Is that the girl looking for her home?
 ええ、そうです。|ホロっていいます。=Yeah.|Her name's Holo.
 早く見つかるといいですね。|私も応援してますから=I hope you find it soon.|I'll be wishing you the best.
 ―――=---
 きゃっ！=Kyaa!
-ほう。|変わった応援の仕方じゃの。|初めて見た。=Oh?|What a way to cheer for us.|I have never seen that.
+ほう。|変わった応援の仕方じゃの。|初めて見た。=Oh?|That’s an unusual cheer.|‘Tis the first I’ve seen of it.
 だいじょうぶですか！=Are you okay?!
-す、すみません……。|なんで何もないところで転ぶのか、|自分でも不思議で……。=I-I'm sorry...|Even I don't know how I can trip over nothing...
-ほら、手を貸しますから。|怪我はありませんか？=I'll lend you a hand.|Did you get hurt?
-ええ、平気みたいです。|転びなれてるせいかしら？=No, I'm fine.|I guess I'm used to falling.
-……なんて|同じ会話をしてますね。ふふ。=...Oh.|This is just like before, fufu.
-ははっ。そうですね。=Haha. It sure is.
+す、すみません……。|なんで何もないところで転ぶのか、|自分でも不思議で……。=I-I'm sorry...|Even I don't know how I can manage to trip over nothing...
+ほら、手を貸しますから。|怪我はありませんか？=Here, take my hand.|Did you hurt yourself?
+ええ、平気みたいです。|転びなれてるせいかしら？=No, I'm fine.|Maybe because I’m so used to falling over?
+……なんて|同じ会話をしてますね。ふふ。=...Oh.|This is just like before, isn’t it? Heh-heh.
+ははっ。そうですね。=Ha-ha, you’re right.
 ――痛っ！=--Ow!
-何するの、ホロ？|いま、蹴ったよね？=What was that for, Holo?|You kicked me!
-ぬしの鼻の下が|伸びておるのを教えてやろうと|思ってな。=I thought I should tell you that your lips were spread apart too far.
-だから、そんなんじゃないって|言ってるのに……。=If you wanted to tell me, then you should've just told me...
-あら、どうかしましたか？=Hm? What's the matter?
+何するの、ホロ？|いま、蹴ったよね？=What was that for, Holo?!|Did you just kick me?
+ぬしの鼻の下が|伸びておるのを教えてやろうと|思ってな。=I thought I should tell you that you are making goo-goo eyes again.
+だから、そんなんじゃないって|言ってるのに……。=Like I said, it’s nothing like that.
+あら、どうかしましたか？=My, is something the matter?
 !FILE:event/ev_act/act_210_rt1_megane_kiku_megane_talk_repeat.wsb
 ホロさんの故郷が|早く見つかるといいですね。=I hope that Ms. Holo finds her home soon.
-私も応援してますから=I'll be wishing you the best.
-―――きゃっ！=--Kyaa!
+私も応援してますから=I'll be wishing you the bes--
+―――きゃっ！=Kyaa!
 わあっ!?=Wah?!
 …………っと！=......Ack!
-ああ、びっくりした。|なんとか、だいじょうぶでした。=Oh, you scared me.|It's fine, though.
-びっくりしたのは、こっちですよ。=I got a little scared, too...
-すみません……。|とにかく私も応援してますから、|いつでも力になりますよ。=I'm sorry...|Anyway, I'm wishing the best for you. I'll help you however I can.
+ああ、びっくりした。|なんとか、だいじょうぶでした。=Ah, that frightened me.|I somehow managed to catch my balance.
+びっくりしたのは、こっちですよ。=You gave me the fright.
+すみません……。|とにかく私も応援してますから、|いつでも力になりますよ。=I'm sorry...|I meant to say, I am here for you, so please count on me any time.
 !FILE:event/ev_act/act_210_rt1_megane_kiku_merusu_sakaba_talk.wsb
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I've got something to ask.|You know "Ancient Wolf Forest"?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
 えっ、なんですか、それ？=Huh? What's that?
-だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=Well, is there anyone in this town that knows about folklore?
-さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Do I? Not really.|You want some beer? Or maybe wine?
+だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=Then, is there anyone in this town who’s familiar folklore or the like?
+さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Hmm... I don’t really know.|Anyway, are you having beer? Or perhaps wine?
 !FILE:event/ev_act/act_220_rt2_sakba_de_kiku.wsb
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
@@ -1038,7 +1038,7 @@
 ええええっ!?=Eeeeeeh?!
 まあ、あの詩人とやらは|人の獲物を横取りしようとせんだけ、|賢いかもしれんがの。=Well,  at least this wordsmith was wise enough not to try swiping away someone else’s prey.
 !FILE:event/ev_act/act_230_rt2_sizin_kiku_sizin_talk.wsb
-やあ、いらっしゃい。|私の顔を見にきてくれたのかな？=Oh, welcome.|I wonder if you came to see me.
+やあ、いらっしゃい。|私の顔を見にきてくれたのかな？=Oh, welcome.|I wonder if you came to see me.#start here
 い、いえ……|そういうわけでは……。=W-Well...|not exactly...
 そんなふうに|身構えるとはつれないね。=You don't have to be so on your guard.
 とはいえ、安心したまえ。|牙をむいたお嬢さんがいる前では、|さすがに何もできそうにない。=Please relax. I can't even try anything with that growling lady next to you.
@@ -1599,8 +1599,8 @@
 ………………？=
 !FILE:event/ev_act/act_400_sira_wo_siru.wsb
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I've got something to ask.|Do you know about the "Forest of the Ancient Wolves"?
-えっ、なんですか、それ？=Err, why, what's that?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
+えっ、なんですか、それ？=Huh? What's that?
 だったら、|『シラ』っていう村は？=How about a village called "Shila", then?
 シラ、ですか？|それなら、わかりますよ。=Shila? Yes, I know about it.
 あんな小さな村に行って、|商売になるんですか？=Is there any profit to be made at a village like that?
@@ -1750,10 +1750,10 @@
 しかも若い女を生きたまま|異教の神にささげて、|生き血をすするんですって！=
 こわいですよね～～。|私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=
 !FILE:event/ev_act/act_450_kokyou_settoku_clr_merusu_sakaba_talk.wsb
-いらっしゃいませ！|何になさいます？=
-あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=
-うん、まあね。|なんとか商売の役に立つと思うよ。=
-へぇ、さすが商人は違いますね。=
+いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
+あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=My, a customer.|Did you try to visit Shila? Find anything nice?#qc
+うん、まあね。|なんとか商売の役に立つと思うよ。=Well, more or less.|I think it could be useful for trade.
+へぇ、さすが商人は違いますね。=Heh, I guess that’s merchants for you. You always see things differently.
 !FILE:event/ev_act/act_450_kokyou_settoku_clr_sinpu_talk.wsb
 あれ以来、|狼の化け物が出たことはない。|神の力を恐れているようだ。=
 くふ。|別にそんなことはありんせん。=
@@ -7928,22 +7928,22 @@
 いらっしゃいませ。=Welcome.
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
-最近、町の様子はどうです？=How are things here lately?
+最近、町の様子はどうです？=How's town these days?
 おやおや、無粋な人だね。|吟遊詩人に歌を頼まないとは。=Dear me, what an unromantic man. Not asking for a minstrel's song.
-あ、すみません。|優雅なことには縁のない|暮らしをしているもので……。=Ah, sorry. I don't need culture in order to make a living...
-それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=That's too bad. If you heard such things, you would want to hear more.
-ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Well, please. The news of a town is important to a merchant.
+あ、すみません。|優雅なことには縁のない|暮らしをしているもので……。=Oh, sorry.|The life I lead is pretty far removed from all that elegant stuff...
+それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=What a waste.|Hearing that makes me want to inform you of the world.
+ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Aye, please do.|What rumors are going around is most important information for a merchant.
 …………|……………………。=......|..........
-そういう意味ではないのだがね。|まだ君には少し早いかな。=That means nothing. Isn't it a bit early for you?
-そうじゃな。|わっちは陽気な歌が聞きたい。=That is not so. I wish to hear a merry song.
-それでは、とっておきの歌を|美しき女性のために。=Then I will sing my best song for the beautiful lady.
-吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The minstrel sung of a  careless knight who searched for his perfect wife.
-騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=Wherever the knight went, he took one glance at a lady and suddenly proposed marriage.
-ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=His partners were not human. They had been bears, birds, and deer.
-１０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=He had proposed to 10 girls before a big vixen had agreed to marry him.
-すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=With that, the vixen turned into a beautiful lady before him and they ended up married.
-うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Hmm, what a pleasant song. Full of heart unlike the stupid tales most tell.
-そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=If you say so, then it must be good. Please, your favor.
+そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early for you.
+そうじゃな。|わっちは陽気な歌が聞きたい。=Truly.|I for one, would like to hear a merry song.
+それでは、とっておきの歌を|美しき女性のために。=Then I will perform my best song for the beautiful lady.
+吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for the perfect wife.
+騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=Wherever he went, he would fall in love at first glance and propose straight away.
+ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his sweethearts weren't human.|They were bears, and birds, and deer.
+１０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=The tenth he courted was a huge vixen, who finally accepted his proposal.
+すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden, and they end up married.
+うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. ‘Tis a delightful song.|The story is rather foolish, but it certainly stays with you.
+そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Your favor, please.
 !FILE:event/ev_sys/t04_seab_pub.wsb
 店員と話す =Talk to the Clerk
 いらっしゃいませ。=Welcome.
@@ -7953,18 +7953,18 @@
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-とりあえず、ビールじゃ。=For now, beer.
-それから、この店のお勧めの|つまみをお願いします。=Well then, please give me your recommended dish.
-うむ。ぬしも話が|わかるようになったの。=Umu. It seems you now understand what I said.
-ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and our best.|Alright. I'll bring it right out!
+とりあえず、ビールじゃ。=Beer, to start.
+それから、この店のお勧めの|つまみをお願いします。=And a side order of the house specialty, please.
+うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’ve wizened up a little, too.
+ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special.|Got it.|I’ll bring it out to you shortly!
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-とりあえず、ビールじゃ。=For now, beer.
-それから、この店のお勧めの|つまみをお願いします。=Well then, please give me your recommended dish.
-うむ。ぬしも話が|わかるようになったの。=Umu. It seems you now understand what I said.
-ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and our best.|Alright. I'll bring it right out!
+とりあえず、ビールじゃ。=Beer, to start.
+それから、この店のお勧めの|つまみをお願いします。=And a side order of the house specialty, please.
+うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’ve wizened up a little, too.
+ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special.|Got it.|I’ll bring it out to you shortly!
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I don't wanna ask, but have you heard of "Ancient Wolf Forest"?
-えっ、なんですか、それ？=Wha? What is that?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
+えっ、なんですか、それ？=Huh? What's that?
 だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=Even though it's a legend here, no one knows it that well?
 さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Yeah? I don't know.|So do you want beer? Or maybe wine?
 シラって本当に小さな村で、|この町でも知ってる人は|少ないんですよ。=Shila is a really small town, there's not a lot of people who would know stuff like that.
@@ -7972,9 +7972,9 @@
 シラって本当に小さな村で、|この町でも知ってる人は|少ないんですよ。=Shila is a really small town, there's not a lot of people who would know stuff like that.
 アタシの彼が、|たまたまシラの出身だから|知ってたんです。=But my boyfriend accidentally found out about the town history so he should know.
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=My, a customer.|Have you just come to Shila? Do you want something nice?
-うん、まあね。|なんとか商売の役に立つと思うよ。=Sure, I guess.|It might be useful for trading.
-へぇ、さすが商人は違いますね。=Ho, you're a strange merchant.
+あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=My, a customer.|Did you try to visit Shila? Find anything nice?#qc
+うん、まあね。|なんとか商売の役に立つと思うよ。=Well, more or less.|I think it could be useful for trade.
+へぇ、さすが商人は違いますね。=Heh, I guess that’s merchants for you. You always see things differently.
 !FILE:event/ev_sys/t09_dort_act_240_mon_ashidome.wsb
 あのうさん臭い男に|会わなくてもいいのかや？=Should you meet with that suspicious man?
 !FILE:event/ev_sys/t09_dort_act_320_ichiba_ashidome.wsb
@@ -7986,14 +7986,14 @@
 サーセンと話す=Talk to Sarsen
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
-もしかして、お客さん、|東のほうに行きたいんですか？=Mister Customer, could it be that you want to go east?
-はい、そのつもりなんです。=Yes, that's my intention.
-いいえ、考えてませんよ。=No, you can't even think it.
-だったら、いまは無理ですよ。|東のほうに行く街道は封鎖されてて、|誰も通れないんですから。=Right now, you just can't.|The road going east is blocked so no one can pass it.
-なんでも、|教会が依頼した聖騎士団が|街道を封鎖してるってことですよ。=All cause the Church sent the Holy Knights to go block the road.
-早く通れるようにならないと、|いろいろ不便で|困るんですけどねえ……。=You can't get by quickly.|It's really inconvenient and worries me a little...
-あら、そうなんですか。|変なことを聞いちゃって、|ごめんなさい。=Oh, that's right.|I made you listen to something strange, I'm sorry.
-注文は、なんになさいます？=What will you have?
+もしかして、お客さん、|東のほうに行きたいんですか？=Sir, could it be that you’re wanting to head East?
+はい、そのつもりなんです。=Yes, that’s the plan.
+いいえ、考えてませんよ。=No, I don’t think so.
+だったら、いまは無理ですよ。|東のほうに行く街道は封鎖されてて、|誰も通れないんですから。=Then, you’d be best abandoning that idea. The eastern road is blocked off, no one is allowed through.
+なんでも、|教会が依頼した聖騎士団が|街道を封鎖してるってことですよ。=I heard that the church sent a group of Holy Knights to block off the road.
+早く通れるようにならないと、|いろいろ不便で|困るんですけどねえ……。=If they don’t unblock them soon, it’s going to cause all sorts of trouble...
+あら、そうなんですか。|変なことを聞いちゃって、|ごめんなさい。=Oh, is that so?|Sorry for asking something so strange.
+注文は、なんになさいます？=What would you like?
 この酒場によく来てくれてた|サーセンって人が|教会に捕まったって噂なんですよ。=Sarsen came to this bar a lot but there's rumors that he's been arrested by the Church.
 お客さん、前に|あの人と話してましたよね。|詳しいこと、知ってませんか？=Mister Customer, you talked to him earlier. Did you find out any details?
 だいたいの話は知ってます。=We just made small talk.
@@ -8028,11 +8028,11 @@
 !FILE:event/ev_sys/t20_vinc_pub.wsb
 シュミットと話す=Talk to Schmidt
 いらっしゃいませ。=Welcome.
-やあ、元気そうだね。|商売のほうはどうだい？=Oh, you look well.|How's your business doing?
-たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off my cart debt yet.
-だったら、|しばらくはこの辺りで|行商を続けてみることだな。=Then you should keep doing some trades around here.
-もし、荷馬車の借金を|返し終わったら、|またこの酒場まで会いにきてくれ。=When you manage to pay off all of your debt, we should have a drink at the bar.
-ほかの地方への行商路のこととか|教えてやるよ。=I'll tell you how to make it in other places.
+やあ、元気そうだね。|商売のほうはどうだい？=You’re looking well.|How goes business?
+たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.
+だったら、|しばらくはこの辺りで|行商を続けてみることだな。= Then you're probably best sticking to trading around this area for now.
+もし、荷馬車の借金を|返し終わったら、ヴィンヘンの|酒場まで会いにきてくれ。=If you manage to pay off the cart, meet me at the tavern in Vinchen.
+ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
 どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fares you? Using a cart for trade is a world away from peddling, isn't it?
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
@@ -8041,8 +8041,8 @@
 !FILE:event/ev_sys/t22_mira_ichiba_asidome.wsb
 この時間では、|すでに市場は閉まっていた。=The market will already be closed by now.
 !FILE:event/ev_sys/t22_mira_mon2_asidome.wsb
-何も商品を買ってないが|いいのかや？=Is it alright for you to not buy anything?
-空荷で旅するのはやめろと、|さっきの若い商人が|言っておったじゃろう？=Since that young merchant said that less cargo means you will travel quicker?
+何も商品を買ってないが|いいのかや？=Is it all right for you to not buy anything?
+空荷で旅するのはやめろと、|さっきの若い商人が|言っておったじゃろう？=That young merchant said not to travel empty-handed, did he not?
 !FILE:event/ev_sys/t22_mira_mon3_asidome.wsb
 わっちは腹が減った。|何か食べさせてくりゃれ。=I am rather hungry.|Can we not get something to eat first?
 !FILE:event/ev_sys/t22_mira_mon4_asidome.wsb
@@ -8055,7 +8055,7 @@
 （酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(No, going to the tavern can come later.|Right now, I need to head for the forest on the edge of town.)
 !FILE:event/ev_sys/t23_sila_act_440_mon2_asidome.wsb
 ......|..........
-ぬしに話があるのじゃ。|今日はこの村でゆっくりしたい。=I wish to tell you something.|I want to rest in town today.
+ぬしに話があるのじゃ。|今日はこの村でゆっくりしたい。=I have something to tell you.|Let’s take today at our leisure in the village.
 !FILE:event/ev_sys/t23_sila_act_440_mon_asidome.wsb
 わっちは大蛇の湖とやらを|見てみたい。|ついてきてくりゃれ？=I am going to see the Serpent's Lake.|Are you coming along?
 !FILE:event/ev_sys/t23_sila_pub.wsb
