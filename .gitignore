@@ -9,5 +9,6 @@ out_*
 *.mkv
 *.wav
 font_data.bin
+redirects.asm
 *.iml
 /.idea/
