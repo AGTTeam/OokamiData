@@ -26,8 +26,8 @@
 ？？？=???
 噂話を聞く=Ask about Recent Rumors
 町に戻る=Return to Town
-通りすがり=
-おもに@<top_goods@>を扱っている=
+通りすがり=#qc
+おもに@<top_goods@>を扱っている=I mainly deal in <top_goods@>.
 投資金額　　：銀貨 0 枚|返却予定金額：銀貨 0 枚=Investment cost   : 0 silver|Expected returns: 0 silver
 投資金額　　：銀貨 7000 枚|返却予定金額：銀貨 11000 枚=Investment cost   : 7000 silver|Expected returns: 11000 silver
 投資金額　　：銀貨 20000 枚|返却予定金額：銀貨 33000 枚=Investment cost   : 20000 silver|Expected returns: 33000 silver
@@ -57,7 +57,7 @@
 投資金額　　：銀貨 6000 枚|返却予定金額：銀貨 9500 枚=Investment cost   : 6000 silver|Expected returns: 9500 silver
 はい=Yes
 いいえ=No
-おにーさんは取引しなくて、|大丈夫だった？|それともバッチリ？=You didn’t make agree on a deal, did you Sir? Was that alright?|Or maybe it’s a good thing?#qc
+おにーさんは取引しなくて、|大丈夫だった？|それともバッチリ？=You didn’t make agree on a deal, did you Sir? Was that all right?|Or maybe it’s a good thing?#qc
 ようこそ！|私どもの商館へ。=Welcome to our trading house!
 当商会の儲け話の噂をお聞きに|なられたとおっしゃいますか？|おお、それはお耳が早い！=Did you say that heard a rumor about a profitable deal happening at our company? Why, how very astute!
 では、依頼された商人の方へ|お取次ぎいたしますか？=Well then, shall I pass you along to the merchant who made the request?
@@ -106,7 +106,7 @@
 確かに伝えたよ！|じゃあ、またね～！=That should be everything!|Well, ‘till next time~!
 ぬし、うまく儲けたようじゃの。|ぬしが嬉しそうな顔をしておると|わっちも嬉しい。=It seems that went rather well. ‘Tis nice to see you looking so happy.
 しかし、取引がうまくいったのは|果たして誰のおかげかの……？=That’s not to say I owe it to a certain someone that the deal went to well...
-……ほう、そこの店でごちそう|してくれると申すか！|殊勝な心がけじゃ。=...Oh-ho, you mean to say you’re going to treat me to a meal? A commendable idea.
+……ほう、そこの店でごちそう|してくれると申すか！|殊勝な心がけじゃ。=...Ho, you mean to say you’re going to treat me to a meal? A commendable idea.
 じゃ、遠慮なくいただくとするかの。|次の取引もうまく行くとよいな！=Then, I shall gladly accept.|I hope that all your deals go this well!
 ホロに　ごちそうした！|銀貨@<trade_d@>枚　支払った！=Treated Holo!|Spent @<number1@> silver!
 お使いソフィー=Errand-Girl Sophie
@@ -133,7 +133,7 @@
 |荷馬車に揺られてゆくことになった。=to our destination on the shaking carriage.# Check linebreak, this line is right after the previous one
 その間、ボクはいまの状況を|あらためてかみしめた。=Meanwhile, I spent the time contemplating our current situation.
 これがホロと二人でする|最後の旅なんだ……。=This will be my last trip with Holo...
-聞いた話からすると、|明日の午後ぐらいには|たどり着けると思うんだよね。=According to what we we're told, we should make it there by tomorrow afternoon.
+聞いた話からすると、|明日の午後ぐらいには|たどり着けると思うんだよね。=According to what we were told, we should make it there by tomorrow afternoon.
 かなり広い森みたいだから、|すぐにホロの仲間が見つかるか|どうか、わからないけど。=It's supposed to be a large forest, so I'm not sure if we'll meet your friends immediately.
 それは心配ありんせん。|近くまでゆけば、|あとは呼び合う方法がある。=Don't worry about that. If we get close enough, we'll have the means to find each other.
 ああ、そうか。遠吠えだね。=Oh, right. Howling.
@@ -210,7 +210,7 @@
 だけど、良かった。|もしかして、あのまま|戻ってこないつもりかと思った。=But, I'm relieved. I thought you might be gone for good, just like that.
 そういうわけにはいかん。|まだ、ぬしに|ちゃんと礼を言ってなかった。=I’ve no such intention.|I've yet to properly convey my gratitude.
 ぬしのおかげで、|わっちは故郷にたどり着いた。|感謝しておる。=‘Twas thanks to your efforts that I made it home. Thank you.
-ぬしのことは決して忘れん。|未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=I shall never forget you. You will be immortalized in my stories as my saviour.
+ぬしのことは決して忘れん。|未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=I shall never forget you. You will be immortalized in my stories as my savior.
 ねえ、ホロ。|本当にここで別れるの？=Holo... Is this really where we part ways?
 ボクはホロと別れたくない。|ホロのことが好きなんだ。|もっと、いっしょに旅を続けたい！=I don't want to leave you. I've come to love you so much... I want to travel more with you!
 ホロだって、ボクのことを|好きだと思ってるんでしょ？=I'm sure you feel the same, don't you?
@@ -323,7 +323,7 @@
 |届けることになっている。|納期までは、あと２日しかない。=|of Miland up ahead. There's only two more days left until the deadline.
 ボクは駆け出しの行商人だ。|引退した師匠の行商路を譲り受けて|独り立ちしたのが半年ほど前のこと。=I'm a novice merchant. I took over the ropes about six months ago, after my master retired.
 それ以来、背負えるだけの|商品を担いで、この辺りの村々を|巡っている。=Since then, I've been traveling around the nearby villages, taking as much as I can carry on my back.
-ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.#qc
+ボクのような若い行商人にとっては、|値段と納期だけが武器だ。=For young merchants like myself, delivering upfront is our only means.
 できれば明日中には|ミランドまでたどり着いて|納品しておきたかった。=If possible, I’d like to arrive in Miland tomorrow and hand off the goods.
 さてと……。|そろそろ寝るかな。=Well then... I should get some sleep.
 １人きりで行商を|するようになってから、|独り言が増えた気がする。=I get the feeling I’ve started talking to myself more since I’ve been alone.
@@ -500,8 +500,8 @@
 うん。わかった。|それで、いったい|どこに連れてけばいいのかな？=All right.|Now where exactly is it you’re looking to get to?
 わっちの故郷じゃ。|ここから、|だいぶ北に行ったところにある。=To my birthplace. ‘Tis far to the north of here.
 故郷？　なんてところ？=Your birthplace? Where's that?
-人間たちは『古狼の森』とか|呼んでおったな。知ってるかや？=Humans called it the "Ancient Forest".|Do you know of it?
-『古狼の森』……？|いや、聞いたことないなぁ。="Ancient Forest"...?|No, I've never heard of it.
+人間たちは『古狼の森』とか|呼んでおったな。知ってるかや？=Humans called it the “Ancient Forest”.|Do you know of it?
+『古狼の森』……？|いや、聞いたことないなぁ。=“Ancient Forest”...?|No, I've never heard of it.
 ならば、おいおい|調べてゆくしかないじゃろう。|それも、ぬしの仕事じゃ。=Then, we shall have to investigate piece by piece. That is also part of your job.
 ええっ!?=Huh!?
 ボクは驚きながらも、|なるほどそういうことだったのかと|納得していた。=While it had caught me off guard, I came to understand the rationale behind it.
@@ -555,7 +555,7 @@
 それなら、俺の話より先に|『噂話』を聞いてくるといい。=Then, you should do that before we continue.
 はい。聞いてみました。=Yes, I spoke with the Barkeeper.
 『噂話』を聞いたときには、|忘れないうちに|書きとめておくようにな。=Once you’ve heard a rumor, make sure to write it down before you forget.
-そして、『噂話』を|いつでも確認できるようにするのが|大事だ。=Plus, it’s handy to be able to check them whenever you’d like.#tc
+そして、『噂話』を|いつでも確認できるようにするのが|大事だ。=Plus, it’s handy to be able to check them whenever you’d like.
 『噂話』を書きとめるのは、|ボクの師匠にも言われていたので|すでにやっておいた。=My master had told me the same, so I’ve already written it down.
 『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only taverns that you can hear rumors, but you can also speak to other merchants when you’re out on the road.
 聞いたことのある『噂話』は、|いつでも確認できるように|クセをつけておくんだ。=Make it a habit to go back and check rumors you’ve heard before.
@@ -591,9 +591,9 @@
 酒場でどんな『噂話』が流れてるか、|もう聞いてみたか？=Have you already asked at the bar about the latest “rumors”?
 　|　　　　―　噂について　―= |<<- About Rumors -
 この作品では、たくさんの重要な|情報が「噂話（うわさばなし）」と|して世界中に流れています。=In this line of work, a lot of important information travels around as “rumors”.
-「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Tavern " and on the "Trade Map".
-町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Tavern", you can hear rumors from the people inside.
-「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the "Trade Map", you can hear rumors by passing by the location where a "?" mark appears.
+「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's “Tavern” and on the “Trade Map”.
+町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a “Tavern”, you can hear rumors from the people inside.
+「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the “Trade Map”, you can hear rumors by passing by the location where a “?” mark appears.
 集めた噂はいつでも読み返すことが|できます。たくさん集めてゲームを|有利に進めましょう。=You may re-read rumors at any time. Collecting many will help you better progress through the game.
 　|　　　―　噂を聞くと……？　―=　|<<- When you hear a rumor...? -
 噂話を聞くことで、交易マップ上に|新しい町が出現したり、儲け話が|発生したりします。=By listening to rumors, new towns or opportunities to earn money may present themselves.
@@ -605,8 +605,8 @@
 まず、商品の買いつけで考えるべき|なのは、仕入れた商品を|どの町で売るかということだ。=The first thing to think about when buying a product, is where you are going to sell it.
 目的地の町で『人気の品』に|なっているものを買っておくと|儲けが大きくなる。=If you buy something which is a “popular item” in the town you’re heading to, you can make a big profit.
 人気の品を知るためには、|『地図』に書き込んだ町の情報を|活用するんだ。=To find out which items are popular, use the town information stored in your map.
-たとえば、この村の特産品の|『リンゴ』は、隣村のノーリンで|人気の品になっている。=For example, this villages's famous "Apple" is currently popular in the nearby village of Norlin.
-この村で仕入れるなら|『リンゴ』がいいだろう。=So, if you were going to stock up on a product from this village, "Apples" would be a wise choice.
+たとえば、この村の特産品の|『リンゴ』は、隣村のノーリンで|人気の品になっている。=For example, this village’s famous “Apple” is currently popular in the nearby village of Norlin.
+この村で仕入れるなら|『リンゴ』がいいだろう。=So, if you were going to stock up on a product from this village, “Apple” would be a wise choice.
 それから、たとえ人気の品が|わからなくても空荷で旅をするのは|やめたほうがいい。=And, even if you don’t know what the popular item is, it’s better not to travel with an empty cart.
 徒歩だと自分の体力を削らなければ|商品を運べないけれど、|荷馬車なら気にしなくていいからな。=On foot, you can’t carry products without it wearing away at your energy...>>but you don’t have to worry about that with a cart.
 何か売れる商品を|持っていないことには、|儲けるチャンスもゼロだ。=Think of it like this;|You have no chance of making money if you have nothing to sell.
@@ -643,9 +643,9 @@
 安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get higher than normal profits on selling them.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
-商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a "Type" and "Rank".
-プレイヤーの「商品知識」より|商品ランクが高い商品は購入する|ことができません。=You can’t buy a product if it’s rank is higher than your current "Goods Knowledge".
-買いたい商品を見つけたら、関連|する商品ジャンルの「商品知識」を|上げるようにしてみましょう。=If you see something you want to buy, try to raise your "Knowledge" of the related goods type.
+商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a “Type” and “Rank”.
+プレイヤーの「商品知識」より|商品ランクが高い商品は購入する|ことができません。=You can’t buy a product if it’s rank is higher than your current “Goods Knowledge”.
+買いたい商品を見つけたら、関連|する商品ジャンルの「商品知識」を|上げるようにしてみましょう。=If you see something you want to buy, try to raise your “Knowledge” of the related goods type.
 プレイヤーの「商品知識」は、該当|するジャンルの商品を一定量売る|ことで上げることができます。=Your Goods Knowledge can be raised by selling certain amounts of the corresponding Goods Type.
 高い商品ランクの商品を購入する|ためには、同じジャンルの商品を|購入しつづけるのが近道です。=The quickest way to buy a high-ranking product is to continuously buy goods of the same type.
 !FILE:event/ev_act/act_100_yamagoe_no_susume.wsb
@@ -660,7 +660,7 @@
 わっちが、この賢狼ホロが|いっしょにいるんじゃ。|なんの問題もありんせん。=I, Holo the Wisewolf, am with you. You’ll have no such problems.
 （そんなこと、|　なんの保証にもならないよ）=(And how does that prove anything...?)
 また無礼なことを考えておるな？|まったく、ぬしは疑り深い雄じゃの。=Thinking something rude again, are we? What a distrusting fellow.
-えっ！|別にそんなこと……ないよ。=Wha-!|It’s nothing like that...
+えっ！|別にそんなこと……ないよ。=Wha--!|It’s nothing like that...
 だったら、雇い主の言うことに|もっと素直に従ったらどうかや。|どうせ１度は通ってきた道じゃろう？=Then you ought to better listen to your employer. You have already passed through that way once, have you not?
 結局、ホロに押し切られて、|山越えの道を選ぶことになった。=In the end, I gave in and chose the mountain path.
 （だけど、いつホロに|　山越えした話を伝えたっけ？）=(But when did I tell her about having been this way before?)
@@ -930,7 +930,7 @@
 …………|……………………。=......|..........
 ふん。|ぬしが何を考えてるかなど|お見通しじゃ。=Hmph.|‘Tis not hard to guess what you are thinking.
 いや、あの……その……|それより、故郷のことだけど……。=Um, well... that's...|At any rate, about your home...
-ホロの話からすると、|今でも本当に『古狼の森』って|呼ばれてるか、わからないよね？=From everything you’ve told me, we can’t be sure that it’s still called the "Ancient Forest", right?
+ホロの話からすると、|今でも本当に『古狼の森』って|呼ばれてるか、わからないよね？=From everything you’ve told me, we can’t be sure that it’s still called the “Ancient Forest”, right?
 む？=Mm?
 言われてみれば、そうじゃの。|人がその名で呼んでおったのは|何百年も前の話じゃ。=You may have a point.|It was centuries ago that I heard it referred to in that way.
 だったら、昔の地名とかを|調べたほうがいいかもね。=In that case, we should be investigating older geographical names.
@@ -945,7 +945,7 @@
 クライシュタインって町で|店をかまえてるって言ってたよ。=He said he has a store over in Kleistein.
 ボクも行ったことない町だけど、|たしか西の海岸地方にあったと思う。=I've never been there myself, but I believe it was somewhere along the west coast.
 他に手がかりも無いことじゃし、|それで行くかの。=Seeing as we do not have any other clues, ‘twould be a fair place to start.
-で、そのクライなんとかいう町には、|何か美味いものでもあるのかや？=I wonder what delicacies this Klei-|something might hold?
+で、そのクライなんとかいう町には、|何か美味いものでもあるのかや？=I wonder what delicacies this Klei--|something might hold?
 !FILE:event/ev_act/act_170_kottou_yuudou_dorutonku_sakaba_talk.wsb
 もしかして、お客さん、|東のほうに行きたいんですか？=Sir, could it be that you’re wanting to head East?
 はい、そのつもりなんです。=Yes, that’s the plan.
@@ -1006,7 +1006,7 @@
 いえ、実は少し|お知恵を貸していただければ、と。=Actually, I was hoping that we might borrow your expertise for something.
 装飾本なども手がけてらっしゃると|聞いたものですから。=I heard that you deal with old manuscripts.
 まあ、たしかに美術品として|価値のありそうな本なら|商いますけどね。=Well, it’s true that if a book appears to have artistic merit to it, I buy it.
-古い地名を調べているのです。|『古狼の森』というのですが、|聞いたことはありませんか？=I’m looking for information about old place names, specifically, the "Ancient Forest". Have you heard of it?
+古い地名を調べているのです。|『古狼の森』というのですが、|聞いたことはありませんか？=I’m looking for information about old place names, specifically, the “Ancient Forest”. Have you heard of it?
 いやぁ、わかりませんな。|私は本の中身には、|まったく興味があませんので。=Nay, can’t say I have.|I’ve never really been much interested in what’s inside the books.
 そういうことを聞きたいなら、|もっと良い相手がいると|思いますけどね。=But if that's what you're after, I can tell you where to find someone who is.
 えっ？|それは、どなたですか？=Huh?|And who might that be?
@@ -1073,8 +1073,8 @@
 ええ、そうですね。|そんなこともしております。=Yes, I am.|It's one of my jobs.
 実は、ボクの依頼主が|自分の故郷を探してましてね。=To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
-覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the "Ancient Forest".
-えっと、『古狼の森』ですか？=Hmm, the "Ancient Forest"?
+覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the “Ancient Forest”.
+えっと、『古狼の森』ですか？=Hmm, the “Ancient Forest”?
 なにかで読んだような気もします。|ちょっと調べてみましょう。|どうぞ、こちらへ。=I think I remember reading about it. I will need to have a look.|Please, come inside.
 あっ、散らかってますから、=Ah, it's a little messy in here,
 |足元には=|so please
@@ -1098,10 +1098,10 @@
 ホロの機嫌をとるため、|いろいろな言い訳を考えていると|アニスさんが戻ってきた。=As I was trying to think of the best excuse to placate Holo, Ms. Anise returned.
 お待たせしました。|なかなか思い出せなくて、|やっと見つけました。=Thank you for waiting.|It took me a while to remember, but I finally found it.
 この本は、北の地方の伝承を|集めているものなんです。|ほら、ここに書いてあります。=This book is collection of old tales from the northlands.|Look, it's written here.
-かつて巨大な狼が|『メルス・クリッツ』の町に|現れたそうです。=It says a giant wolf once appeared in the town of "Mels-Kritz".
+かつて巨大な狼が|『メルス・クリッツ』の町に|現れたそうです。=It says a giant wolf once appeared in the town of “Mels-Kritz”.
 その狼は人語を解し、|名前をホロウと名乗りました。=This wolf could speak the language of men and called herself Holoh.
 ホロウはときどき|可愛らしい少女に姿を変えて、|人々と宴を繰り返したそうです。=Holoh would sometimes take the form of a beautiful maiden and join the people in their festivities.
-そして……まあ、ふふ。|大喰らいの大酒呑みだそうで、|よく二日酔いになったらしいわ。=And... Oh my.|It appears she loved both eating and drinking and would offen suffer from hangovers.
+そして……まあ、ふふ。|大喰らいの大酒呑みだそうで、|よく二日酔いになったらしいわ。=And... Oh my.|It appears she loved both eating and drinking and would often suffer from hangovers.
 ねえ、ホロ。|なんだか……ホロの話に似てるね。=You know, Holo...|It kind of reminds me of you.
 たわけ。|わっちのことを語ってるに|決まっとるじゃろう。=Fool.|Is it not obvious that I am the one of whom the tale speaks?
 わっちは麦に宿る狼じゃと、|何度言えば信じるのかや？=How often must I tell you that I am a wolf who dwells in wheat before you believe me?
@@ -1112,7 +1112,7 @@
 はははっ。|ホロって昔から変ってないんだね。=Ha-ha-ha.|Guess you haven’t changed since way back when.
 たわけ。同じじゃありんせん。=Fool. I am not the same.
 二日酔いになる回数は|ちゃんと減っておるんじゃ。=I have hangovers far less often than I did before.
-えっと、それでこの部分に|『古狼の森』という記述が|ありますね。=Hmm, there's a part here with a description of the “Ancient Forest".
+えっと、それでこの部分に|『古狼の森』という記述が|ありますね。=Hmm, there's a part here with a description of the “Ancient Forest”.
 ホロウという狼は|『メルス・クリッツ』から|離れたところにある森に住んでいた。=The wolf, Holoh, lived in a forest some distance from Mels-Kritz.
 ホロウの住んでいた森は|『古狼の森』と呼ばれている。=It is known as the Ancient Forest.
 ――私の知ってる限りでは、|『古狼の森』という|名前の出るお話はこれだけです。=As far as I know, this is the only tale where the name “Ancient Forest” is mentioned.
@@ -1149,11 +1149,11 @@
 わあっ!?=Wah?!
 …………っと！=......Ack!
 ああ、びっくりした。|なんとか、だいじょうぶでした。=Ah, that frightened me.|I somehow managed to catch my balance.
-びっくりしたのは、こっちですよ。=You gave me the fright.
+びっくりしたのは、こっちですよ。=You gave me a fright.
 すみません……。|とにかく私も応援してますから、|いつでも力になりますよ。=I'm sorry...|I meant to say, I am here for you, so please count on me any time.
 !FILE:event/ev_act/act_210_rt1_megane_kiku_merusu_sakaba_talk.wsb
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the “Ancient Forest”?
 えっ、なんですか、それ？=Huh? What's that?
 だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=Then, is there anyone in this town who’s familiar folklore or the like?
 さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Hmm... I don’t really know.|Anyway, are you having beer? Or perhaps wine?
@@ -1166,7 +1166,7 @@
 ……ほう、年代記作家。|どういった理由で探しているのかな？=Oh, a chronicler, you say.|And why reason might you have to want one?
 実は、ボクの依頼主が|自分の故郷を探してましてね。=To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
-覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the "Ancient Forest".
+覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the “Ancient Forest”.
 ふむ。心当たりがないこともない。|ここではちょっと困るな。=Hm. I might be able to help you. But this is not the right place for it.
 私は吟遊詩人を|生業（なりわい）にしているが、|旅暮らしというわけではなくてね。=Although I make my living as a bard, I am not one for traveling.
 この町で暮らしているんだよ。|町外れに私の家があるから、|そこで話をしよう。=Hence, I live in this town.|My house is just on the outskirts, so let us talk there.
@@ -1209,11 +1209,11 @@
 歌には、浪漫が必要なんだよ。|教会のお仕着せのお話を歌にしても|面白くも何ともないだろう？=Songs require a little romanticism.|Don’t you think church-sanctioned stories would make for boring songs?
 それで酒場では|話せなかったんですね？=So that’s why you couldn’t tell us at the tavern?
 わざわざ教会に|目をつけられることもないからね。=I’d rather avoid drawing the attention of the church if possible.
-そうですよね。|それで『古狼の森』について|書いてある物語はありますか？=I know the feeling.|So, do you have anything on the "Ancient Forest"?
-ふむ、『古狼の森』ね。|聞いたことはあるような気がする。|北のほうの伝承だったはずだ。=Hm, the "Ancient Forest", is it?|That does ring a bell. I think it was in a legend form the north.
+そうですよね。|それで『古狼の森』について|書いてある物語はありますか？=I know the feeling.|So, do you have anything on the “Ancient Forest”?
+ふむ、『古狼の森』ね。|聞いたことはあるような気がする。|北のほうの伝承だったはずだ。=Hm, the “Ancient Forest”, is it?|That does ring a bell. I think it was in a legend form the north.
 ああ、この本だ。|ええっと、|たしかこの辺りに………これだ。=Yes, this is the book.|Let’s see, it should be... here it is.
-『古狼の森』には、|人語を解する巨大な狼たちが|住んでいたらしい。=It seems the "Ancient Forest" is home to giant wolves who can speak the tongue of men.
-この文献によると、|どうやら『シラ』という村の|近くにあったようだね。=According to this tect, it would’ve been near a village called "Shila".
+『古狼の森』には、|人語を解する巨大な狼たちが|住んでいたらしい。=It seems the “Ancient Forest” is home to giant wolves who can speak the tongue of men.
+この文献によると、|どうやら『シラ』という村の|近くにあったようだね。=According to this text, it would’ve been near a village called “Shila”.
 シラ、ですか？|どこにある村なんでしょう。=Shila?|I wonder where that could be.
 さあ……|私も聞いたことがないね。=Indeed...|I've never heard of it either.
 もしかすると、今では使われてない|昔の名前なのかもしれないし、|よほど小さな集落なのかもしれない。=It could be an old name that’s no longer used, or maybe just a tiny settlement.
@@ -1270,11 +1270,11 @@
 なんじの善意は|必ずや、この町のために役立てよう。=Thy good will shall serve the betterment of this town.
 ええ、お願いします。|ところで、少し聞きたいことが|あるのですが、よろしいですか？=It’s my pleasure.|By the way, do you mind if I ask you a few questions?
 こちらの教会はかなり|大きいようですが、年代記作家を|雇ったりはしてませんか？=From what I’ve seen, this is quite the large church you have.|Do you happen to employ any chroniclers?
-年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=Chroniclers?|A most unusual request. Why dost thou seek one?
+年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=Chroniclers?|A most unusual request. Why doth thou seek one?
 実は、ボクの依頼主が|自分の故郷を探しています。=To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
-覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the "Ancient Forest".
-『古狼の森』……？|まさか異教の神に関することでは|あるまいね？=The "Ancient Forest"...?|That wouldn’t have anything to do with the heretics, would it?
+覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the “Ancient Forest”.
+『古狼の森』……？|まさか異教の神に関することでは|あるまいね？=The “Ancient Forest”...?|That wouldn’t have anything to do with the heretics, would it?
 いえ、ちがう…………とは|言い切れないのですが、|実はボクにもわかりません。=No... is what I’d like to say, but I don’t know for sure myself.
 おそらく、|今は使われてないような|古い地名じゃないかと思うのですが。=I suspect that it’s an older name no longer in use.
 ふむ、そういうことなら|かまわないか……。=Hm, in that case, there shouldn’t be any problems...
@@ -1501,7 +1501,7 @@
 （それなのに、ホロが|　麦を残していったってことは……）=(But the fact she left it, must mean...)
 連れの少女については、|いまでも探してはいるので|あまり思いつめないほうがいい。=If it’s your companion you’re after, it’s best not to think about it too much.
 神は人が乗り越えられない試練は|与えないということを|忘れないように。=Remember that God does not give people trials which they can’t overcome.
-まだ動いてはダメだ。|血を流しすぎているのだ。|ゆっくり休んでいたほうがいい。=You musn’t move about yet, you’re still bleeding too much.|You ought to rest a while.
+まだ動いてはダメだ。|血を流しすぎているのだ。|ゆっくり休んでいたほうがいい。=You mustn’t move about yet, you’re still bleeding too much.|You ought to rest a while.
 !FILE:event/ev_act/act_290_rt3_sonogo_wo_kiku_sinpu_talk.wsb
 連れの少女については、|いまでも探してはいるので|あまり思いつめないほうがいい。=If it’s your companion you’re after, it’s best not to think about it too much.
 神は人が乗り越えられない試練は|与えないということを|忘れないように。=Remember that God does not give people trials which they can’t overcome.
@@ -1519,7 +1519,7 @@
 それでも、ホロの立ち寄りそうな|場所といえば、酒場か市場しか|思い浮かばなかった。=Still, a tavern or the marketplace seemed to be a likely place for Holo to show up.
 ホロの好きそうな食べ物や|お菓子を売ってる露天の店先を|巡ってみる。=I figured I’d try checking stores and stalls that sell thing Holo’d like, namely food and sweets.
 すると、|焼き立てのパンを売る店の軒先で|変な張り紙を見つけた。=And that’s when a note hung to the sign of a bakery caught my attention.
-　|「“狼”の好む麦、買い取ります」=|"We buy wolfsgrain."
+　|「“狼”の好む麦、買い取ります」=|“We buy wolfsgrain.”
 あの、すみません。=Hello there.
 いらっしゃい。|どのパンにするかね？=Welcome.|What'll you have?
 いや、その張り紙のこと|なんですけど、|ちょっと心当たりがありまして。=Actually, I'm here about a note. I might have the thing you're looking for.
@@ -1608,7 +1608,7 @@
 !FILE:event/ev_act/act_330_rt3_okami_settoku_clr_sinpu_talk.wsb
 もしかすると、|君が連れているのが|行方不明だった少女かな？=Is that young lady you’re with the one you were separated from before?
 ええ、そうです。|あの夜、山奥のほうに逃げて|無事だったらしいんです。=Yes, that’s right. That night, it seems she managed to escape by fleeing into the mountains.
-おお、それは良かった！|神のご加護があったようだ。|本当に良かった！=Oh, how marvellous! It seems God’s protection was with you both. I am truly glad.
+おお、それは良かった！|神のご加護があったようだ。|本当に良かった！=Oh, how marvelous! It seems God’s protection was with you both. I am truly glad.
 もう東への移動も問題ないから、|気をつけて旅立つといい。=There are no longer any problems when trying to travel east, so you can safely depart.
 !FILE:event/ev_act/act_340_rt3_yadoya_kiku.wsb
 いらっしゃい。|おふたりさんかね？|部屋は１つでいいかな？=Welcome. The two of you, is it?|Will you be sharing a room?
@@ -1630,7 +1630,7 @@
 歴史の研究だと？=Researching history?
 はい。実は、ボクの依頼主が|自分の故郷を探しています。=Yes. To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
-覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなので。=All she can remember are old tales which mention the "Ancient Forest".
+覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなので。=All she can remember are old tales which mention the “Ancient Forest”.
 知らんな、そんなものは。|わしは異端の話などに興味はない。=I wouldn't know about it.|I've no interest in pagan tales.
 わしが研究しているのは、|正教の唯一神についてだけだ。|神の教え以外のことは何も知らん。=I only do research related to the one true God. His teachings are all I need.
 まったく相手にされず、|ボクはホロに向かって小声で|相談した。=As he was all but blanking us, I quietly consulted with Holo.
@@ -1669,9 +1669,9 @@
 過去の伝承が真実かどうかを|たしかめることが生涯の望みらしい。=Apparently, his goal in life is finding out whether or not the old legends are true.
 老神学者の対応を|ホロはすごく嫌がっていた。=Holo didn’t seem too thrilled his demeanor.
 横で見ていたボクも|崇め奉（たてまつ）られるとは|このことかと痛感した。=Even as an onlooker, I realized this is what it means to be revered.
-『古狼の森』に|人の言葉を解す狼が住んでいた|という伝承は、知っております。=I know about the tale of a wolf who lives in the “Ancient Forest" and can speak with humans.
+『古狼の森』に|人の言葉を解す狼が住んでいた|という伝承は、知っております。=I know about the tale of a wolf who lives in the “Ancient Forest” and can speak with humans.
 時に、人の姿に化けて|人との交流をするというのは|本当のことだったんですな。=It seems it’s true that she would sometimes take the form of a human and mingle with them.
-教えてください。|『古狼の森』は|どこにあるんですか？=Could you tell us where to find the "Ancient Forest"?
+教えてください。|『古狼の森』は|どこにあるんですか？=Could you tell us where to find the “Ancient Forest”?
 ……ホロ様。|このような者に|教えてもかまいませんのか？=Esteemed Holo. Is it fine to tell what I know to this... man?
 （まったく、|　この人、態度が露骨だよな）=(Well, he sure doesn’t pull any punches.)
 もちろんじゃ。|わっちは、この若者に|道案内を頼んでおるからの。=Of course. I've asked this youngster to be my guide.
@@ -1679,10 +1679,10 @@
 ただ、その、|申し上げにくいのですが|わしも詳しくは知らないのです。=However, it pains me to admit, but I don't know that many details either.
 ホロ様は、故郷に帰りたいと|おっしゃっていましたな。=Esteemed Holo, you wish to return to your hometown, correct?
 ずいぶんと長い間、|故郷を離れていたのでは|ありませんか？=It must've been quite a long time since you left, nay?
-ほう、よくわかったの。|かれこれ数百年になるかや。=Oh-ho, impressive.|Indeed, it has been a few centuries.
+ほう、よくわかったの。|かれこれ数百年になるかや。=Ho, impressive.|Indeed, it has been a few centuries.
 やはり、そうでしたか。|お気の毒ですが、|あまりに時が経ちすぎたようです。=So I was right.|I'm sorry to say this, but... too much time has passed...
 どういう意味かや？=What do you mean?
-実は、あなた様の故郷、|『古狼の森』は|すでに滅びたようなのです。=The truth is, the "Ancient Forest" has already perished.
+実は、あなた様の故郷、|『古狼の森』は|すでに滅びたようなのです。=The truth is, the “Ancient Forest” has already perished.
 ２００年以上も前に|大蛇に呑まれてしまったという|伝承が残っております。=According to legend, it was swallowed by a giant serpent some 200 years ago.
 滅びた？|大蛇に呑まれた……と？=Perished?|Swallowed by a giant serpent...?
 嘘じゃ！|そんなはず、ありんせん！=Lies!|That can’t be!
@@ -1695,12 +1695,12 @@
 なるほど、年代記作家か。|それなら少しは|話を聞いたこともある。=I see, chroniclers...|I have heard a few things.
 西の海岸地方には、|異教の文献を集めている|金持ちがいるらしい。=There is some rich person on the west coast who collects pagan texts.
 それ以外に、どこかの町で|昔の伝承を歌うという吟遊詩人が|いると聞いたことがある。=Also, I heard that there's a bard somewhere who sings of old legends.
-『古狼の森』に|行くことができたら、|わしにも話を聞かせてくれんかね。=If you do reach the "Ancient Forest ", could you tell me about your findings?
+『古狼の森』に|行くことができたら、|わしにも話を聞かせてくれんかね。=If you do reach the “Ancient Forest”, could you tell me about your findings?
 ええ、わかりました。|確約はできませんけど、|覚えておきますよ。=Of course.|I can't promise anything, but I won't forget.
 うむ。よろしく頼む。=Hm. Thank you.
 ――それでは、いつでも|訪ねてきてください。|待っておりますぞ、ホロ様。=Visit me whenever you please. I'll be waiting here, esteemed Holo.
 グスタと話す=Talk to Gusta
-『古狼の森』に|行くことができたら、|わしにも話を聞かせてくれんかね。=If you do reach the "Ancient Forest ", could you tell me about your findings?
+『古狼の森』に|行くことができたら、|わしにも話を聞かせてくれんかね。=If you do reach the “Ancient Forest”, could you tell me about your findings?
 ええ、わかりました。|確約はできませんけど、|覚えておきますよ。=Of course.|I can't promise anything, but I won't forget.
 なあ……ぬしよ。=Say...
 わっちは疲れた。|今日はゆっくり休みたい……。=I feel tired.|I'd like to call it a day...
@@ -1708,7 +1708,7 @@
 なあ……ぬしよ。=Say...
 わっちは疲れた。|今日はゆっくり休みたい……。=I feel tired.|I'd like to call it a day...
 !FILE:event/ev_act/act_380_rt3_daite.wsb
-ホロがすっかり|元気をなくしてしまったので、|この村の宿屋に泊ることにした。=With Holo's spirits down, we ended up renting a room in the village. 
+ホロがすっかり|元気をなくしてしまったので、|この村の宿屋に泊ることにした。=With Holo's spirits down, we ended up renting a room in the village.
 部屋に入ると、|ホロは食事もとらずに|ベッドにもぐりこんでしまった。=When we got to the room, Holo headed straight for bed without eating anything.
 ホロをなぐさめたかったのだが、|どう声をかけていいのか|わからなかった。=I wanted to cheer her up somehow, but I didn't know what to say.
 しかたなく、|ボクも早々に寝ることにした。=With nothing else to do, I went to bed myself.
@@ -1744,7 +1744,7 @@
 ボ、ボクで良ければ……。=I-If you're fine with me...
 …………|……………………。=......|..........
 もちろん、ぬしで良い。=Of course, you’ll do.
-さあ、手を伸ばして|わっちに触れてくりゃれ。=Now, touch me. 
+さあ、手を伸ばして|わっちに触れてくりゃれ。=Now, touch me.
 えっ？=Huh?
 雌の扱いぐらい、|知っておるじゃろう？=You know how to treat a female, do you not?
 そんなの、知らないよ……。=I don’t know about that...
@@ -1807,10 +1807,10 @@
 ………………？=......?
 !FILE:event/ev_act/act_400_sira_wo_siru.wsb
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the “Ancient Forest”?
 えっ、なんですか、それ？=Huh? What's that?
-だったら、|『シラ』っていう村は？=How about a village called "Shila", then?
-シラ、ですか？|それなら、わかりますよ。=Shila? Yes, I know of it.
+だったら、|『シラ』っていう村は？=How about a village called “Shila”, then?
+シラ、ですか？|それなら、わかりますよ。=Shila?|Yes, I know of it.
 あんな小さな村に行って、|商売になるんですか？=Is there any profit to be had at a small village like that?
 いや、そういうところにこそ、|思いもかけない商品が|眠ってるかもしれないしね。=You never know. There could be great opportunities lying in wait.
 そんなもんですかね。=Oh, is that how it works?
@@ -1819,8 +1819,8 @@
 アタシの彼が、|たまたまシラの出身だから|知ってたんです。=I only know because my beau just happens to be from there.
 !FILE:event/ev_act/act_400_sira_wo_siru_sira_sakaba_talk.wsb
 あら、めずらしいね。|あんたたち、行商人かい？=My, how unusual.|Are you merchants?
-ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest" that’s around here?
-『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest"...?|No, I've never heard of it before.
+ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest” that’s around here?
+『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest”...?|No, I've never heard of it before.
 それじゃあ、|この村に年代記作家はいませんか？=Then, is there possibly a Chronicler in this village?
 年代記作家？|そんな酔狂なもん、|こんな小さな村にいるわけないさ。=A Chronicler?|A small village like this could never have something so fanciful.
 どうしようか、ホロ。|この村では、これ以上の話は|聞けそうもないね。=What now, Holo?|I don’t think we’d be able to get much more out of this village.
@@ -1829,27 +1829,27 @@
 !FILE:event/ev_act/act_410_kouzui_wo_kiku.wsb
 あら、めずらしいね。|行商人がこの村に来るなんて。=Oh, how rare for a merchant to come to our village.
 ちょっと|調べたいことがあるんですよ。=I’ve been trying to look into something.
-昔、この辺りに|『古狼の森』ってところが|あったらしいんです。=Long ago, there was supposedly a called the "Ancient Forest" around here.
-『古狼の森』……？|いや、聞いたこともないよ。="Ancient Forest"?|Can't say I know it...
+昔、この辺りに|『古狼の森』ってところが|あったらしいんです。=Long ago, there was supposedly a called the “Ancient Forest” around here.
+『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest”?|Can't say I know it...
 ええ、それで、その森は|大蛇に呑まれて滅びたって話が|あるんですよ。何か知りませんか？=Well, this forest was said to have been devoured by a giant serpent. Does that ring any bells?
 大蛇？=Giant serpent?
 ああ、それなら、|村の祭り歌にこんなのがあるね。=Oh, there's a folk song in our village that goes like this.
-「さあ、歌え、さあ、踊れ♪|　大蛇が来る前に、|　愛しいあの娘を誘い出せ♪」="Let us sing, oh let us dance♪|'Fore the serpent comes!">>"Oh, my sweetheart waits for me, wait for me she does♪!"
-「さあ、歌え、さあ、踊れ♪|　大蛇が来る前に、|　２人そろって山の向こうへ♪」="Let us sing, oh let us dance♪|'Fore the serpent comes!">>"O'er the mountains, through the hills, come with me my love!"
+「さあ、歌え、さあ、踊れ♪|　大蛇が来る前に、|　愛しいあの娘を誘い出せ♪」=“Let us sing, oh let us dance♪|‘Fore the serpent comes!”>>“Oh, my sweetheart waits for me, wait for me she does♪!”
+「さあ、歌え、さあ、踊れ♪|　大蛇が来る前に、|　２人そろって山の向こうへ♪」=“Let us sing, oh let us dance♪|‘Fore the serpent comes!”>>“O'er the mountains, through the hills, come with me my love!”
 ……ってな感じだよ。=...Or something like that.
 えっと、それだけですか？|なんで大蛇なんですか？=Oh, is that all?|Why a serpent?
 ああ、洪水のことらしいよ。|なんでも昔、この辺りは|洪水で大変だったんだってさ。=Apparently it's about a flood. Long ago, there was a pretty horrible one around here.
 山や森の間を濁流が走るのが、|まるで大蛇みたいだったそうでね。=The water flowing between the forest and the mountains was said to look like a slithering serpent.
 この村もそのとき、|水に流されて滅びたらしいんだ。=The village was destroyed during that flood as well.
 いまのシラの村は、|そのあとで新しく作られたんだよ。|昔の村の縁者が集まってね。=The current Shila was built after that, by the relatives of its old dwellers.
-そういや、この村から|少し西に行ったあたりに|『おろち湖』ってのがあるよ。=Which reminds me, there’s a lake a west of here called "Serpent Lake".
+そういや、この村から|少し西に行ったあたりに|『おろち湖』ってのがあるよ。=Which reminds me, there’s a lake a west of here called “Serpent Lake”.
 その洪水のときに|できたって言われる湖なんだ。=They said it came to be as a result of the flood.
 湖になる前は、|大きな森と草原だったって|聞いたことがあるよ。=Before that, there was a large forest and some grassland there, according to what I heard.
 も、もしかすると、それが……？=C-Could that be what we were looking for...?
 …………|……………………。=......|..........
 !FILE:event/ev_act/act_410_kouzui_wo_kiku_sira_sakaba_talk.wsb
-この村の西にある『おろち湖』は|昔の洪水でできたんだけど、|前は大きな森と草原だったらしいよ。=There’s a lake a west of here called "Serpent Lake", though before it used to be a large forest and some grassland, apparently.
-だったら、そこが|『古狼の森』だったのかも……。=Then, maybe that was the "Ancient Forest"...
+この村の西にある『おろち湖』は|昔の洪水でできたんだけど、|前は大きな森と草原だったらしいよ。=There’s a lake a west of here called “Serpent Lake”, though before it used to be a large forest and some grassland, apparently.
+だったら、そこが|『古狼の森』だったのかも……。=Then, maybe that was the “Ancient Forest”...
 …………|……………………。=......|..........
 !FILE:event/ev_act/act_420_mizuumi_yuudou.wsb
 今の話、どう思う？=What do you think of that?
@@ -1975,13 +1975,13 @@
 そして、洪水に追われた|狼たちの行方について、|何かの伝承が残ってないかを尋ねた。=Then asked whether she knew of any legends about wolves being chased out of their home by a flood.
 えっと、洪水と狼ですか？|そうですねえ……。=Hmm, floods and wolves?|Let me think...
 たしか『セアベルク』の町に|伝わる昔話で、関係のありそうな|ことが語られていますね。=There’s a folk tale originating in Seabelk that might be relevant.
-「かつて、ずぶ濡れの獣たちが|　東の森からやってきた」="Many moons ago, a pack of beasts, their fur soaking wet, appeared from the forests to the east."
-「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」="They spent some time near town to dry their fur, then headed west, across the sea."
+「かつて、ずぶ濡れの獣たちが|　東の森からやってきた」=“Many moons ago, a pack of beasts, their fur soaking wet, appeared from the forests to the east.”
+「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」=“They spent some time near town to dry their fur, then headed west, across the sea.”
 こんな感じだったはずですけど、|私も詳しくは知りません。=I think that was about it. I don't know the details, I'm afraid.
 文献に残ってる伝承ではなくて、|本当にただの昔話で|口伝なんです。=It wasn't recorded in books, just passed along by word-of-mouth.
 この間もお話しましたけど、|私が知っているのは|『セアベルク』の町の昔話です。=We spoke of this the other day, but the tale I know of comes from Seabelk.
-「かつて、ずぶ濡れの獣たちが|　東の森からやってきた」="Many moons ago, a pack of beasts, their fur soaking wet, appeared from the forests to the east."
-「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」="They spent some time near town to dry their fur, then headed west, across the sea."
+「かつて、ずぶ濡れの獣たちが|　東の森からやってきた」=“Many moons ago, a pack of beasts, their fur soaking wet, appeared from the forests to the east.”
+「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」=“They spent some time near town to dry their fur, then headed west, across the sea.”
 こんな感じだったはずですけど、|これ以上は、|私も詳しく知らないんです。=I think that was about it. I don't know any more details, I'm afraid.
 結局、洪水に関係がありそうな話は|これだけだった。=In the end, that was the only tale relating to floods.
 ボクたちはアニスさんに|礼を言って屋敷をあとにした。=After expressing our gratitude, we left the manor.
@@ -2001,7 +2001,7 @@
 あ、そうですか。|助かりま……。=That’s a reli...
 別に不都合などありんせん。|この小娘には世話になってるし、|教えてやろう。=‘Tis no issue.|This maid is helping us out, so we can tell her.
 でも、ホロ……。=But Holo--
-いいか、小娘。|狼の行方を探しとるのは、|わっちが狼だからじゃ。=Listen, Girl.|The reason I seek the wolves is that I am a wolf. 
+いいか、小娘。|狼の行方を探しとるのは、|わっちが狼だからじゃ。=Listen, Girl.|The reason I seek the wolves is that I am a wolf.
 …………|……………………。=......|..........
 ……ああ、そうだったんですか。=...Ah, so that’s what it was?
 それでホロさんには|狼の尻尾があるんですね。=That explains why Ms. Holo has a wolves’ tail.
@@ -2043,10 +2043,10 @@
 正直なところ、ボクだって怖い。|こんな海を渡った経験はない。=Truth be told, I was also afraid. I’d never sailed such rough seas.
 それでも強がりを|言っているホロのために、|何かしなくてはと必死で考えてみた。=Even so, I wanted to do something for Holo, who was still trying to keep up the strong act.
 肩を抱く手に力を入れる=Hold her shoulder tighter
-「ホロのほうこそ、|　震えてるじゃないか」="What about you,| you're shaking."
-「平気だよ、ボクは男だし」="I'm fine, I'm a man."
+「ホロのほうこそ、|　震えてるじゃないか」=“What about you, you're shaking.”
+「平気だよ、ボクは男だし」=“I'm fine, I'm a man.”
 ホロの肩を抱いている手に|ボクは力を入れた。=My hand was already on Holo's shoulder, and I held her tighter.
-だいじょうぶ、安心して、|という精一杯の想いをこめて。=Don't worry, it'll be fine - I wanted to get those feeling’s across.
+だいじょうぶ、安心して、|という精一杯の想いをこめて。=Don't worry, it'll be fine-- I wanted to get those feeling’s across.
 ホロはぴくりと身体を震わせたあと、|少しうつむいた。=With a twitch Holo’s whole body trembled, and she hung her head.
 …………|…………………。=......|.........
 もう少し、強く抱いてくりゃれ。=Hold me tighter.
@@ -2063,7 +2063,7 @@
 怖いことなどありんせん。|あんなもの……=Of course I'm not afraid.|That was...
 そう芝居じゃ。|ぬしを試しただけじゃ。=Yes, just an act.|To test you.# Note: this line is directly after the text above, not in another textbox
 わっちが、この賢狼ホロが|たかが塩辛い水が|激しく上下したぐらいで――=I'm the wisewolf, Holo. There's no way some salt water crashing so high would--
-そのとき、船が大きく揺れて、|ホロの全身が強張った。|尻尾が大きくふくらんでいる。=At that moment, the ship rocked voliently. Holo's body became stiff, and her tail puffed up.
+そのとき、船が大きく揺れて、|ホロの全身が強張った。|尻尾が大きくふくらんでいる。=At that moment, the ship rocked violently. Holo's body became stiff, and her tail puffed up.
 …………怖がるはずがありんせん。=...scare me.
 平気だよ、ボクは男だし。|ホロに心配されるほど、|情けなくないつもりなんだけどね。=I'm fine. I'm a man, after all. I'm not so feeble that you'd need to worry about me.
 ほう、なかなか言うの。=Oh, those are some fine words.
@@ -2116,12 +2116,12 @@
 ふむ……洪水ね。|で、そこにいた狼たちの|行方が知りたい、と？=Hm... a flood, you say. And now you want to know where those wolves went, right?
 はい、そうなんです。|なにか知りませんか？=That's the gist of it.|Do you know anything?
 狼についての話ではないが、|ここから北東にあるマールケの村に|こんな伝承があるね。=It's not about wolves per se, but there's a legend in the village of Mahlke, to the north.
-「１００年以上前、|　ずぶ濡れの獣たちが|　西の森から逃げてきた」="Over a hundred years ago, beasts with soaking wet fur came fleeing the western forests."
-「彼らは村で休んだあと、|　いつの間にか山の向こうへと|　去っていった」="After a short rest near the village, they disappeared into the mountains."
+「１００年以上前、|　ずぶ濡れの獣たちが|　西の森から逃げてきた」=“Over a hundred years ago, beasts with soaking wet fur came fleeing the western forests.”
+「彼らは村で休んだあと、|　いつの間にか山の向こうへと|　去っていった」=“After a short rest near the village, they disappeared into the mountains.”
 まあ、こんな内容だったよ。|洪水で故郷を追われたと考えれば、|ありそうな話だろう？=Well, that’s more or less how it went. If they were chased out of their home by a flood, this could be it, right?
 前にも話した通り、|私が思い当たるのは|『マールケ』の伝承だけだよ。=As I said before, the only tale I can think of is one from Mahlke.
-「１００年以上前、|　ずぶ濡れの獣たちが|　西の森から逃げてきた」="Over a hundred years ago, beasts with soaking wet fur came fleeing the western forests."
-「彼らは村で休んだあと、|　いつの間にか山の向こうへと|　去っていった」="After a short rest near the village, they disappeared into the mountains."
+「１００年以上前、|　ずぶ濡れの獣たちが|　西の森から逃げてきた」=“Over a hundred years ago, beasts with soaking wet fur came fleeing the western forests.”
+「彼らは村で休んだあと、|　いつの間にか山の向こうへと|　去っていった」=“After a short rest near the village, they disappeared into the mountains.”
 洪水で故郷を追われたなら、|この伝承は事実を伝えてると|思うんだがね。=If they were chased out of their home by a flood, this story would seem to fit.
 結局、洪水に関係がありそうな話は|これだけだった。=In the end, that was the only tale relating to floods.
 ボクたちはロウメスさんに|礼を言って、家から出た。=After expressing our gratitude, we left the house.
@@ -2245,7 +2245,7 @@
 てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that romance was going to sprout.
 !FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb
 おお、ホロ様。|このようなあばら家にわざわざ|足を運んでいただき、恐縮です。=O esteemed Holo!|I'm honored that you would step inside this lousy shack I call my home.
-『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learned anything about the "Ancient Forest"?
+『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learned anything about the “Ancient Forest”?
 ボクは、ホロの故郷が洪水で|失われていたことなどを|かいつまんで話した。=I summed up what we learned of Holo's home being lost to a flood.
 そして、洪水に追われた|狼たちの行方について、|何かの伝承が残ってないかを尋ねた。=Then I asked whether he knew of any legends regarding where the fleeing wolves might’ve gone.
 うむ、なるほど。|大蛇というのは|洪水のことであったか。=Hm, I understand.|So the giant serpent was referring to a flood.
@@ -2393,7 +2393,7 @@
 ホロのために、いつでも財布を|いっぱいにしておくことを誓うよ。=And I hereby swear to keep my purse filled, for your sake.
 くふふ。そうかや。|ようく覚えておくからの。=Hee-hee-hee. Is that so?|I shall remember that.
 ――ところでね、ホロ。=By the way, Holo.
-このあと、女性は「愛の言葉」を|返さなくちゃいけないんだよ。|知ってる？=After this, the woman is supposed to answer with her "oath of love". Did you know that?
+このあと、女性は「愛の言葉」を|返さなくちゃいけないんだよ。|知ってる？=After this, the woman is supposed to answer with her “oath of love”. Did you know that?
 ………うむ、知っておる。=Hm, I know of it.
 じゃが、そこまで『人の儀式』に|つきあうつもりはありんせん。=But I shan't partake in mankind's rituals to that extent.
 ちぇっ！|ずるいや、ホロは。=Tch! That’s unfair, Holo.
@@ -2433,7 +2433,7 @@
 そんなの、喜べるわけがない。|ホロの態度を見て、|ボクはわかったことがある。=There’s no way I can be happy. Watching you, I finally understand.
 結局、ホロにとって|ボクはただ便利なだけの|協力者にすぎなかったんだ。=In the end, I was only ever a useful associate to you.
 わっちが、ぬしに|感謝しておるのは本当じゃ。|ぬしのことは決して忘れん。=I am truly grateful to you. I shall never forget this.
-未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=You will be immortalized in my stories as my saviour.
+未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=You will be immortalized in my stories as my savior.
 さあ、もう行ってくりゃれ。|時を逃すと、|別れの決意は未練に負ける。=Now, hurry up and go. If you miss the chance your resolve will lose to your regret.
 わっちはここで、|ぬしが去るのを見送っておる。=I’ll see you off here.
 ――さようなら、ホロ。|ボクもホロのことは忘れない。=--Goodbye, Holo. I will always remember you too.
@@ -2669,7 +2669,7 @@
 そんなの、喜べるわけがない。|ホロの態度を見て、|ボクはわかったことがある。=There’s no way I can be happy. Watching you, I finally understand.
 結局、ホロにとって|ボクはただ便利なだけの|協力者にすぎなかったんだ。=In the end, I was only ever a useful associate to you.
 わっちが、ぬしに|感謝しておるのは本当じゃ。|ぬしのことは決して忘れん。=I am truly grateful to you. I shall never forget this.
-未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=You will be immortalized in my stories as my saviour.
+未来永劫、わっちの恩人として|語りついでゆくつもりじゃ。=You will be immortalized in my stories as my savior.
 さあ、もう行ってくりゃれ。|時を逃すと、|別れの決意は未練に負ける。=Now, hurry up and go. If you miss the chance your resolve will lose to your regret.
 わっちはここで、|ぬしが去るのを見送っておる。=I’ll see you off here.
 ――さようなら、ホロ。|ボクもホロのことは忘れない。=--Goodbye, Holo. I will always remember you too.
@@ -2704,7 +2704,7 @@
 ホロのために、いつでも財布を|いっぱいにしておくことを誓うよ。=And I hereby swear to keep my purse filled, for your sake.
 くふふ。そうかや。|ようく覚えておくからの。=Hee-hee-hee. Is that so?|I shall remember that.
 ――ところでね、ホロ。=By the way, Holo.
-このあと、女性は「愛の言葉」を|返さなくちゃいけないんだよ。|知ってる？=After this, the woman is supposed to answer with her "oath of love". Did you know that?
+このあと、女性は「愛の言葉」を|返さなくちゃいけないんだよ。|知ってる？=After this, the woman is supposed to answer with her “oath of love”. Did you know that?
 ………うむ、知っておる。=Hm, I know of it.
 じゃが、そこまで『人の儀式』に|つきあうつもりはありんせん。=But I shan't partake in mankind's rituals to that extent.
 ちぇっ！|ずるいや、ホロは。=Tch! That’s unfair, Holo.
@@ -2885,12 +2885,12 @@
 !FILE:event/ev_mou/mou_00.wsb
 　|　　　―　移動について　―= |<<- Getting Around -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
-『！』がついている施設では、|イベントが発生しています。|是非訪れてみましょう。=An "!" indicates places where an event scene will occur. Be sure to visit them.
+『！』がついている施設では、|イベントが発生しています。|是非訪れてみましょう。=An “!” indicates places where an event scene will occur. Be sure to visit them.
 　|　　　　―　噂について　―= |<<- About Rumors -
 この作品では、たくさんの重要な|情報が「噂話（うわさばなし）」と|して世界中に流れています。=In this line of work, a lot of important information travels around as “rumors”.
-「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's "Tavern" and on the "Trade Map".
-町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a "Tavern", you can hear rumors from the people inside.
-「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the "Trade Map", you can hear rumors by passing by the location where a "?" mark appears.
+「噂話」は町の「酒場」と|「交易マップ」で聞くことが|できます。=Rumors can be heard in a town's “Tavern” and on the “Trade Map”.
+町の「酒場」では人から聞くことで|噂を入手することができます。=Once in a “Tavern”, you can hear rumors from the people inside.
+「交易マップ」ではマップ上に発生|した『？』の上を馬車で通過する|ことで噂を入手することができます。=Whereas on the “Trade Map”, you can hear rumors by passing by the location where a “?” mark appears.
 集めた噂はいつでも読み返すことが|できます。たくさん集めてゲームを|有利に進めましょう。=You may re-read rumors at any time. Collecting many will help you better progress through the game.
 　|　　　―　噂を聞くと……？　―=　|<<- When you hear a rumor...? -
 噂話を聞くことで、交易マップ上に|新しい町が出現したり、儲け話が|発生したりします。=By listening to rumors, new towns or opportunities to earn money may present themselves.
@@ -2903,9 +2903,9 @@
 安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get higher than normal profits on selling them.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
-商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a "Type" and "Rank".
-プレイヤーの「商品知識」より|商品ランクが高い商品は購入する|ことができません。=You can’t buy a product if it’s rank is higher than your current "Goods Knowledge".
-買いたい商品を見つけたら、関連|する商品ジャンルの「商品知識」を|上げるようにしてみましょう。=If you see something you want to buy, try to raise your "Knowledge" of the related goods type.
+商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a “Type” and “Rank”.
+プレイヤーの「商品知識」より|商品ランクが高い商品は購入する|ことができません。=You can’t buy a product if it’s rank is higher than your current “Goods Knowledge”.
+買いたい商品を見つけたら、関連|する商品ジャンルの「商品知識」を|上げるようにしてみましょう。=If you see something you want to buy, try to raise your “Knowledge” of the related goods type.
 プレイヤーの「商品知識」は、該当|するジャンルの商品を一定量売る|ことで上げることができます。=Your Goods Knowledge can be raised by selling certain amounts of the corresponding Goods Type.
 高い商品ランクの商品を購入する|ためには、同じジャンルの商品を|購入しつづけるのが近道です。=The quickest way to buy a high-ranking product is to continuously buy goods of the same type.
 　|　　　―　商品を売るには　―=　|<<- Selling Goods -
@@ -2916,7 +2916,7 @@
 荷馬車の商品には「買ったときの値|段」が表示されています。差額を確|認して大きく儲けていきましょう。=The “Original Price” you bought the goods at will be displayed in your cart. Get a good margin to earn a big profit.
 　|　　　―　町情報について　―=　|<<- Town Information -
 町情報画面の商品には、売値、買値|の平均値が表示されています。荷馬|車の値段と比較して売却しましょう。=Information about the average buying and selling price of goods will be displayed...>>on the town information screen. Compare them to the prices in your cart and sell stock.
-町の「人気の品」に指定されている|商品は、他の町で売るよりも高く|買い取ってもらえます。=Goods which are "Popular” in a town can be sold there for a higher price than in other towns.
+町の「人気の品」に指定されている|商品は、他の町で売るよりも高く|買い取ってもらえます。=Goods which are “Popular” in a town can be sold there for a higher price than in other towns.
 人気の品は、町ごとに異なります。|うまく使えば、大きな儲けを得る|ことができるでしょう。=Popular products vary from town to town. Take advantage of them, and you can turn a tidy profit.
 ちなみにノーリンでは、リンゴが|「人気の品」となっています。|試してみてはいかがでしょうか？=By the way, apples are currently popular in Norlin. Why not give it a try?
 !FILE:event/ev_mou/mou_00x.wsb#debug?
@@ -3059,14 +3059,14 @@
 そこで私は、貝や魚に大口の投資を|望む商人を募っておる。|条件は、この通りだ。=Hence, I’m recruiting merchants who want to make a large investment in fish or shellfish. These are the conditions.
 ただ、流行はいつまでも|続くわけではあるまい。=But, this trend won’t last forever.
 なので、できれば小口でも即座に|用立ててくれるほうがありがたい。|“時は金なり”というわけだ。=Which is why I’m looking to get the money straight-up, even if it’s only a small amount. Time is money, as they say.
-小口の場合の条件はこの通りだ。=If it’s just a small investment, the conditions are as follows. 
+小口の場合の条件はこの通りだ。=If it’s just a small investment, the conditions are as follows.
 いずれの場合でも、およそ@<number1@>日|ほどで結果が出るだろう。=In either case, I expect to see the results|in roughly @<number1@> days.
 興味深いお話であることは|わかりました。|単刀直入にお聞きしますが──=That’s quite the interesting story.|If I may be so bold as to ask--
 儲け幅が大きいのはどっち？=Which is more profitable?
 安全に儲かるのはどっち？=Which is the safest option?
-貝はまだ、この地方で珍しい。|小口でも値が上がりやすいのは|貝の方だろう。=Shellfish are still rare in this region. Even with a small investment, their value is likely to rise. 
+貝はまだ、この地方で珍しい。|小口でも値が上がりやすいのは|貝の方だろう。=Shellfish are still rare in this region. Even with a small investment, their value is likely to rise.
 もしこのまま、貝料理が|この地方に定着すれば、|さらなる利益が期待できよう。=If shellfish do end up becoming established in this area, then further profits can be expected.
-はっはっは。|神の名にかけて、それがわかれば|私も苦労はせぬよ。=Hah-hah-hah. In the name of the Lord, if I knew such a thing, I’d be free from all troubles. 
+はっはっは。|神の名にかけて、それがわかれば|私も苦労はせぬよ。=Hah-hah-hah. In the name of the Lord, if I knew such a thing, I’d be free from all troubles.
 とはいえ、せっかくだから、|ここだけの話を教えてやろう。=But, since you asked, I can tell you this much.
 お貴族様の料理はコースが多い。|材料が“貝だけ”“魚だけ”|という料理はあまりない。=The nobles have access to a wide variety of food. There aren’t many dishes made of “only shellfish” or “only fish”.  
 つまり、どちらに投資しても|そこそこは儲かるだろうと|私は考えておる。=In other words, I think that either would be reasonably profitable.
@@ -3078,7 +3078,7 @@
 貝の方が興味ある=I'm more interested in the shellfish.
 魚の方が興味ある=I'm more interested in the fish.
 どちらも捨てがたい=It’s hard to choose just one.
-貝の方に興味があるとは、|お目が高い。=If it’s shellfish that interest you, you must have quite the eye. 
+貝の方に興味があるとは、|お目が高い。=If it’s shellfish that interest you, you must have quite the eye.
 この地方の新しい食材として、|将来性があるのは、|貝の方だろう。=Shellfish have the potential to become a new staple in this area.
 旅の商人が、|あえて魚を選ぶとは|渋い選択をする。=Traveling merchants tend to be reluctant to choose fish.
 実は私も、|地元の商人としては、|魚料理を応援したいところよ。=But, as a local merchant, I too want to support the fish dishes.
@@ -3101,10 +3101,10 @@
 仕入れは確実なのか？=Is the stock reliable?
 他の商人たちの動向は？=What are the other merchants doing?
 “海産物は多く投資したといって、|多く獲れるわけではないだろう”|──と申されるか？=“Even if I invest in a lot of seafood, they might not be able to catch a lot”, you mean?
-いやいや。|仕入れの確度はお任せあれ。|海産物は、長年扱っておるからな。=Don’t worry. Leave stocking up to me. I've been dealing with seafood for a number of years. 
+いやいや。|仕入れの確度はお任せあれ。|海産物は、長年扱っておるからな。=Don’t worry. Leave stocking up to me. I've been dealing with seafood for a number of years.
 うーむ。|それはあまり|明かしたくないが……。=Well, I don’t want to reveal too much, but...
 今のところ、貝と魚で|五分と五分だ、|とだけ言っておこう。=For now, I can say that it’s fifty-fifty between fish and shellfish.
-キミのような旅の商人に|人気があるのは、|貝のほうだな。=Shellfish tend to be more popular with travelling merchants like you. 
+キミのような旅の商人に|人気があるのは、|貝のほうだな。=Shellfish tend to be more popular with travelling merchants like you.
 大口の方が有利に思える=I think making a big investment|seems more advantageous.
 小口の方が有利に思える=I think making a small investment|seems more advantageous.
 どちらも厳しいな=Either way seems tricky.
@@ -3207,7 +3207,7 @@
 まあ、どうしてもと言うなら|止めねえがよ……。|とにかく俺は忠告したからな？=Well, if that’s what you want, I’m not gonna stop you... It’s not like I didn’t warn you, ey?
 ふん、なんだい、|シケてやがんな？=Hmph, that’s a real downer.
 まあ、いいさ。|縁があったら、また会おう。|そん時はよろしく頼むぜ。=Ah well. If fate allows, come stop by again sometime. It’s all in your hands.
-……ん？　もう一度、|初めから説明して欲しいのか？|ああ、わかった。=...Hm? You want me to take it again from the top? Alright.
+……ん？　もう一度、|初めから説明して欲しいのか？|ああ、わかった。=...Hm? You want me to take it again from the top? All right.
 投資は小口？|それともドーンと大口で|行くかい？=Are you goin’ for the small amount? Or are you gonna go all out with the big one?
 なんだい、意外と堅実なんだな。|まあ、いいさ。=Huh, didn’t take you for the cautious type. Well, it’s all good.
 手堅く商売するのもいいだろう。|なにせ相手は麦だ。|予想がつかねえからな。=It ain’t no crime to play it safe. After all, it’s wheat we’re up against. There’s no predicting it.
@@ -3245,13 +3245,13 @@
 クララの話を聞く=Listen to Clara
 では、まずは貴女のほうから|お話をお聞かせいただけますか？=May I hear your side of things?
 かしこまりました。|わたくしがメアリでございます。|今後ともよしなに。=With pleasure.|My name is Mary.  
-先ほどは、申し訳ございません。|はしたないところを|お見せしてしまいました。=I apologize for my disgraceful behavior before. 
+先ほどは、申し訳ございません。|はしたないところを|お見せしてしまいました。=I apologize for my disgraceful behavior before.
 この町にはアクセサリーを商う|店が２つありまして、|商売を競っております。=There are two artisan shops in this town, and we both compete for business.
 当店は由緒正しい老舗なのですが|ここ数年、あの小娘の店に|押され気味でして、そこで――、=Mine is a well-established shop with a long history, but for the past few years, we’ve been feeling the pressure from that filly. Hence...
-近く勝負を賭けた新製品を|発表しようと考えております。=We have plans to release a new, make-or-break product in the near future. 
+近く勝負を賭けた新製品を|発表しようと考えております。=We have plans to release a new, make-or-break product in the near future.
 と、言いますと？=That product being?
 髪飾りです。この地方で有名な|芸術家のニールセン氏に|直々の作になります。=A hair piece. It shall be made by Sir Nielsen himself, a famous artist in the area.
-あの方ならば、きっと素晴らしい|作品を生み出してくれるに|違いありませんわ。=With his talent, there’s no doubt that the final piece will be a sight to behold. 
+あの方ならば、きっと素晴らしい|作品を生み出してくれるに|違いありませんわ。=With his talent, there’s no doubt that the final piece will be a sight to behold.
 そこで貴方に、この髪飾りを|大量生産する資金を|投資していただきたいのです。=That’s why, I’d like you to lend me the money to mass-produce the hairpiece.
 押されている原因を聞く=Ask about the source of the|pressure
 ニールセン氏について聞く=Ask about Sir Nielsen
@@ -3329,12 +3329,12 @@
 ただ、いかに他の店に押されている|からといって、最近の慌てぶりは|どうかと思うの。=However, after a little pressure from other stores, she seems to have been in quite a fluster lately.
 まして、今の時代に|あのニールセン氏に頼むなんてね。=And worse, going to that Nielsen for help, in this day and age!
 だまされてはいけないわ。|ニールセンは確かに有名だったけど、|もう過去の人よ。=Make no mistake. It’s true that Nielsen was once famous, but now he’s just a has-been.
-スランプという話だけど、|そもそも今は満足な作品が|作れるのかどうかも怪しいわ。=They say it’s just a slump, but I doubt if he can make a decent piece anymore. 
+スランプという話だけど、|そもそも今は満足な作品が|作れるのかどうかも怪しいわ。=They say it’s just a slump, but I doubt if he can make a decent piece anymore.
 私から言わせれば、|流行遅れという以前の問題。|人々の心がつかめるとは思えない。=The way I see it, it’s a problem of being out of fashion. I don’t think that he will be able to capture the people’s hearts.
 この女は、貴方がよそ者なのを|いいことに、それを隠して投資を|引き出そうとしているんだわ。=That woman is just trying to take advantage of the fact you’re an outsider to hide the truth and get your investment.
 なんですって！|いいかげんな話をなさらないで！=What nonsense! Don’t spread such lies!
 お２人とも、やめてください。|困ります。=Please stop it, both of you.
-そうそう。|肝心の投資の条件なんだけど……=Ah, right. About the terms of investment... 
+そうそう。|肝心の投資の条件なんだけど……=Ah, right. About the terms of investment...
 こんな感じでどうかしら？|あの女の条件に、ひけは取らない|はずよ！=How about something like this? I’m sure it’s not too far off from that woman’s offerings!
 もちろん、大口での投資も大歓迎！|奮発するわよ！=Of course, a bigger investment is also welcome! You can splurge a little!
 投資してもらえるなら、|およそ@<number1@>日後に、配当金を|上乗せしてお返しするわ。=After investment, you can expect to see your shares within @<number1@> days.
@@ -3404,20 +3404,20 @@
 宝石商メアリ=Jeweler Mary 
 美術商クララ=Art Dealer Clara
 !FILE:event/ev_mou/mou_03_end.wsb
-あの後、すごくいい話でさぁ。|ううっ、人情話ってやつだね……。=After that, a wonderful thing happened. Well, it’s a heart warming tale about human relationships...
+あの後、すごくいい話でさぁ。|ううっ、人情話ってやつだね……。=After that, a wonderful thing happened. Well, it’s a heartwarming tale about human relationships...
 老芸術家のニールセン氏の所に|家出した息子さんが帰ってきてね、|見事に大復活！=After his son who had run away from home returned, the artist, Sir Nielsen was able to make a splendid comeback!
 ニールセン氏のつくった髪飾りは|飛ぶように売れてるんだよ。=The hair pieces he made are just flying off the shelves!
 メアリさんのお店も|さすが老舗の底力を|見せたってことだね！=Ms. Mary’s store showed just what resilience a well-established ought to have!
 結局、芸術家のニールセン氏は|絶不調のまんまでね、|髪飾りの出来もさっぱりだったよ。=In the end, because of the slump he was in, the artist Sir Nielsen, was unable to make any hair ornaments.
 代わりに若手の職人が手掛けた|髪飾りが飛ぶように|売れてるんだけれど、なんと――！=But in its place, the hair pieces made by a young craftsman are just flying off the shelves. And what’s more--!
-噂じゃ、その職人はニールセン氏の|家出した息子らしいんだってさ！|なんとなく、燃える話っぽいよね。=According to the rumours, that young craftsman is the run-away son of Sir Nielsen! It’s just like a theatre act, isn’t it?
+噂じゃ、その職人はニールセン氏の|家出した息子らしいんだってさ！|なんとなく、燃える話っぽいよね。=According to the rumors, that young craftsman is the run-away son of Sir Nielsen! It’s just like a theatre act, isn’t it?
 クララさんは、どうやって|彼を口説いたんだろうね。|あたし、気になるな～。=I wonder how Ms. Clara managed to convince him? I’d like to learn how to do that too~
 !FILE:event/ev_mou/mou_04.wsb
-これはどうも。|私、今はこの地方で|砂糖を商っております。=Goodmorrow. I am a sugar merchant who operates in this area.
+これはどうも。|私、今はこの地方で|砂糖を商っております。=Good morrow. I am a sugar merchant who operates in this area.
 どうか、私どもに資金の融資を|していただきたい。=I do very much hope you might lend me your financial aid.
 御存知のように、この地方一帯の|砂糖は、サトウダイコンから|作るものなのでございますが――=As you must know, the sugar in this region comes from a plant called a sugar beet, however...
 去年、サトウダイコンの畑が|根腐れ病にやられましてな、|どこも砂糖の倉が空っぽなのです。=Last year, the sugar beet fields were struck by root rot, and all the sugar storehouses were left bare.
-したがって、|私どもは遠い地方の商人から|砂糖を買わねばなりません。=Therefore, we have had to buy sugar from distant lands. 
+したがって、|私どもは遠い地方の商人から|砂糖を買わねばなりません。=Therefore, we have had to buy sugar from distant lands.
 品薄の噂が広まるにつれ、|裕福な貴族様の間では、かえって|砂糖を使った料理が流行る始末。=As rumors of shortage spread, cooking with sugar has paradoxically become a trend among wealthy nobles.
 おかげで、|この地方の砂糖の値段は|上がる一方なのです。=As a result, the price of sugar in this area has been on the rise.
 砂糖の値段が|上がっているのでしたら、|儲かってのではありませんか？=If the price of sugar is on the rise, isn’t this a good opportunity for you to make a profit?
@@ -3429,7 +3429,7 @@
 ホロ、|そんな言い方は失礼だよ。=Holo, you’re being rude!
 いえいえ、構いませんとも。|つまりは、|そういう事でございます。=No, no, I don’t mind. You are quite correct.
 （しかし、これはあまり|　景気のいい話じゃないな）=(Still, this isn’t a very promising tale.)
-（この人に融資して|　平気なんだろうか？）=(Would it really be alright to loan money to such a person?)
+（この人に融資して|　平気なんだろうか？）=(Would it really be all right to loan money to such a person?)
 いかがでございましょうか？=What do you think?
 もっと話を聞く=I’d like to hear more.
 きっぱりと断る=I’ll have to refuse.
@@ -3527,12 +3527,12 @@
 大口のほうが配当が悪い？=How come the shares are worse for the|bigger loan?
 ありがとうございます。|では、詳細をいくつか説明して|おきましょう。=Thank you. Then, I’ll go over the details.
 それはごもっともな質問です。|では、詳細をこれから|お話いたします。=That is a good question. Allow me to explain in more detail.
-……あれ？　確実な商売なのに、|大口のほうが配当が低いのは|おかしいのではありませんか？=...Hm? It’s strange that the shares are lower for the larger amount, when you said it should be a sound venture. 
+……あれ？　確実な商売なのに、|大口のほうが配当が低いのは|おかしいのではありませんか？=...Hm? It’s strange that the shares are lower for the larger amount, when you said it should be a sound venture.
 お気づきになられましたか。|実は本件に特有の|事情がございまして……。=Ah, you spotted that? To tell you the truth, this case has some peculiar circumstances...
 詳細はこれから|お話いたします。=Allow me to explain in more detail.
 実は、ここから離れたある地方が|今年は大変な天候不順でして、=As a matter of fact, this far-away region I mentioned, has had terribly fickle weather this year.
 このままでは、その地方が|今年は飢饉に見舞われるだろう、|と噂されているのです。=At this rate, it’s rumored that the area will be hit by a famine.
-そこで、今のうちに食料を|買い込んで、その地方に|持ち込もうかと。=That’s why I wanted to stock up on food now, to deliver it there. 
+そこで、今のうちに食料を|買い込んで、その地方に|持ち込もうかと。=That’s why I wanted to stock up on food now, to deliver it there.
 私どもが飢饉から人々を救う、|というわけでございます。=That way, we might save the people from famine.
 配当が少ないのも、|人助けでございますから。|儲けがそれほど多くないのです。=As it’s an act of charity, the shares are also smaller. There’s not much profit to be had, after all.
 加えて、小口より大口のほうの|配当が少ないのも、|その辺に事情を酌んで頂ければと。=In particular, you might note that the larger amount has the smallest share.
@@ -3542,14 +3542,14 @@
 なるほど、|そういう事情があったのですね。=I see, so that’s what it’s about.
 飢饉で苦しむ人々の|役にも立てるなら、|ボクも胸を張って取引できます。=If it’s to help those who are suffering from famine, I would be proud to lend a hand.
 賛同いただけて何よりです。|貴方のような、心有る商人を|探していました。=I’m delighted that you approve. I was hoping to find a compassionate merchant like you.
-すでにお察しのこととは思いますが、|大口というのは、飢饉で苦しむ|人々に十分な食料を届けるために=As you may have already guessed, the larger amount is to put towards delivering enough food to all those suffering from famine. 
+すでにお察しのこととは思いますが、|大口というのは、飢饉で苦しむ|人々に十分な食料を届けるために=As you may have already guessed, the larger amount is to put towards delivering enough food to all those suffering from famine.
 必要な費用から算出したもの|ですから、決して利益の面で|有利とはいえません。=It’s calculated from the necessary expenses, so has nothing to do with trying to make a profit.
 無論、人々のことを考えれば、|できれば大口で投資して頂きたい|ところではありますが、=Of course, when I think about all the lives that would be affected, I would like you to invest the full amount if possible,
 私も貴方も一介の商人。|ある程度の儲けも守るとなると、|小口での投資をお勧めします。=but you and I are both merchants. If you’re in need of the earnings, I would recommend the smaller amount.
 （どうしよう……。|　大口のほうが配当は低いけど、|　利益が出ないわけじゃない。）=(What should I do...? The bigger amount has smaller shares, but it’s not without profit.)
 （本当に飢饉が起きた時、|　ボクが大口に投資していれば|　より多くの人が助かる……？）=(If there really is a famine, if I invest in the larger amount, will more people be saved...?)
 つまり、大口の配当が低いのは、|現地で必要としている食料の|量から計算しているためですね？=In other words, the reason the big amount has smaller shares, is because it takes into account the amount of food actually needed in the area?
-その通りでございます。|もし凶作が起こっても、|あり余る食料を持ち込んでおけば、=Precisely. Even if the crops turn out poor, if we take an excess of food... 
+その通りでございます。|もし凶作が起こっても、|あり余る食料を持ち込んでおけば、=Precisely. Even if the crops turn out poor, if we take an excess of food...
 飢饉の発生そのものを|避けることが|できるかもしれませんから。=We may be able to prevent a famine from even occurring.
 やはり、そうですか……。=I thought that might be it...
 もちろん、飢饉が起こったほうが、|食料の値は上がり、|利益は増えるでしょう。=Of course, if a famine does occur, food prices will increase and so there will be a profit to be made.
@@ -3613,7 +3613,7 @@
 ねえ、ホロ。|言いたい事があるなら|ハッキリ言えばいいじゃないか！=Hey, Holo! If you have something to say, you should just come out and say it!
 別に……。=It’s nothing...
 良い取引になることを|期待しています。=I hope things turn out well.
-こちらこそ。|ご期待に添えるよう|努力いたします。=Indeed. I will take every effort to meet your expectations. 
+こちらこそ。|ご期待に添えるよう|努力いたします。=Indeed. I will take every effort to meet your expectations.
 申し訳ありませんが、|このお話は……。=I’m sorry, but that’s...
 おや、どうしたのですか？|せっかくの儲け話だというのに。=Oh, what happened?|Even though I offered you a good way to make a profit...
 それに、私どもが|買占めせずとも|別の誰かがするだけでございます。=Not to mention, even if I don’t buy everything up, there’s no doubt that someone else will.
@@ -4081,7 +4081,7 @@
 ホロ！=Holo!
 この地方のかたがたは|お菓子がたいへんお好きで|いらっしゃいまして、=The people in this region are rather fond of sweets,
 おかげで私どものような商人は|お菓子の売買で儲けさせて|いただいております。=thanks to that, merchants like me can make good money buying and selling confectionaries.
-ほほう。=Oh hoh~
+ほほう。=Oh ho~
 ですが、お菓子のような嗜好品は|流行り廃りが激しく、|なかなか商売が難しいのです。=However, because people’s taste in nonessential items can change like the wind, it’s certainly not easy business.
 果物のシロップ煮が流行ったので|仕入れの量を増やしたのに、|やれ今度は焼菓子が流行りだと、=Since fruit compotes became popular, I stocked up on them, but now it’s baked goods which are in fashion...
 まるで賭け事のような|状況なのでございます。=It truly feels like a gamble every time.
@@ -4090,7 +4090,7 @@ confectioners that I trade with,
 “これならば絶対に流行する！”|というお菓子を、新しく開発|したと申しまして。=told me of his new invention, which was “sure to be a hit!”
 ほう！=Hoh!
 試食してみたところ、確かに|すこぶる美味。あれほどのお菓子は|１００年に１度でございましょう。=I tried some, and it was truly delicious. The kind of sweet that only comes around once in 100 years.
-ほほう！|１００年に１度と！=Oh hoh!|Once in 100 years, you say?!
+ほほう！|１００年に１度と！=Oh ho!|Once in 100 years, you say?!
 はい。しかし、美味だけあって、|そのお菓子は原価も高くつき、|非常に高級品になりそうなのです。=Indeed. But, being so delicious, it’s quite expensive, and definitely more of a luxury item.
 一方、別の菓子職人は、|“そんな高級品では、一部の|金持ちしか食べられまい”=But, there was another confectioner who said, “with such a luxury item, only the really rich folk will get to eat it.”
 “もっと、たくさんの人が|毎日食べられるお菓子を|作るべきだ”と、=“We should make more sweets that people can afford to eat on a daily basis.”
@@ -4118,7 +4118,7 @@ confectioners that I trade with,
 それは、やはり|高級菓子の方でしょう。=That would have to be the luxury sweets.
 高いだけあって、|当たれば儲けは大きいです。=Being so expensive, if it wins, you could make a lot of money.
 それに、あの味……。|一度食べたら忘れられません……。=Not to mention, that taste...|One bite, and you’ll never be able to forget it...
-ほほう。=Oh-hoh?
+ほほう。=Oh ho?
 ただ、やはり高級すぎるというのが|難点という所でしょうか。=However, that high cost might be something of a problem...
 いや、それは……。|それがわかれば、私も苦労は|いたしません。=Well, that’s...|If I knew that much, we’d both bet set for life.
 とはいえ、ここだけの話ですが……、=Though, I can say this...
@@ -4236,7 +4236,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 そうです=That’s right.
 いえ、ボクなんてまだまだです=No, I still have a long way to go.
 はい、そうです。=Yup, that’s the one.
-ほほう、なかなか|自信家でもあるのだな。|気に入ったよ。=Oh-hoh, you're pretty self-confident, too. I like it. 
+ほほう、なかなか|自信家でもあるのだな。|気に入ったよ。=Oh ho, you're pretty self-confident, too. I like it.
 いえ、ボクなんてまだまだです。=No, I still have a long way to go first.
 こう見えても私は|人を見る目がある方だ。|キミは――=I might not look it, but I’ve an eye for people. And you, my friend--
 大物になる顔をしている。=have a face that’s gonna make it big one day.
@@ -4810,7 +4810,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 !FILE:event/ev_ren/ren_a10_rusuban.wsb
 意外に賑やかな町じゃのう。|ほれ、ぬしよ。リンゴじゃ。|赤く熟れてて美味そうじゃな。=‘Tis an unexpectedly busy town.|Look there, apples! They’re ripe red and look rather toothsome, no?
 きっとリンゴの方も、|わっちに食われるのを|待っているに違いない。=It seems they can’t wait to be eaten by me.
-……もう。仕方ないなあ。|１個だけだよ？=...Alright, I get it. I’m only buying you one though, okay?
+……もう。仕方ないなあ。|１個だけだよ？=...All right, I get it. I’m only buying you one though, okay?
 ぬし、話がわかるのう。|もう少し、町を見て歩くかや？|他にも美味い物があるかもしれぬ。=Why, you are so understanding. Shall we walk around town a little more? There may be other delicious things lying in wait.
 いや、ボクはちょっと用事がある。|取り引き相手と|会う約束になっているんだ。=Sorry, I have a bit more work to do. I promised to meet a trading partner.
 そうか。|ならば、わっちも行こう。=Is that so? Then, I’ll come with.
@@ -4913,7 +4913,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 ええっと、その……。|今、ホロの隣にいて、照れて|いないと言ったら嘘になるから。=erm, that is... Right now, being by your side, I’d be lying if I said I didn’t feel shy.
 くふ、そうかや。|それで、さっきの話じゃが――、=Heh-heh, is that so?|Then, about our earlier conversation...
 どの話？=What conversation?
-ぬしが変わったという話じゃ。|ぬしは、前よりも、何と言おうか|……頼もしくなった。=About you having changed. That you’ve become more, how should I put this-- More reliable than before. 
+ぬしが変わったという話じゃ。|ぬしは、前よりも、何と言おうか|……頼もしくなった。=About you having changed. That you’ve become more, how should I put this-- More reliable than before.
 一緒にいると、安心できる。|最初の頃からは|想像もつかんことじゃ。=When we’re together, I feel safe. I never could have imagined this would happen when we began.
 ホロ……。=Holo...
 この旅もいつかは|終わるのじゃろう。=This trip will one day come to an end.
@@ -4995,7 +4995,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 柔らかいパンと、新鮮な野菜、|干してない肉と魚……。=Soft bread, fresh vegetables, non-dried meat and fish...
 それから、酒もよいの。|町に着いたら、たらふく食べたい|ところじゃが。=Then, some liquor too would suit. Once we arrive in town, I’d like to have my fill.
 いや、待てよ。|あまり食事に使うのも|考え物じゃな。=No, wait. ‘Twould not be too wise to spend too much on food.
-食事に金を使っては、その分宿に|使う金が少なくなってしまいんす。|それも困る。=If you use it all on food, they’ll be less to spend on inns. That would be a pronlem.
+食事に金を使っては、その分宿に|使う金が少なくなってしまいんす。|それも困る。=If you use it all on food, they’ll be less to spend on inns. That would be a problem.
 ぬしはどう思う？|たらふく食べて|安い宿に泊まるのと、=What do you think?|Between eating to your heart’s content and staying at a cheap inn,
 食べ物はほどほどにして|良い宿に泊まるのとでは、|どちらがよいと思う？=or eating in moderation and staying at a good inn, which do you think is better?
 食事と宿、ぬしなら|どちらを優先する？=What would you prioritize, food or an inn?
@@ -5086,7 +5086,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 !FILE:event/ev_ren/ren_b05_osunokaisho.wsb
 やれやれ、やっと町に着いたか。|思ったよりも時間がかかったのう。=Goodness me, have we finally arrived it town? It took a lot longer than I thought.
 ところで、ぬしよ。|わっちは腹がへったのじゃが。=Anyway, I’m feeling rather peckish.
-わかってるよ。|どこか食事のできる場所は……。=All right, I get it. Maybe we could eat... 
+わかってるよ。|どこか食事のできる場所は……。=All right, I get it. Maybe we could eat...
 そこの店でよい。=That store will suit.
 あ、待ってよ！|その店は……！=Ah, wait! That shop is--!
 はあい、お兄さん、いらっしゃい。|あら、こちら、お連れさん？|女の人が一緒なの？=Welcome, Sir.|Oh, a companion? Is she with you?
@@ -5131,7 +5131,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 当然じゃ。上手くいけば|その取引先とやらに、食事を|奢ってもらえるかもしれんからの。=Of course. If we play our cards right, they might even treat us to dinner.
 変な期待はしないでね。|商売では、都合のいい話ほど、|用心してかからないと。=Don't get your hopes up.|The tastier the deal, the more careful you must be.
 よく来てくれた。|そちらの奇麗な娘さんは？|奥さんかね。=Welcome!|And this beauty at your side... your wife, no doubt?
-……ほう。=Oh-ho.
+……ほう。=...Ho?
 故あって、共に旅をしています。|信用できる女性です。=We're traveling together by circumstance.|But she's a woman I trust.
 商売のパートナーだと|思っていただいて結構。=You might think of me as a business partner.
 なるほど。|それでは早速、商売の話を|しようじゃないか。=I see.|Then, let’s get down to business, shall we?
@@ -5295,7 +5295,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 だ、だいじょうぶ!?=A-Are you okay!?
 ぬしは、いったい|わっちに何を食わせたんじゃ？=What on earth did you make me eat?
 何って、|珍しい果実だけど…………あっ！=I told you, it’s a rare fruit... Ah!
-そういえば果物商が言ってたよ。|たまに、すごくしぶい実が|混ざってるって。=Come to think of it, the fruitmonger did mention that. He said that sometimes there are some very sour fruits which get mixed in. 
+そういえば果物商が言ってたよ。|たまに、すごくしぶい実が|混ざってるって。=Come to think of it, the fruitmonger did mention that. He said that sometimes there are some very sour fruits which get mixed in.
 そういうのは|完熟するまで置いとけば|甘くなるらしいよ。=It seems that it’ll become sweet if you give it enough time to ripen.
 たわけ！|いまごろ言っても遅い！=Fool! It’s too late to bring that up now!
 急いで、水と|何か口直しを持ってきてくりゃれ！=Hurry, bring me some water and something to take the taste away!
@@ -5346,7 +5346,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 腹一杯、飲んで食べても良いと|言っておったのじゃがな？=He told you that you can eat and drink to your hearts content, did he?
 そこが怪しい話だと思うんだ。|きっと、いかがわしいお店だよ。=I think that’s odd. There must be something suspect about that store.
 なんじゃ、つまらん。|食べ物と金と暇つぶしが|一度にできる好機じゃったのに。=How boring you are.|‘Twas an opportunity to eat, earn money, and kill time all at once.
-ははん、わかったぞ。|さては、ぬしよ――、=Oh-ho, now I understand.|It seems...
+ははん、わかったぞ。|さては、ぬしよ――、=Hah-hah, now I understand.|It seems...
 わっちのことを|独り占めしたいという嫉妬じゃな？|それで、嫌がっておるのじゃろう？=You’re jealous and want to keep me to yourself, no? That’s why you’re so against it?
 そんなこと……。|ボクはただ、|ホロのことが心配なんだ。=That’s...|I’m just worried about you.
 仕方ない、ぬしと一緒に|いてやるかや。=I suppose it can’t be helped then, I’ll stay with you.
@@ -5606,7 +5606,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 その取引先とやらから|菓子の１つも貰うとしよう。=I’ll see if I can’t something sweet out of this deal.
 ……ははは。ホロがそう言うと、|本当に貰いそうだな。=...Ha-ha-ha. Coming from you, I don’t doubt you’ll get something.
 よく来てくれた。|そちらの奇麗な娘さんは？=Glad you could make it. And who is this beautiful lady?
-……ほう。=...Oh-ho.
+……ほう。=...Oh ho.
 申し遅れました。|こちらは、ホロ。|訳あって、共に旅をしています。=Forgive me. This Holo. Due to certain circumstances, we’re traveling together.
 商売のパートナーだと|思っていただいて結構。=You might think of me as a business partner.#A small section matches ren_b06
 なるほど。|それでは早速、商売の話を|しようじゃないか。=I see. Well then, let’s get down to business.
@@ -5619,63 +5619,63 @@ FILE:event/ev_mou/mou_10_end.wsb
 なんと？|わっちと食事を？=What? You want to have a meal with me?
 どうかね？=How about it?
 是非お願いします=By all means, go ahead.
-すみませんが|食事は遠慮します=I’m afraid I must ask you to reconsider.
+すみませんが|食事は遠慮します=I’m afraid I can’t accept that.
 ああ言ってるけど、ホロ|どうしよう？|今、おなかは空いてる？=Well, I say that, but what do you think, Holo? Are you hungry right now?
 ふむ……わっちは別に構わんが|しかし、ぬしはよいのかや？=Hm... I don’t particularly mind, but are you okay with this?
 よいのか、って何が？=What do you mean?
 決まっておろう。|ぬしはこういう場合、|本当に食事だけで済むと思うのか？=‘Tis your choice. Do you really think that food is all there is to it?
 それでも、ぬしはよいのかと|聞いておるのじゃ。|嫌ではないのか？=And yet, you’re asking if I’m fine with it. Don’t you hate the very idea?
-いや、本当に食事だけだよ。|私は若い娘さんにご馳走するのが|大好きでね。=
-ほら、ああ言ってらっしゃる。=
-ふむ……しかし、何やら|わっちは不愉快じゃ。|この話、断らせてもらいんす。=
-待ってよ、ホロ。|もしかして怒ってるの？|食事だけって言ってるじゃないか。=
-いいや、とにかくお断りじゃ。|わっちをダシに商売しようとする|その態度が気に食わん。=
-いや、あの、別に|そういうわけじゃなくって……=
-ふん。=
-待ってよ、ホロ！=
-ううむ……|残念だが、この話は無かったことに。=
-それと一人前の商人なら|女心くらい知っておくべきかと|思うのだがね？=
-その意味では、キミはまだ|未熟なようだな。=
-かもしれません……。=
-すみませんが、遠慮いたします。|=
-いや、それでよい。|食事くらい、断る理由も|無いじゃろう。=
-ダメだよ、ホロ。|本当に食事だけで済むはず|無いじゃないか。=
-いや、本当に食事だけだよ。|私は若い娘さんにご馳走するのが|大好きでね。=
-ほれ、ああ言っておる。=
-でも、だからと言って……。=
-そうと決まれば|早速行こうではないか。=
-待ってってば！=
-心配かや？|ぬしはわっちの事が|気になるんじゃろう？=
-そんなに心配なら、こっそり|覗いておればよかろう。=
-そんな！|別に心配なんか……。=
-話は決まったかね？=
-うむ、存分にご馳走してくりゃれ。=
-この料理をもう１皿と、|それにブドウ酒も追加じゃ！=
-まだ食べるのかね！？|もう、１０皿目だぞ！=
-なあに、まだ前菜じゃ。|この程度、どうってこと|ありんせん。=
-そ……そうかね……。=
-そっちの高そうな料理|注文していいかや？=
-そ、それは、かまわんが……。=
-うむ。|気前のいい殿方は大好きじゃ。=
-（ホロ、楽しそうだな……。|　あの商人と一緒に食事をするのが、|　そんなに嬉しいのかな……）=
-（――って、ボク、|　なんで覗いているんだろう）=
-（ホロは食事をするだけだって、|　言っていたのに）=
-（あんなに楽しそうなのは、|　ホロがそれだけ食いしん坊な|　だけじゃないか）=
-（うん、きっとそうだ。ボクが|　やきもちを焼いてるわけじゃない。|　先に宿に帰っていよう）=
-ホロ、どうしてるかな……。=
-そんなに、わっちが心配かや？=
-ホロ！？=
-ふふふ、ずっと部屋で|ヤキモキしておったようじゃな？=
-ぬしがわっちの事を|どれだけ気にかけているのか|よくわかった。=
-べ、べつに|そういうわけじゃないよ。|ただボクはホロが心配で……。=
-照れることありんせん。|じゃが、残念なことに|商売の話はナシになってしまいんす。=
-どうして？|食事をしたら、取引をしてくれる|約束だったはずなのに。=
-わっちがあんまり飲み食いするから|あの男、破産してしまいおった。=
-ぬしよ、商売をダメにして|怒っておるかや？=
-全然気にしてないよ、ホロ。|もともとボクは、あの話には|反対だったんだから。=
-じゃと思いんす。=
-ははは。|あの商人さんには悪いけど、|今回はホロの一人勝ちだね。=
-町商人=
+いや、本当に食事だけだよ。|私は若い娘さんにご馳走するのが|大好きでね。=No, it really is just dinner. I enjoy treating young ladies to a meal.
+ほら、ああ言ってらっしゃる。=So he says, see?
+ふむ……しかし、何やら|わっちは不愉快じゃ。|この話、断らせてもらいんす。=Mm... But still, I don’t feel comfortable. I’d like you to turn him down.
+待ってよ、ホロ。|もしかして怒ってるの？|食事だけって言ってるじゃないか。=Wait, Holo. Has something made you angry? He did just say that it’s only dinner, right?
+いいや、とにかくお断りじゃ。|わっちをダシに商売しようとする|その態度が気に食わん。=No, I’ll still have to decline. I don’t like this manner of yours, trying to do business by selling me off.
+いや、あの、別に|そういうわけじゃなくって……=No, that-- that wasn’t my intention...
+ふん。=Hmph.
+待ってよ、ホロ！=Wait, Holo!
+ううむ……|残念だが、この話は無かったことに。=Hrm... It’s a shame, but it seems this deal’s come to nothing.
+それと一人前の商人なら|女心くらい知っておくべきかと|思うのだがね？=And, I think that a fully-fledged merchant ought to know more about a women’s heart, you know?
+その意味では、キミはまだ|未熟なようだな。=In that regard, it seems you still have a ways to go.
+かもしれません……。=You might be right...
+すみませんが、遠慮いたします。|=I’m sorry, but I’m going to have to decline.
+いや、それでよい。|食事くらい、断る理由も|無いじゃろう。=No, it’s quite all right. There’s no reason to turn down a meal.
+ダメだよ、ホロ。|本当に食事だけで済むはず|無いじゃないか。=You can’t, Holo. There’s no way it’d just stop at dinner, right?
+いや、本当に食事だけだよ。|私は若い娘さんにご馳走するのが|大好きでね。=No, it really is just dinner. I enjoy treating young ladies to a meal.
+ほれ、ああ言っておる。=So he says, see?
+でも、だからと言って……。=But, still...
+そうと決まれば|早速行こうではないか。=If that’s settled, then let’s go.
+待ってってば！=Wait!
+心配かや？|ぬしはわっちの事が|気になるんじゃろう？=Are you worried? You’re concerned for me, aren’t you?
+そんなに心配なら、こっそり|覗いておればよかろう。=If you are so worried, you could always spy on us.
+そんな！|別に心配なんか……。=That’s--!|I wasn’t really worried...
+話は決まったかね？=Have you reached a decision?
+うむ、存分にご馳走してくりゃれ。=Mm, you may treat me to your heart’s content.
+この料理をもう１皿と、|それにブドウ酒も追加じゃ！=Another one of these, and some more wine!
+まだ食べるのかね！？|もう、１０皿目だぞ！=You’re still eating!? This is already your tenth plate!
+なあに、まだ前菜じゃ。|この程度、どうってこと|ありんせん。=What, this is just an appetizer, you know. This much is nothing special.
+そ……そうかね……。=I...Is that right...
+そっちの高そうな料理|注文していいかや？=Do you mind if I order that expensive-looking dish?
+そ、それは、かまわんが……。=I-I don’t mind...
+うむ。|気前のいい殿方は大好きじゃ。=Mm. I love a generous gentleman.
+（ホロ、楽しそうだな……。|　あの商人と一緒に食事をするのが、|　そんなに嬉しいのかな……）=(Holo looks like she’s having fun... I wonder if she’s really enjoying eating with that merchant...)
+（――って、ボク、|　なんで覗いているんだろう）=(--Wait, what am I even spying on them for?)
+（ホロは食事をするだけだって、|　言っていたのに）=(Holo said that is was just dinner.)
+（あんなに楽しそうなのは、|　ホロがそれだけ食いしん坊な|　だけじゃないか）=(It’s not so that she’s having fun, as much as it is that she’s just that big of a glutton.)
+（うん、きっとそうだ。ボクが|　やきもちを焼いてるわけじゃない。|　先に宿に帰っていよう）=(Yeah, that’s gotta be it. I’m not jealous at all. I’m going back to the inn.)
+ホロ、どうしてるかな……。=I wonder what Holo’s up to right now...
+そんなに、わっちが心配かや？=Are you that worried about me?
+ホロ！？=Holo!?
+ふふふ、ずっと部屋で|ヤキモキしておったようじゃな？=Heh-heh, have you been sat in the room fretting about it this whole time?
+ぬしがわっちの事を|どれだけ気にかけているのか|よくわかった。=I’m well aware of how much you care about me.
+べ、べつに|そういうわけじゃないよ。|ただボクはホロが心配で……。=T-That’s not it. I was just a little worried...
+照れることありんせん。|じゃが、残念なことに|商売の話はナシになってしまいんす。=No need to be shy. But, I’m afraid that the deal came to nothing.
+どうして？|食事をしたら、取引をしてくれる|約束だったはずなのに。=What happened? I thought he’d agreed to the deal on the condition of dinner.
+わっちがあんまり飲み食いするから|あの男、破産してしまいおった。=He went bankrupt after I had so much to eat and drink.
+ぬしよ、商売をダメにして|怒っておるかや？=Are you upset with me for ruining things?
+全然気にしてないよ、ホロ。|もともとボクは、あの話には|反対だったんだから。=It’s okay, Holo. I was against it to begin with.
+じゃと思いんす。=I thought as much.
+ははは。|あの商人さんには悪いけど、|今回はホロの一人勝ちだね。=Ha-ha-hah, I feel sorry for the merchant, but it looks like you’re the one who came out on top this time.
+町商人=Local Merchant
 !FILE:event/ev_ren/ren_c07_yakimochiboku.wsb
 やれやれ、やっと町に着いたか。|思ったよりも時間がかかったの。=Well, well, we’ve arrived in town at last.|It took longer us than I expected.
 ところで、ぬしよ。|わっちは|腹がへってしまいんす。=As it happens, I’ve just started to feel a bit peckish.
@@ -6093,7 +6093,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 うん……。=Right...
 ふう、とんだ目に遭っちゃったよ。|結局ほとんど寝られなかった。=Whew, what a nightmare. After all that, I hardly slept.
 じゃが、わっちは楽しかった。|今度、また、ぬしにノミ取りを|お願いしようかの。=But, I enjoyed myself. Next time I need to remove fleas, I’ll be asking for your help again.
-へっへっへ、どうも。|夕べはお楽しみだったようで。=Hehehe, many thanks. It seems you had fun last night.
+へっへっへ、どうも。|夕べはお楽しみだったようで。=He-he-he, many thanks. It seems you had fun last night.
 他の部屋にまで声が聞こえて|いましたぜ？=We could hear your voice from the other room, you know?
 ご迷惑をおかけして、すみません。|ホロがどうしても続けろと|騒ぐものだから……。=I’m sorry for troubling you. Holo kept insisting that I continued no matter what...
 照れることはありんせん。|ぬしがあんなに上手とは|思わなかったからの。=There’s nothing to be shy about. I never thought you would be that skilled.
@@ -6114,7 +6114,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 ……わかった。降参するよ。|ホロに見つかっちゃったのが、|この酒の運の尽きだね。=...All right. I give in. Since you found it, this mead’s number is up.
 ぬしは話がわかるのう。|栓はわっちが抜くから|ぬしはコップを持ってきてくりゃれ。=Very shrewd. I’ll pull out the stopper, so you fetch the cups.
 ふーっ、飲んだ飲んだ。|ふふふ、美味かった。|いい気持ちじゃ。=Wheew, what a drink. Heh-heh-heh, ‘twas delicious. I feel good.
-良い酒じゃ。昔、似たような|味の酒を飲んだことがある。|あれも良い酒じゃった……。=‘Tis good mead. I once drank something similar long ago. That was good too... 
+良い酒じゃ。昔、似たような|味の酒を飲んだことがある。|あれも良い酒じゃった……。=‘Tis good mead. I once drank something similar long ago. That was good too...
 ふふ……。=Heh-heh...
 ホロ……？|泣いているの？=Holo...? Are you crying?
 泣いてる？　わっちが？|どうして？=Crying? Me?|Why?
@@ -6166,7 +6166,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 腹一杯食べても良いと|言っておったのじゃがな？=He told you that you can eat to your hearts content, did he?
 そこが怪しい話だと思うんだ。|きっと、いかがわしいお店だよ。=I think that’s odd. There must be something suspect about that store.
 なんじゃ、つまらん。|食べ物と金と暇つぶしが|一度にできる好機じゃったのに。=How boring you are.|‘Twas an opportunity to eat, earn money, and kill time all at once.
-ははん、わかったぞ。|さては、ぬしよ――、=Oh-ho, now I understand.|It seems...
+ははん、わかったぞ。|さては、ぬしよ――、=Hah-hah, now I understand.|It seems...
 わっちのことを|独り占めしたいという嫉妬じゃな？|それで、嫌がっておるのじゃろう？=You’re jealous and want to keep me to yourself, no? That’s why you’re so against it?
 そんなこと……。|ボクはただ、|ホロのことが心配なんだ。=That’s...|I’m just worried about you.
 仕方ない、|ぬしと一緒にいてやるかや。=I suppose it can’t be helped; I’ll stay with you.
@@ -6306,7 +6306,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 とはいえ、ぬしがここまで綺麗に|引っ掛かるとは思わなんだ。|からかいがいのある奴じゃのう。=Though, I didn’t think you’d be caught so completely. You're too fun to tease!
 くふふ、悔しいかや？|それに恥ずかしがっておるな。|ムリもないことじゃが。=Heh-heh-heh, mortified, are you? There’s no need to be so shy. ‘Tis only natural.
 じゃが、わっちはぬしのそういう|所は嫌いではない。|可愛くてよいよい。=But, I don’t hate this side of you. It’s most cute.
-くふふ、では約束通り、今後も|“雇い主の威厳”を大切にしよう。=Hee-hee, then, as promised, I will pay particular attention to ‘the gravity of an employer’. 
+くふふ、では約束通り、今後も|“雇い主の威厳”を大切にしよう。=Hee-hee, then, as promised, I will pay particular attention to ‘the gravity of an employer’.
 さて、|まず手始めに何をしようかの？=Now, what should I do first?
 わかればいいんだ。=As long as you understand, it’s okay.
 ……それが、ただのウソ泣き|だったとしても、ね。=...Even if those were only crocodile tears.
@@ -6314,7 +6314,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 しかし、今のは良かったじゃろう？|ぐらっときたかや？=But, wasn’t that good? Did it not make your head spin?
 いや、別に……。=No, not really.
 ふむ、いつの時代も雄たちは、|か弱い雌が好きなものじゃが、|ぬしはそうでもないのか。=Hmph, at any age, males seem to have a fondness for weak females but you are not like that, hm?
-これは違う手を考えねばな。|それとも、こやつは|やっぱり鈍いだけなのか……。=I’ll have to come up with a different method. Or, perhaps you really are just a dull guy... 
+これは違う手を考えねばな。|それとも、こやつは|やっぱり鈍いだけなのか……。=I’ll have to come up with a different method. Or, perhaps you really are just a dull guy...
 違う手、って一体……。=W-What do you mean, “different method”...?
 気にすることはありんせん。|道中の慰めに、|ちと遊んでみただけじゃ。=Oh, don’t mind that. I just thought I’d play with you a little as a distraction from the journey.
 雇い主のわっちとしては、|当然、雇った相手のことは|興味があるからのう？=As an employer, it’s only natural that I’d be interested in the person I hired, no?
@@ -6738,7 +6738,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 ホロ？=Holo?
 ホロ似の女=Girl Who Isn’t Holo
 !FILE:event/ev_ren/ren_e08_onedari.wsb
-ほう、随分とにぎやかな町じゃな。=Oh ho, this town is rather full of life.
+ほう、随分とにぎやかな町じゃな。=Ho, this town is rather full of life.
 多分、大きな市かお祭りでも|あるんだと思う。|それで、人が集まってるんだ。=I think there must be a big fair or some kind of festival on. Hence, the crowd.
 そうか。ならば|集まっているのは人だけでは|あるまいな。=I see. Then, there must be more than just people gathered here.
 近隣から様々な品も|集まっている事じゃろう。|例えば――食べ物とか。=I bet there’s all manner of goods from the local area. For example- food!
@@ -6909,7 +6909,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 こんなことなら、さっさと|ひとりで飯を食いに出かければ|よかったの。=I should've just gone for a meal on my own.
 ぬしがつまらんじゃろうと、|わざわざ待っててやったのが|あだになりんす。=I waited for you, despite your boring attitude, and for what?
 これからは、|こういうことがあったら|わっちは――=If you keep being like this, I’ll--
-そんなことより、|やっと見つけたんだ。|ほら！　これを開けてみて。=Nevermind that!|I finally found it, Holo! Open this!
+そんなことより、|やっと見つけたんだ。|ほら！　これを開けてみて。=Never mind that!|I finally found it, Holo! Open this!
 なんじゃ、ぬしは。|人の話は最後まで聞くものじゃ。=What, now?|Normally, one would allow the other to finish talking first...
 いいから、早く。|文句はあとで、ちゃんと聞くから。=I'll hear you out later, I promise. Just open it.
 これ、は？=What is this?
@@ -7021,7 +7021,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 ふふ、ぬしのような者がおるから|こそ、人の世界というものは|回っておるのやも知れぬな。=Heh-heh. It might be thanks to people like you, that human society does not collapse in on itself.
 ほ、褒めすぎだよ……=T-That's an awful lot of praise...
 そんなに謙虚にならずともよい。|ま、そこがよいところなんじゃがの。=No need to be so humble.|Though, I suppose it is part of your charm.
-いずれにせよ、|もう“ホロお姉さん”は|卒業じゃの……=Either way, it's time I move on from being "big sister" Holo...
+いずれにせよ、|もう“ホロお姉さん”は|卒業じゃの……=Either way, it's time I move on from being “big sister” Holo...
 ホ、ホロ？=H-Holo?
 つねづね思っておったのじゃが……|わっちも、ぬしのその優しさに|惹かれておるのやも知れぬ。=I've been thinking... that I, too, might be drawn to this kindness of yours.
 自分の居場所……|それを探して、故郷に帰ろうと|思っておった。=A place to belong... That's what I was searching for, why I wanted to find my old home.
@@ -7254,7 +7254,7 @@ FILE:event/ev_mou/mou_10_end.wsb
 うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’ve wizened up a little, too.
 ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special.|Got it.|I’ll bring it out to you shortly!
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
-ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the "Ancient Forest"?
+ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the “Ancient Forest”?
 えっ、なんですか、それ？=Huh? What's that?
 だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=Then, is there anyone in this town who’s familiar folklore or the like?
 さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Hmm... I don’t really know.|Anyway, are you having beer? Or perhaps wine?
@@ -7353,15 +7353,15 @@ FILE:event/ev_mou/mou_10_end.wsb
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 あら、めずらしいね。|あんたたち、行商人かい？=My, how unusual.|Are you merchants?
-ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest" that’s around here?
-『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest"...?|No, I've never heard of it before.
+ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest” that’s around here?
+『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest”...?|No, I've never heard of it before.
 それじゃあ、|この村に年代記作家はいませんか？=Then, is there possibly a Chronicler in this village?
 年代記作家？|そんな酔狂なもん、|こんな小さな村にいるわけないさ。=A Chronicler?|A small village like this could never have something so fanciful.
 どうしようか、ホロ。|この村では、これ以上の話は|聞けそうもないね。=What now, Holo?|I don’t think we’d be able to get much more out of this village.
 うむ、そうじゃな。|東のほうにいるという|神学者とやらを探すしかないの。=Mm, so it seems.|Then, we have no choice but to look for this Theologian in the East.
 それで、注文はなんにするの？=So, what can I get you?
-この村の西にある『おろち湖』は|昔の洪水でできたんだけど、|前は大きな森と草原だったらしいよ。=West of this village is "Serpent Lake" which was formed in a flood long ago, but apparently before that it was made of a large forest and grasslands.
-だったら、そこが|『古狼の森』だったのかも……。=Then, maybe that was the "Ancient Forest"...
+この村の西にある『おろち湖』は|昔の洪水でできたんだけど、|前は大きな森と草原だったらしいよ。=West of this village is “Serpent Lake” which was formed in a flood long ago, but apparently before that it was made of a large forest and grasslands.
+だったら、そこが|『古狼の森』だったのかも……。=Then, maybe that was the “Ancient Forest”...
 ......|..........
 いらっしゃい、お客さん。|話を聞くばかりじゃなくて、|たまには飲んでってよ。=Welcome, sir.|You can't come just to talk, you have to order now and then, you know.#qc
 ああ、そうだよね。|この店は、何がお勧め？=Ah, you’re right.|What do you recommend?
