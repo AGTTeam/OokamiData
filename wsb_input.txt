@@ -329,7 +329,7 @@
 １人きりで行商を|するようになってから、|独り言が増えた気がする。=I get the feeling I’ve started talking to myself more since I’ve been alone.
 ボクが安物の毛布を|荷物から引っ張り出したとき、|それが聞こえてきた――=I went to grab a cheap blanket from my bag, and that’s when I heard it--
 　|『=!
-アオオォォォォォォォォォォン！』=|"Awooooooooooooo!"
+アオオォォォォォォォォォォン！』=|<<“Awooooooooooooo!"
 まさか――山神さま？=Could it be... the Mountain God?
 ボクは昨日、|ノーリンの村で聞いたことを|思い出していた。=I remembered something I’d heard yesterday, in the village of Norlin.
 山越えでミランドに行く？=Crossin’ the mountain to get to Miland?
@@ -351,7 +351,7 @@
 ただし、場合によりけりだ。|いま最も大事なのは商品を届ける|期限を守ること。=But it depends on the situation. In this case, it's more important to deliver the goods on time.
 ――つまり、『信用』を守ることだ。=I have a reputation to uphold.
 　|『=!
-ウォォォォォゥゥゥルルル……！』=|"Auwoooooooooooohhh....!"
+ウォォォォォゥゥゥルルル……！』=|<<“Auwoooooooooooohhh....!"
 狼、なのか？|あの声が山神さま？=Is that a wolf?|Or... the voice of the Mountain God?
 ボクは緊張して辺りを警戒したが、|特に変った気配はない。=I looked around cautiously, but there was no sign that anything had moved.
 遠吠えもかなり離れたところから|聞こえてくるだけだ。=The noise I heard must have come from somewhere far away.
@@ -400,7 +400,7 @@
 だったら、こういう怪しい取引に|賭けてみるのもいいだろう。=Which means that I can afford to take a gamble.
 店主が羊皮紙を取り出して、|ボクに見せてくれた。|これが正式な契約書らしい。=The shopkeeper took out a sheet of parchment and showed it to me. The official written contract.
 つらつらと読んでゆくと、|目的地まで連れていく人物とは|売主本人のことらしい。=Reading it through, it seems the person I am to accompany is the client themselves.
-名前は『ホロ』とある。|それしか書いてない。=Their name is "Holo". That’s all that it says.
+名前は『ホロ』とある。|それしか書いてない。=Their name is “Holo". That’s all that it says.
 ホロ……？|これはファーストネームですか？=Holo...?|Is that a first name?
 いや、それが名前のすべてだ。=No, that's their full name.
 それを聞いて、|少し取引の輪郭が見えてきた。=Hearing that, I came to understand the nature of this deal.
@@ -411,7 +411,7 @@
 なるほど。この契約書とは別に、|売主に対する銀貨@<number1@>枚の|借用書にサインするんですね。=I see. It's not just this contract, but|there’s another to borrow @<number1@> coins|from the seller I’m expected to sign.
 この借金を返済して、|さらに付帯条件を達成できれば|荷馬車の所有権がボクに移る、と。=If I can repay the loan and fulfill the other condition, then the ownership of the cart will be transferred to me.
 その通り。=Precisely.
-売主が取引を承諾しなかった場合、|契約書ならびに借用書は|はじめから無効……っていうのは？="If the client does not approve of the deal, both the contract and loan will be void." ...What’s that about?
+売主が取引を承諾しなかった場合、|契約書ならびに借用書は|はじめから無効……っていうのは？=“If the client does not approve of the deal, both the contract and loan will be void." ...What’s that about?
 売主は少し気難し屋でな。|気に入った相手と|取引したいらしいんだ。=The seller is a bit picky.|They won’t make a deal with someone unless they’ve taken a liking to them.
 売主が嫌だと言えば|取引は成立しないから、|くれぐれも機嫌を損ねないようにな。=So if the seller says no, the deal can't be made. Try to stay on their good side.
 あと、目的地についての詳細は、|取引の成立後に売主が|口頭で伝える……とありますが。=And as for the destination... it says that the client will tell me the details once the deal has been finalized.
@@ -461,7 +461,7 @@
 ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo, looked me up and down as if measuring my worth.
 かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With such a cute (never mind naked!) girl staring so intently at me, my heart grew louder and louder.
 だけど、そのとき、|ボクは初めて気がついたんだ。=However, it had taken me all that time before I noticed...
-あ、あれ……？|その耳……それに尻尾……!?=Wha-What...?|Those ears... and a tail...!?
+あ、あれ……？|その耳……それに尻尾……!?=Wha--What...?|Those ears... and a tail...!?
 なんじゃ、ぬしは？|今ごろ気づいたのか。|まったく、どこを見ておったのやら。=Hm, have you only just noticed? Honestly, just where have your eyes been?
 （そんなこと、|　答えられるわけがない！）=(As if I could answer that!)
 くふ。まあ、想像はつくがの。=Heh-heh. Well, I can imagine.
@@ -585,7 +585,7 @@
 くふ。安心してくりゃれ。|ほとんど払う必要ありんせん。=Heh-heh. Do not fret. You need not pay for most of it.
 酒場の雄どもと、|飲み比べをしておってな。|だいたい、わっちが勝った。=I had a drinking contest with the men here. Victory was as good as mine.
 ぬしが支払うのは|せいぜい３０杯分ぐらいじゃ。=You need only to pay for 30 pints at most.
-本当に？|ああ、良かった……。=Really? What a relief......
+本当に？|ああ、良かった……。=Really? What a relief...
 ……と、思ったけど、|３０杯でもボクの予算より|すごく多いんだけど。=...Though, 30 pints is still much more than I expected.
 荷馬車を使った行商では|行動範囲が広くなる分、|情報の扱いが大切になるんだ。=When you have a cart, your area of business becomes larger, so how you deal with information becomes more important.
 酒場でどんな『噂話』が流れてるか、|もう聞いてみたか？=Have you already asked at the bar about the latest “rumors”?
