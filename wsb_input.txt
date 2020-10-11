@@ -26,7 +26,7 @@
 ？？？=???
 噂話を聞く=Ask about Recent Rumors
 町に戻る=Return to Town
-通りすがり=#qc
+通りすがり=#qc someone who just passes by, so passerby?
 おもに@<top_goods@>を扱っている=I mainly deal in <top_goods@>.
 投資金額　　：銀貨 0 枚|返却予定金額：銀貨 0 枚=Investment cost   : 0 silver|Expected returns: 0 silver
 投資金額　　：銀貨 7000 枚|返却予定金額：銀貨 11000 枚=Investment cost   : 7000 silver|Expected returns: 11000 silver
@@ -724,7 +724,7 @@
 町情報画面の商品には、売値、買値|の平均値が表示されています。荷馬|車の値段と比較して売却しましょう。=Information about the average buying and selling price of goods will be displayed...>>on the town information screen. Compare them to the prices in your cart and sell stock.
 町の「人気の品」に指定されている|商品は、他の町で売るよりも高く|買い取ってもらえます。=Goods which are "Popular” in a town can be sold there for a higher price than in other towns.
 人気の品は、町ごとに異なります。|うまく使えば、大きな儲けを得る|ことができるでしょう。=Popular products vary from town to town. Take advantage of them, and you can turn a tidy profit.
-ちなみにノーリンでは、リンゴが|「人気の品」となっています。|試してみてはいかがでしょうか？=By the way, apples are currently popular in Norlin. Why not give it a try?#qc Do popular products ever change?
+ちなみにノーリンでは、リンゴが|「人気の品」となっています。|試してみてはいかがでしょうか？=By the way, apples are currently popular in Norlin. Why not give it a try?#qc Do popular products ever change? yes. see dat_input.txt:566
 なお、この世界での時間の進みは|ひと月３０日間です。|一年は３６０日となります。=Additionally, note that in this world there are 30 days a month and 360 days in every year.
 契約の期限である８月３０日中に|ホロを故郷まで連れて行けるよう、|上手に商売を進めてください。=Conduct yourself wisely so that you may take Holo to her hometown before the contract ends on August the 30th.
 !FILE:event/ev_act/act_120_desel_horo_bunri.wsb
