@@ -396,7 +396,7 @@
 そうですね。引き受けます。=Sure. I'll take the cart.
 すみませんが、|少し考えさせてください。=Terribly sorry, but I|should think it over.
 そうですね。引き受けます。|詳しい話を教えてください。=Sure, I'll take the deal.|Please tell me the details.
-悩んだのは確かだが、|どうせボクのような駆け出し商人の|全財産なんて高が知れている。=I had my doubts, but either way, it’s not as though novice like myself has that much to lose.
+悩んだのは確かだが、|どうせボクのような駆け出し商人の|全財産なんて高が知れている。=I had my doubts, but either way, it’s not as though a novice like myself has that much to lose.
 だったら、こういう怪しい取引に|賭けてみるのもいいだろう。=Which means that I can afford to take a gamble.
 店主が羊皮紙を取り出して、|ボクに見せてくれた。|これが正式な契約書らしい。=The shopkeeper took out a sheet of parchment and showed it to me. The official written contract.
 つらつらと読んでゆくと、|目的地まで連れていく人物とは|売主本人のことらしい。=Reading it through, it seems the person I am to accompany is the client themselves.
@@ -587,7 +587,7 @@
 ぬしが支払うのは|せいぜい３０杯分ぐらいじゃ。=You need only to pay for 30 pints at most.
 本当に？|ああ、良かった……。=Really? What a relief...
 ……と、思ったけど、|３０杯でもボクの予算より|すごく多いんだけど。=...Though, 30 pints is still much more than I expected.
-荷馬車を使った行商では|行動範囲が広くなる分、|情報の扱いが大切になるんだ。=When you have a cart, your area of business becomes larger, so how you deal with information becomes more important.
+荷馬車を使った行商では|行動範囲が広くなる分、|情報の扱いが大切になるんだ。=When you have a cart, your area of business grows, so how you deal with information becomes more important.
 酒場でどんな『噂話』が流れてるか、|もう聞いてみたか？=Have you already asked at the bar about the latest “rumors”?
 　|　　　　―　噂について　―= |<<- About Rumors -
 この作品では、たくさんの重要な|情報が「噂話（うわさばなし）」と|して世界中に流れています。=In this line of work, a lot of important information travels around as “rumors”.
