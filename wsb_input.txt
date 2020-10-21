@@ -639,8 +639,8 @@
 市場では商品の売買ができます。|町を行き来して交易をおこない、|お金を増やしていきましょう。=You can buy and sell goods in the marketplace. Travel around and trade to earn money.
 商品は、店の商品棚に並んでいます。|商品の購入は、下画面で行います。=Goods are put on a store’s shelf. You can buy them using the lower screen.
 商品アイコンを一度タッチすると|選択状態に、更にもう一度タッチ|すると商品が荷馬車に移動します。=Tap on a “Goods Icon” to select it. Touch again to move it to your cart.
-商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left	 side of the screen to pay and complete your purchase.
-安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get higher than normal profits on selling them.
+商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left side of the screen to complete your purchase.
+安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get better profits on selling them. #line cutoff
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
 商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a “Type” and “Rank”.
