@@ -1,4 +1,4 @@
-﻿!FILE:COMMON
+!FILE:COMMON
 　とっても　いいカンジ！=  Excellent Job!
 　いいカンジかも！=  Good Job!
 　ちょっぴり　いいカンジ？=  You did okay.
@@ -336,7 +336,7 @@
 やめときなって。|無理せず、草原まわりにするこった。=Only a fool would take that path. You should go through the plains.
 草原まわりだと、|どんなに急いでも５日はかかります。|納期に間に合いませんよ。=If I do that, it’ll take me five days to get there at best. I wouldn't make the deadline.
 本当なら、とっくにミランドに|着いているはずだった。=Had all gone to plan, I would already be in Miland.
-ところが途中で|がけ崩れを迂回したせいで、|大幅に予定が遅れている。=However, a cliff collapsed along the way and so I'd had quite the lengthy delay.
+ところが途中で|がけ崩れを迂回したせいで、|大幅に予定が遅れている。=However, a cliff collapsed along the way and so I've had quite the lengthy delay.#"I'd had" suggests the journey was completed some time ago, not still in progress [EMcI].
 山越えだと、|相変わらず夜盗が出ますか？=If I took to the mountain, would I still be at risk from bandits?
 いや、おらんな。=Nay, I doubt it.
 えっ!?　だったら|山越えできるじゃないですか。=What!? Then surely using the mountain path should be fine?
@@ -458,7 +458,7 @@
 えっと……ボクは、その、|荷馬車の取引をして……それで。=Um... I made a, er, deal about that cart, you see...
 ほう、ぬしが？=Oh, you did?
 こんなに若い商人だとはの。|さて、どうしたものか。=Quite the young merchant you are.|Now, what shall we do?
-ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo, looked me up and down as if measuring my worth.
+ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo looked me up and down as if measuring my worth.#Comma unnecessary, unless you have one after girl as well as Holo, removed [EMcI].
 かわいい女の子（しかも裸！）に|見つめられて、|ボクの鼓動は早くなった。=With such a cute (never mind naked!) girl staring so intently at me, my heart grew louder and louder.
 だけど、そのとき、|ボクは初めて気がついたんだ。=However, it had taken me all that time before I noticed...
 あ、あれ……？|その耳……それに尻尾……!?=Wha--What...?|Those ears... and a tail...!?
@@ -478,7 +478,7 @@
 そのせいで、自分が人間ではなく、|狼だと思い込んでいるらしい。=And because of that, she believes that she isn't human, but a wolf.
 尻尾や耳が生えているのを見ると、|本当に狼の精霊が|取り憑いているのかもしれない。=Judging from her tail and ears, it seems like a wolf spirit might really have possessed her.
 （たしかに荷馬車は魅力的だけど、|　これじゃ、リスクが高すぎる！）=(The cart is appealing for sure, but this is just too risky!)
-（異教徒どころか、|　『異形の者』を|　連れ歩くなんて……）=(A pagan is one thing, but traveling with someone so visibly suspect...)
+（異教徒どころか、|　『異形の者』を|　連れ歩くなんて……）=(A pagan is one thing, but traveling with someone so visibly suspect...)#Pagan was capitalised in the conversation with the shopkeeper, but not here. Should either one be changed? [EMcI]
 （教会に見つかったら、|　言い訳のしようもないよ。|　すぐ火あぶりにされるに違いない）=(If the church finds out, I won't have any excuse. I'll be burnt at the stake for sure.)
 さて、ぬしよ。|そろそろ荷馬車の契約の話を|しようかの。=Now then. Shall we discuss the contract for the cart?
 （いや、まだ契約成立じゃない。|　売主が嫌だと言えば、この契約は|　初めから無かったことに……）=(Right, it’s not a done deal yet. The contract said if the client doesn’t like me, it will be as if it never existed.)
@@ -506,7 +506,7 @@
 ええっ!?=Huh!?
 ボクは驚きながらも、|なるほどそういうことだったのかと|納得していた。=While it had caught me off guard, I came to understand the rationale behind it.
 目的地を口頭で告げる、と書いて|あった裏には、『目的地が不明確』|という事情があったのだ。=That the contract had stated the destination would be conveyed in person, meant it was in fact “undetermined”.
-それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how unexperienced I am that I hadn’t noticed it.
+それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how unexperienced I am that I hadn’t noticed it.#Should this be "inexperienced" - a more common word? [EMcI]
 ――さて、|これからどうするのかや？=--Well, what shall we do with you?
 とりあえず、|わっちは腹が減った。|何か食べさせてくりゃれ。=For the time being, I find myself peckish. Won’t you bring me something to eat?
 !FILE:event/ev_act/act_050_horo_hajimete_tenshu_talk.wsb
@@ -518,7 +518,7 @@
 ほう。ぬしは若いくせに、|なかなか話がわかるの。=My, for one so young, you are quite wise to the world.
 まずは１杯、|飲ませてくれるということかや？=So, we are to start with a drink, are we?
 ちがうよ。|ちょっと知り合いに|あいさつしとこうかと思ってね。=That’s not it. I was hoping to talk to an acquaintance of mine.
-なんじゃ、ぬか喜びさせおって。|つまらん雄（おす）じゃな。|わっちは向こうで待っておるぞ。=Hmph. And you had my hopes up. What a spoil sport you are. I shall be waiting over there.
+なんじゃ、ぬか喜びさせおって。|つまらん雄（おす）じゃな。|わっちは向こうで待っておるぞ。=Hmph. And you had my hopes up. What a spoilsport you are. I shall be waiting over there.#Spoilsport is one word.[EMcI]
 ホロと話す=Talk to Holo
 シュミットと話す=Talk to Schmidt
 いらっしゃいませ。=Welcome.
@@ -529,7 +529,7 @@
 かまわないけど、ほどほどにしてよ。=I don't mind, but don’t go overboard.
 うん、わかった。|好きなだけ飲んでいいよ。=All right, I get it.|Drink as much as you like.
 なんじゃ、ぬしは。|なんとも|ケチくさい雄じゃの。=What now? How stingy you are.
-狼の雄も人の雄も|雌の機嫌をいかに取るかが|甲斐性というもの。=For both human and male wolves, knowing how to curry favor with a female is a most important skill.
+狼の雄も人の雄も|雌の機嫌をいかに取るかが|甲斐性というもの。=For both human and wolf males, knowing how to curry favor with a female is a most important skill.#Categories are two types of male, not of wolf, so changed word order. [EMcI]
 そんなことでは、|これから先の旅が思いやられるの。=Keep that in mind on our future travels.
 うむ、わかっておる。|ぬしのような若い雄の|懐具合には期待しておらんからの。=Yes, I understand. You are a young male, after all, one cannot have too high hopes for your financial situation.
 ビールと葡萄酒、|あとは美味いつまみがあればよい。=All I ask for is beer, wine, and a delicious snack to follow up.
@@ -557,7 +557,7 @@
 『噂話』を聞いたときには、|忘れないうちに|書きとめておくようにな。=Once you’ve heard a rumor, make sure to write it down before you forget.
 そして、『噂話』を|いつでも確認できるようにするのが|大事だ。=Plus, it’s handy to be able to check them whenever you’d like.
 『噂話』を書きとめるのは、|ボクの師匠にも言われていたので|すでにやっておいた。=My master had told me the same, so I’ve already written it down.
-『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only taverns that you can hear rumors, but you can also speak to other merchants when you’re out on the road.
+『噂話』は酒場だけでなく、|町を移動する最中の街道で|他の商人たちからも聞けるからな。=It’s not only taverns where you can hear rumors, but you can also speak to other merchants when you’re out on the road.#"taverns that" would need an "in"; "where" is fine alone.[EMcI]
 聞いたことのある『噂話』は、|いつでも確認できるように|クセをつけておくんだ。=Make it a habit to go back and check rumors you’ve heard before.
 とりあえず、『噂話』については|こんなところか。=Well, that’s about all I have to say on “rumors” for now.
 ありがとうございました！=Thanks a lot!

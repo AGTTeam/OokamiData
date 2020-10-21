@@ -1,4 +1,4 @@
-﻿!FILE:endview.dat
+!FILE:endview.dat
 故郷に到着！|ボクとホロの二人だけの結婚式！=We reached her homeland!|A wedding just for me and Holo!
 故郷に到着！|ボクとホロは両思いに…=We reached her homeland!|Holo and I are in love...
 故郷に到着！|ボクとホロは旅を続けていくことに…=We reached her homeland!|Holo and I will continue our journey...
@@ -357,7 +357,7 @@
 町情報　シュリンケル=Town Information: Schrinkel
 シュリンケルって町は、昔は石炭|がとれたんだが今はな･･･。|どうにか数少ない資源を掘り出し|て生計を立ててるみたいだがな。=Schrinkel used to be a coal mine, but nowadays... they just about manage to dig up enough to make a living.
 町情報　ノーリン=Town Information: Norlin
-ノーリンって所は長閑な村だよ。|田園や放牧地に囲まれててね。|そこで育った牛やら豚がまた美味|くてたまらんね。|商人もよく買い付けに行くよ。=Norlin is a quiet village surrounded by fields and pastures. The cattle and pigs they raise there are unbelievably tasty- even merchants often make the trip to buy them.
+ノーリンって所は長閑な村だよ。|田園や放牧地に囲まれててね。|そこで育った牛やら豚がまた美味|くてたまらんね。|商人もよく買い付けに行くよ。=Norlin is a quiet village surrounded by fields and pastures. The cattle and pigs they raise there are unbelievably tasty - even merchants often make the trip to buy them.#Dash should have spaces on both sides, or a double length dash with no spaces. [EMcI]
 町情報　ナウレナス=Town Information: Naulenas
 ナウレナスって宿場町があるのは|知ってるかい？|あの辺りは周りに何も無くてね。|よく行商人や旅人が休憩がてら立|ち寄ってくんだよ。=Did you know there's an inn town called Naulenas? There's nothing else around there. Merchants and travelers often stop by to rest.
 町情報　デッセル=Town Information: Dessel
