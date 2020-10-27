@@ -630,7 +630,7 @@
 そう言いながら、力強そうな雄馬の|首の辺りを軽くなでると、|シュミットさんは御者台に登った。=As he spoke, Schmidt gently stroked his horse's neck then climbed into the driver's seat.
 このあと、どこに行くんですか？=Where are you heading next?
 まずはデッセルの村だな。|あそこで今年の麦を|仕入れるつもりなんだ。=To Dessel.|I plan to get some of this year's wheat.
-じゃあ、またな。|豊穣の女神さんも、ごきげんよう。=Farewell, then. And to you as well, Mrs. Harvest God.
+じゃあ、またな。|豊穣の女神さんも、ごきげんよう。=Farewell, then. And to you as well, Ms. Harvest God.
 デッセルか。=Dessel, huh?
 知ってるの、ホロ？=You know it, Holo?
 ふん。よく知っとる。|おそらく村人たちよりも|ずっとずっとな。=Very well, in fact.|Much more than the current dwellers, I wager.
@@ -640,7 +640,7 @@
 商品は、店の商品棚に並んでいます。|商品の購入は、下画面で行います。=Goods are put on a store’s shelf. You can buy them using the lower screen.
 商品アイコンを一度タッチすると|選択状態に、更にもう一度タッチ|すると商品が荷馬車に移動します。=Tap on a “Goods Icon” to select it. Touch again to move it to your cart.
 商品を荷馬車に積んだ状態で下画面|左下の「購入アイコン」をタッチし、|金額を支払えば購入は完了です。=Whilst a product is in your cart, touch the “Buy” icon on the lower left side of the screen to complete your purchase.
-安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get better profits from selling them. 
+安値や暴落の商品は購入のチャンス|です。売却時に、普段より高い|利益を得ることができます。=This is your chance to get goods whose price has dropped or crashed. You can get better profits from selling them.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは購入できません。=However, even if they're on display, you can't buy certain goods if they're out of stock or above your expertise.
 　|―　商品ジャンルと商品ランク　―=　|<<- Goods Type & Goods Rank -
 商品には全て、「商品ジャンル」と|「商品ランク」があります。=All goods have a “Type” and “Rank”.
@@ -761,7 +761,7 @@
 いえ、そうわけでは|ありませんよ。実はですね……。=No, nothing like that.|You see, actually...
 村長さんの話によると、|豊穣祈願の祭りを今年から|大きく変更したのだという。=According to the village leader, this year’s harvest festival had seen big changes.
 去年までは、この村で|信じられている豊穣の女神に|祈っていたらしい。=Until last year, the villagers had prayed to a harvest goddess they believed lived there.
-だけど、教会に異端の疑いを|かけられたことがあり、今年からは|正教の神に祈ることにした。=But the Church began to accuse them of heresy, so from this year they decided to offer prayers to the orthodox god instead. #Line cutoff Not fixed yet
+だけど、教会に異端の疑いを|かけられたことがあり、今年からは|正教の神に祈ることにした。=But after the Church started to accuse them of heresy, they decided to offer prayers to the orthodox god instead.
 そして、いままで祭っていた|豊穣の女神の名前とは――=And the name of the harvest goddess they had once prayed to was--
 ……ホロ、ですか？=...Holo?
 ええ、そうです。|何百年もの昔から、この村で|麦を見守っていると言われてます。=Yes, that’s right. It's said that she has watched over this village’s wheat for centuries.
@@ -803,7 +803,7 @@
 この村の麦を|良く実らせてくりゃれ、と。=That I would ensure the village’s harvest.
 えっと、|その約束はもういいの？=So, it’s all said and done now?
 充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I worked long and hard enough. I have more than fulfilled my promise.
-そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, Holo fell silent.|The story aside, her bitter feelings felt genuine. 
+そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, Holo fell silent.|The story aside, her bitter feelings felt genuine.
 くふ。=Heh.
 とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=Such as it is, the villagers’ ingratitude proved to be quite useful.
 今年、この村では|わっちのための祭りをしなかった。=This year, they did not hold a festival in my name.
