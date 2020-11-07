@@ -729,8 +729,8 @@
 契約の期限である８月３０日中に|ホロを故郷まで連れて行けるよう、|上手に商売を進めてください。=Conduct yourself wisely so that you may take Holo to her hometown before the contract ends on August the 30th.
 !FILE:event/ev_act/act_120_desel_horo_bunri.wsb
 ボクとホロは、小麦の栽培が盛んな|デッセルの村へとやってきた。=Holo and I arrived at the village of Dessel, where wheat cultivation was thriving.
-村から続く街道の入口の近くで、|向こうからやってくる=As we neared the village entrance from the road, I noticed a cart coming out the other side.
-|１台の荷馬車に気がついた。=!
+村から続く街道の入口の近くで、|向こうからやってくる=As we neared the village entrance from the road, I noticed a cart coming out the
+|１台の荷馬車に気がついた。=|other side.
 あっ、シュミットさん！=Oh, Schmidt!
 それがお前の荷馬車かい？|なかなか良いものじゃないか。=So that's your cart?|It’s a handsome thing, isn’t it?
 そうですか？|ありがとうございます。=You think so?|Thanks!
@@ -812,7 +812,7 @@
 ホロは首から提げている袋を|ボクに見せてくれた。=Holo showed me the pouch that she kept around her neck.
 袋の中には、ひと握りの麦が|詰まっていた。=Inside was a handful of wheat.
 この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=As long as it’s safe, I can go wherever I please.
-もう、この村に|しばられることもありんせん。=I no longer be bound to this village.
+もう、この村に|しばられることもありんせん。=I am no longer bound to this village.
 わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am... so tired of being alone.
 敬われて、遠ざけられて、|恐れられるのは、もう……。=Of being revered, feared, kept at a distance...
 ホロはそのまま|酔いつぶれてしまった。=And just like that, she had passed out, drunk.
