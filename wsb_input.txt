@@ -4383,7 +4383,7 @@
 さすがに高級食材はダメだけど、|手頃な値段の貝も魚も、|結構いい商いになったらしいよ。=
 じゃ、これ、取引の結果だよ！=
 !FILE:event/ev_mou/mou_othertown.wsb
-ご依頼人様からの結果報告まで、|おそらくあと@<number1@>日ほどかかると|思われます。=It will likely be another @<number1@> days before we receive word of the results from the client.
+ご依頼人様からの結果報告まで、|おそらくあと@<number1@>日ほどかかると|思われます。=It will likely be another@<number1@> days before we|receive word of the results from the|client.
 報告が届き次第、当商会より|使いの者を寄越します。|いましばらく、お待ちください。=As soon as the information comes in, we will send a messenger. I’m afraid you’ll have to wait for now.
 ようこそ！|私どもの商館へ。|お待ち申し上げておりました。=Welcome to our trading house!|We’ve been waiting for you.
 先日の商談の件ですが、|ご依頼人様より結果の報告が|届いたようです。=Regarding the negotiations from the other day, we’ve had news from the client.
