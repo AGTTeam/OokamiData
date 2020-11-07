@@ -513,7 +513,7 @@
 どうやら、荷馬車の契約は|成立したようだな。=Looks like you were able to finalize the contract.
 うむ、手間をかけさせたの。|おかげで助かった。=Mm, although it took some time.|Thank you for your assistance.
 いや、礼はいらないよ。|これで貸し借りなしってことだ。=No need to thank me. This makes us even.
-あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me that the wheat was poor quality, I would’ve made a big loss.
+あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me that that wheat was poor quality, I would’ve made a big loss.
 !FILE:event/ev_act/act_060_tut1_horo_bunri.wsb
 ほう。ぬしは若いくせに、|なかなか話がわかるの。=My, for one so young, you are quite wise to the world.
 まずは１杯、|飲ませてくれるということかや？=So, we are to start with a drink, are we?
@@ -680,7 +680,7 @@
 ところで、ぬしは祟（たた）りを|気にしておったのに、なんで|山の神がいる道を通ったんじゃ？=By the way, if you are so afraid of being cursed, why did you take the mountain path previously?
 もしかすると、本心では|神など恐れていないのかや？=Maybe you are not scared of the gods after all?
 そういうわけじゃないよ。|神様が本当にいるかは知らないけど、|あまり関わりあいになりたくない。=That’s not it. I don’t know whether the gods really exist or not, but either way, I’d prefer not to get involved.
-だけど、あのときは|荷を届ける期限が迫ってたからね。|しかたがなかったんだ。=Although at that time, the delivery deadline was fast approaching so I had no choice.
+だけど、あのときは|荷を届ける期限が迫ってたからね。|しかたがなかったんだ。=Although at that time, my delivery deadline was fast approaching so I had no choice.
 ふん。そういうことかや。=Hm. So that’s why.
 そういえば、|あの夜、遠吠えを聞いたよ。|たぶん狼だった。=Which reminds me, I heard something howling that night. It sounded like a wolf.
 もしかしたら、|あれが山神様だったのかな？=What if that was the Mountain God?
@@ -805,14 +805,14 @@
 充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I worked long and hard enough. I have more than fulfilled my promise.
 そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, Holo fell silent.|The story aside, her bitter feelings felt genuine.
 くふ。=Heh.
-とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=Such as it is, the villagers’ ingratitude proved to be quite useful.
+とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=|Such as it is, the villagers’ ingratitude proved to be quite useful.
 今年、この村では|わっちのための祭りをしなかった。=This year, they did not hold a festival in my name.
 そのおかげで、こうして|わっちの宿った麦とともに|村から抜け出すことができたんじゃ。=Thanks to that, I was able to leave the village through the wheat that I dwelt in.
 ほれ。これが|わっちの宿っておる麦じゃ。=Look. This is the wheat I reside in.
 ホロは首から提げている袋を|ボクに見せてくれた。=Holo showed me the pouch that she kept around her neck.
 袋の中には、ひと握りの麦が|詰まっていた。=Inside was a handful of wheat.
 この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=As long as it’s safe, I can go wherever I please.
-もう、この村に|しばられることもありんせん。=I am no longer be bound to this village.
+もう、この村に|しばられることもありんせん。=I no longer be bound to this village.
 わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am... so tired of being alone.
 敬われて、遠ざけられて、|恐れられるのは、もう……。=Of being revered, feared, kept at a distance...
 ホロはそのまま|酔いつぶれてしまった。=And just like that, she had passed out, drunk.
@@ -3194,7 +3194,7 @@
 どういうこと？=What are you talking about?
 ……この辺りの麦畑は、|かなり人間の手で|いじられておるようじゃ。=...It seems that humans have intervened with the wheat fields around here to quite the extent.
 人間が自分たちの手だけで|麦を育てるというのなら、|結果は人間にしかわかりんせん。=If humans will rear the wheat by their own hands, ‘tis only they who can understand the results.
-当て推量を言って|後でぬしに恨まれては|敵わんからのう。=I couldn’t bear it if I made a guess, and you came to hate me for it later.
+当て推量を言って|後でぬしに恨まれては|敵わんからのう。=I couldn’t bear it if I made a guess and you came to hate me for it later.
 教会の者たちのように言うなら、|“すべては人のみぞ知る”|といったところかの。=To put it like the church would say, “humans only know”.
 “すべては神のみぞ知る”|の間違いじゃ──？=Don’t you mean “God only knows”?
 わっちから見れば、|どちらも変わらぬ。|くふふ。=From my point of view, there is no difference between them. Heh-heh-heh.
@@ -3214,7 +3214,7 @@
 おとぎ話みたいに|麦の神様と友達にでもなりゃあ|俺だって全財産賭けるがね。=Even if I somehow knew the wheat goddess from the folktales, I still wouldn’t risk it all.
 まいど！|配当金を楽しみにしてな！=Awesome! I’m gonna be looking forward to seeing the results!
 けどアンタ、|度胸あるんだな。=Still, you’re pretty courageous aren’t cha?
-見たとこ、銀貨@<trade_b@>枚は|アンタにとっちゃ|結構な大金だろう？=From what I can tell, @<trade_b@> coins is a pretty|big amount of money for you, right?
+見たとこ、銀貨@<trade_b@>枚は|アンタにとっちゃ|結構な大金だろう？=From what I can tell, @<trade_b@> coins is a|pretty big amount of money for you, right?
 アンタみたいなヤツ、|俺は嫌いじゃないぜ。=Guys like you ain’t so bad～
 そんじゃ、@<number1@>日後を|楽しみにしていなよ。|まいどあり。=Well then, look forward to hearin’ a|response in @<number1@> days.|It’s been a pleasure.
 ふん、なんだい、|シケてやがんな？=Hmph, that’s a real downer.
@@ -3228,7 +3228,7 @@
 今年はあの地方の小麦、|凶作らしいよ。|領主様も大損だろうね。=It seems the harvest went badly this year. The count is sure to make a big loss, too.
 なんだか、その地方の人は、|“品種改良したから、|　もう凶作にはならないはずだ！”=The local people said “since we improved the wheat strain, we should never get a bad harvest again!”
 ……って思い込んでいたみたい|だけど、そんなにうまい話は|あるわけないよねぇ。=...And it seemed pretty convincing, but I guess such a thing was too good to be true.
-私もちゃんと|麦の神様にお祈りしようっと。|──あ、教会には内緒だよ？=I’m going to keep praying to the wheat goddess.|--Ah, keep that a secret from the church, okay?
+私もちゃんと|麦の神様にお祈りしようっと。|──あ、教会には内緒だよ？=I’m going to keep praying to the wheat goddess.>>--Ah, keep that a secret from the church, okay?
 !FILE:event/ev_mou/mou_03.wsb
 はじめまして。|私、この町でアクセサリーを|商っている者でございます。=Pleased to make your acquaintance.|I work in this town as a jeweler.
 本日は、私どもの商売に|投資して頂ければと思い――、=Today, I’d like to talk to you about investing in my business--
@@ -4383,7 +4383,7 @@
 さすがに高級食材はダメだけど、|手頃な値段の貝も魚も、|結構いい商いになったらしいよ。=
 じゃ、これ、取引の結果だよ！=
 !FILE:event/ev_mou/mou_othertown.wsb
-ご依頼人様からの結果報告まで、|おそらくあと@<number1@>日ほどかかると|思われます。=It will likely be another@<number1@> days before we|receive word of the results from the|client.
+ご依頼人様からの結果報告まで、|おそらくあと@<number1@>日ほどかかると|思われます。=It will likely be another @<number1@> days before we|receive word of the results from the|client.
 報告が届き次第、当商会より|使いの者を寄越します。|いましばらく、お待ちください。=As soon as the information comes in, we will send a messenger. I’m afraid you’ll have to wait for now.
 ようこそ！|私どもの商館へ。|お待ち申し上げておりました。=Welcome to our trading house!|We’ve been waiting for you.
 先日の商談の件ですが、|ご依頼人様より結果の報告が|届いたようです。=Regarding the negotiations from the other day, we’ve had news from the client.
@@ -6650,7 +6650,7 @@
 …………。=......
 ホロ、お腹空いてる？|宿を決めたら、何か食べよう。|お腹が一杯になるものがいいな。=Are you hungry yet, Holo? Once we've decided on an inn, let's get some food. It’d be nice to have something filling.
 …………。=......
-どうしたんだい、ホロ？|さっきから押し黙って。=What’s the matter?|You been quiet for a while now.
+どうしたんだい、ホロ？|さっきから押し黙って。=What’s the matter?|You've been quiet for a while now.
 う……うう……。=O...ooooh...
 おい……ホロ！？|ホロ、どうしたの！|しっかりして！=Oi... Holo!?|Holo, what’s wrong?|Pull yourself together!
 うう……。|わっちともあろうものが、|情けない……。=Uugh...|For me, of all people, how pathetic...
@@ -6769,7 +6769,7 @@
 ふふふ、冗談じゃ。|本当は感謝していんす。=Heh-heh-heh. I jest.|I appreciate it, really.
 じゃが、ぬしもちょっとは|嬉しいと思っておろう？=But, I imagine you are also a little happy, no?
 ぬしは、図々しいわっちも|嫌いではなさそうじゃ。=It seems you don’t dislike this brazen side of mine either.
-それは、その……。|──あ、ちょっと、ホロ、|どこへ行くの？=That’s, well...|Ah! Wait, Holo, where are you going?
+それは、その……。|──あ、ちょっと、ホロ、|どこへ行くの？=That’s, well...|Ah! Wait! Holo, where are you going?
 ホロ、ホローっ！=Holo, Holo--!!
 もう、勝手なんだから……。=Always doing as she pleases...
 （でも、それがホロらしい|　ところでもあるんだよね……？）=(But I suppose, that’s what makes her who she is...?)
@@ -7198,7 +7198,7 @@
 !FILE:event/ev_ren/ren_x02_ringokatte.wsb
 ふむ。どうして市場に来ると、|小腹がすいたことを|思い出すのかや。=Hm. Why, I wonder, does coming to the market stir up my hunger?
 む、ぬしよ！　そこのリンゴが|わっちを呼んでおる。|買ってくりゃれ？=Mm? Those apples over there are calling my name! Will you buy me one?
-ホロの審美眼は確かだなあ。|確かに色といい、ツヤといい、|香りといい、素晴らしいリンゴ……=You have a good eye.|From their color, texture and scent, these are fine apples.
+ホロの審美眼は確かだなあ。|確かに色といい、ツヤといい、|香りといい、素晴らしいリンゴ……=You have a good eye.|From their color, texture, and scent, these are fine apples.
 ……って、|銀貨、@<number1@>枚？！=--Wait, @<number1@> silver?!
 今日は、がまんしてよ=Maybe another time.
 わかった。買ってあげる=Okay, I’ll buy it.
