@@ -3214,9 +3214,9 @@
 おとぎ話みたいに|麦の神様と友達にでもなりゃあ|俺だって全財産賭けるがね。=Even if I somehow knew the wheat goddess from the folktales, I still wouldn’t risk it all.
 まいど！|配当金を楽しみにしてな！=Awesome! I’m gonna be looking forward to seeing the results!
 けどアンタ、|度胸あるんだな。=Still, you’re pretty courageous aren’t cha?
-見たとこ、銀貨@<trade_b@>枚は|アンタにとっちゃ|結構な大金だろう？=From what I can tell, @<trade_b@> coins is a pretty big amount of money for you, right?
+見たとこ、銀貨@<trade_b@>枚は|アンタにとっちゃ|結構な大金だろう？=From what I can tell, @<trade_b@> coins is a pretty|big amount of money for you, right?
 アンタみたいなヤツ、|俺は嫌いじゃないぜ。=Guys like you ain’t so bad～
-そんじゃ、@<number1@>日後を|楽しみにしていなよ。|まいどあり。=Well then, look forward to hearin’ a response in @<number1@> days. It’s been a pleasure.
+そんじゃ、@<number1@>日後を|楽しみにしていなよ。|まいどあり。=Well then, look forward to hearin’ a|response in @<number1@> days.|It’s been a pleasure.
 ふん、なんだい、|シケてやがんな？=Hmph, that’s a real downer.
 まあ、いいさ。|縁があったら、また会おう。|そん時はよろしく頼むぜ。=Ah well. If fate allows, come stop by again sometime. It’s all in your hands.
 なに！|ここまで聞いて、投資しないって|言うのか？=What!? You’ve been listenin’ all this time but you say you’re gonna back out now?
