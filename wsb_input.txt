@@ -308,7 +308,7 @@
 ささやかに、でも、着実に。|そうすれば、きっと夢は現実に|なるはずだ。=Slowly, but surely, I know my dream will come true.
 明日の大商人を夢見て、|ボクは今日も働いている……=Dreaming of making it big in the future, I’m working hard in the present...
 ボクはまだ、こうして行商を|つづけている。=I still continue to work as a travelling merchant.
-主に@<top_goods@>を扱いながらの、|旅から旅への生活だ。=I mainly deal in @<top_goods@>, spending my life travelling from one place to the next.
+主に@<top_goods@>を扱いながらの、|旅から旅への生活だ。=I mainly deal in @<top_goods@>, spending|my life travelling from one place to the next.
 いろんな町に、顔見知りもできた。|今では頼りにしてくれる人もいる。|季節の商品を届けることもある。=I’ve come to know people from many different towns. There are some who even rely on me now.>>I sometimes do seasonal deliveries, too.
 それに、昔とは違って今は|こうして馬車がある。|遠くへの行商も、格段に楽になった。=And, unlike before, I have a cart now. Travelling long distances for trade has become much easier.
 でも……=But...
@@ -1904,7 +1904,7 @@
 ボクは契約のためだけで|ホロと旅してきたわけじゃない。=I didn't keep traveling with you just because of a contract.
 くふ。商人とは思えぬ言葉じゃな。|ぬしにとって、契約とは|本当にそんな軽いものかや？=Heh-heh. I didn't expect those words from a merchant. Is that really how little contracts are worth to you?
 そ、それは……。=N-No, but...
-ぬしは商人、わっちは狼。|まったく異なる者がいっしょに|旅をしてきたのは契約があればこそ。=You are a merchant. And I am a wolf. Two completely different beings, who were able to travel together due to a contract.
+ぬしは商人、わっちは狼。|まったく異なる者がいっしょに|旅をしてきたのは契約があればこそ。=You are a merchant. And I am a wolf. Two completely different beings, able to travel together due to a contract.#Overflow
 その契約が終われば、|素直に別れるのが道理ではないかや？=With the contract fulfilled, doesn't it make sense to part ways?
 そのとき、ボクは|ホロの本当の気持ちに気がついた。=At that moment, I realized how Holo truly felt.
 あの湖に着いたときから、|ホロはずっと嘘をついている。=Ever since we reached that lake, Holo has been lying.
@@ -1935,7 +1935,7 @@
 もちろん。ボクはただ契約を|果たそうとしてるだけなんだから。|ホロが気にすることはないんだよ。=Of course. All I'm doing is trying to fulfill a contract. No need to hold back.
 くふ。契約なんて形式に|すぎないんじゃなかったのかや？=Heh-heh. Didn't you say the contract was just a formality?
 さっきは、口がすべっただけだよ。|商人にとって|契約は何よりも重いからね。=That was just a slip of the tongue. For a merchant, contracts are absolute.
-若いぬしに望むのは酷かもしれんが、|雌のほしがる言葉をかけるのが|雄の甲斐性というものじゃ。=A gallant male ought say the words a female longs to hear, though it may be cruel to expect so much from a youngster like yourself.
+若いぬしに望むのは酷かもしれんが、|雌のほしがる言葉をかけるのが|雄の甲斐性というものじゃ。=A gallant male ought to say what a female longs for, though 'tis cruel to expect so much from a youngster like yourself.#Overflow, possibly not fixed yet
 そんな言葉を返されたんでは、|甘えたくても甘えられん。=If you answer like that, I cannot indulge in you though I may want to.
 えっ？　あっ……その……|契約も大事だけど、本当はボクは|ホロのためなら――=Eh? Uh... I... Contracts are important too, but for your sake, I--
 たわけ。もう遅い。|会話には|『時』と『流れ』が大切なんじゃ。=Fool. It's too late.|The flow of a conversation is important.
@@ -2468,7 +2468,7 @@
 うっ……。=Ngh...
 次に、夕食には|必ず酒をつけること。=Next, there must be alcohol present at dinner.
 ううっ……。=Nngh...
-食べたことのない菓子や|果物を見つけたら、|どんなに高くても買うこと。=If we come across some sweets or fruits that I have never eaten before, you shall buy them no matter how expensive they are.
+食べたことのない菓子や|果物を見つけたら、|どんなに高くても買うこと。=If we come across sweets or fruits I have never eaten before, you shall buy them no matter how expensive they are.#Overflow
 うううっ……。=Nnngh...
 それから――=After that--
 ホロは延々と条件を並べあげた。|いくらなんでも、|そんなに……無理だよ……。=Holo listed condition after condition. Regardless of how many there actually were, it was just... impossible.
