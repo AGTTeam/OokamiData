@@ -535,7 +535,7 @@
 特産品　宝石細工=Special: Gemwork
 宝石細工のことならアイマベルグ|で買い付けたほうがいいみたいだ。|あの町の宝石細工は一級品ばかり|だ。|特産品としては申し分ないようだ。=If it’s gemwork you’re after, they say Eimeberg is the place to go. The gemwork in that city is all top-notch. As a local speciality, it leaves nothing to be desired.
 特産品　銀の短剣=Special: Silver Dagger
-銀の短剣といえば、ドルトンクの|特産品として有名らしいよ。|護身用にも装飾品としても使える|から需要も高いらしい。=Doltonkh’s famed for its silver daggers. Because they can be used both for self-defence as well an accessory, demand seems to be high.
+銀の短剣といえば、ドルトンクの|特産品として有名らしいよ。|護身用にも装飾品としても使える|から需要も高いらしい。=Doltonkh’s famed for its silver daggers. Because they can be used both for self-defence as well as an accessory, demand seems to be high.
 特産品　絵画=Special: Painting
 絵画ならタルリッヒが特産品だろ|うな。|美術品なんかの工房も多く品揃え|もいいよ。=When it comes to paintings, Tarlich are experts. It’s home to many different artist workshops, so there’s a good range of them too.
 特産品　竜の脚=Special: Dragon Leg
@@ -632,7 +632,7 @@
 骨董商への情報料=Fee Owed to the Antique Store
 クライシュタインの骨董商に、|銀貨１００００枚を渡さないと|情報を教えてくれない。=You must pay 10,000 silver coins to the antique seller in Kleistein to hear more information.
 年代記作家の探索=Chronicler Search
-昔の話を調べたいのなら、年代記|作家を探してみてはどうか。|年代記作家はその地方の昔話や言|い伝えなども収集して書きとめた|りしているらしい。=If you want to know more about old lore, why not look for a chronicler? Chronicler’s collect and write down local legends and folktales.
+昔の話を調べたいのなら、年代記|作家を探してみてはどうか。|年代記作家はその地方の昔話や言|い伝えなども収集して書きとめた|りしているらしい。=If you want to know more about old lore, why not look for a chronicler? Chroniclers collect and write down local legends and folktales.
 ホロウの住んでた森=Holoh's Forest
 メルス・クリッツに現れた|ホロウと名乗る巨大な狼は、|“古狼の森”と呼ばれる森に|住んでいた。=The giant wolf which appeared in Mels-Kritz and named itself “Holoh” lived in a forest called the “Ancient Forest”.
 アニスに聞いた年代記作家の噂=From the Chronicler Anise
