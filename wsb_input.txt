@@ -479,7 +479,7 @@
 尻尾や耳が生えているのを見ると、|本当に狼の精霊が|取り憑いているのかもしれない。=Judging from her tail and ears, it seems like a wolf spirit might really have possessed her.
 （たしかに荷馬車は魅力的だけど、|　これじゃ、リスクが高すぎる！）=(The cart is appealing for sure, but this is just too risky!)
 （異教徒どころか、|　『異形の者』を|　連れ歩くなんて……）=(A pagan is one thing, but traveling with someone so visibly suspect...)#Pagan was capitalised in the conversation with the shopkeeper, but not here. Should either one be changed? [EMcI]
-（教会に見つかったら、|　言い訳のしようもないよ。|　すぐ火あぶりにされるに違いない）=(If the church finds out, I won't have any excuse. I'll be burnt at the stake for sure.)
+（教会に見つかったら、|　言い訳のしようもないよ。|　すぐ火あぶりにされるに違いない）=(If the Church finds out, I won't have any excuse. I'll be burnt at the stake for sure.)
 さて、ぬしよ。|そろそろ荷馬車の契約の話を|しようかの。=Now then. Shall we discuss the contract for the cart?
 （いや、まだ契約成立じゃない。|　売主が嫌だと言えば、この契約は|　初めから無かったことに……）=(Right, it’s not a done deal yet. The contract said if the client doesn’t like me, it will be as if it never existed.)
 ぬしにとっては|残念なことじゃろうが――=I am afraid that I will have to disappoint you--
@@ -605,8 +605,8 @@
 まず、商品の買いつけで考えるべき|なのは、仕入れた商品を|どの町で売るかということだ。=The first thing to think about when buying a product, is where you are going to sell it.
 目的地の町で『人気の品』に|なっているものを買っておくと|儲けが大きくなる。=If you buy something which is a “popular item” in the town you’re heading to, you can make a big profit.
 人気の品を知るためには、|『地図』に書き込んだ町の情報を|活用するんだ。=To find out which items are popular, use the town information stored in your map.
-たとえば、この村の特産品の|『リンゴ』は、隣村のノーリンで|人気の品になっている。=For example, this village’s famous “Apple” is currently popular in the nearby village of Norlin.
-この村で仕入れるなら|『リンゴ』がいいだろう。=So, if you were going to stock up on a product from this village, “Apple” would be a wise choice.
+たとえば、この村の特産品の|『リンゴ』は、隣村のノーリンで|人気の品になっている。=For example, this village’s famous apples are currently popular in the nearby village of Norlin.
+この村で仕入れるなら|『リンゴ』がいいだろう。=So, if you were going to stock up on a product from this village, apples would be a wise choice.
 それから、たとえ人気の品が|わからなくても空荷で旅をするのは|やめたほうがいい。=And, even if you don’t know what the popular item is, it’s better not to travel with an empty cart.
 徒歩だと自分の体力を削らなければ|商品を運べないけれど、|荷馬車なら気にしなくていいからな。=On foot, you can’t carry products without it wearing away at your energy...>>but you don’t have to worry about that with a cart.
 何か売れる商品を|持っていないことには、|儲けるチャンスもゼロだ。=Think of it like this;|You have no chance of making money if you have nothing to sell.
@@ -789,7 +789,7 @@
 わっちは麦に宿る狼じゃと|初めて会ったときに言ったろう？=I am the wolf who lives in wheat.|Did I not say that when we met?
 なあ、ぬしよ。わっちはな。|何百年もの間、ここの麦畑に宿って|実りを見守ってきたのじゃ。=You know, I have lived in these wheat fields for hundreds of years, watching over the crop.
 途中からはいやいやじゃったが、|それでも手を抜くことなど|ありんせん。=Over time my eagerness to do so faded, but never did I do my job neglectfully.
-それなのに、この村の連中ときたら|教会を恐れて、もうわっちは|用なしじゃとか言いおった。=And yet, they became fearful of the church and declared I was not needed.
+それなのに、この村の連中ときたら|教会を恐れて、もうわっちは|用なしじゃとか言いおった。=And yet, they became fearful of the Church and declared I was not needed.
 そもそも、わっちのことを|信じる者など、ここ何十年の間、|どんどん減るばかりで――。=Not to mention that the number of people who believe in me has been steadily declining for decades...
 ホロは酔っ払ってるんだと思った。|悪魔憑きなのは確かだけれど、|この話はとても信じられなかった。=It seemed that Holo was drunk.|I had no doubt that she was possessed by something...>>but this story was just too far-fetched to believe.
 なんじゃ、ぬしは。|またわっちの話を疑っておるのか。=What’s with that look?|You still doubt my words?
@@ -815,7 +815,7 @@
 もう、この村に|しばられることもありんせん。=I am no longer bound to this village.
 わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am... so tired of being alone.
 敬われて、遠ざけられて、|恐れられるのは、もう……。=Of being revered, feared, kept at a distance...
-ホロはそのまま|酔いつぶれてしまった。=And just like that, she had passed out, drunk.
+ホロはそのまま|酔いつぶれてしまった。=And just like that, she passed out, drunk.
 ボクは正体をなくしたホロを|宿屋まで担いでいくはめになった。=I ended up having to carry the unconscious Holo back to the inn.
 ……ぬしよ……。|水を持ってきてくりゃれ。=...Mm...|Could you bring me some water...?
 うっぷ！|気持ちが……うっぷ！=Ugh!|I feel... Uogh!
@@ -951,7 +951,7 @@
 はい、そのつもりなんです。=Yes, that’s the plan.
 いいえ、考えてませんよ。=No, I don’t think so.
 だったら、いまは無理ですよ。|東のほうに行く街道は封鎖されてて、|誰も通れないんですから。=Then, you’d be best abandoning that idea. The eastern road is blocked off,|no one is allowed through.
-なんでも、|教会が依頼した聖騎士団が|街道を封鎖してるってことですよ。=I heard that the church sent a group of Holy Knights to block off the road.
+なんでも、|教会が依頼した聖騎士団が|街道を封鎖してるってことですよ。=I heard that the Church sent a group of Holy Knights to block off the road.
 早く通れるようにならないと、|いろいろ不便で|困るんですけどねえ……。=If they don’t unblock it soon, it’s going to cause all sorts of trouble...
 あら、そうなんですか。|変なことを聞いちゃって、|ごめんなさい。=Oh, is that so?|Sorry for asking something so strange.
 注文は、なんになさいます？=What would you like?
@@ -962,7 +962,7 @@
 うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’re getting a nose for this, too.
 ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special. Got it.|I’ll bring them out to you shortly!
 !FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb
-教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The church's doors are always open. Did thou come to receive God’s blessing?
+教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Did thou come to receive God’s blessing?
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
 もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou are concerned about what ordeals may fall on this town, have no fear.#qc
 近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put rights to them all.
@@ -1206,9 +1206,9 @@
 そう。お探しの|年代記作家というわけだ。=Yes. I am the chronicler that you were looking for.
 私は詩を作るために|いろいろ昔話を調べていてね。=I have been researching old tales in order to write songs.
 主に異端と呼ばれる物語について、|本を集めたりしている。=And my collection consists of mainly books of so-called heretic legends.
-歌には、浪漫が必要なんだよ。|教会のお仕着せのお話を歌にしても|面白くも何ともないだろう？=Songs require a little romanticism.|Don’t you think church-sanctioned stories would make for boring songs?
+歌には、浪漫が必要なんだよ。|教会のお仕着せのお話を歌にしても|面白くも何ともないだろう？=Songs require a little romanticism.|Don’t you think Church-sanctioned stories would make for boring songs?
 それで酒場では|話せなかったんですね？=So that’s why you couldn’t tell us at the tavern?
-わざわざ教会に|目をつけられることもないからね。=I’d rather avoid drawing the attention of the church if possible.
+わざわざ教会に|目をつけられることもないからね。=I’d rather avoid drawing the attention of the Church if possible.
 そうですよね。|それで『古狼の森』について|書いてある物語はありますか？=I know the feeling.|So, do you have anything on the “Ancient Forest”?
 ふむ、『古狼の森』ね。|聞いたことはあるような気がする。|北のほうの伝承だったはずだ。=Hm, the “Ancient Forest”, is it?|That does ring a bell. I think it was in a legend form the north.
 ああ、この本だ。|ええっと、|たしかこの辺りに………これだ。=Yes, this is the book.|Let’s see, it should be... here it is.
@@ -3604,7 +3604,7 @@
 ありがとうございます。|それでは配当をお楽しみに|お待ちくださいませ。=Thank you.|Please do look forward to seeing the results.
 かしこまりました。|それでは配当をお楽しみに|お待ちくださいませ。=I understand.|Please do look forward to seeing the results.
 ありがとうございます。|それでは配当をお楽しみに|お待ちくださいませ。=Thank you.|Please do look forward to seeing the results.
-結果は、@<number1@>日後に|お知らせいたします。=You should expect to see the in @<number1@> days.
+結果は、@<number1@>日後に|お知らせいたします。=You should expect to see the results in @<number1@> days.
 …………。=......
 おや、何を浮かない顔を。|所詮、世の中、金でございます。=Oh, what’s with that gloomy look? Money solves all life’s problems, you know.
 それに、私どもが|買占めせずとも|別の誰かがするだけでございます。=Besides, even if I didn’t buy everything up, there’s no doubt that someone else would.
@@ -3647,7 +3647,7 @@
 ……商人たるもの、|神様へのお祈りは|一日も欠かすことはありません。=...Being a merchant, not a day goes by that I don’t thank God for my blessings.
 それは、よかった。|敬虔な貴方に、|神の祝福あれ。=Marvelous.|God smiles on the faithful.
 ええと、人並みには……。=Erm, it’s about average...
-（とは言ったものの、教会の人に|　ホロのことがバレたら、|　怒られるだろうな……）=(That said, if the church ever found out about Holo, they’d be hell to pay...)
+（とは言ったものの、教会の人に|　ホロのことがバレたら、|　怒られるだろうな……）=(That said, if the Church ever found out about Holo, they’d be hell to pay...)
 そうですか……。|まあ、よろしいでしょう。|話を続けます。=Is that so...?|Well, no matter. Let’s continue our conversation.
 （……ほっ。ひとまず|　疑われることはなさそうだ）=(...Phew. It looks like he believes me for now.)
 実はですね、今度、教会は|この地方に新しい大聖堂を|建設する事になったのです。=As it happens, the church has decided to build a new cathedral in the area.
