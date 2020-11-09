@@ -962,9 +962,9 @@
 うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’re getting a nose for this, too.
 ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special. Got it.|I’ll bring them out to you shortly!
 !FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb
-教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Did thou come to receive God’s blessing?
+教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Didst thou come to receive God’s blessing?
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
-もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou are concerned about what ordeals may fall on this town, have no fear.#qc
+もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have no fear.#qc
 近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put rights to them all.
 !FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb
 おや、あなたは？|当家に何か御用でしょうか？=Oh, and who might you be?|Do you have business at this estate?
@@ -1261,16 +1261,16 @@
 あの、善意といいますと？=Well, how exactly does one go about showing their good will?
 １口あたり、銀貨「@<number1@>枚」が|善意の相場となっている。|提供してはくれまいか？=An offering of @<number1@> silver is the standard. Wilt thou contribute?
 いま、この町は|大変な苦境の中にある。=Our town is in the middle of a great crisis.
-それを脱するために、|なんじも善意を|提供してはくれまいか？=Wouldst thou offer your good will to help us overcome?
+それを脱するために、|なんじも善意を|提供してはくれまいか？=Wouldst thou offer thy good will to help us overcome?
 【 銀貨@<number1@>枚 】を寄付する=Donate @<number1@> silver
-申し訳ないが、|善意の相場に足りないようだ。|気持ちだけ、受け取っておこう。=I'm sorry, but it seems thou are lacking the usual offering.|We shalt take only thy kind intentions, with gratitude.
+申し訳ないが、|善意の相場に足りないようだ。|気持ちだけ、受け取っておこう。=I'm sorry, but it seems thou art lacking the usual offering.|We shall take only thy kind intentions, with gratitude.
 神はいつでも、|なんじらの行いを見守っているのだ。=The Lord is ever-watching over us all.
 銀貨@<number1@>枚　支払った！=Spent @<number1@> silver!
 なんじの行いに|神も喜んでいるだろう。=The Lord will surely be pleased by thy actions.
 なんじの善意は|必ずや、この町のために役立てよう。=Thy good will shall serve the betterment of this town.
 ええ、お願いします。|ところで、少し聞きたいことが|あるのですが、よろしいですか？=It’s my pleasure.|By the way, do you mind if I ask you a few questions?
 こちらの教会はかなり|大きいようですが、年代記作家を|雇ったりはしてませんか？=From what I’ve seen, this is quite the large church you have. Do you happen to employ any chroniclers?#Overflow, removed break
-年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=Chroniclers?|A most unusual request. Why doth thou seek one?
+年代記作家？|珍しいことを聞くものだ。|なぜ、そんなことを？=Chroniclers?|A most unusual request. Why dost thou seek one?
 実は、ボクの依頼主が|自分の故郷を探しています。=To tell you the truth, my client here is searching for her hometown.
 故郷を出たのが|ずいぶん前のことなので、|手がかりがほしいのです。=It's been such a long time since she left that we are having to hunt down clues.
 覚えているのは、|『古狼の森』という地名が|出てくる昔話ぐらいなもので。=All she can remember are old tales which mention the “Ancient Forest”.
@@ -1283,7 +1283,7 @@
 どうしてですか？=Why is that?
 いろいろと悪い噂があるのだ。|かつて異端審問にかけられそうに|なったことがあるぐらいでね。=There are bad rumors about him.|The kind that drew the attention of the inquisition before.
 そのときは、異端と疑われるような|研究は２度としない、ということで|許されたらしい。=He was apparently forgiven after swearing to never again conduct research pertaining to heresy.
-まあ、会いにゆこうにも、|この町から東に行く街道は|封鎖されているから無理だがね。=Well, even if thou did want to meet him, the roads to the east are closed off.
+まあ、会いにゆこうにも、|この町から東に行く街道は|封鎖されているから無理だがね。=Well, even if thou didst want to meet him, the roads to the east are closed off.
 街道が……封鎖？|いったい、どうしてですか？=They’ve been closed off...?|Have you any idea why?
 巨大な狼だか熊だかの化け物を|見たという訴えが、|我が教会に持ちこまれてね。=Our church received reports that there have been sightings of a giant wolf or bear or similar creature.
 巨大な……狼、ですか？=A giant... wolf?
