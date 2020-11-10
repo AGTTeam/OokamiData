@@ -965,7 +965,7 @@
 教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Didst thou come to receive God’s blessing?
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
 もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have no fear.#qc
-近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put rights to them all.
+近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put them all to rights.
 !FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb
 おや、あなたは？|当家に何か御用でしょうか？=Oh, and who might you be?|Do you have business at this estate?
 ボクは旅の行商人です。|こちらは、どなたのお屋敷ですか？|かなり大きなお屋敷ですけど。=I'm a traveling merchant.|May I ask whose residence this is?|It's a mighty large estate.
@@ -1259,12 +1259,12 @@
 それを脱するために|人々の善意を集めているのだ。=We are counting on the good will of the people to help us overcome this test.
 なんじも|善意を提供してはくれまいか？=Wouldst thou also make a display of good will?
 あの、善意といいますと？=Well, how exactly does one go about showing their good will?
-１口あたり、銀貨「@<number1@>枚」が|善意の相場となっている。|提供してはくれまいか？=An offering of @<number1@> silver is the standard. Wilt thou contribute?
+１口あたり、銀貨「@<number1@>枚」が|善意の相場となっている。|提供してはくれまいか？=An offering of @<number1@> silver is the|standard. Wilt thou contribute?#Early line break in case of very large number. For 15000, the first sentence just fits the width of the box.
 いま、この町は|大変な苦境の中にある。=Our town is in the middle of a great crisis.
 それを脱するために、|なんじも善意を|提供してはくれまいか？=Wouldst thou offer thy good will to help us overcome?
 【 銀貨@<number1@>枚 】を寄付する=Donate @<number1@> silver
-申し訳ないが、|善意の相場に足りないようだ。|気持ちだけ、受け取っておこう。=I'm sorry, but it seems thou art lacking the usual offering.|We shall take only thy kind intentions, with gratitude.
-神はいつでも、|なんじらの行いを見守っているのだ。=The Lord is ever-watching over us all.
+申し訳ないが、|善意の相場に足りないようだ。|気持ちだけ、受け取っておこう。=I'm sorry, but it seems thou art lacking|the usual offering. We shall take only|thy kind intentions, with gratitude.
+神はいつでも、|なんじらの行いを見守っているのだ。=The Lord is ever watching over us all.
 銀貨@<number1@>枚　支払った！=Spent @<number1@> silver!
 なんじの行いに|神も喜んでいるだろう。=The Lord will surely be pleased by thy actions.
 なんじの善意は|必ずや、この町のために役立てよう。=Thy good will shall serve the betterment of this town.
@@ -1291,11 +1291,11 @@
 とはいえ、実際に|無残な姿で見つかった旅人の死体が|いくつもあるのだ。=Whatever the case may be, the fact we discovered the ruthlessly savaged corpses of travelers remains.
 となると、原因をつきとめ、|化け物がいるなら退治するしかない。=Hence, our only option is to determine the source and eliminate whatever beast lies behind it.
 そのため、教会のほうで|聖騎士団に依頼をして|東の街道を封鎖しているのだ。=To that end, our church contacted the Holy Knights and had the road closed.
-なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=Until we remedy the problem, the road shalt remain so.
+なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=Until we remedy the problem, the road shall remain so.
 神父と話す=Talk to the Priest
 東の街道に出るという、|巨大な狼だか熊だかの化け物を|退治するまでは街道を封鎖している。=The eastern roads will remain closed until we eradicate the monstrous giant wolf or bear which stalks them.
 野生の生き物かもしれんし、|異教徒どもの|あやしげな妖術かもしれない。=We don’t know whether it is simply a wild animal or the work of those accursed heretic's dark magick.
-聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights reach a conclusion in their investigation, the eastern road shalt remain blocked.
+聖騎士団が調査をして|なんらかの結論が出るまでは、|街道の封鎖を解くことはない。=But until the Holy Knights reach a conclusion in their investigation, the eastern road shall remain blocked.
 ――ぬしよ。|先ほどの神父の話に出てきた|化け物とやらをどう思うかや？=--Say...|What do you make of this monster the priest mentioned?
 もしかすると、|わっちの仲間かもしれんの。=It could be one of my kin.
 もし、そうだとしたら……|わっちはなんとしても|会いにゆきたい。=If it is...|I wish to go there and meet them.
