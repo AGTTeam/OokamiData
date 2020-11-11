@@ -357,7 +357,8 @@
 遠吠えもかなり離れたところから|聞こえてくるだけだ。=The noise I heard must have come from somewhere far away.
 不思議と、|ボクは恐怖を感じなかった。=Strangely enough, I wasn’t frightened.
 それよりも何か悲しげな遠吠えだと|感じていた。=Somehow, the howling had seemed so sad.
-それからしばらくの間、|ボクは警戒を続けた。=I kept watch for a while after that,だけど、その後は遠吠えが|聞こえることもなく、|ボクは焚き火のそばで眠りについた。=but I didn’t hear any more noises, and soon fell asleep by the fire.
+それからしばらくの間、|ボクは警戒を続けた。=I kept watch for a while after that,
+だけど、その後は遠吠えが|聞こえることもなく、|ボクは焚き火のそばで眠りについた。=but I didn’t hear any more noises, and soon fell asleep by the fire.
 翌日の夕方近くになって、|ボクはようやくミランドの村に|たどり着いた。=Early evening the next day, I finally came upon the town of Miland.
 たしかに塩の目方（めかた）は|約束通りだった。=Indeed, this is the amount we agreed on.
 ほら、これが塩の代金だ。|銀貨で払うよ。=Here is your payment for the salt in silver coins.
@@ -2719,6 +2720,8 @@
 すごくいい印象を与えたようだ！=
 すごくいい印象を与えたようだ！=
 ちょっぴり|いい印象を与えたようだ！=
+ちょっとハズしちゃったみたい……=
+テストがはじまるよ～。=
 ジャンプのテスト！=
 名前タブ消去。=
 キャラ消去。=
