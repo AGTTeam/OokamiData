@@ -615,13 +615,13 @@
 マールケで丸儲け？=Mahlke is Profitable?
 マールケの町で今、物価が上って|るみたいだわ。|商品なんかも通常の１．２倍まで|値段が上ってるんですって。|３週間くらいは売りに走ろうかな。=In Mahlke village, prices are on the up. They’ve risen to about 1.2x the norm right now. I’m thinking that it seems like a good time over the next 3 weeks to rush there and sell things off.
 木材が格安？=Lumber is Cheap?
-ナインドルハの木材が格安で買い|付けられるって話だのう。|商品が飽和していて通常の半値位|の値段らしいのう。|２５日間位は得出来るだろうのう。=Rumor has it that Neindolha’s lumber is going for cheap at the minute. They say the market was saturated so merchants are trying to entice people to buy by reducing it to half price. Looks like the offers stands for the next 25 days.
+ナインドルハの木材が格安で買い|付けられるって話だのう。|商品が飽和していて通常の半値位|の値段らしいのう。|２５日間位は得出来るだろうのう。=Rumor has it that Neindolha’s lumber is going for cheap at the minute. They say the market was saturated so merchants are trying to entice people to buy by reducing it to half price. Looks like the offers stands for the next 25 days.#Overflows
 金細工が良い感じ？=A Good Feeling About Goldwork?
 ナインドルハの金細工が良い値段|で取引されてるみたいだ。|今なら１．３倍程度の値段で売れ|るって。|ひと月以内は売りチャンスだろう。=Neindolha’s goldwork seems to be going for a good price lately. It’s selling for 1.3x the norm. The next month is a golden opportunity to get selling.
 オリーブオイルが安い？=Olive Oil is Cheap?
 ヴィンヘンではオリーブが豊作だっ|たこともあってオリーブオイルの|価格が１／３に下がったそうだ。|２５日程度は買い付けのチャンス|かもな。=I heard that the price of olive oil in Vinchen has fallen by a third thanks to a great harvest. The best time to buy would be within the next 25 days.
 キャビア不足で？=Caviar Shortage?
-スウィージの町では今空前のキャ|ビアブームらしいよ。|ひと月は３割増しの値段で売れるっ|て話だから商品を持っているなら|行ってみてはどうかな？=It looks like the village of Suize is in the middle of an unprecedented caviar boom right now. Rumor has it that for the next month you can sell it off with a 30% increase in price, so if you have some hanging around, why don’t you go check it out?
+スウィージの町では今空前のキャ|ビアブームらしいよ。|ひと月は３割増しの値段で売れるっ|て話だから商品を持っているなら|行ってみてはどうかな？=It looks like the village of Suize is in the middle of an unprecedented caviar boom right now. Rumor has it that for the next month you can sell it off with a 30% increase in price, so if you have some hanging around, why don’t you go check it out?#Overflows
 契約の内容=Contract Details
 売主ホロの指示に従い、荷馬車の|代金を銀貨２０００枚として|返済する。|ホロを来年の８月３０日中に|指定された場所まで連れてゆく。=Following the wishes of the client, Holo, the cost of the cart shall be repaid as 2,000 silver coins. Before August the 30th of the following year, she is to be delivered to the designated location.
 シュミットとの約束=Promise to Schmidt
