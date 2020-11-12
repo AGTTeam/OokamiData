@@ -83,7 +83,7 @@
 アイコンをタッチすると、町情報を確認できます。|赤・・・知っている町　青・・・現在位置=Check town details by touching the icon.|Red: Discovered Town.  Green: Current Location.
 町の販売品と人気の品を確認できます。|数字は販売品と人気の品の平均価格です。=Check the town's items for sale and the popular items.|The numbers displayed are the average prices of the items.# for sale and the popular items.
 クリアデータをセーブします。=Saving the completed data.
-「つづきから」を選びクリアデータの|あるファイルを選ぶと商品知識を|引き継いだまま、はじめからゲームを|プレイ出来ます。=If you select a save data file|with “Continue”, you can continue playing|from the beginning with your acquired skills intact.#Overflow
+「つづきから」を選びクリアデータの|あるファイルを選ぶと商品知識を|引き継いだまま、はじめからゲームを|プレイ出来ます。=If you select a save data file|with “Continue”, you can|continue playing from the|beginning with your acquired|skills intact.#Overflow
 Ｘボタンで会話画面のメッセージを|早送りできます。=You can speed up conversations|by using the X button.
 LボタンとRボタンでＣＧをスクロールさせられます。=You can scroll through the CG|with the L and R buttons.
 サムネイルをタッチすると上画面にＣＧが表示されます。=You can display the CG on the|upper screen by touching the thumbnail.
