@@ -99,6 +99,13 @@
 現在は……、おお、|『金の切れ目は縁の切れ目』の|商談が進行しているようですな。=At current... Ah, it seems your business with the “No Money, No Way” is ongoing, correct?
 現在は……、おお、|『お菓子開発競争』の|商談が進行しているようですな。=At current... Ah, it seems your business with the “Confectionary Contest” is ongoing, correct?
 現在は……、おお、|『海千山千』の|商談が進行しているようですな。=At current... Ah, it seems your business with “A Slippery Fellow” is ongoing, correct?
+現在は……、おお、|『スランプの芸術家』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with the “Art Block” is ongoing, correct?
+現在は……、おお、|『他人の不幸は砂糖味』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “Their Sweet Suffering” is ongoing, correct?
+現在は……、おお、|『飢饉発生？』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “A Famine?” is ongoing, correct?
+現在は……、おお、|『教会からの誘い』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “An Invite From The Church” is ongoing, correct?
+現在は……、おお、|『砦づくり』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “Building a Stronghold” is ongoing, correct?
+現在は……、おお、|『時は金なり』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “Time is Money” is ongoing, correct?
+現在は……、おお、|『お菓子開発競争』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with the “No Money, No Way” is ongoing, correct?
 また儲け話を聞いたら、|商館に来てね。|じゃあ、またね～！=If you hear any more interesting rumors, be sure to come by the trading house again.|Well, ‘till next time～!
 おにーさんから預かったのは|銀貨@<trade_d@>枚って聞いたけど|どうだったのかな？=I heard that they received @<trade_d@> coins|from you sir, but I wonder what happened|to it?
 はい！|これ、取引の結果だよ！=Oh, right!|Here are the results of your investment!
@@ -1201,7 +1208,7 @@
 ええ、貴女の言う通り。|どうしてわかったのかな？=Yes, it's just as you say.|How did you know?
 ぬしの手には|インクの匂いが染みついておる。=The smell of ink just permeates from your fingers.
 常日頃から|書き物でもしていないかぎり、|そんなに匂わんからの。=Unless you wrote on a regular basis, it would not be so strong.
-なるほどね。今度からは、|指先まで香水をつけることにしよう。=I see. I’ll make sure to perfume eveFn my fingertips from now on.
+なるほどね。今度からは、|指先まで香水をつけることにしよう。=I see. I’ll make sure to perfume even my fingertips from now on.
 どういうこと!?|もしかすると、この人が……。=What’s going on?|Could you be...
 そう。お探しの|年代記作家というわけだ。=Yes. I am the chronicler that you were looking for.
 私は詩を作るために|いろいろ昔話を調べていてね。=I have been researching old tales in order to write songs.

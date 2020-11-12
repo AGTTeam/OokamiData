@@ -380,7 +380,7 @@
 町情報　ユーベル=Town Information: Yubel
 シュリンケルの町の近くにある|鉱山を抜けていくとユーベルと|呼ばれる小さな村がある。=Past the mines near Schrinkel is a small village called Yubel.
 海鮮料理人対決！=Seafood Chef Battle!
-近頃メリンツで貝料理と魚料理で|料理人同士が対決してるって噂だ。|どちらかの食材への投資の話があ|るようだから、３０日以内にメリ|ンツの商館へ行ってみるといいよ。=Rumor has it that the cooks in Melintz are competing over shellfish and fish dishes. There seems to be some talk about investing in one of the ingredients, so I'd suggest going to the trading house in Melintz within the next 30 days.#This line is too long and overlaps with the date at the end
+近頃メリンツで貝料理と魚料理で|料理人同士が対決してるって噂だ。|どちらかの食材への投資の話があ|るようだから、３０日以内にメリ|ンツの商館へ行ってみるといいよ。=Rumor has it that the cooks in Melintz are competing over shellfish and fish dishes. You might be able to invest in one of the ingredients if you go to the trading house in Melintz within the next 30 days.#Untested line length change
 “海鮮料理人対決！”の話=“Seafood Chef Battle!" Rumor
 最近噂のメリンツの海産料理人対|決の話だけど、料理人の腕として|は、貝料理人の方が上だって聞い|たよ。=About the recent rumor regarding the Seafood Chef Battle, I heard that the shellfish chefs are the ones with all the skill.
 ねえねえ？知ってる？メリンツの|海鮮料理対決。|魚料理人のほうは「幻の高級魚」|で勝負するみたいだけど、高そう|だし本当に美味しいのかしらね？=Hey, hey! Did you hear? The fish cooks are planning to compete with a super rare high-quality fish. It’s expensive all right, but does it really taste any good?
