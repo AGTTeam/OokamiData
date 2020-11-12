@@ -455,8 +455,8 @@
 ヴァルアリーの商館に融資を募っ|てる商人が来ているようだね。|金鉱についての話みたいだったよ。|急ぎの話みたいだから３０日以内|に商館を訪ねてみたらどうだい？=There’s a merchant asking for financing help at the trading house in Valerie. Something to do with a gold mine, apparently. He seemed to be in quite a hurry, so you should probably head to the trading house within the next 30 days.
 “金の切れ目は縁の切れ目”の話=“No Money, No Way" Rumor
 ヴァルアリーの融資の噂は知って|るかい？|何でも金鉱が乗っ取られそうだか|ら融資して欲しいってことらしい。|融資額次第では儲けが違いそうだ。=Have you heard the news about the guy looking for a loan in Valerie? Apparently, he’s asking for anything he can get to stop the gold mine being taken over. The profit’s going to depend on the amount you put in, though.
-商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|金鉱自体は元の所有者の方が有利|だから融資は大口でも小口でも儲|かるだろう。あとはお金次第さ。=Did ya hear about the merchant looking for a loan? It’s a rumor going around in Valerie. Since the gold mine is gonna be more lucrative in the hands of the original owner, you can make a profit whether ya give a small or large loan. It all comes down to money.
-ヴァルアリーでの融資の話、俺の|手元に銀貨があれば大きく融資し|てやって恩をきせてやるのにな。|銀貨は少しでも恩は恩になるんだ|けどな。='Bout the loan in Valerie, if I had any money to hand, I’d loan him a large amount and put him in my favour. Even a few coins is a debt, a debt which he’ll have to pay back.
+商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|金鉱自体は元の所有者の方が有利|だから融資は大口でも小口でも儲|かるだろう。あとはお金次第さ。=Did ya hear about the merchant looking for a loan in Valerie? Since the gold mine is gonna be more lucrative in the hands of the original owner, you can make a profit whether ya give a small or large loan. It all comes down to money.
+ヴァルアリーでの融資の話、俺の|手元に銀貨があれば大きく融資し|てやって恩をきせてやるのにな。|銀貨は少しでも恩は恩になるんだ|けどな。='Bout the loan in Valerie, if I had any money to hand, I’d loan him a large amount and put him in my favor. Even a few coins is a debt, a debt which he’ll have to pay back.
 ヴァルアリーの融資の噂は知って|るかい？|何でも金鉱が乗っ取られそうだか|ら融資して欲しいってことらしい。|融資してももう手遅れだろうがな。=Have you heard the news about the guy looking for a loan in Valerie? Apparently, he’s asking for anything he can get to stop the gold mine being taken over. Even if he gets the money, it’s too late now.
 商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|きっと誰かが大金を貸してやらな|いと金鉱を失うことになるだろう。|だが投資する人は少ないだろうよ。=Did ya hear about the merchant looking for a loan? It’s a rumor going around in Valerie. No doubt if he doesn’t get a large sum of money, he’s gonna lose the gold mine. But, whose gonna lend him anything like that?
 ヴァルアリーでの融資の話、俺の|手元に銀貨があっても融資はしな|いさ。|あいつには昔煮え湯を飲まされた|からな、いい気味さ。='Bout the loan in Valerie, even if I had the money to hand, I wouldn’t give him nuffin. That guy betrayed me once before, so it feels good to watch ‘im get a taste of his own medicine.
@@ -615,13 +615,13 @@
 マールケで丸儲け？=Mahlke is Profitable?
 マールケの町で今、物価が上って|るみたいだわ。|商品なんかも通常の１．２倍まで|値段が上ってるんですって。|３週間くらいは売りに走ろうかな。=In Mahlke village, prices are on the up. They’ve risen to about 1.2x the norm right now. I’m thinking that it seems like a good time over the next 3 weeks to rush there and sell things off.
 木材が格安？=Lumber is Cheap?
-ナインドルハの木材が格安で買い|付けられるって話だのう。|商品が飽和していて通常の半値位|の値段らしいのう。|２５日間位は得出来るだろうのう。=Rumor has it that Neindolha’s lumber is going for cheap at the minute. They say the market was saturated so merchants are trying to entice people to buy by reducing it to half price. Looks like the offers stands for the next 25 days.#Overflows
+ナインドルハの木材が格安で買い|付けられるって話だのう。|商品が飽和していて通常の半値位|の値段らしいのう。|２５日間位は得出来るだろうのう。=Rumor has it that Neindolha’s lumber is going for cheap. They say the market was saturated so merchants are trying to entice people to buy by reducing it to half price. Looks like the offers stands for the next 25 days.
 金細工が良い感じ？=A Good Feeling About Goldwork?
 ナインドルハの金細工が良い値段|で取引されてるみたいだ。|今なら１．３倍程度の値段で売れ|るって。|ひと月以内は売りチャンスだろう。=Neindolha’s goldwork seems to be going for a good price lately. It’s selling for 1.3x the norm. The next month is a golden opportunity to get selling.
 オリーブオイルが安い？=Olive Oil is Cheap?
 ヴィンヘンではオリーブが豊作だっ|たこともあってオリーブオイルの|価格が１／３に下がったそうだ。|２５日程度は買い付けのチャンス|かもな。=I heard that the price of olive oil in Vinchen has fallen by a third thanks to a great harvest. The best time to buy would be within the next 25 days.
 キャビア不足で？=Caviar Shortage?
-スウィージの町では今空前のキャ|ビアブームらしいよ。|ひと月は３割増しの値段で売れるっ|て話だから商品を持っているなら|行ってみてはどうかな？=It looks like the village of Suize is in the middle of an unprecedented caviar boom right now. Rumor has it that for the next month you can sell it off with a 30% increase in price, so if you have some hanging around, why don’t you go check it out?#Overflows
+スウィージの町では今空前のキャ|ビアブームらしいよ。|ひと月は３割増しの値段で売れるっ|て話だから商品を持っているなら|行ってみてはどうかな？=The village of Suize is in the middle of an unprecedented caviar boom right now. Rumor has it that for the next month you can sell at a 30% price increase, so if you have some hanging around, why don’t you go check it out?
 契約の内容=Contract Details
 売主ホロの指示に従い、荷馬車の|代金を銀貨２０００枚として|返済する。|ホロを来年の８月３０日中に|指定された場所まで連れてゆく。=Following the wishes of the client, Holo, the cost of the cart shall be repaid as 2,000 silver coins. Before August the 30th of the following year, she is to be delivered to the designated location.
 シュミットとの約束=Promise to Schmidt
