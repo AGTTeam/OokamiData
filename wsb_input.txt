@@ -512,7 +512,7 @@
 ならば、おいおい|調べてゆくしかないじゃろう。|それも、ぬしの仕事じゃ。=Then, we shall have to investigate piece by piece. That is also part of your job.
 ええっ!?=Huh!?
 ボクは驚きながらも、|なるほどそういうことだったのかと|納得していた。=While it had caught me off guard, I came to understand the rationale behind it.
-目的地を口頭で告げる、と書いて|あった裏には、『目的地が不明確』|という事情があったのだ。=That the contract had stated the destination would be conveyed in person, meant it was in fact “undetermined”.
+目的地を口頭で告げる、と書いて|あった裏には、『目的地が不明確』|という事情があったのだ。=That the contract had stated the destination would be conveyed in person, meant it was in fact, “undetermined”.
 それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how unexperienced I am that I hadn’t noticed it.#Should this be "inexperienced" - a more common word? [EMcI]
 ――さて、|これからどうするのかや？=--Well, what shall we do with you?
 とりあえず、|わっちは腹が減った。|何か食べさせてくりゃれ。=For the time being, I find myself peckish. Won’t you get me something to eat?
@@ -608,7 +608,7 @@
 !FILE:event/ev_act/act_090_tut2_ichiba.wsb
 やあ、ここだよ。=Hey, over here!
 おはようございます。=Good morning.
-さっそくだけど、|売り買いの基本の話を|するとしようか。=Then, let’s get straight to it! I’ll go over the basics of buying and selling.
+さっそくだけど、|売り買いの基本の話を|するとしようか。=Indeed, let’s get straight to it! I’ll go over the basics of buying and selling.
 まず、商品の買いつけで考えるべき|なのは、仕入れた商品を|どの町で売るかということだ。=The first thing to think about when buying a product, is where you are|going to sell it.
 目的地の町で『人気の品』に|なっているものを買っておくと|儲けが大きくなる。=If you buy something which is a “popular item” in the town you’re heading to, you can make a big profit.
 人気の品を知るためには、|『地図』に書き込んだ町の情報を|活用するんだ。=To find out which items are popular, use the town information stored in your map.
@@ -639,9 +639,9 @@
 まずはデッセルの村だな。|あそこで今年の麦を|仕入れるつもりなんだ。=To Dessel.|I plan to get some of this year's wheat.
 じゃあ、またな。|豊穣の女神さんも、ごきげんよう。=Farewell, then. And to you as well, Ms. Harvest God.
 デッセルか。=Dessel, hm?
-知ってるの、ホロ？=You know it, Holo?
-ふん。よく知っとる。|おそらく村人たちよりも|ずっとずっとな。=Very well, in fact.|Much more than the current dwellers,|I wager.
-さてと……。|何を仕入れようかな？=Well, then.... What should I buy?
+知ってるの、ホロ？=You know of it, Holo?
+ふん。よく知っとる。|おそらく村人たちよりも|ずっとずっとな。=Very well, in fact.|Much more than the current dwellers|I wager.
+さてと……。|何を仕入れようかな？=Well then.... What should I buy?
 　|　　　―　商品を買うには　―=　|<<- Buying Goods -
 市場では商品の売買ができます。|町を行き来して交易をおこない、|お金を増やしていきましょう。=You can buy and sell goods in the marketplace. Travel around and|trade to earn money.
 商品は、店の商品棚に並んでいます。|商品の購入は、下画面で行います。=Goods are put on a store’s shelf. You can buy them using the lower screen.
@@ -686,7 +686,7 @@
 （ってことは、やっぱり|　からかいたいから、|　ボクを選んだんじゃ……）=(Meaning, she did just choose me so she’d have someone to make fun of...)
 ところで、ぬしは祟（たた）りを|気にしておったのに、なんで|山の神がいる道を通ったんじゃ？=By the way, if you are so afraid of being cursed, why did you take the mountain path previously?
 もしかすると、本心では|神など恐れていないのかや？=Maybe you are not scared of the gods after all?
-そういうわけじゃないよ。|神様が本当にいるかは知らないけど、|あまり関わりあいになりたくない。=That’s not it. I don’t know whether the gods really exist or not, but either way, I’d prefer not to get involved.
+そういうわけじゃないよ。|神様が本当にいるかは知らないけど、|あまり関わりあいになりたくない。=That’s not it. I don’t know whether the gods really exist or not. Either way, I’d prefer not to get involved.
 だけど、あのときは|荷を届ける期限が迫ってたからね。|しかたがなかったんだ。=Although at that time, my delivery deadline was fast approaching so I had no choice.
 ふん。そういうことかや。=Hm. So that’s why.
 そういえば、|あの夜、遠吠えを聞いたよ。|たぶん狼だった。=Which reminds me, I heard something howling that night. It sounded like a wolf.
@@ -719,7 +719,7 @@
 だから群れから|はぐれた狼なのかなって、|そう思った。=That’s why I thought it must have been separated from the rest of its pack.
 ………|…………………。=...|.........
 でも、それは|ボク自身がそう思ってたから、|そう聞こえただけなのかもしれない。=Though, maybe I just thought it sounded so because it reminded me of myself.
-ぬしも？=You’ve felt the same?
+ぬしも？=You feel the same?
 ………………。=.........
 　|　　　―　商品を売るには　―=　|<<- Selling Goods -
 ノーリンについたら|市場で商品を売ってみましょう。=Once in Norlin, try selling your goods at the market.
@@ -783,7 +783,7 @@
 !FILE:event/ev_act/act_140_desel_horo_saikai.wsb
 どいつもこいつも、|本当にわっちのことを忘れおって！|恩知らずどもめ！=To think they really forgot about me!|What ingrates!
 ホロは酒場の隅のほうの|テーブルに１人で座っていた。=Holo was sat alone at a table in the corner of the tavern.
-どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven’t you drunk a bit too much?
+どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven’t you drank a bit too much?
 放っといてくりゃれ！|わっちがしてやったことなど、|無駄だったとぬかしよる。=Leave me be! After all that I did for them, that they would have the impudence to say it was meaningless!
 せめて酒でも飲んで|憂さを晴らさなければ|やっとられんわ。=At least I might drown my sorrows in a pint.#tc
 何をそんなに|ホロが怒っているのかは|正直、よくわからなかった。=To be honest, I had no idea what had gotten Holo so angry.
@@ -853,10 +853,10 @@
 ぬしは、あんまり|商人に向いとらんのではないかや？=Perhaps you are not suited to being a merchant after all..
 ふん。|まさか、こんなにかかるとは|想像もしなかったの。=Hmph.|I never imagined that it would take this long.
 ぬしを選んだわっちの目が|くもっておったということかや。=My eyes must have been blurred to choose someone like you.
-そう言うと、ホロは懐から|１枚の羊皮紙を取り出した。=As she said that, Holo took out a parchment from her pocket.
+そう言うと、ホロは懐から|１枚の羊皮紙を取り出した。=As she said that, Holo took out a peice of parchment from her pocket.
 これが、ぬしに書いてもらった|借金の証文じゃ。=This is the contract for the loan you signed.
 ああ、それをボクに渡してよ。|このお金と引き換えに……=Ah, pass it here.|I’ll exchange you the coins...
-ホロは借用書を|ボクの目の前で破り捨てた。=Holo tore the parchment right before my eyes.
+ホロは借用書を|ボクの目の前で破り捨てた。=Holo tore up the parchment right before my eyes.
 これで、|ぬしの借金はなくなった。=With this, your debt is no more.
 あとは次の秋までに|わっちを故郷に|連れてってくりゃれ。=All that is left is taking me home before next autumn.
 そうすれば、契約通り、|この荷馬車はぬしの物じゃ。=Once you do that, the cart shall be yours, as promised.
@@ -1009,11 +1009,11 @@
 !FILE:event/ev_act/act_180_kottou_kiku.wsb
 いらっしゃいませ。|私どもの店に、|どういった御用向きでしょう？=Welcome to my humble establishment.|How may I be of assistance?
 こんにちは。|こちらでは骨董品を扱ってるという|ことですよね？=Hello.|You sell antiques here, don't you?
-ええ、扱っておりますよ。|どういった物をお探しですか？|美術品？　それとも装飾品ですか？=Yes, that’s right.|What is it that you looking for? Artwork? Or perhaps a decoration?
+ええ、扱っておりますよ。|どういった物をお探しですか？|美術品？　それとも装飾品ですか？=Yes, that’s right.|What is it that you looking for? Artwork? Perhaps decoration?
 いえ、実は少し|お知恵を貸していただければ、と。=Actually, I was hoping that we might borrow your expertise for something.
 装飾本なども手がけてらっしゃると|聞いたものですから。=I heard that you deal with old manuscripts.
 まあ、たしかに美術品として|価値のありそうな本なら|商いますけどね。=Well, it’s true that if a book appears to have artistic merit to it, I buy it.
-古い地名を調べているのです。|『古狼の森』というのですが、|聞いたことはありませんか？=I’m looking for information about old place names, specifically, the “Ancient Forest”. Have you heard of it?
+古い地名を調べているのです。|『古狼の森』というのですが、|聞いたことはありませんか？=I’m looking for information about old region names, specifically, the “Ancient Forest”. Have you heard of it?
 いやぁ、わかりませんな。|私は本の中身には、|まったく興味があませんので。=Nay, can’t say I have.|I’ve never really been much interested in what’s inside the books.
 そういうことを聞きたいなら、|もっと良い相手がいると|思いますけどね。=But if that's what you're after, I can tell you where to find someone who is.
 えっ？|それは、どなたですか？=Huh?|And who might that be?
@@ -6541,7 +6541,7 @@
 あの……ごめん、悪かった！=Um... I’m sorry!
 魚を食べてるとき笑ったの、|怒ってるんだよね？=You’re mad because I laughed at how you ate the fish, right?
 …………。=......
-それとも、ゆうべ寝てるとき|尻尾踏んだから？|やっぱり、あの時起きてたんだ？=Or because I stepped on your tail last night while you were asleep? Did it wake you up, after all?
+それとも、ゆうべ寝てるとき|尻尾踏んだから？|やっぱり、あの時起きてたんだ？=Or because I stepped on your tail last night while you were asleep? Did it wake you up after all?
 …………。=......
 それとも、このあいだ取引先から|貰った蜂蜜菓子、ボク一人で|食べたから？=Or is it because I ate the honey candy that I got from a trading partner the other day all by myself?
 …………。=......
@@ -6550,7 +6550,7 @@
 …………取れた！=...Got it!
 ……取れた、って？=...You got, what?
 魚の骨じゃ。|ずっと、喉に引っ掛かって|おって……=A fish bone.|It was stuck in my throat this whole time...
-まさか、それで黙ってたの？！|怒っていたわけじゃ|なかったんだ……。=What, so that’s why you weren’t talking?! You weren’t angry...
+まさか、それで黙ってたの？！|怒っていたわけじゃ|なかったんだ……。=What? So that’s why you weren’t talking?! You weren’t angry...?
 うむ。|わっちは心の広い狼じゃからな。=Aye. I am a wolf with a large heart, after all.#tc
 ところでぬしよ、先程はあれこれと|聞き捨てならんことを言っておった|ようじゃが……？=Though, it seems like you said a thing or two which I cannot overlook...
 ええと、それは……。=Aaah, that was--
@@ -6843,13 +6843,13 @@
 訊き方を変えるとしようかの。|……ぬしに、夢はあるのかや？=Allow me to rephrase the question.|...Have you any dreams of your own?
 わっちは狼じゃからの。|人の……行商人の夢、というもの|を聞かせてくりゃれ。どうじゃ？=Being a wolf, I want to know more about humans’... about peddlers’ dreams.|Won’t you tell me?
 ええと……、その……。=Well... That’s...
-もっとお金を儲けて、もっと大きな|商売がしたいかなあ……。=To make more money and expand your business, I guess...
+もっとお金を儲けて、もっと大きな|商売がしたいかなあ……。=To make more money and expand my business, I guess...
 これはまた、なんとも漠然とした|夢じゃの……。=Well, if that isn’t quite the vague dream...
 しかし、わっちはそんなぬしが嫌い|ではない。|若い雄らしい、威勢の良い夢じゃ。=However, I don’t dislike that about you.|'Tis the bold dream of a youth.
 じゃが、ぬしはお人好しじゃからな。|人に騙されたり、つけ込まれたり|したことも一度や二度ではなかろう？=But, you are a good man. Surely there have been people who have taken advantage of that and tricked you?
 ……そんな顔をするでない。|図星を指されたことがまるわかり|じゃ。それで商人が務まるのかや？=Don’t make that face. It is clear that I have hit the nail on the head.|Is peddling really a suitable career?
 まあ、よい。ぬしが多少頼りなく|ても、今は一人で旅をしているわけ|ではなかろう？=Well, 'tis fine. Even if you have no need of it, it is not as though you are traveling alone anymore, right?
-いざというといきにはわっちがおる。|ぬしは安心して、手綱を操って|おるがよい。=Should push comes to shove, I will be here. You can continue to take the reins with peace of mind.
+いざというといきにはわっちがおる。|ぬしは安心して、手綱を操って|おるがよい。=Should push come to shove, I will be here. You can continue to take the reins with peace of mind.
 ということで、わっちは|少し荷台で横にならせてもらうかの。|町に着いたら起こしてくりゃれ……。=Well then, I think I shall leave it to you and go and lie down in the back.|Wake me up once we reach town...
 ふむ……。|いかにもぬしらしい、脳天気な答え|じゃの。=Mm...|A light-hearted answer, how very like you.
 じゃがの、わっちはぬしのそういう|ところが気に入った。|素直に答えてくれるところが。=Though I admit, I am drawn to that part of you. The candidness your answers carry.

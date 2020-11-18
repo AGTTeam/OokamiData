@@ -53,7 +53,7 @@
 データを上書きします。=Overwrite data?
 セーブしています。|電源を切らないでください。=Saving...|Do not turn off the console.
 セーブしました。=Game saved.
-セーブされませんが|よろしいでしょうか？=Failed to save.
+セーブされませんが|よろしいでしょうか？=You will lose any unsaved progress.|Continue?
 タイトルに戻りますか？=Return to title?
 セーブしますか=Save game?
 ロードしています。|電源を切らないでください。=Loading...|Do not turn off the console.
