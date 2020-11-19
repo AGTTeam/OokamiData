@@ -116,7 +116,7 @@
 ……ほう、そこの店でごちそう|してくれると申すか！|殊勝な心がけじゃ。=...Ho, you mean to say you’re going to treat me to a meal? A commendable idea.
 じゃ、遠慮なくいただくとするかの。|次の取引もうまく行くとよいな！=Then, I shall gladly accept.|I hope that all your deals go this well!
 ホロに　ごちそうした！|銀貨@<trade_d@>枚　支払った！=Treated Holo!|Spent @<number1@> silver!
-お使いソフィー=Errand-Girl Sophie
+お使いソフィー= Errand-Girl Sophie#The name shows on the left side, where other names are in the middle, i dont know how to fix this
 商談に進む=Proceed to negotiations
 　―　小口で投資　―|　【 銀貨@<trade_a@>枚 】=　―　Small Investment　―|　　　【 @<trade_a@> silver 】
 　―　大口で投資　―|　【 銀貨@<trade_b@>枚 】=　―　Large Investment　―|　　　【 @<trade_b@> silver 】
@@ -520,7 +520,7 @@
 どうやら、荷馬車の契約は|成立したようだな。=Looks like you were able to finalize the contract.
 うむ、手間をかけさせたの。|おかげで助かった。=Mm, although it took some time.|Thank you for your assistance.
 いや、礼はいらないよ。|これで貸し借りなしってことだ。=No need to thank me. This makes us even.
-あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me that that wheat was poor quality, I would’ve made a big loss.
+あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me about how that wheat was poor quality, I would’ve made a big loss.
 !FILE:event/ev_act/act_060_tut1_horo_bunri.wsb
 ほう。ぬしは若いくせに、|なかなか話がわかるの。=My, for one so young, you are quite wise to the world.
 まずは１杯、|飲ませてくれるということかや？=So, we are to start with a drink, are we?
