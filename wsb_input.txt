@@ -462,7 +462,7 @@
 くふ。それにしても、|ぬしは何をそんなに|赤くなっておる。=Heh-heh. I daresay that something has made you turn quite red.
 雌（めす）の裸を見るのは|はじめてかや？|初心（うぶ）じゃのう。=Is this your first time seeing the bare skin of a female? How innocent.
 それで、ぬしは|なんでこんなところにおるんじゃ。=So, what is it that brought you here?
-えっと……ボクは、その、|荷馬車の取引をして……それで。=Um... I made a, er, deal about that cart, you see...
+えっと……ボクは、その、|荷馬車の取引をして……それで。=Um... I made a, er, deal about this cart, you see...
 ほう、ぬしが？=Oh, you did?
 こんなに若い商人だとはの。|さて、どうしたものか。=Quite the young merchant you are.|Now, what shall we do?
 ホロと名乗った少女は、|ボクを値踏みするような目線を|向けてきた。=The girl who called herself Holo looked me up and down as if measuring my worth.#Comma unnecessary, unless you have one after girl as well as Holo, removed [EMcI].
