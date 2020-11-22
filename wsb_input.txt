@@ -763,7 +763,7 @@
 !FILE:event/ev_act/act_130_desel_soncho_kiku.wsb
 おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what can I help you with?
 この村の麦は有名ですからね。|少しお話を聞きたいと思いまして。|今年の出来はどうでしたか？=This village’s wheat is famous, so I was hoping to hear more about it. How was this year’s harvest?
-今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but, in the end, we reaped fine wheat.
+今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but in the end, we reaped fine wheat.
 心配……というと？|天候でも悪かったのですか？=Concerns... you say?|Was the weather bad?
 いえ、そうわけでは|ありませんよ。実はですね……。=No, nothing like that.|You see, actually...
 村長さんの話によると、|豊穣祈願の祭りを今年から|大きく変更したのだという。=According to the village leader, this year’s harvest festival had seen big changes.
@@ -776,7 +776,7 @@
 しかし、無事に麦は実りました。|時代遅れの女神の力など、|たいしたことはないようですな。=But the wheat grew without any trouble.|Looks like the power of that outdated goddess didn’t amount to much after all.
 元々、ここ最近は、ホロのことを|信じている村人も少なくなって|おりましたからね。=Besides, the number of villagers who believe in Holo has been dwindling recently anyway.
 そうでしたか。|麦の出来が良かったのは|何よりでしたね。=I see.|At any rate, I’m happy to hear that the harvest went well.
-ありがとうございます。|ぜひ、この村の麦を|仕入れていってくださいよ。=Thank you.|Please, do buy some whilst you’re here.
+ありがとうございます。|ぜひ、この村の麦を|仕入れていってくださいよ。=Thank you. Please do buy some wheat while you’re here.
 !FILE:event/ev_act/act_130_desel_soncho_kiku_soncho_talk.wsb
 いままで祭っていた|豊穣の女神ホロへの祈りをやめて、|心配していたのですがね。=We stopped praying to the harvest goddess Holo that we had worshipped until now, so we were a bit worried.
 今年も、いままでと同じように|良い麦が実りました。|これで、ひと安心ですよ。=But our wheat this year was as good as any.|It was such a relief.
@@ -784,7 +784,7 @@
 どいつもこいつも、|本当にわっちのことを忘れおって！|恩知らずどもめ！=To think they really forgot about me!|What ingrates!
 ホロは酒場の隅のほうの|テーブルに１人で座っていた。=Holo was sat alone at a table in the corner of the tavern.
 どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven’t you drank a bit too much?
-放っといてくりゃれ！|わっちがしてやったことなど、|無駄だったとぬかしよる。=Leave me be! After all that I did for them, that they would have the impudence to say it was meaningless!
+放っといてくりゃれ！|わっちがしてやったことなど、|無駄だったとぬかしよる。=Leave me be! After all I did for them, that they would have the impudence to say it was meaningless!
 せめて酒でも飲んで|憂さを晴らさなければ|やっとられんわ。=At least I might drown my sorrows in a pint.#tc
 何をそんなに|ホロが怒っているのかは|正直、よくわからなかった。=To be honest, I had no idea what had gotten Holo so angry.
 それでもボクは、|なんとかホロをなだめようと|相づちを打ったりしていた。=But I tried to go along with it, in an attempt to calm her down.
@@ -809,7 +809,7 @@
 この村にずっといたのは、|大昔、この村の青年と|約束したからにすぎん。=I remained here in honor of a promise I made with a youth of the village long ago...
 この村の麦を|良く実らせてくりゃれ、と。=That I would ensure the village’s harvest.
 えっと、|その約束はもういいの？=So, it’s all said and done now?
-充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I worked long and hard enough. I have more than fulfilled my promise.
+充分すぎるほど、|わっちはこの村に尽くした。|約束は充分に果たしんす。=I worked long and hard enough.|I have more than fulfilled my promise.
 そう言って、ホロは黙りこんだ。|話の内容はともかく、ホロの|つらい気持ちは本当だと感じた。=After that, Holo fell silent.|The story aside, her bitter feelings felt genuine.
 くふ。=Heh.
 とはいえ、|村の連中が恩知らずなことも|少しは役に立ったがの。=|Such as it is, the villagers’ ingratitude proved to be quite useful.
@@ -818,7 +818,7 @@
 ほれ。これが|わっちの宿っておる麦じゃ。=Look. This is the wheat I reside in.
 ホロは首から提げている袋を|ボクに見せてくれた。=Holo showed me the pouch that she kept around her neck.
 袋の中には、ひと握りの麦が|詰まっていた。=Inside was a handful of wheat.
-この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=As long as it’s safe, I can go wherever I please.
+この麦が無事である限り、|わっちはどこでも|好きなところに行ける。=As long as it’s safe, I can go wherever|I please.
 もう、この村に|しばられることもありんせん。=I am no longer bound to this village.
 わっちは……な。|もう独りぼっちは嫌なんじゃ。=I am... so tired of being alone.
 敬われて、遠ざけられて、|恐れられるのは、もう……。=Of being revered, feared, kept at a distance...
@@ -875,11 +875,11 @@
 ええ、おかげさまで。=Yes, thanks to you.
 荷馬車の借金も返済できたんで、|行商路のことを聞きにきたんです。=I managed to pay off my debt for the cart, so I thought I’d come to ask about trade routes.
 ほら、前に約束しましたよね。|ほかの地方への行商路のことを|教えてくれるって。=Remember, our promise from before?|You said you'd tell me about doing business in other areas.
-ああ、覚えてるよ。|じゃあ、このヴィンヘンの村から|近くの町に行く道を教えよう。=Yes, I remember.|I'll tell you about getting to other towns from Vinchen.
+ああ、覚えてるよ。|じゃあ、このヴィンヘンの村から|近くの町に行く道を教えよう。=Yes, I remember.|Let me tell you about the towns close|to Vinchen.
 どっちの町も、この辺の村とは|ちがった特産品があるから、|面白い商売ができるはずさ。=Both towns have different specialties to the villages around here, so you can get some interesting deals.
-大きく儲けたいなら、|なるべく|広い地域を回ってみることだな。=If you want to make a big profit, then you should cover as large an area as possible.
+大きく儲けたいなら、|なるべく|広い地域を回ってみることだな。=If you want to make a big profit, then|you should cover as large an area|as possible.
 ノーリンとかミランドからも|行商に都合のいい街道がある。=There are also roads from Norlin and Miland which are suitable for peddling.
-そういう情報は、直接、|それぞれの村の酒場に行って|『噂話』を聞いてみるといい。=For information about those, it’s best to head straight for the tavern in each town and ask about "Rumors".
+そういう情報は、直接、|それぞれの村の酒場に行って|『噂話』を聞いてみるといい。=For information about those, it’s best to head straight for the tavern in each town and ask about the “Rumors".
 近くの村や町の情報は、|酒場の『噂話』で聞けることが|多いからな。=You can often get information about nearby towns and villages from listening to rumors at taverns.
 すぐに情報が入らなくても|小まめに『噂話』を聞きにゆくのが|大事だぞ。=Even if you don’t hear anything right away, it’s important that you keep going back to check.
 前に話を聞いた酒場でも、|時間が経つと新しい『噂話』を|聞けることがあるからな。=That includes returning to taverns you’ve visited before, as they may have new information for you in time.
@@ -896,7 +896,7 @@
 そんなに細かいことを|気にするものではありんせん。=There is no need for one to concern themselves with such trivial matters.#tc
 それはちがうよ、ホロ。|お金に細かくない商人なんて|いないから。=That’s where you’re wrong, Holo.|There’s no such thing as a merchant who isn’t meticulous with his money.
 商人といえども|ぬしは雄のはしくれじゃろ？=A merchant you may be, but first and foremost, you are a male, no?
-わっちのように|かわいい雌に対しては、|細かく言わないのが雄の甲斐性じゃ。='Tis the mark of a proper male to not heed the fine details when dealing with a female as cute as I.
+わっちのように|かわいい雌に対しては、|細かく言わないのが雄の甲斐性じゃ。='Tis the mark of a proper male to not heed the fine details when dealing with|a female as cute as I.
 ホロはぬけぬけと|こんなことを言うけれど、|不思議と許せてしまう。=As audacious as Holo’s statements tend to be, I find them strangely easy to pardon.
 だから、ボクはいつも|ホロにしてやられるんだ。=That’s how she’s got me wrapped around her little finger.
 ――ところで、ぬしよ。|そろそろ、わっちの故郷のことも|考えてもらわんとな。=--Incidentally, it is about time we give some thought to how to reach my birthplace.
@@ -916,7 +916,7 @@
 ………|…………………。=...|.........
 馬鹿にするもんじゃありんせん。|ぬしは嘘をついておる。=Do not take me for a fool.|You are lying.
 わっちの狼の耳は、|人が嘘をついてるかどうか|聞き分けることができるんじゃ。=These ears of mine can discern whether someone is telling a lie.
-この話は本当かもしれないと|ボクは思った。=I did believe at least that much could be true.
+この話は本当かもしれないと|ボクは思った。=I did think that much could be true, at least.
 ホロは妙に鋭いところがあるし、|狼の精霊が入りこんだ悪魔憑きなら、|そういうこともできるかもしれない。=Holo is extremely perceptive, and if possessed by a wolf spirit...>>it wouldn’t be unthinkable that she could do such a thing.
 そんなに怒らないでよ。|別に馬鹿になんかしてないから。=Don't be upset.|I didn't mean to make light of you.
 だけど、ホロの言うことが|本当なら、ホロは狼の姿にも|戻れるってこと？=Still, if you are telling the truth, you should be able to return to wolf form, yes?
@@ -926,7 +926,7 @@
 そんなに、おびえるでない。|生き血とはいえ、|ほんの少しで構わんのじゃから。=You don’t have to look so scared.|A tiny amount of fresh blood will do the trick.
 （この……ホロの言ってることは|　本当なのかな？）=(...Could what she’s saying be true?)
 その顔、|半信半疑といったところかや？=From that look on your face, it seems you are still only half-convinced?
-まったく、ぬしは若いくせに|頭の固い雄じゃの。=My my. For one so young, you are rather set in your ways.
+まったく、ぬしは若いくせに|頭の固い雄じゃの。=My my. For one so young, you are rather bullheaded.
 まあ、ぬしがわっちを何者だと|思っていようと、故郷に連れてゆく|契約が果たされればよい。=Well, it matters not what you think me to be, as long as you fulfil the contract and take me home.
 ぬしに本当の姿を見せたところで、|故郷に帰れるわけでもないしの。=Showing you my true form would not bring us any closer to finding my home.
 それはそうだけど。=I guess you’re right...
@@ -946,11 +946,11 @@
 古い美術品とかを|貴族や王族に売ったりしてるって|言ってた。=He said he sold old art and the like to nobles and royalty. #Surely 'novels' wasn't right?
 本業は雑貨商らしいんだけど、|骨董品は商いが成立したときの|儲けが大きいからね。=His main business is in general goods, but you can make a lot of money on antiques once you get going.
 今では、どっちが本業だか|わからないって笑ってたよ。=He was joking about not knowing what profession to call himself anymore.
-ふむ。それで？=Hm. So?
+ふむ。それで？=Hm... So?
 装飾が施された写本とかも|扱うって話だったから、|昔のことにも詳しいんじゃないかな。=I heard that he also deals in old illuminated manuscripts, so he might know a thing or two about history.
 なるほどの。|それで、その骨董商とやらは|どこにおるんじゃ？=I see.|So where can one find this antique merchant?
-クライシュタインって町で|店をかまえてるって言ってたよ。=He said he has a store over in Kleistein.
-ボクも行ったことない町だけど、|たしか西の海岸地方にあったと思う。=I've never been there myself, but I believe it was somewhere along the west coast.
+クライシュタインって町で|店をかまえてるって言ってたよ。=He said he had a store over in Kleistein.
+ボクも行ったことない町だけど、|たしか西の海岸地方にあったと思う。=I've never been there myself, but I believe it was somewhere along the|west coast.
 他に手がかりも無いことじゃし、|それで行くかの。=Seeing as we do not have any other clues, 'twould be a fair place to start.
 で、そのクライなんとかいう町には、|何か美味いものでもあるのかや？=I wonder what delicacies this Klei--|something might hold?
 !FILE:event/ev_act/act_170_kottou_yuudou_dorutonku_sakaba_talk.wsb
@@ -971,7 +971,7 @@
 !FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb
 教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Didst thou come to receive God’s blessing?
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
-もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have no fear.#qc
+もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have|no fear.#qc
 近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put them all to rights.
 !FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb
 おや、あなたは？|当家に何か御用でしょうか？=Oh, and who might you be?|Do you have business at this estate?
@@ -4375,7 +4375,7 @@
 なんでも、|『金の切れ目は縁の切れ目』の|件で相談したいことがあるとか。=Might you be interested in meeting someone to discuss the “No Money, No Way”?
 なんでも、|『お菓子開発競争』の|件で相談したいことがあるとか。=Might you be interested in meeting someone to discuss the “Confectionary Contest”?
 なんでも、|『海千山千』の|件で相談したいことがあるとか。=Might you be interested in meeting someone to discuss the “A Slippery Fellow”?
-もし、ご興味がありましたら|噂を頼りに探してみては|いかがでしょう？=If you are, then perhaps you could seek them out by following the trail of rumors?
+もし、ご興味がありましたら|噂を頼りに探してみては|いかがでしょう？=If you are, then perhaps you could|seek them out by following the trail|of rumors?
 結果の報告が参りましたら、|当商会より使いの者を寄越します。|いましばらく、お待ちください。=As soon as we know of the results, we will send a messenger. I’m afraid you’ll have to wait for now.
 現在、当商会に依頼は舞い込んで|おりません。=We do not have any opportunities for you at this present time.
 それでは、ごきげんよう。|幸多き旅でありますように。=Well then, good day to you.|I wish you fortune on your travels.
@@ -6690,13 +6690,13 @@
 何を言いたいかといえば、つまり、|その……。=What I was trying to say is, well...
 ぬしがそんなに優しくしてくれるの|なら、風邪を引くのも悪くない、と|いうことじゃ……。=If you're this nice to me, maybe catching a cold isn’t such a bad thing...
 !FILE:event/ev_ren/ren_e07_kyukaku.wsb
-この町は人が多いの。|王か大司教でも住んでいる|町なのかや？=There are a lot of people here. Does a king or an archbishop reside in this town?
+この町は人が多いの。|王か大司教でも住んでいる|町なのかや？=There are a lot of people here.|Does a king or an archbishop reside in this town?
 あれ、ホロはこういう|賑やかな市場は初めて？|このくらいなら、珍しくないよ。=Oh, is this your first time seeing such a lively market? It’s not unusual for them to be this busy.
 わかっておる。|たとえ話で|大げさに言っただけじゃ。=I know. I was only exaggerating to give an example.
 しかし、こう混雑していては|難儀じゃな。=But, 'tis rather a struggle in this congestion.
-ぬしよ、はぐれてはならぬ。|わっちにしっかり|ついてくるんじゃ。=Don’t get separated. Stay close to me.
+ぬしよ、はぐれてはならぬ。|わっちにしっかり|ついてくるんじゃ。=Don’t get separated.|Stay close to me.
 もし迷子になっても、|うかつに歩き回ってはいかん。|その場でじっとしておれよ。=If you get lost, try not to walk around carelessly. Just stay where you are.
-ホロも気をつけてね。|市が賑わっている時は、|いろいろな人がいるから。=You should be careful too. In a busy market like this, you get all kinds of people.
+ホロも気をつけてね。|市が賑わっている時は、|いろいろな人がいるから。=You should be careful too.|In a busy market like this, you get all kinds of people.
 もし、こんな人ゴミで|はぐれたりしたら……わあっ！？=If we get separated in this crowd of people... Wagh!?
 あっ、すいません！|ぶつかって、すいません！|お怪我はありませんか……って、=Ah, sorry! I didn’t mean to bump into you! Are you hurt...?
 あれ……ホロはどこへ？|ホロ……？|ホーロー！=Oh... Where did Holo go?|Holo...?|Hooolooo!
@@ -6712,8 +6712,8 @@
 …………えっ！？=.....Huh!?
 あれっ！？　えっ！？|しまった、人違いだ！=Ah!? What!?|Wait, this isn’t--!
 その女は誰じゃ？|ぬしの恋人かや？=Who is she?|Your lover?
-ち……違うんだ、ホロ！|知らない人だよ！=Y-You’ve got it wrong, Holo! I don’t know her!
-知らん女と手を繋ぐのかや？|目を離した隙に、引っかけるとは、|ぬしも、やるのう？=You're holding hands with a women you do not even know? The second I take my eyes off you, you start playing around?
+ち……違うんだ、ホロ！|知らない人だよ！=Y-You’ve got it wrong, Holo!|I don’t know her!
+知らん女と手を繋ぐのかや？|目を離した隙に、引っかけるとは、|ぬしも、やるのう？=You're holding hands with a woman you do not even know? The second I take my eyes off you, you start playing around?
 だから、間違えたんだ。|勘違いだよ。=That’s why I said you’ve got it wrong.|It’s not what you think!
 あの……私、|行ってもいいでしょうか……？=Um... May I go now...?
 ごめんなさい！　ごめんなさい！=Sorry! Sorry!
@@ -6721,20 +6721,20 @@
 わっち、傷ついてしまいんす……。=I’m hurt...
 ホロにも……、|ごめんなさい！=Holo... I’m sorry!
 くふ、まあよかろう。|わっちを心配しての行動は|ありがたいが、ちと軽率じゃの。=Heh-heh. Well, 'tis fine. I appreciate that you were worried about me, even though it was a little rash.
-わっちが言っている傍から|迷子になっておっては、|先が思いやられる。=I’m saying that I can imagine doing the same, if you were lost.#tc
-もっとも、ぬしの鼻がわっちを|かぎ分けられるというなら|話は別じゃがの？=Though, perhaps it would be a different story, if your nose could sniff me out.
+わっちが言っている傍から|迷子になっておっては、|先が思いやられる。=What I mean is, I could see myself doing the same if you were lost.
+もっとも、ぬしの鼻がわっちを|かぎ分けられるというなら|話は別じゃがの？=Though, perhaps it would be a different story if your nose could sniff me out.
 ……？|匂いって？=...?|By smell?
 わっちはぬしを|かぎ分けられる。|何しろ、わっちは狼じゃからな。=I can distinguish you by smell. After all, I am a wolf.
 ま、まさか……。=T-That can’t be...
 ……信じなくてもよいがな？=...You don’t believe me?
 どのみち、ぬしはわっちから|簡単には逃げられん、|ということじゃ。=Either way, the fact remains that you won’t be able to escape me so easily.
-……ホロは、もしもの時も|うかつに動くなと言っていた。|確かに、それは一理ある。=...Holo said that if this should happen, I shouldn’t wander around, which does make sense.
-でも、ボクはホロが心配だ。|ホロの言葉は信じたいけど、|本当に大丈夫かな……。=Though, I’m worried about her. I want to trust her words, but I’m not so sure about this...
+……ホロは、もしもの時も|うかつに動くなと言っていた。|確かに、それは一理ある。=...Holo said that if this should happen,|I shouldn’t wander around, which does make sense.
+でも、ボクはホロが心配だ。|ホロの言葉は信じたいけど、|本当に大丈夫かな……。=Still, I’m worried about her.|I want to trust her words, but I’m not so sure about this...
 ホロにもしものことがあったら、|どうしよう。|やっぱり探しに行ったほうが──=What would I do if something happened to her...? Maybe I should look...
 いいや、その場で待っておったのは|良い判断じゃ。歩き回ると、|ますますはぐれるものじゃからの。=No, it was the right decision to stay put. If you walked around, we’d only get further and further apart.
 ホロ！=Holo!
-迷子になって心細かったかや？|わっちの言いつけ通り、|よくその場で待っておったの。=Did you get lost and heart-broken?|You did well to wait here for me, as instructed.
-わっちはぬしを|匂いでかぎ分けられる。|何しろ、わっちは狼じゃからな。=I can distinguish you by smell. After all, I am a wolf.
+迷子になって心細かったかや？|わっちの言いつけ通り、|よくその場で待っておったの。=Did you get lost and heartbroken?|You did well to wait here for me, as instructed.
+わっちはぬしを|匂いでかぎ分けられる。|何しろ、わっちは狼じゃからな。=I can distinguish you by smell. After all,|I am a wolf.
 ……信じなくてもよいがな？=...You don’t believe me?
 ま、まさか……。=T-That can’t be...
 どのみち、ぬしはわっちから|簡単には逃げられん、|ということじゃ。=Either way, the fact remains that you won’t be able to escape me so easily.
@@ -6757,11 +6757,11 @@
 なんだい？=What is it?
 あれ、買ってくりゃれ。|見たこともない菓子じゃ。|とっても甘そうじゃ。=Won’t you buy me one of those?|I have never seen such a confection before. It looks most sweet.
 駄目だよ、|おやつなら、|さっき食べたじゃないか。=No can do.|You just had a snack, didn’t you?
-それに、|欲しい物を全部買ってたら|キリがないよ。=Not to mention, if I bought you everything that took your fancy, we’d be here all day.
+それに、|欲しい物を全部買ってたら|キリがないよ。=Not to mention, if I bought you everything that took your fancy,|we’d be here all day.
 １個だけでいいんじゃが。=Just one is all that I’m asking...
 駄目だよ。=Still no.
 よいではないか。=I don’t see the problem.
-年頃の雄は、わっちみたいな雌に|せがまれると何か買ってやりたくて|仕方なくなるものなんじゃろう？=You are at the age where, should a female like me should ask you to buy something, you ought not refuse, no?
+年頃の雄は、わっちみたいな雌に|せがまれると何か買ってやりたくて|仕方なくなるものなんじゃろう？=You are at the age where, should a female like me ask you to buy something, you ought not refuse, no?
 そうなの？！=Is that how this works?!
 のう、どうじゃ、ぬし？=Will you, then?
 買ってあげる=I’ll buy it.

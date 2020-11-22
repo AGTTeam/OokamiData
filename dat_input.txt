@@ -329,7 +329,7 @@
 じわりとした辛みと薬効を持つ、|食べても美味しい香辛料。=A delicious spice which also has a medicinal effect.
 !FILE:gossip.dat
 町情報　アイマベルグ=Town Information: Eimeberg
-アイマベルグという町には、全国|から様々な商人が集まっててね。|武具やら香水やら色んな商品を取|り扱ってるよ。|まさに大交易都市ってやつさ。=Merchants from all over the country gather in Eimeberg. They deal in armor, perfume and all sorts of goods.|It's a big trading city.
+アイマベルグという町には、全国|から様々な商人が集まっててね。|武具やら香水やら色んな商品を取|り扱ってるよ。|まさに大交易都市ってやつさ。=Merchants from all over the country gather in Eimeberg. They deal in all sorts of things like armor and perfumes.|It's a big trading city.
 町情報　クライシュタイン=Town Information: Kleistein
 海岸沿いにお洒落な町があるよ。|たしかクライシュタインって言っ|てたかな？|コーヒーや紅茶みたいな珍しい商|品も扱ってるみたいだよ。=There’s a fancy city along the coast which is all the rage. I think it's called Kleistein?|I heard they deal in unusual products like black tea and coffee.
 町情報　メリンツ=Town Information: Melintz
