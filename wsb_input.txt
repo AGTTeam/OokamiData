@@ -322,7 +322,7 @@
 こうして馬車に揺られながら|乾いた干し肉をかじるたび、|いつもこう考えてしまうのだ。=Whenever I’m eating dried meat while being rocked on the cart like this, a single thought always pops into my head.
 本当にボクは、どこかに店を|構えることができるのだろうか、|と……=I wonder if I will really be able to open up a store somewhere...
 ……あら、そこのボク。|ジャンプ先が|直っていないのではなくて？=...Oh, what are you doing here? Could it be that the scene jump hasn’t been corrected?#debug
-!FILE:event/ev_act/act_010_opening.wsb
+!FILE:event/ev_act/act_010_opening.wsb#Final
 ――これなら、|なんとか明日の夕方には|たどり着けそうだな。=--At this pace, I should arrive around tomorrow evening.
 ボクは焚き火を見つめながら、|塩の詰まった背負子（しょいこ）に|手を置いた。=As I stared at the fire, I placed a hand on my backpack, tightly packed with salt.#Not sure if there’s a better word for “背負子” that sounds less modern.
 この塩は大事な商品だ。=This salt is valuable merchandise.
@@ -441,9 +441,9 @@
 　|　　　―　移動について　―= |<<- Getting Around -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
 『！』がついている施設では、|イベントが発生しています。|ぜひ訪れてみましょう。=An “!" indicates places where an event scene will occur. Be sure to visit them.
-!FILE:event/ev_act/act_030_nibasya_clr_tenshu_talk.wsb
+!FILE:event/ev_act/act_030_nibasya_clr_tenshu_talk.wsb#Final
 荷馬車の売主は、この時間なら|村はずれの森にいるはずだ。|会いにいってきてくれ。=By now, the owner of the cart should be in the woods by the outskirts of town.
-!FILE:event/ev_act/act_050_horo_hajimete.wsb
+!FILE:event/ev_act/act_050_horo_hajimete.wsb#Final
 契約のとき、店主に言われた通り、|ボクは村はずれの森に向かった。=I headed for the forest on the edge of town, as suggested by the shopkeeper.
 森の中をしばらく進むと|少し開けた場所にたどり着いた。=After clambering my way through the trees, I finally happened upon a clearing.
 そこには、木陰に隠すようにして|馬と荷車が置いてあった。=And there I found a horse and cart, resting in the leafy shade of a tree.
@@ -516,16 +516,16 @@
 それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how unexperienced I am that I hadn’t noticed it.#Should this be "inexperienced" - a more common word? [EMcI]
 ――さて、|これからどうするのかや？=--Well, what shall we do with you?
 とりあえず、|わっちは腹が減った。|何か食べさせてくりゃれ。=For the time being, I find myself peckish. Won’t you get me something to eat?
-!FILE:event/ev_act/act_050_horo_hajimete_tenshu_talk.wsb
+!FILE:event/ev_act/act_050_horo_hajimete_tenshu_talk.wsb#Final
 どうやら、荷馬車の契約は|成立したようだな。=Looks like you were able to finalize the contract.
 うむ、手間をかけさせたの。|おかげで助かった。=Mm, although it took some time.|Thank you for your assistance.
 いや、礼はいらないよ。|これで貸し借りなしってことだ。=No need to thank me. This makes us even.
-あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me about how that wheat was poor quality, I would’ve made a big loss.
-!FILE:event/ev_act/act_060_tut1_horo_bunri.wsb
+あの麦は粗悪品だと|あんたが教えてくれなければ|大損するところだったからな。=If you hadn't told me about how that wheat was poor quality, I would’ve made|a big loss.
+!FILE:event/ev_act/act_060_tut1_horo_bunri.wsb#Final
 ほう。ぬしは若いくせに、|なかなか話がわかるの。=My, for one so young, you are quite wise to the world.
 まずは１杯、|飲ませてくれるということかや？=So, we are to start with a drink, are we?
 ちがうよ。|ちょっと知り合いに|あいさつしとこうかと思ってね。=That’s not it. I was hoping to talk to an acquaintance of mine.
-なんじゃ、ぬか喜びさせおって。|つまらん雄（おす）じゃな。|わっちは向こうで待っておるぞ。=Hmph. And you had my hopes up.|What a spoilsport you are. I shall be waiting over there.#Spoilsport is one word.[EMcI]
+なんじゃ、ぬか喜びさせおって。|つまらん雄（おす）じゃな。|わっちは向こうで待っておるぞ。=Hmph. And you had my hopes up.|What a spoilsport you are.|I shall be waiting over there.#Spoilsport is one word.[EMcI]
 ホロと話す=Talk to Holo
 シュミットと話す=Talk to Schmidt
 いらっしゃいませ。=Welcome.
@@ -605,7 +605,7 @@
 　|　　　―　噂を聞くと……？　―=　|<<- When you hear a rumor...? -
 噂話を聞くことで、交易マップ上に|新しい町が出現したり、儲け話が|発生したりします。=By listening to rumors, new towns or opportunities to earn money may|present themselves.
 ホロの故郷を見つけるため、また、|商売のできる場所を増やすためにも|積極的に噂を入手していきましょう。=In order to find Holo's hometown and increase your trade routes, be sure to|proactively obtain them.
-!FILE:event/ev_act/act_090_tut2_ichiba.wsb
+!FILE:event/ev_act/act_090_tut2_ichiba.wsb#Final
 やあ、ここだよ。=Hey, over here!
 おはようございます。=Good morning.
 さっそくだけど、|売り買いの基本の話を|するとしようか。=Indeed, let’s get straight to it! I’ll go over the basics of buying and selling.
@@ -655,7 +655,7 @@
 買いたい商品を見つけたら、関連|する商品ジャンルの「商品知識」を|上げるようにしてみましょう。=If you see something you want to buy, try to raise your “Knowledge” of the related goods type.
 プレイヤーの「商品知識」は、該当|するジャンルの商品を一定量売る|ことで上げることができます。=Your Goods Knowledge can be raised by selling certain amounts of the corresponding Goods Type.
 高い商品ランクの商品を購入する|ためには、同じジャンルの商品を|購入しつづけるのが近道です。=The quickest way to buy a high-ranking product is to continuously buy goods of the same type.
-!FILE:event/ev_act/act_100_yamagoe_no_susume.wsb
+!FILE:event/ev_act/act_100_yamagoe_no_susume.wsb#Final
 この村での仕入れを終えたボクは、|ホロといっしょに|隣の村に向かうことにした。=After buying what we needed, Holo and I set out for the neighboring village.
 ボクが草原まわりの道に|荷馬車を進めようとしたときだった。=As I steered towards the road through the grassy plains, my companion spoke up.
 ぬしよ。|あっちの草原に、|何か用があるのかや？=Is there something you need this way?
@@ -672,7 +672,7 @@
 結局、ホロに押し切られて、|山越えの道を選ぶことになった。=In the end, I gave in and chose the mountain path.
 （だけど、いつホロに|　山越えした話を伝えたっけ？）=(But when did I tell her about having been this way before?)
 そんなことを考えていると、|ホロがボクの顔をのぞきこみながら、|さもおかしそうな笑みを浮かべた。=As I sat there puzzled, Holo glanced at me with an amused smile.
-!FILE:event/ev_act/act_110_yamagoe_syukuhaku.wsb
+!FILE:event/ev_act/act_110_yamagoe_syukuhaku.wsb#Final
 ――=--
 ほう。|なかなか手際がよいな。|あっという間に火がつきんす。=Ho～|That was rather skillfully done.|It should catch aflame in no time.
 まあね。小さい頃から|ずっと旅暮らしだったから、|野宿は慣れてるんだ。=Well, I've been traveling since I was young, so I’m used to sleeping outside.
@@ -687,12 +687,12 @@
 ところで、ぬしは祟（たた）りを|気にしておったのに、なんで|山の神がいる道を通ったんじゃ？=By the way, if you are so afraid of being cursed, why did you take the mountain path previously?
 もしかすると、本心では|神など恐れていないのかや？=Maybe you are not scared of the gods after all?
 そういうわけじゃないよ。|神様が本当にいるかは知らないけど、|あまり関わりあいになりたくない。=That’s not it. I don’t know whether the gods really exist or not. Either way, I’d prefer not to get involved.
-だけど、あのときは|荷を届ける期限が迫ってたからね。|しかたがなかったんだ。=Although at that time, my delivery deadline was fast approaching so I had no choice.
+だけど、あのときは|荷を届ける期限が迫ってたからね。|しかたがなかったんだ。=Although at that time, my delivery deadline was fast approaching so|I had no choice.
 ふん。そういうことかや。=Hm. So that’s why.
 そういえば、|あの夜、遠吠えを聞いたよ。|たぶん狼だった。=Which reminds me, I heard something howling that night. It sounded like a wolf.
 もしかしたら、|あれが山神様だったのかな？=What if that was the Mountain God?
 なるほどの。それを聞いたから、|ぬしは恐ろしくなって|山越えをしたくなくなった、と。=Now I see. So hearing that howl made you scared of going through the mountains again.
-いや、そういうわけじゃないよ。|なんでか知らないけど、あのときは|あんまり怖いとは思わなかったな。=No, it wasn’t that.|I don't know why, but I wasn't afraid of it.
+いや、そういうわけじゃないよ。|なんでか知らないけど、あのときは|あんまり怖いとは思わなかったな。=No, that’s not it.|I don't know why, but I wasn't afraid of it.
 もしや、|ぬしは狼が好きなのかや？=Could it be that you are fond of wolves?
 いや、嫌いだよ。=No, I hate them.
 ボクがそう言った瞬間、|笑顔のままでホロの気配が変った。=As soon as I said that, something about Holo’s smile changed.
@@ -734,7 +734,7 @@
 ちなみにノーリンでは、リンゴが|「人気の品」となっています。|試してみてはいかがでしょうか？=By the way, apples are currently popular in Norlin. Why not give it a try?#qc Do popular products ever change? yes. see dat_input.txt:566
 なお、この世界での時間の進みは|ひと月３０日間です。|一年は３６０日となります。=Additionally, note that in this world there are 30 days a month and 360 days in a year.
 契約の期限である８月３０日中に|ホロを故郷まで連れて行けるよう、|上手に商売を進めてください。=Conduct yourself wisely so that you may take Holo to her hometown before the contract ends on August the 30th.
-!FILE:event/ev_act/act_120_desel_horo_bunri.wsb
+!FILE:event/ev_act/act_120_desel_horo_bunri.wsb#Final
 ボクとホロは、小麦の栽培が盛んな|デッセルの村へとやってきた。=Holo and I arrived at the village of Dessel, where wheat cultivation was thriving.
 村から続く街道の入口の近くで、|向こうからやってくる=As we neared the village entrance from the road, I noticed a cart coming out the
 |１台の荷馬車に気がついた。=|other side.
@@ -760,7 +760,7 @@
 えっ？　どうして？=Huh? Why?
 野暮な質問は|するもんじゃありんせん。=Nothing that you need pry into.
 そうじゃな。夜になったら、|酒場で落ち合うことにしよう。|それで良いかや？=Right. Let’s reconvene in the tavern after it gets dark.|Is that acceptable?
-!FILE:event/ev_act/act_130_desel_soncho_kiku.wsb
+!FILE:event/ev_act/act_130_desel_soncho_kiku.wsb#Final
 おや、いらっしゃい。|行商人の方とお見受けしましたが、|なんのご用ですかな？=Oh, welcome. You look like you're a trader, but what can I help you with?
 この村の麦は有名ですからね。|少しお話を聞きたいと思いまして。|今年の出来はどうでしたか？=This village’s wheat is famous, so I was hoping to hear more about it. How was this year’s harvest?
 今年もなかなかですよ。|少し心配していたのですが、|良い麦が取れました。=It’s been another bountiful year. We had our concerns but in the end, we reaped fine wheat.
@@ -780,7 +780,7 @@
 !FILE:event/ev_act/act_130_desel_soncho_kiku_soncho_talk.wsb
 いままで祭っていた|豊穣の女神ホロへの祈りをやめて、|心配していたのですがね。=We stopped praying to the harvest goddess Holo that we had worshipped until now, so we were a bit worried.
 今年も、いままでと同じように|良い麦が実りました。|これで、ひと安心ですよ。=But our wheat this year was as good as any.|It was such a relief.
-!FILE:event/ev_act/act_140_desel_horo_saikai.wsb
+!FILE:event/ev_act/act_140_desel_horo_saikai.wsb#Final
 どいつもこいつも、|本当にわっちのことを忘れおって！|恩知らずどもめ！=To think they really forgot about me!|What ingrates!
 ホロは酒場の隅のほうの|テーブルに１人で座っていた。=Holo was sat alone at a table in the corner of the tavern.
 どうしたの、ホロ？|相当、飲んでるんじゃない？=What's wrong, Holo?|Haven’t you drank a bit too much?
@@ -829,14 +829,14 @@
 わっちとしたことが、|やけ酒はいかんの……。=I am the one who did it, but drinking that much was not a good idea...
 悪酔いして……うっぷ！|水を……早く……くりゃれ……。=Being hungover... urk!|Water... please... hurry...
 結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=In the end, we spent the whole morning recuperating at the inn.
-!FILE:event/ev_act/act_140_desel_horo_saikai_aniki_talk_mihensai.wsb
+!FILE:event/ev_act/act_140_desel_horo_saikai_aniki_talk_mihensai.wsb#Final
 やあ、元気そうだね。|商売のほうはどうだい？=You’re looking well.|How goes business?
 たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.
 だったら、|しばらくはこの辺りで|行商を続けてみることだな。=Then you're probably best sticking to trading around this area for now.
 もし、荷馬車の借金を|返し終わったら、|またこの酒場まで会いにきてくれ。=If you manage to pay off the cart, come find me here again.
 ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
-!FILE:event/ev_act/act_150_flag_syakkin_hensai.wsb
+!FILE:event/ev_act/act_150_flag_syakkin_hensai.wsb#Final
 そろそろ、この辺りを|行ったり来たりするのにも|あきてきたの。=I am rather tiring of going back and forth along this route.
 行商人というのは、|思ったよりも退屈なものじゃな。=The life of a merchant appears more boring than I had thought.
 ホロにとっては|そうかもしれないね。=It might seem that way to you.
@@ -869,7 +869,7 @@
 ちがうと言おうとしたけれど、|うまく言葉が出なかった。=I tried to say otherwise, but the words wouldn’t come out.
 ホロの笑顔に|見とれてしまったからだ。=Holo's smile had put a spell over me.
 くふふ。|ぬしは、そういうところが|かわいいのう。=Heh-heh-heh.|You are adorable.
-!FILE:event/ev_act/act_160_tut3_new_city.wsb
+!FILE:event/ev_act/act_160_tut3_new_city.wsb#Final
 ああ、元気そうだな。|そろそろ来るんじゃないかと|思ってたところだ。=Ah, you’re looking well.|I thought I might be seeing you soon.
 その自信ありげな顔を見ると、|どうやら商売のほうは順調らしいな。=From that confident face of yours, it seems business is faring well.
 ええ、おかげさまで。=Yes, thanks to you.
@@ -889,7 +889,7 @@
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
 そうだな。だからといって、|あまり欲をかかないほうがいい。=That you are. But even so, take care not to get greedy.
 地道にやっていれば|損することは、まずないからな。|がんばれよ。=If you work hard and steady, you're not likely to lose your earnings. Good luck.
-!FILE:event/ev_act/act_170_kottou_yuudou.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou.wsb#Final
 今度の町は、|初めてゆく町じゃろ？=The town up ahead... This is your first time there, no?
 どんな美味いものがあるかと思うと|楽しみになりんす。=I am excited to think of what kind of delicacies they may have in store for us.
 あんまり高いものはやめてよ。|最近、ホロって|金遣いが荒いような気がする。=You can give up on getting anything expensive.>>I’ve been getting the impression lately that you’re quite loose with money.
@@ -953,7 +953,7 @@
 ボクも行ったことない町だけど、|たしか西の海岸地方にあったと思う。=I've never been there myself, but I believe it was somewhere along the|west coast.
 他に手がかりも無いことじゃし、|それで行くかの。=Seeing as we do not have any other clues, 'twould be a fair place to start.
 で、そのクライなんとかいう町には、|何か美味いものでもあるのかや？=I wonder what delicacies this Klei--|something might hold?
-!FILE:event/ev_act/act_170_kottou_yuudou_dorutonku_sakaba_talk.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou_dorutonku_sakaba_talk.wsb#Final
 もしかして、お客さん、|東のほうに行きたいんですか？=Sir, could it be that you’re wanting to head east?
 はい、そのつもりなんです。=Yes, that’s the plan.
 いいえ、考えてませんよ。=No, I don’t think so.
@@ -968,7 +968,7 @@
 それから、この店のお勧めの|つまみをお願いします。=And a side order of the house specialty, please.
 うむ。ぬしも話が|わかるようになったの。=Mm. It seems you’re getting a nose for this, too.
 ビールとお勧めですね。|わかりました。|すぐに持ってきますから！=Beer and a special. Got it.|I’ll bring them out to you shortly!
-!FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou_sinpu_talk.wsb#Final
 教会の門は、常に開かれている。|なんじも神の力にすがろうと|この教会を訪れたのか？=The Church's doors are always open. Didst thou come to receive God’s blessing?
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
 もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have|no fear.#qc
@@ -1896,7 +1896,7 @@
 ああ、そうだよね。|この店は、何がお勧め？=Ah, you’re right.|What do you recommend?
 コイ料理だね。|丸揚げとか、パイ包み焼きとか。|どっちもおいしいよ。=Definitely the carp.|Fried or made into pie, either way it’s delicious.
 じゃあ、それを両方とも。|それから葡萄酒を持ってきて。=Then, we’ll take both.|And some wine to follow.
-!FILE:event/ev_act/act_440_kokyou_settoku.wsb
+!FILE:event/ev_act/act_440_kokyou_settoku.wsb#Final
 なあ、ぬしよ。|少しばかり話がある。|聞いてくりゃれ。=I want to talk.|Hear me out.
 思えば、あの村で|ぬしと出会ってから、|ずいぶんと世話になった。=When I think about it, you've done so much for me since we first met in that village.
 わっちは心から感謝しておる。|礼を言わせてもらいんす。=I’d like to thank you. You have my heartfelt gratitude.
@@ -2034,7 +2034,7 @@
 !FILE:event/ev_act/act_rt1_020_new_city_ehre_seaberuku_sakaba_talk.wsb
 エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're heading for Ehre, you’d best be careful.
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=The weather takes a turn around this time of year, and the seas get rough.
-!FILE:event/ev_act/act_rt1_030_kiki_umi.wsb
+!FILE:event/ev_act/act_rt1_030_kiki_umi.wsb#Final
 最初のうち、航海は順調だった。|ホロも波しぶきがはじけるたびに|楽しそうな声=At first, the voyage across the sea was going smoothly.>>Holo laughed cheerfully whenever the waves made a splash against the ship.
 を上げていた。=!
 海の旅というのも、|なかなか楽しいものじゃな。=Traveling by ship is rather fun.
@@ -2640,7 +2640,7 @@
 商談成立だね。=It’s a done deal.
 それでは、さっそく|契約を果たしてもらいんす。=Then, we shall put it into effect at once.
 まずは『桃の蜂蜜漬け』あたりから|食べさせてくりゃれ？=For starters, how about you buy me some honeyed peach preserves?
-!FILE:event/ev_act/ending_list_good_a.wsb#found in common
+!FILE:event/ev_act/ending_list_good_a.wsb#found in common, final
 !FILE:event/ev_act/ending_list_good_b.wsb
 こうしてホロの故郷も|見つかったんだし、|またいつでも帰れるよね。=Now that we’ve found your hometown, it means you can return whenever you want.#See common for missing section
 もう少しだけ、ボクといっしょに|旅をしてほしんだ。=But, I hope you might travel with me a little longer.
@@ -2653,7 +2653,7 @@
 駆け出しの商人の条件なら、|そんなところかや。|破産されても困るしの。=Those are the conditions for a novice merchant, hm? 'Twould be troublesome if you were to go bankrupt.
 えっ、ホロ。それじゃあ……。=Wait, Holo. That means--
 まっ、いいじゃろ。|あと少しだけ、ぬしと|いっしょに旅を続けてやろう。=Well, I suppose it’s fine. I will continue to travel with you a little while more.
-じゃが、勘違いするでない。|わっちは本当なら|仲間たちとゆっくりしたい。=But do not misunderstand. In truth, I’d like to take it easy with my kin.
+じゃが、勘違いするでない。|わっちは本当なら|仲間たちとゆっくりしたい。=But do not misunderstand. In truth, I would like to take it easy with my kin.
 それを、ぬしがそこまで言うから、|つきあってやるんじゃからな。=I am only sticking around because you insisted.
 さぞかし、美味いものを|食べさせてくれるんじゃろうな？=So, I will have you make good on the promise of tasty treats.
 うん。わかったよ、ホロ。=Yeah, I will, Holo.
@@ -2713,7 +2713,7 @@
 ――ところでね、ホロ。=By the way, Holo.
 このあと、女性は「愛の言葉」を|返さなくちゃいけないんだよ。|知ってる？=After this, the woman is supposed to answer with her “oath of love”. Did you know that?
 ………うむ、知っておる。=Hm, I know of it.
-じゃが、そこまで『人の儀式』に|つきあうつもりはありんせん。=But I shan't partake in mankind's rituals to that extent.
+じゃが、そこまで『人の儀式』に|つきあうつもりはありんせん。=But I shall not partake in mankind's rituals to that extent.
 ちぇっ！|ずるいや、ホロは。=Tch! That’s unfair, Holo.
 そうかや？|ぬしは、そんなわっちが|好きなんじゃろ？=Really? But you like this side of me, do you not?
 ――なあ、ぬしよ。=Listen...
@@ -2889,7 +2889,7 @@
 闇の支配者=
 ツンデレ=
 クマー=
-!FILE:event/ev_mou/mou_00.wsb
+!FILE:event/ev_mou/mou_00.wsb#Final
 　|　　　―　移動について　―= |<<- Getting Around -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
 『！』がついている施設では、|イベントが発生しています。|是非訪れてみましょう。=An “!” indicates places where an event scene will occur. Be sure to visit them.
@@ -3152,7 +3152,7 @@
 いきなり海鮮料理の|流行が終わっちゃって、|貝も魚もダメダメ！=Out of nowhere, the craze for seafood ended and both the shellfish and fish lost their value!
 ──って、思ったら、|貴族が食べなくなった食材が|庶民に流れて別の流行が！=Or so it seemed, but then the food that the nobles were no longer eating started a new trend among the common folk!
 さすがに高級食材はダメだけど、|手頃な値段の貝も魚も、|結構いい商いになったらしいよ。=As you can imagine, the expensive stuff isn’t doing so well...>>but the more affordable shellfish and fish seem to have become big business.
-!FILE:event/ev_mou/mou_02.wsb
+!FILE:event/ev_mou/mou_02.wsb#Final
 アンタかい、商会の言っていた|若いが有望な行商人っていうのは。=You must be the ‘young but promising’ merchant I was told about.
 俺はここらで商売をしてる者さ。|早速だが、いい投資の話がある。=I run a business around these parts. Well, cuttin’ to the chase, I’ve a good investment opportunity to offer you.
 ここ何年か、この地方では|小麦が豊作だったんだ。|聞いているかい？=This area’s seen a plentiful wheat harvest for these past few years or so. Have you heard about it?
@@ -4070,7 +4070,7 @@
 ……ま、まさか、|おにーさんが？！=...I-It can’t be, you, sir--?!|No, as if that would be the case.
 そんなコトあるわけないか。|オズワルドさんを助けられる|くらいの独身の大商人なら、=If there really was an unmarried merchant out there capable of|bailing out Mr. Oswald,
 もう、この場で結婚を|申し込んじゃうところなんだけど。|そんなステキな人いないかな～。=I would be asking for their hand in marriage on the spot. I wonder if|someone like that really exists～
-!FILE:event/ev_mou/mou_10.wsb
+!FILE:event/ev_mou/mou_10.wsb#Final
 やあ、貴方ですか。|商館の言っていた|若くて有望な行商人というのは。=Ah, you must be the young, promising merchant the trading house mentioned.
 私はこの地方で|食料品を商っている者で|ございます。=I’m a grocer who operates in the local region.
 なるほど、食料品ですか。=I see, so you sell food.
@@ -5820,7 +5820,7 @@
 わっちのことを愛してやまぬぬしが|贈り物をして、気を引こうと|した証拠じゃ。決まっておろう？=It's proof that you, who can’t help but love me, tried to get my attention by giving me a gift, no?
 か、返してよ！|ボクがうかつだった……。=G-Give it back!|I got careless...
 ふふふ、一度貰ったものは|もう返さぬ。=Hee-hee-hee, I’m not going to return it now that it’s mine.
-!FILE:event/ev_ren/ren_c10_kuhakunojikan.wsb
+!FILE:event/ev_ren/ren_c10_kuhakunojikan.wsb#Final
 ふう……。|このあたりで今日は|一休みにしようか……。=Whew...|Why don’t we stop here for today?
 こんなところで？|町まで、まだ|ずいぶんあるようじゃが？=Here?|There is still a long way to travel before we’ll reach the next town, no?
 そうだけど……。|なんだか、疲れてしまって……。=That’s true, but...|I just feel tired for some reason...
@@ -6652,7 +6652,7 @@
 むにゃ、むにゃ……。=*Snore...*
 まったく、気持ち良さそうに|眠りおって。|機というものが見えぬ雄じゃ。=Honestly, sound asleep like you don’t have a care in the world... Here’s a man who’s never heard of ‘seizing the day’.
 豪華朝食は露と消えそうじゃの……。=And so, the deluxe breakfast disappears along with the morning mist...
-!FILE:event/ev_ren/ren_e06_kakuran.wsb
+!FILE:event/ev_ren/ren_e06_kakuran.wsb#Final
 ふう、やっと町に着いた。|さてと、今日の宿を決めないと。=Whew, we finally made it to town.|Now, to decide on tonight’s lodgings...
 …………。=......
 ホロ、お腹空いてる？|宿を決めたら、何か食べよう。|お腹が一杯になるものがいいな。=Are you hungry yet, Holo? Once we've decided on an inn, let's get some food. It’d be nice to have something filling.
@@ -6689,7 +6689,7 @@
 たわけ！|ただのたとえじゃ！|本当の熱の話ではない！=Fool! It was only a metaphor! I don’t really mean my fever!
 何を言いたいかといえば、つまり、|その……。=What I was trying to say is, well...
 ぬしがそんなに優しくしてくれるの|なら、風邪を引くのも悪くない、と|いうことじゃ……。=If you're this nice to me, maybe catching a cold isn’t such a bad thing...
-!FILE:event/ev_ren/ren_e07_kyukaku.wsb
+!FILE:event/ev_ren/ren_e07_kyukaku.wsb#Final
 この町は人が多いの。|王か大司教でも住んでいる|町なのかや？=There are a lot of people here.|Does a king or an archbishop reside in this town?
 あれ、ホロはこういう|賑やかな市場は初めて？|このくらいなら、珍しくないよ。=Oh, is this your first time seeing such a lively market? It’s not unusual for them to be this busy.
 わかっておる。|たとえ話で|大げさに言っただけじゃ。=I know. I was only exaggerating to give an example.
@@ -6746,7 +6746,7 @@
 そのおかげで、ぬしは|わっちの手を|握れるのじゃからな。=Thanks to them, you get to take my hand in your own.
 ホロ？=Holo?
 ホロ似の女=Girl Who Isn’t Holo
-!FILE:event/ev_ren/ren_e08_onedari.wsb
+!FILE:event/ev_ren/ren_e08_onedari.wsb#Final
 ほう、随分とにぎやかな町じゃな。=Ho, this town is rather full of life.
 多分、大きな市かお祭りでも|あるんだと思う。|それで、人が集まってるんだ。=I think there must be a big fair or some kind of festival on. Hence, the crowd.
 そうか。ならば|集まっているのは人だけでは|あるまいな。=I see. Then, there must be more than just people gathered here.
@@ -6827,7 +6827,7 @@
 ──行こう、ホロ。|もっと、この花がいっぱいある|ところへ！=...Let’s go, Holo. To a place filled with these flowers!
 …………=......
 ……あ、ボクたちは|ホロの故郷に向かっているんだから、|同じことか。あははは……。=...Oh. We’re heading for your hometown anyway, so it’s the same thing. Ha-ha-ha-ha...
-!FILE:event/ev_ren/ren_e10_nazegyoshoninni.wsb
+!FILE:event/ev_ren/ren_e10_nazegyoshoninni.wsb#Final
 よい天気じゃの……。=What sublime weather!
 こうして荷馬車でのんびり行く旅と|いうのもまたよいものじゃな。=Leisurely traveling by cart like this is not so unpleasant.
 これでリンゴなり梨なり、何か気の|利いた積み荷でもあれば文句なし|なんじゃがの、ぬしよ。=If only we had tasty apples or pears|for cargo, 'twould be perfect, don’t|you think?
@@ -7452,55 +7452,55 @@
 わっちは、ぬしを信じておる。=I have faith in you.
 信じておるぞ……=I have faith...
 約束の期限まで　あと１ヶ月です=There is 1 month until the|appointed time.
-!FILE:event/ev_sys/traderlv_up2.wsb
+!FILE:event/ev_sys/traderlv_up2.wsb#Final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
-!FILE:event/ev_sys/traderlv_up3.wsb
+商人レベルが上がった！=Merchant level has risen!
+!FILE:event/ev_sys/traderlv_up3.wsb#Final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
+商人レベルが上がった！=Merchant level has risen!
 !FILE:event/ev_sys/traderlv_up4.wsb
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
-!FILE:event/ev_sys/traderlv_up5.wsb
+商人レベルが上がった！=Merchant level has risen!
+!FILE:event/ev_sys/traderlv_up5.wsb#Final
 のう、ぬしよ。|最近、売り買いをしている|ぬしの様子なのじゃが……=From what I’ve seen of your dealings lately...
 なかなかにさまになっておるぞ。|買い物の態度も堂に入っておる。|いい雰囲気じゃ。=I’d say you’re starting to live up to your profession. Your manner of shopping has improved as well.>>You’ve the air of an expert around you.
 旅を始めたころは正直どうなる|ことかと思っておったが……=To be honest, I was uncertain how things would unfold when our travels started...
 ぬしの成長ぶりには目を見張る|ばかりじゃ。|わっちも嬉しいぞ。=But your progress has astounded me.|I am delighted.
 商人レベルが上がった！=Merchant level has risen!
 女心もこれぐらいわかれば|いいんじゃがの……=If only you had the same expertise when it comes to a woman’s heart...
-!FILE:event/ev_sys/traderlv_up6.wsb
+!FILE:event/ev_sys/traderlv_up6.wsb#Final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
-!FILE:event/ev_sys/traderlv_up7.wsb
+商人レベルが上がった！=Merchant level has risen!
+!FILE:event/ev_sys/traderlv_up7.wsb#Final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
+商人レベルが上がった！=MMerchant level has risen!
 !FILE:event/ev_sys/traderlv_up8.wsb
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
-!FILE:event/ev_sys/traderlv_up9.wsb
+商人レベルが上がった！=Merchant level has risen!
+!FILE:event/ev_sys/traderlv_up9.wsb#Final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
-商人レベルが上がった！=Merchant level increased!
+商人レベルが上がった！=Merchant level has risen!
 !FILE:event/ev_sys/traderlv_up10.wsb
 のう、ぬしよ。|わっちも、ずいぶんと長い間|いろんな人間を見てきたが……=For a long time now, I have watched all kinds of people, but...
 今のぬしほど商才に長けた|人間は、これまで見たことが|ないやも知れぬ！=I have never known a human as skilled at business as the one I see before me.
