@@ -57,7 +57,7 @@
 投資金額　　：銀貨 6000 枚|返却予定金額：銀貨 9500 枚=Investment cost   : 6000 silver|Expected returns: 9500 silver
 はい=Yes
 いいえ=No
-おにーさんは取引しなくて、|大丈夫だった？|それともバッチリ？=You didn’t make agree on a deal, did you sir? Was that all right?|Or maybe it’s a good thing?#qc
+おにーさんは取引しなくて、|大丈夫だった？|それともバッチリ？=You didn’t agree on a deal, did you sir? Was that all right?|Or maybe it’s a good thing?#qc
 ようこそ！|私どもの商館へ。=Welcome to our trading house!
 当商会の儲け話の噂をお聞きに|なられたとおっしゃいますか？|おお、それはお耳が早い！=Did you say that you heard a rumor about a profitable deal happening at our company? Why, how very astute!
 では、依頼された商人の方へ|お取次ぎいたしますか？=Well then, shall I pass you along to the merchant who made the request?
@@ -106,15 +106,15 @@
 現在は……、おお、|『砦づくり』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “Building a Stronghold” is ongoing, correct?
 現在は……、おお、|『時は金なり』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with “Time is Money” is ongoing, correct?
 現在は……、おお、|『お菓子開発競争』の件の|商談が進行しているようですな。=At current... Ah, it seems your business with the “No Money, No Way” is ongoing, correct?
-また儲け話を聞いたら、|商館に来てね。|じゃあ、またね～！=If you hear any more interesting rumors, be sure to come by the trading house again.|Well, ‘till next time～!
+また儲け話を聞いたら、|商館に来てね。|じゃあ、またね～！=If you hear any more interesting rumors, be sure to drop by the trading house again. Well, ‘till next time～!
 おにーさんから預かったのは|銀貨@<trade_d@>枚って聞いたけど|どうだったのかな？=I heard that they received @<trade_d@> coins|from you sir, but I wonder what happened|to it?
 はい！|これ、取引の結果だよ！=Oh, right!|Here are the results of your investment!
 銀貨@<trade_d@>枚　受け取った！=Received @<trade_d@> silver coins!
 確かに伝えたよ！|じゃあ、またね～！=That should be everything!|Well, ‘till next time～!
 ぬし、うまく儲けたようじゃの。|ぬしが嬉しそうな顔をしておると|わっちも嬉しい。=It seems that went rather well. 'Tis nice to see you looking so happy.
-しかし、取引がうまくいったのは|果たして誰のおかげかの……？=That’s not to say I owe it to a certain someone that the deal went to well...
-……ほう、そこの店でごちそう|してくれると申すか！|殊勝な心がけじゃ。=...Ho, you mean to say you’re going to treat me to a meal? A commendable idea.
-じゃ、遠慮なくいただくとするかの。|次の取引もうまく行くとよいな！=Then, I shall gladly accept.|I hope that all your deals go this well!
+しかし、取引がうまくいったのは|果たして誰のおかげかの……？=But isn’t it thanks to a certain someone that the deal went so well...?
+……ほう、そこの店でごちそう|してくれると申すか！|殊勝な心がけじゃ。=...Ho, you say you’re going to treat me to a meal? What a splendid idea.
+じゃ、遠慮なくいただくとするかの。|次の取引もうまく行くとよいな！=Then, I shall gladly accept.|I hope all of your deals go this well!
 ホロに　ごちそうした！|銀貨@<trade_d@>枚　支払った！=Treated Holo!|Spent @<number1@> silver!
 お使いソフィー= Errand-Girl Sophie#The name shows on the left side, where other names are in the middle, i dont know how to fix this
 商談に進む=Proceed to negotiations
@@ -540,7 +540,7 @@
 そんなことでは、|これから先の旅が思いやられるの。=Keep that in mind on our future travels.
 うむ、わかっておる。|ぬしのような若い雄の|懐具合には期待しておらんからの。=Yes, I understand. You are a young male, after all, one cannot have too high hopes for your financial situation.
 ビールと葡萄酒、|あとは美味いつまみがあればよい。=All I ask for is beer, wine, and a delicious snack to follow up.
-まずは、この店でお勧めの皿を|いくつか持ってきてくりゃれ？=To start, won’t you bring me some of the best dishes here?
+まずは、この店でお勧めの皿を|いくつか持ってきてくりゃれ？=To start, won’t you get me some of the best dishes here?
 ほほう！|思ったよりも、ぬしは物分りがよい。=Oh ho! You are more discerning than I thought!
 若いくせに雌の扱いが|上手いかもしれんな。=Despite your age, you may know how to treat a female after all.
 わっちの人を見る目が|たしかだったということかや。=Looks like I did judge your character correctly.
@@ -884,7 +884,7 @@
 すぐに情報が入らなくても|小まめに『噂話』を聞きにゆくのが|大事だぞ。=Even if you don’t hear anything right away, it’s important that you keep going back to check.
 前に話を聞いた酒場でも、|時間が経つと新しい『噂話』を|聞けることがあるからな。=That includes returning to taverns you’ve visited before, as they may have new information for you in time.
 わかりました。|ありがとうございます！=I see.|Thank you!
-!FILE:event/ev_act/act_160_tut3_new_city_aniki_talk.wsb
+!FILE:event/ev_act/act_160_tut3_new_city_aniki_talk.wsb#Final
 どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fare you? Using a cart for trade is a world away from peddling, isn't it?
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
 そうだな。だからといって、|あまり欲をかかないほうがいい。=That you are. But even so, take care not to get greedy.
@@ -988,7 +988,7 @@
 若い商人の方とのつきあいは、|将来への投資だとルーデンス侯は|おっしゃっております。=Lord Ludens often says that trading with young merchants is an investment for the future.
 何かございましたら、|当家まで足をお運びください。=If there is something you need, please do pay us a visit.
 !FILE:event/ev_act/act_170_kottou_yuudou_sizin_talk.wsb
-ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
+ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
 最近、町の様子はどうです？=How's town these days?
 おやおや、無粋な人だね。|吟遊詩人に歌を頼まないとは。=Dear me, what an unromantic man. Not asking for a minstrel's song.
@@ -996,16 +996,16 @@
 それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=What a waste.|Hearing that makes me want to inform you of the world.
 ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Aye, please do.|What rumors are going around is most important information for a merchant.
 …………|……………………。=......|..........
-そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early for you.
-そうじゃな。|わっちは陽気な歌が聞きたい。=Truly.|I for one, would like to hear a merry song.
+そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early|for you.
+そうじゃな。|わっちは陽気な歌が聞きたい。=Right. I would like to hear a merry song.
 それでは、とっておきの歌を|美しき女性のために。=Then I will perform my best song for the beautiful lady.
-吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for the perfect wife.
+吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for|the perfect wife.
 騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=Wherever he went, he would fall in love at first glance and propose straight away.
-ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his sweethearts weren't human.|They were bears, and birds, and deer.
+ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his sweethearts weren't human.|They were bears, an d birds, and deer.
 １０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=The tenth he courted was a huge vixen, who finally accepted his proposal.
-すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden, and they end up married.
+すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden and they end up married.
 うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. 'Tis a delightful song.|The story is rather foolish, but it certainly stays with you.
-そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Your favor, please.
+そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Tips are also welcome.#tc
 !FILE:event/ev_act/act_180_kottou_kiku.wsb
 いらっしゃいませ。|私どもの店に、|どういった御用向きでしょう？=Welcome to my humble establishment.|How may I be of assistance?
 こんにちは。|こちらでは骨董品を扱ってるという|ことですよね？=Hello.|You sell antiques here, don't you?
@@ -1165,7 +1165,7 @@
 だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=In that case, is there anyone in this town who’s familiar folklore or the like?
 さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Hmm... I don’t really know.|Anyway, are you having beer?|Or wine maybe?
 !FILE:event/ev_act/act_220_rt2_sakba_de_kiku.wsb
-ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
+ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
 私は吟遊詩人のロウメス。|この辺りに、私の美声にかなう者は|いないと自負してるんだがね。=I am the bard, Loumes.|I flatter myself that none around here can match the beauty of my voice.
 あ、すみません。|歌はけっこうです。=Thank you, but we’re fine without any songs for now.
@@ -3153,7 +3153,7 @@
 ──って、思ったら、|貴族が食べなくなった食材が|庶民に流れて別の流行が！=Or so it seemed, but then the food that the nobles were no longer eating started a new trend among the common folk!
 さすがに高級食材はダメだけど、|手頃な値段の貝も魚も、|結構いい商いになったらしいよ。=As you can imagine, the expensive stuff isn’t doing so well...>>but the more affordable shellfish and fish seem to have become big business.
 !FILE:event/ev_mou/mou_02.wsb#Final
-アンタかい、商会の言っていた|若いが有望な行商人っていうのは。=You must be the ‘young but promising’ merchant I was told about.
+アンタかい、商会の言っていた|若いが有望な行商人っていうのは。=You must be the ‘young but promising merchant’ I was told about.
 俺はここらで商売をしてる者さ。|早速だが、いい投資の話がある。=I run a business around these parts. Well, cuttin’ to the chase, I’ve a good investment opportunity to offer you.
 ここ何年か、この地方では|小麦が豊作だったんだ。|聞いているかい？=This area’s seen a plentiful wheat harvest for these past few years or so. Have you heard about it?
 さすが商会に目利きと|紹介された男だな。情報通だ。|なら知っての通りさ。=I’d expect nothin’ less from someone recommended by the company. You know your stuff. Well then, as you know...
@@ -3203,7 +3203,7 @@
 人間が自分たちの手だけで|麦を育てるというのなら、|結果は人間にしかわかりんせん。=If humans will rear the wheat by their own hands, 'tis only they who can understand the results.
 当て推量を言って|後でぬしに恨まれては|敵わんからのう。=I couldn’t bear it if I made a guess and you came to hate me for it later.
 教会の者たちのように言うなら、|“すべては人のみぞ知る”|といったところかの。=To put it as the Church would say, “humans only know”.
-“すべては神のみぞ知る”|の間違いじゃ──？=Don’t you mean “God only knows”?
+“すべては神のみぞ知る”|の間違いじゃ──？=Don’t you mean “god only knows”?
 わっちから見れば、|どちらも変わらぬ。|くふふ。=From my point of view, they are both no different. Heh-heh-heh.
 で、どうするんだい？=So, what’s it gonna be?
 かまどに投資する=Invest in the oven
@@ -5392,7 +5392,7 @@
 うかつな契約条件を出す方が悪い。|それに、損はしておらんはずじゃ。|わっちのおかげで満員だったじゃろ？='Tis his own fault for carelessly issuing such terms. Besides, I’d hardly call that a loss. Thanks to me, they were full, no?
 それはボクも見ていたよ。|ホロ目当ての客が|いっぱい集まっていたね。=I noticed that too. There were a lot of customers there after you.
 そうじゃろう。|わっちの美貌、見直したかや？|ホレ直してもかまわんぞ。=Indeed. Have you re-estimated my good looks? I don’t mind if you fall for me a second time.
-うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... wait. What is “fall a second time” supposed to mean?!
+うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... Wait. What is “fall a second time” supposed to mean?!
 “ホレ直す”とは、つまり|“もともとわっちにホレている”|という意味じゃ。=“A second time” means “already fallen for me to begin with”.
 だから心配で、わざわざ様子を|見にきたのじゃろう？=That’s why you were worried, and came out of your way to check on things, correct?
 いや、あれは、その……。=No, that was, um...
@@ -6211,7 +6211,7 @@
 迂闊な契約条件を出す方が悪い。|それに、損はしておらんはずじゃ。|わっちのおかげで満員だったじゃろ？='Tis his own fault for carelessly issuing such terms. Besides, I’d hardly call that a loss. Thanks to me, they were full, no?
 それはボクも見ていたよ。|ホロ目当ての客が|いっぱい集まっていたね。=I noticed that too. There were a lot of customers there after you.
 そうじゃろう。|わっちの美貌、見直したかや？|ホレ直してもかまわんぞ。=Indeed. Have you re-estimated my good looks? I don’t mind if you fall for me a second time.
-うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... wait. What is “fall a second time” supposed to mean?!
+うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... Wait. What is “fall a second time” supposed to mean?!
 “ホレ直す”とは、つまり|“もともとわっちにホレている”|という意味じゃ。=“A second time”, means “already fallen for me to begin with”.
 だから心配で、わざわざ様子を|見にきたのじゃろう？=That’s why you were worried, and came out of your way to check on things, no?
 いや、あれは、その……。=No, that was, um...
@@ -7225,7 +7225,7 @@
 !FILE:event/ev_sys/t01_aima_pub.wsb#untested
 吟遊詩人と話す=Talk to the Minstrel
 いらっしゃいませ。=Welcome.
-ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song you accompany your wine?
+ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
 最近、町の様子はどうです？=How's town these days?
 おやおや、無粋な人だね。|吟遊詩人に歌を頼まないとは。=Dear me, what an unromantic man.|Not asking for a minstrel's song.
@@ -7233,14 +7233,14 @@
 それはもったいない。|そんな話を聞くと、|いろいろ教えてやりたくなる。=What a waste.|Hearing that makes me want to inform you of the world.
 ええ、お願いします。|町の噂とかが|商人にとって大事なんです。=Aye, please do.|What rumors are going around is most important information for a merchant.
 …………|……………………。=......|..........
-そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early for you.
-そうじゃな。|わっちは陽気な歌が聞きたい。=Truly.|I for one, would like to hear a merry song.
+そういう意味ではないのだがね。|まだ君には少し早いかな。=That was not what I meant.|Perhaps it’s still a little too early|for you.
+そうじゃな。|わっちは陽気な歌が聞きたい。=Right. I would like to hear a merry song.
 それでは、とっておきの歌を|美しき女性のために。=Then, I will perform my best song for the beautiful lady.
-吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for the perfect wife.
+吟遊詩人が歌ってくれたのは、|うっかり者の騎士が|理想の妻を探すという話だった。=The bard sang us a song about a careless knight who was looking for|the perfect wife.
 騎士は行く先々で|ひと目ぼれをしては|いきなり結婚を申し込んでゆく。=Wherever he went, he would fall in love at first glance and propose straight away.
 ところが相手は人間ではない。|熊だったり、鳥だったり、|鹿だったりする。=But his sweethearts weren't human.|They were bears, and birds, and deer.
 １０人目に求婚した相手は|巨大な雌の狐だったのだが、|ついに結婚を承諾してもらえる。=The tenth he courted was a huge vixen, who finally accepted his proposal.
-すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden, and they end up married.
+すると、雌狐は美しい少女へと|姿を変えて、騎士の元に|嫁ぐことになるという結末だった。=Thereupon the vixen turns into a beautiful maiden and they end up married.
 うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. 'Tis a delightful song.|The story is rather foolish, but it certainly stays with you.
 そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Tips are also welcome.#tc
 !FILE:event/ev_sys/t04_seab_pub.wsb
@@ -7333,7 +7333,7 @@
 もし、荷馬車の借金を|返し終わったら、|またこの酒場まで会いにきてくれ。=If you manage to pay off the cart, come find me here again.
 ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
-どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fare you? Using a cart for trade is a world away from peddling, isn't it?#not tested
+どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fare you? Using a cart for trade is a world away from peddling, isn't it?
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
 そうだな。だからといって、|あまり欲をかかないほうがいい。=That you are. But even so, take care not to get greedy.
 地道にやっていれば|損することは、まずないからな。|がんばれよ。=If you work hard and steady, you're not likely to lose your earnings. Good luck.
