@@ -537,7 +537,7 @@
 特産品　銀の短剣=Special: Silver Dagger
 銀の短剣といえば、ドルトンクの|特産品として有名らしいよ。|護身用にも装飾品としても使える|から需要も高いらしい。=Doltonkh’s famed for its silver daggers. Because they can be used both for self-defence as well as an accessory, demand seems to be high.
 特産品　絵画=Special: Painting
-絵画ならタルリッヒが特産品だろ|うな。|美術品なんかの工房も多く品揃え|もいいよ。=When it comes to paintings, Tarlich are experts. It’s home to many different artist workshops, so there’s a good range of them too.
+絵画ならタルリッヒが特産品だろ|うな。|美術品なんかの工房も多く品揃え|もいいよ。=When it comes to paintings, Tarlich are the experts. It’s home to many different artist workshops, so there’s a good range of them too.
 特産品　竜の脚=Special: Dragon Leg
 竜の脚……竜の脚ねえ。|確かマールケで手に入るって噂を|聞いたよ。|ただ噂は噂なんで自分で確かめて|見るんだな。=Dragon’s leg... Now there’s a toughie. I’ve heard rumors that you can buy them in Mahlke, but it might be nothing more than a rumor, so you’d have to go and find out for yourself.
 特産品　薬品=Special: Medicine
@@ -573,7 +573,7 @@
 小麦が超品薄？=Wheat Shortage?
 メリンツでは今、小麦がものすご|く不足しているらしい。|なんと通常の４倍の価格がついて|るみたいだ。|３０日間位は不足したままだろう。=It seems there’s a huge shortage of wheat in Melintz right now. They say it’s quadrupled in value. It looks like the shortage is going to last for another 30 days, too.
 食器が安い？=Tableware is Cheap?
-セアベルクでは食器の値段が安い|って聞いたよ。|１／２位の値段で買い付けられる|って話だよ。|２５日はこの状況が続くと思うな。=I heard that tableware is going cheap in Seabelk. Apparently you can buy it for around half the normal price. I can’t see it going on for much longer than 25 days.
+セアベルクでは食器の値段が安い|って聞いたよ。|１／２位の値段で買い付けられる|って話だよ。|２５日はこの状況が続くと思うな。=I heard that tableware is going cheap in Seabelk. Apparently you can buy it for around half the normal price.|I can’t see it going on for much longer than 25 days.
 ハムがチャンス？= An Opportunity in Ham?
 最近セアベルクではハムを高く売|れるようだよ。|１．４倍の価格くらいで交渉出来|るんじゃないかな？|４週間程はいい話が続くと思うな。=It seems ham has been selling for a good price in Seabelk lately. You can talk your way to selling it off for around 1.4x the usual. But I don’t think it’s going to hold for much more than 4 weeks.
 大理石像が買い時？=A Good Time for Marble Statues?
