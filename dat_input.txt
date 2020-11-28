@@ -23,7 +23,7 @@
 【取引先商人の家】||いつもお世話になっている塩商人の店です。=[Client Trader's House]|A shop run by a helpful salt merchant.
 【村長の家】||デッセル村の村長の家です。=[Village Leader's House]|Where the head of Dessel village lives.
 【骨董商】||情報通の骨董商のお店です。=[Antique Shop]|A shop run by a well-informed antique dealer.
-【グスタの家】||グスタに会って話を聞くことができます。=[Gusuta's House]|Meet and speak with Gusuta.
+【グスタの家】||グスタに会って話を聞くことができます。=[Gusta's House]|Meet and speak with Gusta.
 【屋敷】　※イベント用です（仮）=[Mansion]|*For an event.
 【吟遊詩人の家】||ロウメスに会って話を聞くことができます。=[Bard's House]|Meet and speak with Loumes.
 【湖】||村の西にある湖に行くことができます。=[Lake]|The lake located west of the village.
@@ -648,8 +648,8 @@
 大蛇に呑まれて滅びた=Swallowed by the Serpent
 “古狼の森”と呼ばれる森は、|２００年以上前に“大蛇”に|呑まれて滅びたという伝承が|残っている。=According to legend, the “Ancient Forest” was destroyed by a “giant serpent” over 200 years ago.
 グスタに聞いた年代記作家の噂=From the Chronicler Gusta
-西の海岸地方に、異教の文献を|集めている金持ちがいるらしい。|どこかの町には、昔の伝承を歌|うという吟遊詩人がいるらしい。=There is some rich person on the west coast who collects pagan texts. And, there's a bard somewhere who sings of old legends.
-年代記作家に会いにゆく=Meeting the Chronicler
+西の海岸地方に、異教の文献を|集めている金持ちがいるらしい。|どこかの町には、昔の伝承を歌|うという吟遊詩人がいるらしい。=There is some rich person on the west coast who collects pagan texts, as well as a bard somewhere who sings of old legends.
+年代記作家に会いにゆく=Meeting a Chronicler
 ホロの仲間の狼たちの行方を|調べるために、もう１度、|年代記作家に会いにゆく。|何かの伝承が残っているかも|しれない。=Head to a chronicler to see if you can uncover any information on the whereabouts of Holo’s kin. There might be some folklore that didn’t seem relevant until now.
 アニスに聞いた獣たちの行方=Anise's Answer on a Location
 かつて、『セアベルク』の町に|ずぶ濡れの獣たちが東の森から|やってきた。彼らはしばらく|町で身体を乾かすと、やがて|西の海を渡っていった。=Many moons ago, a pack of beasts, their fur soaking wet, appeared in “Seabelk” having travelled from the forests to the east. They spent some time near town to dry their fur, then headed west, across the sea.
