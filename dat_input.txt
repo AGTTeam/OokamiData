@@ -376,7 +376,7 @@
 町情報　エーレ=Town Information: Ehre
 セアベルクの西の海を渡ると|大きな島があり、その島には|エーレと呼ばれる漁村がある。=Across the sea to the west of Seabelk is a large island with a fishing village called Ehre.
 町情報　ワーデン=Town Information: Warden
-マールケの村の近くにある高山を|越えてゆくとワーデンと呼ばれる|小さな村がある。=If you cross the high mountains near Mahlke, you'll come across a small village called Warden.
+マールケの村の近くにある高山を|越えてゆくとワーデンと呼ばれる|小さな村がある。=If you cross the tall mountains near Mahlke, you'll come across a small village called Warden.
 町情報　ユーベル=Town Information: Yubel
 シュリンケルの町の近くにある|鉱山を抜けていくとユーベルと|呼ばれる小さな村がある。=Past the mines near Schrinkel is a small village called Yubel.
 海鮮料理人対決！=Seafood Chef Battle!
@@ -656,7 +656,7 @@
 ロウメスに聞いた獣たちの行方=Loumas' Answer on a Location
 昔、『マールケ』の村に|ずぶ濡れの獣たちが西の森から|逃げてきた。|彼らは村で少し休んだあと、|山を越えて去っていった。=Over a hundred years ago, beasts with soaking wet fur came to “Mahlke”, fleeing the western forests. After a short rest near the village, they disappeared into the mountains.
 グスタに聞いた獣たちの行方=Gusta's Answer on a Location
-かつて、『シュリンケル』の町|にずぶ濡れの獣たちが北の森か|らはるばるやってきた。|彼らは住処の森を探す旅の途中|で、そのまま山を越えていった。=Long ago, a pack of soaking wet beasts stopped in the town of “Schrinkel”, having come from the faraway northern forests. They continued their travels over the mountains in search of a new place to call home.
+かつて、『シュリンケル』の町|にずぶ濡れの獣たちが北の森か|らはるばるやってきた。|彼らは住処の森を探す旅の途中|で、そのまま山を越えていった。=Long ago, a pack of soaking wet beasts stopped in the town of “Schrinkel”, having come from the faraway northern forests. They continued their travels over the mountains in search of a new home.
 酒場への情報料=Fee Owed to the Tavern
 エーレの酒場に、|銀貨２００００枚を渡さないと|情報を教えてくれない。=You must pay 20,000 silver coins to the barkeeper in Ehre to hear more information.
 ワーデンの酒場に、|銀貨２００００枚を渡さないと|情報を教えてくれない。=You must pay 20,000 silver coins to the barkeeper in Warden to hear more information.
