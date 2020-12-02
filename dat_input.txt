@@ -29,7 +29,7 @@
 【湖】||村の西にある湖に行くことができます。=[Lake]|The lake located west of the village.
 【屋敷】||アニスに会って話を聞くことができます。=[Mansion]|Meet and speak with Anise.
 【古狼の森】||ホロの故郷と思われる場所です。=[Ancient Forest]|Believed to be Holo's birthplace.
-【村長の家】||デッセル村の村長の家です。=[Village Leader's House]|Where the head of Dessel village lives.
+【村長の家】||デッセル村の村長の家です=[Village Leader's House]|Where the head of Dessel village lives.
 !FILE:goods.dat
 牛=Cow
 役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for food and milk.
