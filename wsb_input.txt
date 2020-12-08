@@ -144,7 +144,7 @@
 かなり広い森みたいだから、|すぐにホロの仲間が見つかるか|どうか、わからないけど。=It's supposed to be a large forest, so|I'm not sure if we'll meet your friends immediately.
 それは心配ありんせん。|近くまでゆけば、|あとは呼び合う方法がある。=Do not worry about that. If we get close enough, we will have the means to find each other.
 ああ、そうか。遠吠えだね。=Oh, right. Howling.
-そうじゃ。|山ひとつ向こうぐらいまでなら、|問題ありんせん。=Indeed. We should be able to find each other even on the opposite sides of a mountain.
+そうじゃ。|山ひとつ向こうぐらいまでなら、|問題ありんせん。=Indeed. We should be able to find each other even on opposite sides of a mountain.
 じゃが……。=Still...
 どうしたの、ホロ？=What's wrong, Holo?
 いくら呼びかけても、|応えが返ってこなかったらと|思うと……おそろしい。=When I think about how there might be|no one to return my call... I'm filled with fright.
@@ -2383,7 +2383,7 @@
 ああ、良かった。|荷馬車も馬も無事みたいだ。=Oh, good. Both the horse and the cart are safe.
 うむ、そのようじゃな。|少し馬の様子でも|見てきたらどうかや？=Hm, it seems so. But why not check on the horse?
 うん、そうだね。=Right, I'll do just that.
-ボクが馬に近づくと=As I approached, the horse 
+ボクが馬に近づくと=As I approached, the horse
 |人恋しそうに鼻面をよせてきた。|どうやら、心細かったらしい。=|affectionately raised his face.|He must've felt lonely.
 ボクが馬を見ている間、|ホロは荷台で|ごそごそと何かをやっていた。=While I checked on the horse, Holo started rummaging around in the cart.
 食べ物でも|探してるんだろうか？=Is she searching for something to eat?

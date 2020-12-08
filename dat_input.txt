@@ -380,7 +380,7 @@
 町情報　ユーベル=Town Information: Yubel
 シュリンケルの町の近くにある|鉱山を抜けていくとユーベルと|呼ばれる小さな村がある。=Past the mines near Schrinkel is a small village called Yubel.
 海鮮料理人対決！=Seafood Chef Battle!
-近頃メリンツで貝料理と魚料理で|料理人同士が対決してるって噂だ。|どちらかの食材への投資の話があ|るようだから、３０日以内にメリ|ンツの商館へ行ってみるといいよ。=Rumor has it that the cooks in Melintz are competing over shellfish and fish dishes. You might be able to invest in one of the ingredients if you go to the trading house in Melintz within the next 30 days.#Untested line length change
+近頃メリンツで貝料理と魚料理で|料理人同士が対決してるって噂だ。|どちらかの食材への投資の話があ|るようだから、３０日以内にメリ|ンツの商館へ行ってみるといいよ。=Rumor has it that the cooks in Melintz are competing over shellfish and fish dishes. You might be able to invest in one of the ingredients if you go to the trading house within the next 30 days.#Untested line length change
 “海鮮料理人対決！”の話=“Seafood Chef Battle!" Rumor
 最近噂のメリンツの海産料理人対|決の話だけど、料理人の腕として|は、貝料理人の方が上だって聞い|たよ。=About the recent rumor regarding the Seafood Chef Battle, I heard that the shellfish chefs are the ones with all the skill.
 ねえねえ？知ってる？メリンツの|海鮮料理対決。|魚料理人のほうは「幻の高級魚」|で勝負するみたいだけど、高そう|だし本当に美味しいのかしらね？=Hey, hey! Did you hear? The fish cooks are planning to compete with a super rare high-quality fish. It’s expensive all right, but does it really taste any good?
@@ -425,7 +425,7 @@
 マールケでの農作物買占めの噂、|聞いたかい？|飢饉がおこるとしたら大変だよな。|俺なら黙ってられないかもなぁ。=Have you heard the news about produce being bought up in Mahlke? If there is a famine, things will be tough. I’m not sure I could just sit back and watch that happen.
 マールケで聞いた飢饉への投資の|噂だけど、私も大きく投資してみ|るわ。|やっぱり困ってる人は見過ごせな|いものね。=About the talk at Mahkle of lending money to fight a famine, I'm going to go all in and make a large investment. I can't just overlook people who are in need.
 教会からの誘い=An Invite From The Church#The Church's Invite
-アイマベルグの商館でこんな投資|の噂があるって聞いたよ。|なんでも教会が大聖堂を建てるの|に３０日以内にお金が必要なんだ|ってさ。本当ならチャンスかな？=At the trading house in Eimeberg, I heard a rumor about such an investment. Apparently, the Church is building a great cathedral, and they need the money within 30 days. If that's true, wouldn't it be a great opportunity?
+アイマベルグの商館でこんな投資|の噂があるって聞いたよ。|なんでも教会が大聖堂を建てるの|に３０日以内にお金が必要なんだ|ってさ。本当ならチャンスかな？=At the trading house in Eimeberg, I heard a rumor about an investment. Apparently, the Church is building a great cathedral, and they need the money within 30 days. If that's true, wouldn't it be a great opportunity?
 “教会からの誘い”の話=“An Invite From The Church" Rumor
 アイマベルグに教会が建つという|話は知っていますかな？|わたしは熱心な正教徒ですから、|もちろん融資させていただきます。|立派な大聖堂が建つことでしょう。=Did you hear that they’re planning to build a church in Eimeberg? I'm an avid believer, so naturally, I plan to invest. I'm sure it will be a fine cathedral.
 アイマベルグでの教会への投資の|話だけど、どうも信憑性のある噂|のようだね。|どうだい、君も投資してみないか|い？=It looks like the rumor about the cathedral in Eimeberg is credible. How about it? Why don't you invest too?
@@ -434,7 +434,7 @@
 アイマベルグでの教会への投資の|話だけど、どうも裏で何かあるん|じゃないかって噂もあるみたい。|投資するのは考えものかもな。=About in the cathedral in Eimeberg, there’s a rumor that there might be something else behind it. You might wanna think twice about investing.
 アイマベルグに教会が建つって噂|だけど投資してみたいなら商館に|行ってみるといい。|でも教会関係者の話が聞けると|したら注意深く聞いた方がいいよ。=If you want to invest in building the cathedral in Eimeberg, you should go to the trading house. But, if you end up talking to one of the clergymen, you’d best keep an eye on what you’re agreeing to.
 砦づくり=Building a Stronghold
-ロマネスブルグで、国境近くに大|きな砦を作るのに木材商人が投資|を求めてるっていう噂を聞いたよ。|興味があるなら３０日以内にロマ|ネスブルグの商館に行ってみなよ。=I heard a rumor that there’s a timber merchant in Romannesburg looking for investments about a large stronghold that’s being built near the border. If you're interested, go to the Romannesburg trading house within 30 days.
+ロマネスブルグで、国境近くに大|きな砦を作るのに木材商人が投資|を求めてるっていう噂を聞いたよ。|興味があるなら３０日以内にロマ|ネスブルグの商館に行ってみなよ。=I heard a rumor that there’s a timber merchant in Romannesburg looking for investments about a large stronghold that’s being built near the border. If you're interested, head to the trading house within 30 days.
 “砦づくり”の話=“Building a Stronghold" Rumor
 ロマネスブルグで砦を作るって噂|は聞いたかい？|なんでも東の国境付近は政情不安|で大変らしいから、砦を作るって|話は本当なんじゃないかな。=Have you heard the news about the stronghold that’s supposed to be being built in Romannesburg? It seems that things are pretty bad at the eastern border because of political unrest, so the rumor might just be true.
 砦を作るっていうロマネスブルグ|の噂は聞いたかい？|実際にはもうデカい砦が作られ始|めてるって話も聞いてるぜ。|本当か嘘かはわからないけどね。=Did you hear the rumor in Romannesburg about a stronghold being built? To be honest, I heard that they’ve already started working on some kinda massive building project, but I don't know whether that's true or not.
@@ -452,16 +452,16 @@
 シュリンケルの金鉱への投資の噂|話だけど、あの商人は結構やり手|のようだね。|傲慢な感じが鼻につくのが、ちょ|っとなぁ･･･。='Bout the rumor of investin’ in the gold mine near Schrinkel, the requester seems to be some hotshot merchant. No doubt he’s gonna be arrogant...
 金鉱が見つかったって噂知ってる？|シュリンケル近辺で見つかったや|つさ。|あの話小口で投資しても儲けがで|るかどうか微妙な感じだな。|=Did ya hear the rumor about the new gold mine? The one that was said to have been found near Shrinkel. I’m not too convinced that you could really make a profit if ya only put in a small amount.
 金の切れ目は縁の切れ目=No Money, No Way#Out of pocket, out of mind
-ヴァルアリーの商館に融資を募っ|てる商人が来ているようだね。|金鉱についての話みたいだったよ。|急ぎの話みたいだから３０日以内|に商館を訪ねてみたらどうだい？=There’s a merchant asking for financing help at the trading house in Valerie. Something to do with a gold mine, apparently. He seemed to be in quite a hurry, so you should probably head to the trading house within the next 30 days.
+ヴァルアリーの商館に融資を募っ|てる商人が来ているようだね。|金鉱についての話みたいだったよ。|急ぎの話みたいだから３０日以内|に商館を訪ねてみたらどうだい？=There’s a merchant asking for financing help at the trading house in Valerie. Something to do with a gold mine, apparently. He seemed to be in quite a hurry, so you should probably head to there within the next 30 days.
 “金の切れ目は縁の切れ目”の話=“No Money, No Way" Rumor
 ヴァルアリーの融資の噂は知って|るかい？|何でも金鉱が乗っ取られそうだか|ら融資して欲しいってことらしい。|融資額次第では儲けが違いそうだ。=Have you heard the news about the guy looking for a loan in Valerie? Apparently, he’s asking for anything he can get to stop the gold mine being taken over. The profit’s going to depend on the amount you put in, though.
-商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|金鉱自体は元の所有者の方が有利|だから融資は大口でも小口でも儲|かるだろう。あとはお金次第さ。=Did ya hear about the merchant looking for a loan in Valerie? Since the gold mine is gonna be more lucrative in the hands of the original owner, you can make a profit whether ya give a small or large loan. It all comes down to money.
+商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|金鉱自体は元の所有者の方が有利|だから融資は大口でも小口でも儲|かるだろう。あとはお金次第さ。=Did ya hear about the merchant looking for a loan in Valerie? Since the gold mine is gonna be more lucrative in the hands of the original owner, you can make a profit whether ya give a small or large loan.
 ヴァルアリーでの融資の話、俺の|手元に銀貨があれば大きく融資し|てやって恩をきせてやるのにな。|銀貨は少しでも恩は恩になるんだ|けどな。='Bout the loan in Valerie, if I had any money to hand, I’d loan him a large amount and put him in my favor. Even a few coins is a debt, a debt which he’ll have to pay back.
 ヴァルアリーの融資の噂は知って|るかい？|何でも金鉱が乗っ取られそうだか|ら融資して欲しいってことらしい。|融資してももう手遅れだろうがな。=Have you heard the news about the guy looking for a loan in Valerie? Apparently, he’s asking for anything he can get to stop the gold mine being taken over. Even if he gets the money, it’s too late now.
 商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|きっと誰かが大金を貸してやらな|いと金鉱を失うことになるだろう。|だが投資する人は少ないだろうよ。=Did ya hear about the merchant looking for a loan? It’s a rumor going around in Valerie. No doubt if he doesn’t get a large sum of money, he’s gonna lose the gold mine. But, whose gonna lend him anything like that?
 ヴァルアリーでの融資の話、俺の|手元に銀貨があっても融資はしな|いさ。|あいつには昔煮え湯を飲まされた|からな、いい気味さ。='Bout the loan in Valerie, even if I had the money to hand, I wouldn’t give him nuffin. That guy betrayed me once before, so it feels good to watch ‘im get a taste of his own medicine.
 お菓子開発競争=Confectionary Contest
-クライシュタインの商館へ行くと|投資に関する話が聞けるみたいね。|何でもお菓子の新商品を出すのに|投資してくれる人を募ってるって。|３０日以内なら話を聞けるはずよ。=If you go to the trading house in Kleistein, you can hear about an investment opportunity. They’re looking for someone to invest in a new confectionary product. You should be able to hear more if you go within the next 30 days.
+クライシュタインの商館へ行くと|投資に関する話が聞けるみたいね。|何でもお菓子の新商品を出すのに|投資してくれる人を募ってるって。|３０日以内なら話を聞けるはずよ。=If you go to the trading house in Kleistein, you can hear about an investment opportunity for a new confectionary product. You should be able to hear more if you go within the next 30 days.
 “お菓子開発競争”の話=“Confectionary Contest" Rumor
 クライシュタインの新製品のお菓|子はどんなのが出るかな？|世の中美味しいお菓子を求めてる|から値段が高くてもみんな買うと|思うよ。=I wonder what the new product that’s supposed to be coming out in Kleistein is like? There isn’t anyone in the world who doesn’t like tasty sweets, so I think people will buy it, no matter the price.
 クライシュタインは今お菓子が流|行ってるようですわね。|わたしは高価でもゴージャスなお|菓子が食べてみたいわ。|わたくし安価なものはお断りよ。=It seems that confectionaries are currently quite popular in Kleistein. I’d much prefer something that was expensive, but sumptuous. I just can’t stand cheap things.
@@ -470,7 +470,7 @@
 クライシュタインは今お菓子が流|行ってるようですわね。|わたしは高価なお菓子もいいけど、|安価でも、もっとホッとするよう|な素朴なお菓子が食べたいわ。=It seems that confectionaries are currently quite popular in Kleistein. I am partial to luxury sweets, but I think I’d rather a simple, more reassuring sweet, even if it’s only cheap.
 「美味しいけど高い」がいいか、|「味は普通だけど安い」がいいか。|悩んじゃうわね。|でも安いお菓子の方がクライシュ|タインの名物にならないかしら？=Is “delicious but expensive” better than “average taste, but cheap”? Or maybe the other way around? It’s stressing me out. But, maybe if it’s cheaper, it could become one of Kleistein’s specialties?
 海千山千=A Slippery Fellow
-セアベルクの商館で交易事業への|投資話が出てるようだよ。|３０日以内に商館に行ってみれば|詳しい話が聞けるだろうね。|話だけでも聞いてみたらどうかな？=There seems to be talk of investing in a trading opportunity at the trade house in Seabelk. If you go there within the next 30 days, you should be able to find out more. Why not pop round just to see what it’s all about?
+セアベルクの商館で交易事業への|投資話が出てるようだよ。|３０日以内に商館に行ってみれば|詳しい話が聞けるだろうね。|話だけでも聞いてみたらどうかな？=There seems to be talk of investing in a trading opportunity at the trade house in Seabelk. If you go there within the next 30 days, you should be able to find out more. Why not pop round to see what it’s all about?
 “海千山千”の話=“A Slippery Fellow" Rumor
 セアベルク付近の海域では海賊が|出没していたみたいだね。|でも最近は以前に比べて、数が減|ったように見えるけど、どうなん|だろうね。=The waters around Seabelk have long been full of pirates. But I heard that recently, there’s less of them than there were before. I wonder if it’s true?
 セアベルク付近での男達の会話。|「最近海賊家業が儲からないな」|「暴れすぎたせいで船を使うヤツ|がいなくなったせいだ」|「これからは山賊になろうぜ！」=I heard some guys talking near Seabelk. “Being a pirate ain’t been so profitable lately.” “People just ain’t usin’ boats no more ‘cuz of all the trouble.” “Let’s become bandits instead!”
