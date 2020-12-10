@@ -1963,9 +1963,9 @@
 （今のホロを１人にするなんて、|　できるわけがない……！）=(There’s no way I could leave Holo by herself right now...!)
 !FILE:event/ev_act/act_450_kokyou_settoku_clr_dorutonku_sakaba_talk.wsb
 この酒場によく来てくれてた|サーセンって人は|とんでもない男だったんですよ。=Sarsen, who used to come to this tavern a lot, was really a most despicable man.
-なんでも異教の魔術師で、|夜な夜な恐ろしい儀式を|してたらしいんです。=He was a pagan sorcerer who performed all these terrifying rituals night after night.
-しかも若い女を生きたまま|異教の神にささげて、|生き血をすするんですって！=And he even offered a young girl to his pagan god then drank her blood!
-こわいですよね～～。|私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=How scary～～ He’d been trying to make a move on me for a long time, but I'm glad I turned him down...
+なんでも異教の魔術師で、|夜な夜な恐ろしい儀式を|してたらしいんです。=He was a pagan sorcerer who performed all sorts of terrifying rituals night after night.
+しかも若い女を生きたまま|異教の神にささげて、|生き血をすするんですって！=I heard that he even offered a young girl to his pagan god and drank her blood!
+こわいですよね～～。 私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=How scary～～ He’d been trying to make a move on me for a long time, but I'm glad I turned him down...
 !FILE:event/ev_act/act_450_kokyou_settoku_clr_merusu_sakaba_talk.wsb#Final
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
 あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=My, it’s nice to see you again.|Did you visit Shila?|Find anything nice?
@@ -2103,17 +2103,17 @@
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
 !FILE:event/ev_act/act_rt1_rt2_kakuteigo_gakusya_talk.wsb
-ホロ様にお会いできたことで、|わしの人生には|何の悔いもなくなりました。=Now that I’ve met you, esteemed Holo, I have no longer have regrets about my life.
+ホロ様にお会いできたことで、|わしの人生には|何の悔いもなくなりました。=Now that I’ve met you, esteemed Holo,|I no longer have any regrets about my life.
 正教の神は唯一のものではなく、|世界にはたくさんの異教の神が|いるとわかったのですからな。=I realized that the orthodox god is not the only one, but that there are also many pagan gods in the world.
-わしの研究は間違っていなかったと|確信を持てました。|本当に感謝しております。=Now I can say with confidence that my research was not wrong. I am truly grateful.
+わしの研究は間違っていなかったと|確信を持てました。|本当に感謝しております。=Now I can say with confidence that my research was not wrong.|I am truly grateful.
 !FILE:event/ev_act/act_rt1_rt3_kakuteigo_sizin_talk.wsb
-いま、新作の歌を作っていてね。|さすらいの王子と、|それをたぶらかす魔女。=I'm writing a new song right now. It features a wandering prince and the witch who seduces him.
+いま、新作の歌を作っていてね。|さすらいの王子と、|それをたぶらかす魔女。=I'm writing a new song right now.|It features a wandering prince and the witch who seduces him.
 そして、その魔女を|こらしめる騎士の物語なんだよ。=And so, the story tells of a knight who comes to teach the witch a lesson.
-へえ、面白そうですね。=Ho, it sounds interesting.
+へえ、面白そうですね。=Oh, sounds interesting.
 …………|………………………=......
 たわけが。=Fool.
 そうそう。王子は少し|鈍いところがあるからね。|魔女も大変だろう？=Right, right. The prince can be a little slow. It must be tough for the witch, don’t you think?
-まったくじゃ。|たわけの騎士も苦労するじゃろ？=Truly.|But I’m sure that buffoon of a knight must have his fair share of hardships too?
+まったくじゃ。|たわけの騎士も苦労するじゃろ？=Truly. But I’m sure that buffoon of a knight must have his fair share of hardships too, no?
 ええ、本当にね。=Yes, indeed.
 !FILE:event/ev_act/act_rt2_000_sizin_kiku.wsb#Final
 おや、いらっしゃい。|私の顔を見にきてくれたのかな？|うれしいね。歓迎するよ。=Oh, welcome. Did you come because you missed me～? I'm so happy. Come in.
@@ -2244,13 +2244,13 @@
 ずっとホロさんと|旅をしてるんですか？=Have you been traveling with Ms. Holo all this time?
 ええ、そうですよ。=Yes, that’s right.
 やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You seem a lot closer than when we first met.
-いまのおふたりは、|とってもお似合いな感じがしますよ。=When see the two of you together now, I can’t help but think you make a great couple.
-やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You seem to be on better terms compared to when we first met.
-ふたりっきりの旅なら、|いろいろロマンスが生まれますよね。=A two-person trip can give rise to a lot of romantic situations, right?
+いまのおふたりは、|とってもお似合いな感じがしますよ。=When see the two of you together now,|I can’t help but think you make a great couple.
+やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You seem to be on better terms compared to when we|first met.
+ふたりっきりの旅なら、|いろいろロマンスが生まれますよね。=A two-person trip can give rise to a lot of romantic situations, no?
 それで、そんなに|仲が良さそうなんですね。=That must be why you seem so close.
 ふたりっきりの旅を|ずっと続けられるなんて|よっぽど気が合うんでしょうね。=I’ll bet as you continue traveling together with just the two of you, you might really hit it off.
-そうなんですか。|でも、初めてお会いしたときと|あんまり変らない気もしますね。=Is that right? But things don’t seem to have changed much from when we first met.
-てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that romance was going to sprout.
+そうなんですか。|でも、初めてお会いしたときと|あんまり変らない気もしますね。=Is that right?|But, things don’t seem to have changed much from when we first met.
+てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that a romance was going to sprout...
 !FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb
 おお、ホロ様。|このようなあばら家にわざわざ|足を運んでいただき、恐縮です。=O esteemed Holo!|I'm honored that you would step inside this lousy shack I call my home.
 『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learned anything about the “Ancient Forest”?
@@ -2776,7 +2776,7 @@
 まったく情けないの……。=It is most pitiful...
 !FILE:event/ev_act/hasan_end_player_only.wsb
 しまった……！=Dammit...!
-いま持ってる財産だと、|これ以上、どんな商品を|仕入れることもできやしない。=I'll never be able to buy anything with only this little money I have.
+いま持ってる財産だと、|これ以上、どんな商品を|仕入れることもできやしない。=I'll never be able to buy anything with only this small amount of money.
 これじゃあ、|もう行商人は続けられないや……。=I guess my days of being a merchant are over...
 !FILE:event/ev_act/opening_test_script2.wsb
 これはオープニングのテスト=
@@ -4745,7 +4745,7 @@
 わっちに肩を抱かれて、|嬉しいじゃろ？=You’re enjoying holding me, aren’t you?
 え……っ！？|肩を貸しているのはボクで、|ホロは……。=Wha--!? I’m just lending you my shoulder, you’re the one who’s...
 照れるでない。ぬしが望むなら、|もっと好きな抱き方で|いいんじゃがな？=No need to be shy. If you want, why don’t you embrace me as you’d like?
-…………。|それは、ホロ。|自分が楽をしたいだけじゃ……？=......|Holo. Isn’t it that you just can’t be bothered walking anymore...?#tc Originally had ‘make yourself more comfortable’, but didn’t think it fit with the narrators statement at the end.
+…………。|それは、ホロ。|自分が楽をしたいだけじゃ……？=......|Holo. Isn’t it that you just can’t be bothered to walk anymore...?#tc Originally had ‘make yourself more comfortable’, but didn’t think it fit with the narrators statement at the end.
 くふふふ、照れることありんせん。|ぬしの顔、真っ赤になっていんす。|さては想像しておるな？=Heh-heh-heh, don’t be shy. Your face has gone quite red. What were you imagining?
 わっちを両の手で|しっかりとかき抱き、夜の町を|２人で歩いている所を……。=Holding me tight in both hands, two people walking through the town at night...
 し、していないってば！|第一、顔が赤いのはホロのほうだよ。|お酒で真っ赤になって……。=T-That’s not it! To start with, you’re the one with a red face. It’s turned red from the alcohol...
@@ -7300,10 +7300,10 @@
 いいえ、ボクも知りませんよ。=No, I don't know either.
 本当ですか？|だったら、教えてくださいよ。|みんなに聞かれて、困ってるんです。=Really?|Then, could you fill me in? I never know what to say when people ask me.
 そうですか……。|いったい|何をやらかしたんでしょうね？=Is that so...?|I wonder what on earth he did.
-この酒場によく来てくれてた|サーセンって人は|とんでもない男だったんですよ。=Sarsen, who used to come to this tavern a lot, was really a most despicable man.#untested
-なんでも異教の魔術師で、|夜な夜な恐ろしい儀式を|してたらしいんです。=He was a pagan sorcerer who performed all these terrifying rituals night after night.
-しかも若い女を生きたまま|異教の神にささげて、|生き血をすするんですって！=And he even offered a young girl to his pagan god then drank her blood!
-こわいですよね～～。|私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=How scary～～|He’d been trying to make a move on me for a long time, but I'm glad I turned him down...
+この酒場によく来てくれてた|サーセンって人は|とんでもない男だったんですよ。=Sarsen, who used to come to this tavern a lot, was really a most despicable man.
+なんでも異教の魔術師で、|夜な夜な恐ろしい儀式を|してたらしいんです。=He was a pagan sorcerer who performed all sorts of terrifying rituals night after night.
+しかも若い女を生きたまま|異教の神にささげて、|生き血をすするんですって！=I heard that he even offered a young girl to his pagan god and drank her blood!
+こわいですよね～～。|私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=How scary～～ He’d been trying to make a move on me for a long time, but I'm glad I turned him down...
 それじゃ、|よろしくお願いします。=Well then, we’ll be counting on you.
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Understood. We shall escort you to the neighboring town of Valerie and back.
 !FILE:event/ev_sys/t14_shul_pub.wsb

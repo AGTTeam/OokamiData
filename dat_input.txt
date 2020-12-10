@@ -525,7 +525,7 @@
 特産品　麻生地=Special: Flax Tog
 ナウレナスはあまり目立ったもの|が無いけど、しいて言うなら麻生|地が特産品みたいだな。|麻だけはいいものが揃ってるよう|だよ。=Naulenas isn’t particularly remarkable for anything, but they specialize in flax togs. Flax is pretty much the only thing they’ve got going for them there.
 特産品　毛織生地=Special: Woolen Tog
-毛織物ならメルス・クリッツだろ|うね。|寒い地方に売りつけるには、あそ|こで買い付けていくのを勧めるよ。=Mels-Kritz is the number one spot for woolen togs. If you’re looking for something to sell off in cold regions, I recommend these.
+毛織物ならメルス・クリッツだろ|うね。|寒い地方に売りつけるには、あそ|こで買い付けていくのを勧めるよ。=Mels-Kritz is the number one spot for woolen togs. If you’re looking for something to sell off in cold regions,|I recommend these.
 特産品　ルビー=Special: Ruby
 ルビーはクリーグルで買い付けら|れるっていう話だよ。|まだあまり知られてないけど確か|な情報らしい。=Rumor has it you can buy rubies in Kriegel. It’s not well-known info yet, but it seems to be reliable.
 特産品　ダイヤモンド=Special: Diamond
@@ -549,7 +549,7 @@
 特産品　食器=Special: Tableware
 セアベルクなら食器が特産品とい|う噂だよ。|セアベルクには輸入品が多いけど、|食器もそのひとつって話さ。=There’s a rumor that tableware is a local specialty of Seabelk’s. They import a great many goods, and tableware is but one of them.
 特産品　蹄鉄=Special: Horseshoe
-蹄鉄ならロマネスブルグの特産品|だね。|あそこは荷馬車を引いた商人も多|く訪れるから需要も高いし、品質|もいいから他の町でも売れるさ。=Horseshoes are a specialty of Romannesburg. There are plenty of wagon-using merchants in the region so demand is high, but because the quality is good, they also sell well in other towns.
+蹄鉄ならロマネスブルグの特産品|だね。|あそこは荷馬車を引いた商人も多|く訪れるから需要も高いし、品質|もいいから他の町でも売れるさ。=Horseshoes are a specialty of Romannesburg. There are plenty of wagon-using merchants in the region so demand is high, but because they’re of good quality, they sell well in other towns too.
 特産品　楽器=Special: Instrument
 クライシュタインでは楽器が特産|品といえるだろうな。|音にも流行にも敏感な町さ。=Musical instruments are a specialty of Kleistein. It’s a city that’s well in-tune to both sound and the latest fashions.
 特産品　サフラン=Special: Saffron
@@ -609,7 +609,7 @@
 鶏がうまい？=Finger-Licking Chicken?#Chicken is good/tasty. I threw in a reference to KFC, but feel free to remove if it seems inappropriate.
 デッセルの町で近頃、鶏を安く仕|入れられるという噂を聞いてるぜ。|２５日くらいは半値で入手できる|ようだから俺たちにも美味しい話|だな。=Rumor has it that you can currently buy chicken in Dessel village on the cheap. I heard that it’ll be half price for the next 25 days or so, so it’s a pretty tasty deal.
 デッセルで商品高騰中=Dessel Inflation
-デッセルでは最近物価が上昇して|いるという話ですよ。|不作の影響が若干出たようですね。|１ヶ月の間は全体的に値段が上る|でしょうから売り時なのかも。=Prices have been on the up in Dessel lately. It looks like it’s the aftereffect of a poor harvest. They’re going to stay that well for the next month or so at least, so now might be a good chance to sell things off.
+デッセルでは最近物価が上昇して|いるという話ですよ。|不作の影響が若干出たようですね。|１ヶ月の間は全体的に値段が上る|でしょうから売り時なのかも。=Prices have been on the up in Dessel lately. It looks like it’s the after- effect of a poor harvest. They’re going to stay that way for the next month or so at least, so now might be a good chance to sell things off.
 豚の価格が安い？=Pigs are Cheap?
 マールケでは今、豚を安く仕入れ|られるようだよ。|１／２位の価格で買い付けられる|って話みたいだ。|２５日間くらいは安いだろうね。=You can buy pigs on the cheap in Mahlke. Apparently, they’re about 50% off right now, but only for the next 25 days.
 マールケで丸儲け？=Mahlke is Profitable?
