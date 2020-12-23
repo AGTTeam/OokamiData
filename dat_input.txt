@@ -337,7 +337,7 @@
 町情報　セアベルク=Town Information: Seabelk
 北西にあるセアベルクって町は活|気のある町だね。|貿易が盛んで商品だけでなく、|酒場なんかは商人や船乗りたちで|いつも賑わってるよ。=The northwestern town of Seabelk is a lively one. Trade there is thriving, and the taverns are always packed with merchants and sailors.
 町情報　タルリッヒ=Town Information: Tarlich
-ヴィンヘンから南東にある町。|芸術の町と呼ばれている。|美術品や調度品などが売られてい|る。=Located southeast of Vinchen, people call it the home of art. |Goods like paintings and furniture are sold there.
+ヴィンヘンから南東にある町。|芸術の町と呼ばれている。|美術品や調度品などが売られてい|る。=Located southeast of Vinchen, people call it the home of art. |Goods like paintings and furniture|are sold there.
 町情報　メルス・クリッツ=Town Information: Mels-Kritz
 メルス・クリッツっていう町から|北へ行くとそこからは寒さが厳し|くなる。|毛皮なんかはそこで仕入れてから|行くといいと思うぜ。=North of Mels-Kritz, it gets bitterly cold. I think it's a good idea to stock up on furs before venturing there.
 町情報　ロマネスブルグ=Town Information: Romannesburg
