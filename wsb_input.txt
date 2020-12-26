@@ -515,7 +515,7 @@
 ええっ!?=Huh!?
 ボクは驚きながらも、|なるほどそういうことだったのかと|納得していた。=While it had caught me off guard, I came to understand the rationale behind it.
 目的地を口頭で告げる、と書いて|あった裏には、『目的地が不明確』|という事情があったのだ。=That the contract had stated the destination would be conveyed in person, meant it was in fact, “undetermined”.
-それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how unexperienced I am that I hadn’t noticed it.#Should this be "inexperienced" - a more common word? [EMcI]
+それに気づけなかったボクが、|ただただ未熟なだけだ。=It shows how inexperienced I am that I hadn’t noticed it.
 ――さて、|これからどうするのかや？=--Well, what shall we do with you?
 とりあえず、|わっちは腹が減った。|何か食べさせてくりゃれ。=For the time being, I find myself peckish. Won’t you get me something to eat?
 !FILE:event/ev_act/act_050_horo_hajimete_tenshu_talk.wsb#Final
@@ -1060,7 +1060,7 @@
 あくまでも|商売の師匠と弟子の関係なんだ。=Our relationship was strictly that of a master and apprentice.
 ふむ。そんなものかや。=Hm. So that’s what it was.
 それ以上は|詳しく聞かれなかったので、|ボクは内心でホッとしていた……。=She didn't ask me anything else after that, which I was relieved about...
-!FILE:event/ev_act/act_200_rt1_situzi_kiku.wsb
+!FILE:event/ev_act/act_200_rt1_situzi_kiku.wsb#Final
 おや、あなたは？|当家に何か御用でしょうか？=Oh, welcome.|Do you have business at this estate?
 ボクは旅の行商人です。|少しお話を聞かせて|いただきたいのですが……。=I'm a traveling merchant.|There was something I wanted to enquire about...
 どのようなお話で？=And what might that be?
@@ -1354,7 +1354,7 @@
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Wonderful. We shall escort you to the neighboring town of Valerie and back.
 はい、お願いします。|だけど町で少し準備をしたり|するかもしれません。=We’ll be in your care.|Though, I might still have to take care of some preparations in town first.
 ええ、かまいませんよ。|東に行くときには、|私に声をかけてください。=Ah, certainly.|Whenever you’re ready to depart, just give me the word.
-!FILE:event/ev_act/act_260_rt3_sarsen_kiku_sarsen_talk.wsb
+!FILE:event/ev_act/act_260_rt3_sarsen_kiku_sarsen_talk.wsb#Final
 それじゃ、|よろしくお願いします。=Well then, we’ll be counting on you.
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Understood. We shall escort you to the neighboring town of Valerie and back.
 !FILE:event/ev_act/act_280_rt3_sarsen_syugeki.wsb#Final
@@ -1511,7 +1511,7 @@
 連れの少女については、|いまでも探してはいるので|あまり思いつめないほうがいい。=If it’s your companion you’re after, it’s best not to think about it too much.
 神は人が乗り越えられない試練は|与えないということを|忘れないように。=Remember that God does not give people trials which they can’t overcome.
 まだ動いてはダメだ。|血を流しすぎているのだ。|ゆっくり休んでいたほうがいい。=You mustn’t move about yet, you’re still bleeding too much.|You ought to rest a while.
-!FILE:event/ev_act/act_290_rt3_sonogo_wo_kiku_sinpu_talk.wsb
+!FILE:event/ev_act/act_290_rt3_sonogo_wo_kiku_sinpu_talk.wsb#Final
 連れの少女については、|いまでも探してはいるので|あまり思いつめないほうがいい。=If it’s your companion you’re after, it’s best not to think about it too much.
 神は人が乗り越えられない試練は|与えないということを|忘れないように。=Remember that God does not give people trials which they can’t overcome.
 !FILE:event/ev_act/act_300_rt3_dorutonku_ret_dorutonku_sakaba_talk.wsb#Final
@@ -1716,7 +1716,7 @@
 !FILE:event/ev_act/act_350_rt3_gakusya_kiku_ashidome.wsb#Final
 なあ……ぬしよ。=Say...
 わっちは疲れた。|今日はゆっくり休みたい……。=I feel tired.|I'd like to call it a day...
-!FILE:event/ev_act/act_380_rt3_daite.wsb
+!FILE:event/ev_act/act_380_rt3_daite.wsb#Final
 ホロがすっかり|元気をなくしてしまったので、|この村の宿屋に泊ることにした。=With Holo's spirits down, we ended up renting a room in the village.
 部屋に入ると、|ホロは食事もとらずに|ベッドにもぐりこんでしまった。=When we got to the room, Holo headed straight for bed without eating anything.
 ホロをなぐさめたかったのだが、|どう声をかけていいのか|わからなかった。=I wanted to cheer her up somehow, but I didn't know what to say.
@@ -2602,7 +2602,8 @@
 ボクはホロが、この旅をもう少し|続けようと言い出すのではないかと|期待していた。=I was hoping that she might suggest we continue this trip a little longer.
 たしかに契約はしたけど、|ホロにとってはあくまでも|形式的なものにすぎない、と。=I know we signed a contract, but wasn’t that just a formality to her?
 ぬしも駆け出しとはいえ、|商人じゃろう？　だったら、|取るべき態度はわかっておるはず。=You may be a novice, but you are still a merchant, correct? You should know how you ought to behave here.
-（きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=I'm sure that Holo is telling me to|abide by the contract and withdraw|with grace...)（だけど、商人はあきらめが悪い。|　断られてからが、|　本当の交渉の始まりなんだ！）=(But, merchants are bad at giving up. Once you've been turned down, that's when the real negotiations start!)
+（きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=I'm sure that Holo is telling me to|abide by the contract and withdraw|with grace...)
+（だけど、商人はあきらめが悪い。|　断られてからが、|　本当の交渉の始まりなんだ！）=(But, merchants are bad at giving up. Once you've been turned down, that's when the real negotiations start!)
 たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfil the contract. I don’t deny that.
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
 …………|……………………。=...|.......
@@ -7337,7 +7338,7 @@
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
 そうだな。だからといって、|あまり欲をかかないほうがいい。=That you are. But even so, take care not to get greedy.
 地道にやっていれば|損することは、まずないからな。|がんばれよ。=If you work hard and steady, you're not likely to lose your earnings. Good luck.
-!FILE:event/ev_sys/t22_mira_ichiba_asidome.wsb
+!FILE:event/ev_sys/t22_mira_ichiba_asidome.wsb#Final
 この時間では、|すでに市場は閉まっていた。=The market will already be closed by now.
 !FILE:event/ev_sys/t22_mira_mon2_asidome.wsb#Final
 何も商品を買ってないが|いいのかや？=Is it all right for you to not buy anything?
@@ -7348,14 +7349,14 @@
 昨夜の若い商人と|市場で会うのではないのかや？|酒場で約束してたじゃろう。=Are you not going to meet that young merchant at the market? You arranged thus last night at the tavern.
 よく知ってるね。|ホロには話してないのに。=You’re well-informed.|Even though I never told you about that...
 くふ。わっちの狼の耳は|なんでも良く聞こえるんじゃ。=Hee-hee. My wolf ears hear everything.
-!FILE:event/ev_sys/t22_mira_mon_asidome.wsb
+!FILE:event/ev_sys/t22_mira_mon_asidome.wsb#Final
 （森はこっちじゃないな……。|　村はずれの森って、どっちだ？）=(This isn’t right... How do I get to the forest on the edge of town, again?)
-!FILE:event/ev_sys/t22_mira_pub_asidome.wsb
+!FILE:event/ev_sys/t22_mira_pub_asidome.wsb#Final
 （酒場に寄るのはあとだな。|　とにかく、村はずれの森まで|　行ってみないと……）=(No, going to the tavern can come later. Right now, I need to head for the forest on the edge of town.)
 !FILE:event/ev_sys/t23_sila_act_440_mon2_asidome.wsb#Final
 …………|……………………。=...|......
 ぬしに話があるのじゃ。|今日はこの村でゆっくりしたい。=I have something to tell you.|Let’s rest in the village for today.
-!FILE:event/ev_sys/t23_sila_act_440_mon_asidome.wsb
+!FILE:event/ev_sys/t23_sila_act_440_mon_asidome.wsb#Final
 わっちは大蛇の湖とやらを|見てみたい。|ついてきてくりゃれ？=I'd like to see this Serpent Lake.|Are you coming along?
 !FILE:event/ev_sys/t23_sila_pub.wsb
 店員と話す=Talk to the Clerk
@@ -7440,7 +7441,7 @@
 でも、ぬしは嘘を言わなかった。|だから、わっちもぬしを信じよう。=But you did not tell a lie.|So, I will keep faith.
 くれぐれも、よろしく頼むぞ。=I believe in you.
 約束の期限まで　あと３ヶ月です=There are 3 months until the|appointed time.
-!FILE:event/ev_sys/time_event_11month.wsb
+!FILE:event/ev_sys/time_event_11month.wsb#Final
 のう、ぬしよ……=Say...
 なんだい、ホロ？=Something wrong, Holo?
 あまりこんな話はしたくないの|じゃが……|言うべきことは言わねばならん。=I do not really want to bring this up again, but... There are some things|which must be said.
