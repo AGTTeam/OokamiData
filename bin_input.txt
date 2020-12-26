@@ -53,7 +53,7 @@
 データを上書きします。=Overwrite data?
 セーブしています。|電源を切らないでください。=Saving...|Do not turn off the console.
 セーブしました。=Game saved.
-セーブされませんが|よろしいでしょうか？=You will lose any unsaved progress.|Continue?
+セーブされませんが|よろしいでしょうか？=Any unsaved progress will be lost.|Continue?
 タイトルに戻りますか？=Return to title?
 セーブしますか=Save game?
 ロードしています。|電源を切らないでください。=Loading...|Do not turn off the console.
@@ -82,10 +82,10 @@
 確認したい噂を選択してください。=Select the rumor you want to check.
 アイコンをタッチすると、町情報を確認できます。|赤・・・知っている町　青・・・現在位置=Check town details by touching the icon.|Red: Discovered Town.  Green: Current Location.
 町の販売品と人気の品を確認できます。|数字は販売品と人気の品の平均価格です。=Check the town's for sale items and popular goods.|The numbers displayed are the average prices of the items.# for sale and the popular items.
-クリアデータをセーブします。=Saving the completed data.
-「つづきから」を選びクリアデータの|あるファイルを選ぶと商品知識を|引き継いだまま、はじめからゲームを|プレイ出来ます。=By selecting a completed file|using “Continue”, you can|replay the game while keeping|your acquired goods knowledge.#needs checking
+クリアデータをセーブします。=Save the game clear data.
+「つづきから」を選びクリアデータの|あるファイルを選ぶと商品知識を|引き継いだまま、はじめからゲームを|プレイ出来ます。=By selecting a completed file|using “Continue” you can|replay the game while keeping|your acquired goods knowledge.
 Ｘボタンで会話画面のメッセージを|早送りできます。=You can speed up conversations|by using the X button.
-LボタンとRボタンでＣＧをスクロールさせられます。=You can scroll through the CG|with the L and R buttons.
-サムネイルをタッチすると上画面にＣＧが表示されます。=You can display the CG on the|upper screen by touching the thumbnail.
-サムネイルを２回タッチするとエンディングを|見ることができます。=You can watch the ending by|touching the thumbnail twice.
+LボタンとRボタンでＣＧをスクロールさせられます。=You can scroll through the CG with the L and R buttons.
+サムネイルをタッチすると上画面にＣＧが表示されます。=You can display the CG on the upper screen by touching|the thumbnail.
+サムネイルを２回タッチするとエンディングを|見ることができます。=You can watch an ending by touching the thumbnail twice.
 まだ見ることができません。=Not yet available.
