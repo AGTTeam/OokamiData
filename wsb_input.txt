@@ -6486,7 +6486,7 @@
 !FILE:event/ev_ren/ren_e02_kokoronokoega.wsb
 ねえ、ホロ。|前から思っていたんだけれど、|その耳って、役に立ってるのかい？=Hey, Holo. I’ve been wondering about this for a while now, but are those ears of yours actually useful?
 役に立つか、じゃと？=Are they useful, you ask?
-もちろんじゃ。|こんなに立派で愛らしい耳が|役に立たん筈がない。=Of course. How could such splendid and charming ears not be useful?
+もちろんじゃ。|こんなに立派で愛らしい耳が|役に立たん筈がない。=Of course! How could such splendid and charming ears not be useful?
 ぬしだって、この耳が|気になっておるのじゃろう？=Even you have taken an interest in them, haven’t you?
 き、気になってはいるけど、|別に変な意味じゃなくて……。=I-I am interested, but I don’t mean that in a weird way...
 そうそう！|やっぱり、普通よりも|よく聞こえたりするのかな？=Oh, right! Like, can you hear better than most people?
@@ -7168,7 +7168,7 @@
 ぷっ……=Puh...
 あは、あは、あはははは！|あはははははは……！|ぬ、ぬしはどこまで……ぷぷっ！=Ah-hah, ah-- Ah-hah-hah-hah-hah!|Y-You’re so... Pfft!
 な、何がおかしいんだよっ！=W-What’s so funny?!
-よりにもよって、理由はそこかや！|満月はとうに過ぎておるというのに、|それにも気づかんとは……！=Of all the things, that is what you bothered you? The moon is long gone, yet you only just noticed it now...!
+よりにもよって、理由はそこかや！|満月はとうに過ぎておるというのに、|それにも気づかんとは……！=Of all things, that is what bothered you? The moon is long gone, yet you only just noticed it now...!
 な……！=Wha--!
 てっきりヨタ話を冗談だと|わかった上で寝かせてくれたもの|だとばかり思っておったが……=I was sure that you had let me sleep understanding my nonsense story to be a joke...
 よっ、よもや信じておったとは……|あは、あは、あはははは！|は、腹が痛…っ、痛い……！=T-To think you actually believed it! Aha-hah-hah-hah-hah! My-My stomach...|it hurts...!
