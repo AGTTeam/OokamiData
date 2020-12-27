@@ -6484,7 +6484,7 @@
 自信があろうとなかろうと、|わっちを故郷へ連れていく|義務があろう？=Whether you’re confident in your abilities or not, don’t you have a duty to take me home?
 ……そうだね。|ボクのやるべきことは、|忘れないつもりだよ。=...You’re right. I won’t forget my mission.
 その意気じゃな。|──さて、先を急ぐとしよう。=That's the spirit!|--Now, let us hurry onwards.
-!FILE:event/ev_ren/ren_e02_kokoronokoega.wsb
+!FILE:event/ev_ren/ren_e02_kokoronokoega.wsb#Final
 ねえ、ホロ。|前から思っていたんだけれど、|その耳って、役に立ってるのかい？=Hey, Holo. I’ve been wondering about this for a while now, but are those ears of yours actually useful?
 役に立つか、じゃと？=Are they useful, you ask?
 もちろんじゃ。|こんなに立派で愛らしい耳が|役に立たん筈がない。=Of course! How could such splendid and charming ears not be useful?

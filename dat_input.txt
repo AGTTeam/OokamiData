@@ -20,7 +20,7 @@
 【商館】||思わぬ儲け話が聞けることも？=[Trading House]|You might hear of some unbelievably good deals.
 【門】||町を出て街道に戻ります。=[Gate]|Leave town and get back on the road.
 　　　　　　　　　　　　？？？=　　　　　　　　　　　　？？？
-【取引先商人の家】||いつもお世話になっている塩商人の店です。=[Client Trader's House]|A shop run by a helpful salt merchant.
+【取引先商人の家】||いつもお世話になっている塩商人の店です。=[Trader's House]|A shop run by a helpful salt merchant.
 【村長の家】||デッセル村の村長の家です。=[Village Leader's House]|Where the head of Dessel village lives.
 【骨董商】||情報通の骨董商のお店です。=[Antique Shop]|A shop run by a well-informed antique dealer.
 【グスタの家】||グスタに会って話を聞くことができます。=[Gusta's House]|Meet and speak with Gusta.
@@ -461,11 +461,11 @@
 商人への融資の話は知ってるかい？|ヴァルアリーの町のあの噂だよ。|きっと誰かが大金を貸してやらな|いと金鉱を失うことになるだろう。|だが投資する人は少ないだろうよ。=Did ya hear about the merchant looking for a loan? It’s a rumor going around in Valerie. No doubt if he doesn’t get a large sum of money, he’s gonna lose the gold mine. But, whose gonna lend him anything like that?
 ヴァルアリーでの融資の話、俺の|手元に銀貨があっても融資はしな|いさ。|あいつには昔煮え湯を飲まされた|からな、いい気味さ。='Bout the loan in Valerie, even if I had the money to hand, I wouldn’t give him nuffin. That guy betrayed me once before, so it feels good to watch ‘im get a taste of his own medicine.
 お菓子開発競争=Confectionary Contest
-クライシュタインの商館へ行くと|投資に関する話が聞けるみたいね。|何でもお菓子の新商品を出すのに|投資してくれる人を募ってるって。|３０日以内なら話を聞けるはずよ。=If you go to the trading house in Kleistein, you can hear about an investment opportunity for a new confectionary product. You should be able to hear more if you go within the next 30 days.
+クライシュタインの商館へ行くと|投資に関する話が聞けるみたいね。|何でもお菓子の新商品を出すのに|投資してくれる人を募ってるって。|３０日以内なら話を聞けるはずよ。=If you go to the trading house in Kleistein, you can hear about an investment opportunity for a new confectionary product. You should|be able to hear more if you go within|the next 30 days.
 “お菓子開発競争”の話=“Confectionary Contest" Rumor
 クライシュタインの新製品のお菓|子はどんなのが出るかな？|世の中美味しいお菓子を求めてる|から値段が高くてもみんな買うと|思うよ。=I wonder what the new product that’s supposed to be coming out in Kleistein is like? There isn’t anyone in the world who doesn’t like tasty sweets, so I think people will buy it, no matter the price.
-クライシュタインは今お菓子が流|行ってるようですわね。|わたしは高価でもゴージャスなお|菓子が食べてみたいわ。|わたくし安価なものはお断りよ。=It seems that confectionaries are currently quite popular in Kleistein. I’d much prefer something that was expensive, but sumptuous. I just can’t stand cheap things.
-「美味しいけど高い」がいいか、|「味は普通だけど安い」がいいか。|悩んじゃうわね。|でも高いお菓子の方がクライシュ|タインの名物にならないかしら？=Is “delicious but expensive” better than “average taste, but cheap”? Or maybe the other way around? It’s stressing me out. But, maybe if it’s more expensive, it could become one of Kleistein’s specialties?
+クライシュタインは今お菓子が流|行ってるようですわね。|わたしは高価でもゴージャスなお|菓子が食べてみたいわ。|わたくし安価なものはお断りよ。=It seems that confectionaries are currently quite popular in Kleistein.|I’d much prefer something that was expensive, but sumptuous. I just can’t stand cheap things.
+「美味しいけど高い」がいいか、|「味は普通だけど安い」がいいか。|悩んじゃうわね。|でも高いお菓子の方がクライシュ|タインの名物にならないかしら？=Is “delicious but expensive” better than “average taste, but cheap”?|Or maybe the other way around?|It’s stressing me out. But, maybe if it’s more expensive, it could become|one of Kleistein’s specialties?
 クライシュタインの新製品のお菓|子はどんなのが出るかな？|庶民は味はそこそこで安価なもの|をたくさん食べたいんじゃないか|な。=I wonder what the new product that’s supposed to be coming out in Kleistein is like? I think that people would choose to buy more of something that’s affordable.
 クライシュタインは今お菓子が流|行ってるようですわね。|わたしは高価なお菓子もいいけど、|安価でも、もっとホッとするよう|な素朴なお菓子が食べたいわ。=It seems that confectionaries are currently quite popular in Kleistein. I am partial to luxury sweets, but I think I’d rather a simple, more reassuring sweet, even if it’s only cheap.
 「美味しいけど高い」がいいか、|「味は普通だけど安い」がいいか。|悩んじゃうわね。|でも安いお菓子の方がクライシュ|タインの名物にならないかしら？=Is “delicious but expensive” better than “average taste, but cheap”? Or maybe the other way around? It’s stressing me out. But, maybe if it’s cheaper, it could become one of Kleistein’s specialties?
@@ -555,7 +555,7 @@
 特産品　サフラン=Special: Saffron
 メリンツでは香辛料が有名だが、|サフラン辺りは特産品といえるね。|比較的安値で仕入れられるから、|商人仲間でも人気が高いという話|だよ。=Melintz is famed for its spices, but Saffron is a particular specialty. It’s said to popular among merchants as it can be bought for a relatively low price.
 特産品　ナツメグ=Special: Nutmeg
-ドルトンクの特産品ならナツメグ|が有名かな。|肉との相性もバッチリだし人気も|高いよ。=Doltonkh is famous for nutmeg. It pairs well with meat, and it very popular.
+ドルトンクの特産品ならナツメグ|が有名かな。|肉との相性もバッチリだし人気も|高いよ。=Doltonkh is famous for nutmeg.|It pairs well with meat, and it very popular.
 特産品　クローブ=Special: Clove
 クローブといえばドルトンクで買|い付けるといいと思うな。|やや割高感はあるけど、やっぱり|香辛料は人気があるからね。=If you’re after cloves, I reckon Doltonkh is the best place to look. They’re a little expensive, but spices always make for a popular choice.
 特産品　コショウ=Special: Pepper
@@ -636,7 +636,7 @@
 ホロウの住んでた森=Holoh's Forest
 メルス・クリッツに現れた|ホロウと名乗る巨大な狼は、|“古狼の森”と呼ばれる森に|住んでいた。=The giant wolf which appeared in Mels-Kritz and named itself “Holoh” lived in a forest called the “Ancient Forest”.
 アニスに聞いた年代記作家の噂=From the Chronicler Anise
-東の方に昔の神々を研究している|神学者がいる。|どこかの町に昔の伝承を歌う|吟遊詩人がいる。=There’s a theologist who studies old gods somewhere to the east. And there’s a town where a bard supposedly plays songs about the old legends.
+東の方に昔の神々を研究している|神学者がいる。|どこかの町に昔の伝承を歌う|吟遊詩人がいる。=There’s a theologist who studies old gods somewhere to the east. Also, there’s a town where a bard supposedly plays songs about the old legends.
 シラ=Shila
 シラという村の近くには|“古狼の森”と呼ばれる森が|あった。|その森には人語を解する巨大な狼|たちが住んでいたという。=There used to be a large forest known as the “Ancient Forest” near the village of Shila. It’s said that it was inhabited by giant wolves who could understand human speech.
 ロウメスに聞いた年代記作家の噂=From the Chronicler Loumas
