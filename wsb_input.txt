@@ -1748,7 +1748,7 @@
 ホロは誰でもいいと思ってる。|別にボクのことを|好きでもなんでもないじゃないか！=You’d be happy with anybody. I don’t think that you even care if it’s me!
 なんじゃ、そんなことかや。|初心（うぶ）な雄じゃの。=What’s this now?|You’re a callow male.
 ――もちろん、|わっちもぬしが好きじゃ。=Of course, I love you too.
-さあ、これで気は済んだかや？=Does that satisfy you? 
+さあ、これで気は済んだかや？=Does that satisfy you?
 もうやめてよ、ホロ。|それじゃ、あんまりだ……。=Stop it, Holo.|This is going too far...
 ボ、ボクで良ければ……。=I-If you're fine with me...
 …………|……………………。=...|.......
@@ -3076,7 +3076,7 @@
 もしこのまま、貝料理が|この地方に定着すれば、|さらなる利益が期待できよう。=If shellfish do end up becoming established in the area, then further profits can be expected.
 はっはっは。|神の名にかけて、それがわかれば|私も苦労はせぬよ。=Hah-hah-hah. In the name of the Lord,|if I knew such a thing, I’d be free from all|trouble.
 とはいえ、せっかくだから、|ここだけの話を教えてやろう。=But, since you asked, I can tell you this much.
-お貴族様の料理はコースが多い。|材料が“貝だけ”“魚だけ”|という料理はあまりない。=The nobles have access to a wide variety of food. There aren’t many dishes made of “only shellfish” or “only fish”.  
+お貴族様の料理はコースが多い。|材料が“貝だけ”“魚だけ”|という料理はあまりない。=The nobles have access to a wide variety of food. There aren’t many dishes made of “only shellfish” or “only fish”.
 つまり、どちらに投資しても|そこそこは儲かるだろうと|私は考えておる。=In other words, I think that either would be reasonably profitable.
 ご助言ありがとうございます。|今のボクの気持ちとしては──=Thank you for your advice.|Presently, I think--
 それは素晴らしいお話です=It sounds wonderful.
@@ -3090,7 +3090,7 @@
 この地方の新しい食材として、|将来性があるのは、|貝の方だろう。=Shellfish have the potential to become a new staple in this area.
 旅の商人が、|あえて魚を選ぶとは|渋い選択をする。=Traveling merchants tend to be reluctant to choose fish.
 実は私も、|地元の商人としては、|魚料理を応援したいところよ。=But, as a local merchant, I too want to support the fish dishes.
-しかし、これも商売。|貝の方にも利益が出るなら、|そちらも扱うこともある。=Still, this is a business. If shellfish also turns a profit, we will handle that too.  
+しかし、これも商売。|貝の方にも利益が出るなら、|そちらも扱うこともある。=Still, this is a business. If shellfish also turns a profit, we will handle that too.
 そう思われるのも|無理はない。=That’s understandable.
 どちらの商材も扱う私としては、|どちらも伸びてくれると|一番嬉しいのだが。ははは。=As I handle both products, I would be most pleased if both of them grow. Hah-hah-hah.
 ちなみに、投資額のほうは──=Incidentally, about the investment--
@@ -3369,7 +3369,7 @@
 あとは二人の商いの腕次第、|ということになるじゃろう。=so the rest will just depend on each of their business skills.
 ボクの見たところ、|二人の商人としての実力も|ほぼ互角じゃないかと思う。=From my point of view, they both appear to be equally skilled as merchants.
 ……今は、お互いを前にして、|だいぶ頭に血が上っている|みたいだけどね。=...Even if they do lose their cool in front of each other.
-くふふ……その通りじゃな。|ぬしも、なかなか冷静に|相手を見ておるではないか。=Heh-heh-heh... I concur. Aren’t you maintaining your composure quite well? 
+くふふ……その通りじゃな。|ぬしも、なかなか冷静に|相手を見ておるではないか。=Heh-heh-heh... I concur. Aren’t you maintaining your composure quite well?
 ……ま、まあね。=...W-Well...
 さて……。|ならば、カギを握っておるのは|あの芸術家とやらではないかや？=Now then...|It seems the key lies with that artist, does it not?
 なるほど、|芸術家のニールセン氏か……。=Right. The artist, Sir Nielsen...
@@ -3409,7 +3409,7 @@
 良い取引になることを|期待しています。=I hope things turn out well.
 こちらこそ。|期待して待っててね。=Indeed. Please look forward to it.
 え？|どちらにも投資は|なさらない……と？=Huh? You’re not going to invest...?
-宝石商メアリ=Jeweler Mary 
+宝石商メアリ=Jeweler Mary
 美術商クララ=Art Dealer Clara
 !FILE:event/ev_mou/mou_03_end.wsb
 あの後、すごくいい話でさぁ。|ううっ、人情話ってやつだね……。=After that, a wonderful thing happened. Well, it’s a heartwarming tale about human relationships...#untested
@@ -3446,7 +3446,7 @@
 残念ですが、この話は|無かった事に。=I’m afraid I’m going to have to stop you there.
 そうでございますか……。=I see...
 資金はおいくらほど|必要なのですか？=How much money would you need?
-それはもう、いくらでも。|小口であればとりあえずは|このあたりでいかがでしょうか。=Anything will do. If you’d like to make a small investment, perhaps something like this would suit? 
+それはもう、いくらでも。|小口であればとりあえずは|このあたりでいかがでしょうか。=Anything will do. If you’d like to make a small investment, perhaps something like this would suit?
 受けていただけるのでしたら、|およそ@<number1@>日後に利息を|上乗せしてお返しします。=If you will allow me, I shall return it with|interest after @<number1@> days.
 ただ、できればこの条件の額を|お貸しいただければと……。=However, if possible, I’d prefer you chose this condition...
 銀貨@<trade_b@>枚ですって？|そんなに？=@<trade_b@> silver coins? That much?
@@ -3515,7 +3515,7 @@
 ねえ、聞いた聞いた？|あの冴えない感じの砂糖商人さんが、|まんまとやってくれたのよ！=Hey, did you hear? That measly-seeming sugar merchant really did it!#tested
 実はあの地方の砂糖の値上がりは、|あの砂糖商人さんの|買占めによるものだったんだって。=Truth be told, the reason why sugar went up in value in that region is because of him buying it all.
 あの砂糖商人さんはもちろん、|投資した人も、今ごろ|“甘い汁吸ってますよ”って、=The merchant, and those who invested in him must have been feeling like they landed a “pretty sweet deal”...
-──そう簡単にはいかないのが、|商売の面白いところだよね～。=--But, I guess things are never quite|that easy. Being a trader sure is a|funny business～ 
+──そう簡単にはいかないのが、|商売の面白いところだよね～。=--But, I guess things are never quite|that easy. Being a trader sure is a|funny business～
 お菓子好きの貴族さんたちが|自分たちの馴染みの商人に|無理やり砂糖を持ち込ませたの！=The candy-loving nobles forced their local merchants to get more sugar!
 お貴族様たちも、|もっとまともなコトに、|お金と時間を使えばいいのにね～=I can’t help thinking that the nobles should be spending their time and money on more important things～
 ともかく、買占めは失敗。|もともと砂糖は品薄だったから、|大暴落ってことはなかったけどね。=Anyway, trying to corner the market failed.>>Because there was already a sugar shortage, the prices didn’t collapse.
@@ -3529,7 +3529,7 @@
 大口ですと、この条件です。=Or for a bigger stake, it would look like this.
 おや？|失礼ですが、配当は|あまり多くありませんね。=Oh? Pardon me for saying, but it doesn’t seem to be that big of a payout.
 ええ。|ですが、その分確実な商売です。=Indeed. However, it is a sound venture.
-配当を含めた資金の返却は、|およそ@<number1@>日後を予定しています。|いかがでしょう？=I expect to be able to return the initial|payment, as well as the interest, within|@<number1@> days. Might that suit you? 
+配当を含めた資金の返却は、|およそ@<number1@>日後を予定しています。|いかがでしょう？=I expect to be able to return the initial|payment, as well as the interest, within|@<number1@> days. Might that suit you?
 それは素晴らしいお話です=It sounds good to me.
 なぜ確実なのですか？=How can you be so sure it’s|reliable?
 大口のほうが配当が悪い？=How come the dividend is worse|for the bigger loan?
@@ -3563,7 +3563,7 @@
 もちろん、飢饉が起こったほうが、|食料の値は上がり、|利益は増えるでしょう。=Of course, if a famine does occur, food prices will increase and so there will be a profit to be made.
 しかし、商人として|それを受け入れるかどうかは、|貴方の決断にお任せします。=But, as a merchant, whether you’d be happy to take advantage of that, I’ll leave to your discretion.
 （こういう話聞いちゃうと、|　なんだか断りにくいな……）=(After hearing all this, it’d be hard to decline...)
-なるほど、素晴らしい。|しかし、まだ飢饉には|なっていないのでしょう？=I see, what a wonderful idea.|Though, there hasn’t been a famine yet, has there? 
+なるほど、素晴らしい。|しかし、まだ飢饉には|なっていないのでしょう？=I see, what a wonderful idea.|Though, there hasn’t been a famine yet, has there?
 いくら凶作の見込みが高くても、|確実に飢饉になるとは|限らないのではありませんか？=No matter how likely the crop failures are, it doesn’t necessarily mean that there will be a famine, right?
 その点は、ご心配なく。|もとより利幅の大きな商売では|ありませんので、=You need not worry about that. As it was never a deal with a large profit margin,
 いざとなれば、別の地方などで|普通に処分いたします。|配当金もお支払いできるでしょう。=if it comes down to that, we will be able to sell off any excess products in other regions, as normal.>>I’ve no doubt we’ll be able to pay back the dividend we owe you, too.
@@ -3725,7 +3725,7 @@
 もう一度、話を聞く=Listen again
 わかりました。|もう一度、ご説明しましょう。=I understand.|Allow me to start again.
 ……ホロ。|この話はどうしよう？=...Holo. What do you think we should do?
-ぬしの好きにするがよい。|もしかして、わっちに|遠慮しておるのか？=Do as you please.|Or, are you holding back because of me,|I wonder? 
+ぬしの好きにするがよい。|もしかして、わっちに|遠慮しておるのか？=Do as you please.|Or, are you holding back because of me,|I wonder?
 べつに、わっちは教会を|嫌っているわけではないぞ。|教会がわっちを嫌いなだけじゃ。=It’s not that I particularly have a disliking for the Church. It’s just that they aren’t too fond of me.
 そうは言っても、|やっぱりホロを危険な場所に|連れて行くわけにはいかないよ。=You say that but, now I’m even more convinced. I don’t want to put you in danger.
 くふ、その心配は無用じゃ。=Heh-heh, no need to worry about that.
@@ -3907,7 +3907,7 @@
 あいにく、|そこまでの大金は……。=Unfortunately, such a large amount...
 無いのかね？|あきれたものだ！=You don’t have it?|I’m appalled!
 その程度の資金しか持たずに|このワシと商談をしようとは！=Trying to talk business with me without even having that much!
-仕方が無い。|なら、キミの将来の勉強だと思って、|素人向けの投資をしてみるか？=All right. Then, thinking of it as gaining experience for the future, 
+仕方が無い。|なら、キミの将来の勉強だと思って、|素人向けの投資をしてみるか？=All right. Then, thinking of it as gaining experience for the future,
 その場合の条件は、|せいぜいこの程度だな。=what about an investment suitable for beginners?|That would be about this much.
 ほんの小銭程度の取引になるが、|今のキミにはちょうどいい|話だろう。=It’s only small change, but it should be more on your level right now.
 それは……|持ってはいますが……。=That’s...|I have it, but...
@@ -3947,7 +3947,7 @@
 そうか……ふん！|無駄足を踏まされたわ！=‘That so...? Hmph!|What a wasted trip!
 それでは、ワシは帰る。|いつまでも、キミみたいな小物に|構ってはいられないからな。=Well, I’ll be off then. I can’t spend all my time on small fries, you know.
 ガハハハハハ！=Bwa-hah-hah!
-感じの悪いやつじゃったのう。|とはいえ、仕方あるまい。=What an entirely unpleasant meeting. Though, I suppose it can’t be helped.#I took it to mean ‘it can’t be helped that we have to speak to people like that’, so I changed the wording from ‘unpleasant man’ to ‘unpleasant meeting’. 
+感じの悪いやつじゃったのう。|とはいえ、仕方あるまい。=What an entirely unpleasant meeting. Though, I suppose it can’t be helped.#I took it to mean ‘it can’t be helped that we have to speak to people like that’, so I changed the wording from ‘unpleasant man’ to ‘unpleasant meeting’.
 やつの言う通り、|ぬしはまだ小物じゃ。=As he said, you are still in the minor leagues.
 ……その辺は、自分でも|痛いほどわかってるよ。=...I know the pain of that all too well.
 ならば、早く大物になって|やつを見返してやらねばのう。|なあ、ぬしよ？=Then, the only thing to do is become a big shot yourself and outdo him, no?
@@ -4060,7 +4060,7 @@
 オズワルドさんは、|昔の勢いを取り戻して、|金鉱で儲けているとか。=Mr. Oswald has regained his old vigor and is making money in the mines.
 それにしても、|オズワルドさんは|運が良かったよね～。=Though I have to say, he sure is lucky, huh～?
 今回は絶対危ないと|言われていたのに、|どこから資金が出てきたんだろ？=I heard that he really was on thin ice, so where could that money have come from?
-……ま、まさか、|おにーさんが？！|=...I-It can’t be, you, sir--?!|No, as if that could true. 
+……ま、まさか、|おにーさんが？！|=...I-It can’t be, you, sir--?!|No, as if that could true.
 そんなコトあるわけないか。|オズワルドさんを助けられる|くらいの独身の大商人なら、=If there really was an unmarried merchant out there capable of|bailing out Mr. Oswald,
 もう、この場で結婚を|申し込んじゃうところなんだけど。|そんなステキな人いないかな～。=I would be asking for their hand in marriage on the spot. I wonder if|someone like that really exists～
 例の金鉱は、結局|乗っ取られちゃったらしいよ。=In the end, it seems that the gold mine was taken over after all.#tested
@@ -4855,7 +4855,7 @@
 ほれ、ぬしも食え。|わっち一人で食べる飯は、|塩辛くてかなわん。=Come now, you eat too. Eating by myself spoils the taste.#tc salty like tears or just generally bitter?
 ……うん。|ごめんよ、ホロ。|本当に、ごめん。=...Right.|I’m sorry, Holo. I’m really sorry.
 いや、たぶん遅くなると思う。|今日は先に宿で休んでて。=No, I think I’ll probably be late.|It’s better if you head back to the inn and turn in without me.
-今宵のぬしは、商売が恋人か。|わっちも別の雄を引っ掛けて|ごちそうしてもらうとしようかの。=You’re married to work tonight?|I wonder if I should find another male and have them treat me instead? 
+今宵のぬしは、商売が恋人か。|わっちも別の雄を引っ掛けて|ごちそうしてもらうとしようかの。=You’re married to work tonight?|I wonder if I should find another male and have them treat me instead?
 ……えっ？=...What?
 くふ、冗談じゃ。|そんな顔、するでない。=Heh-heh, I jest.|Don’t make such a face.
 ぬしがおらんのでは、|わっちは寝るだけじゃ。=If you’re not around then I will just go to bed.
@@ -5134,7 +5134,7 @@
 怒っておらん！=I’m not angry!
 酒場女=Tavern Girl
 !FILE:event/ev_ren/ren_b06_oshokujihaikaga.wsb
-さて、宿も決めた事じゃ。|少々早いが、|どこかで夕食にせんか？=Well, that’s our lodgings sorted.|'Tis a little early, but what say we go somewhere for dinner? 
+さて、宿も決めた事じゃ。|少々早いが、|どこかで夕食にせんか？=Well, that’s our lodgings sorted.|'Tis a little early, but what say we go somewhere for dinner?
 いや、実はこの後予定があるんだ。|取引先の人と会う約束がある。|ホロも来るかい？=As it happens, I have an appointment. I'm to meet a trading partner. Want to come?
 当然じゃ。上手くいけば|その取引先とやらに、食事を|奢ってもらえるかもしれんからの。=Of course. If we play our cards right, they might even treat us to dinner.
 変な期待はしないでね。|商売では、都合のいい話ほど、|用心してかからないと。=Don't get your hopes up.|The tastier the deal, the more you have to be careful.
@@ -7343,9 +7343,9 @@
 !FILE:event/ev_sys/t22_mira_mon2_asidome.wsb#Final
 何も商品を買ってないが|いいのかや？=Is it all right for you to not buy anything?
 空荷で旅するのはやめろと、|さっきの若い商人が|言っておったじゃろう？=That young merchant said not to travel empty-handed, did he not?
-!FILE:event/ev_sys/t22_mira_mon3_asidome.wsb
+!FILE:event/ev_sys/t22_mira_mon3_asidome.wsb#Final
 わっちは腹が減った。|何か食べさせてくりゃれ。=I am rather hungry.|Can we not get something to eat first?
-!FILE:event/ev_sys/t22_mira_mon4_asidome.wsb
+!FILE:event/ev_sys/t22_mira_mon4_asidome.wsb#Final
 昨夜の若い商人と|市場で会うのではないのかや？|酒場で約束してたじゃろう。=Are you not going to meet that young merchant at the market? You arranged thus last night at the tavern.
 よく知ってるね。|ホロには話してないのに。=You’re well-informed.|Even though I never told you about that...
 くふ。わっちの狼の耳は|なんでも良く聞こえるんじゃ。=Hee-hee. My wolf ears hear everything.
