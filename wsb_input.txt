@@ -268,7 +268,7 @@
 そろそろ、ぬしとの契約で|取り決めた１年が過ぎたようじゃが。=The year-long contract we agreed upon is about to come to an end.
 ……………うん。=...Yeah.
 まだわっちの故郷には、|たどり着いておらぬ。=We’ve yet to reach my hometown.
-わかってるよ。|ボクは契約を果たせなかった。|契約不履行だ。=I know. I couldn't fulfil the agreement. It's a breach of contract.
+わかってるよ。|ボクは契約を果たせなかった。|契約不履行だ。=I know. I couldn't fulfill the agreement. It's a breach of contract.
 #Bad ending de_1, 2 and 3 are identical.
 朝、ボクが目覚めると、|ホロの姿がどこにもなかった。=When I woke in the morning, Holo was nowhere to be seen.
 ホロを探していると、|荷台に残された置手紙を見つけた。=As I looked for her, I found a note in the back of the cart.
@@ -779,7 +779,7 @@
 元々、ここ最近は、ホロのことを|信じている村人も少なくなって|おりましたからね。=Besides, the number of villagers who believe in Holo has been dwindling recently anyway.
 そうでしたか。|麦の出来が良かったのは|何よりでしたね。=I see.|At any rate, I’m happy to hear that the harvest went well.
 ありがとうございます。|ぜひ、この村の麦を|仕入れていってくださいよ。=Thank you. Please do buy some wheat while you’re here.
-!FILE:event/ev_act/act_130_desel_soncho_kiku_soncho_talk.wsb
+!FILE:event/ev_act/act_130_desel_soncho_kiku_soncho_talk.wsb#Final
 いままで祭っていた|豊穣の女神ホロへの祈りをやめて、|心配していたのですがね。=We stopped praying to the harvest goddess Holo that we had worshipped until now, so we were a bit worried.
 今年も、いままでと同じように|良い麦が実りました。|これで、ひと安心ですよ。=But our wheat this year was as good as any.|It was such a relief.
 !FILE:event/ev_act/act_140_desel_horo_saikai.wsb#Final
@@ -830,7 +830,7 @@
 うっぷ！|気持ちが……うっぷ！=Ugh!|I feel... Uogh!
 わっちとしたことが、|やけ酒はいかんの……。=I am the one who did it, but drinking that much was not a good idea...
 悪酔いして……うっぷ！|水を……早く……くりゃれ……。=Being hungover... urk!|Water... please... hurry...
-結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=In the end, we spent the whole morning recuperating at the inn.
+結局、ボクとホロは|その日の午後まで|宿屋で休んでゆくことになった。=In the end, we spent the whole morning resting at the inn.
 !FILE:event/ev_act/act_140_desel_horo_saikai_aniki_talk_mihensai.wsb#Final
 やあ、元気そうだね。|商売のほうはどうだい？=You’re looking well.|How goes business?
 たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.
@@ -839,7 +839,7 @@
 ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
 !FILE:event/ev_act/act_150_flag_syakkin_hensai.wsb#Final
-そろそろ、この辺りを|行ったり来たりするのにも|あきてきたの。=I am rather tiring of going back and forth along this route.
+そろそろ、この辺りを|行ったり来たりするのにも|あきてきたの。=I am rather tired of going back and forth along this route.
 行商人というのは、|思ったよりも退屈なものじゃな。=The life of a merchant appears more boring than I had thought.
 ホロにとっては|そうかもしれないね。=It might seem that way to you.
 行商人にとっての楽しみは、|移動するたびにお金が|少しずつ増えることだからね。=But for a merchant, the excitement comes from how each round brings you slightly more wealth.
@@ -929,7 +929,7 @@
 （この……ホロの言ってることは|　本当なのかな？）=(...Could what she’s saying be true?)
 その顔、|半信半疑といったところかや？=From that look on your face, it seems you are still only half-convinced?
 まったく、ぬしは若いくせに|頭の固い雄じゃの。=My my. For one so young, you are rather bullheaded.
-まあ、ぬしがわっちを何者だと|思っていようと、故郷に連れてゆく|契約が果たされればよい。=Well, it matters not what you think me to be, as long as you fulfil the contract and take me home.
+まあ、ぬしがわっちを何者だと|思っていようと、故郷に連れてゆく|契約が果たされればよい。=Well, it matters not what you think me to be, as long as you fulfill the contract and take me home.
 ぬしに本当の姿を見せたところで、|故郷に帰れるわけでもないしの。=Showing you my true form would not bring us any closer to finding my home.
 それはそうだけど。=I guess you’re right...
 その上、ぬしは少々、頼りない。|器が小さそうじゃ。=Not to mention, you are a little feckless. I am not sure you have what it takes.
@@ -975,7 +975,7 @@
 えっ？|いえ、そういうつもりじゃなくて、|なんとなくというか……。=Huh? Oh, no.|That wasn’t quite it, I just...
 もし、なんじが|この町にふりかかる試練を|心配しているのなら安心しなさい。=If thou art concerned about what ordeals may fall on this town, have|no fear.#qc
 近いうちに、神のご加護で|すべて解決するからだ。=Soon enough, the Lord’s holy light will put them all to rights.
-!FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk.wsb#Final
 おや、あなたは？|当家に何か御用でしょうか？=Oh, and who might you be?|Do you have business at this estate?
 ボクは旅の行商人です。|こちらは、どなたのお屋敷ですか？|かなり大きなお屋敷ですけど。=I'm a traveling merchant.|May I ask whose residence this is?|It's a mighty large estate.
 当家は、このメリンツの町が|興されたころから続く名門中の名門、|ルーデンス侯の屋敷です。=This is the home of prestigious Lord Ludens, whose lineage traces back to the very founding of Melintz.
@@ -2460,7 +2460,7 @@
 ぬしも駆け出しとはいえ、|商人じゃろう？　だったら、|取るべき態度はわかっておるはず。=You may be a novice, but you are still a merchant, correct? You should know how you ought to behave here.
 （きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=(I’m sure that Holo is telling me to|abide by the contract and withdraw|with grace...)
 （だけど、商人はあきらめが悪い。|　断られてからが、|　本当の交渉の始まりなんだ！）=(But, merchants are bad at giving up. Once you’ve been turned down, that’s when the real negotiations start!)
-たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfil the contract. I don’t deny that.
+たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfill the contract. I don’t deny that.
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
 …………|……………………。=...|.......
 今度こそ、ちゃんとホロを故郷まで|連れていってあげる。|新しい契約、結んでくれないかな？=This time, I will take you to your hometown for sure. Won’t you agree to a new contract?
@@ -2492,7 +2492,7 @@
 （そうか……ホロは、|　ずっとボクといっしょに……）=(...Holo and I, together forever...)
 契約するのかや？　しないのかや？=Are you in? Or perhaps you’ve changed your mind?
 わかったよ、ホロ。|そんな条件じゃ、|大赤字だけど……しょうがないよね。=All right, Holo. Under those conditions, I’ll be taking a big loss but... I guess there’s no helping it.
-商人にとって、|信用は何よりも大事だからね。|今度こそ、ちゃんと契約を果たすよ。=To a merchant, trust is what matters most. This time, I swear to fulfil the contract.
+商人にとって、|信用は何よりも大事だからね。|今度こそ、ちゃんと契約を果たすよ。=To a merchant, trust is what matters most. This time, I swear to fulfill the contract.
 うむ。そこまで言うなら、|新しい契約を結んでやろうかや。=Aye. If you say so, then I will agree to the new contract.
 商談成立だね。=It’s a done deal.
 それでは、さっそく|契約を果たしてもらいんす。=Then, we shall put it into effect at once.
@@ -2604,7 +2604,7 @@
 ぬしも駆け出しとはいえ、|商人じゃろう？　だったら、|取るべき態度はわかっておるはず。=You may be a novice, but you are still a merchant, correct? You should know how you ought to behave here.
 （きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=I'm sure that Holo is telling me to|abide by the contract and withdraw|with grace...)
 （だけど、商人はあきらめが悪い。|　断られてからが、|　本当の交渉の始まりなんだ！）=(But, merchants are bad at giving up. Once you've been turned down, that's when the real negotiations start!)
-たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfil the contract. I don’t deny that.
+たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfill the contract. I don’t deny that.
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
 …………|……………………。=...|.......
 今度こそ、ちゃんとホロを故郷まで|連れていってあげる。|新しい契約、結んでくれないかな？=This time, I will take you to your hometown for sure. Won’t you agree to a new contract?
@@ -2636,7 +2636,7 @@
 （そうか……ホロは、|　ずっとボクといっしょに……）=(...Holo and I, together forever...)
 契約するのかや？　しないのかや？=Are you in? Or perhaps you’ve changed your mind?
 わかったよ、ホロ。|そんな条件じゃ、|大赤字だけど……しょうがないよね。=All right, Holo. Under those conditions, I’ll be taking a big loss but... I guess there’s no helping it.
-商人にとって、|信用は何よりも大事だからね。|今度こそ、ちゃんと契約を果たすよ。=To a merchant, trust is what matters most. This time, I swear to fulfil the contract.
+商人にとって、|信用は何よりも大事だからね。|今度こそ、ちゃんと契約を果たすよ。=To a merchant, trust is what matters most. This time, I swear to fulfill the contract.
 うむ。そこまで言うなら、|新しい契約を結んでやろうかや。=Aye. If you say so, then I will agree to the new contract.
 商談成立だね。=It’s a done deal.
 それでは、さっそく|契約を果たしてもらいんす。=Then, we shall put it into effect at once.
@@ -4778,10 +4778,10 @@
 なんだい？=What?
 わっちの故郷に|近づいたということは、=The fact that I’m getting closer to my home...
 この旅の終わりが|近づいている|ということなんじゃぞ？=Means that this journey is drawing to an end, no?
-契約が果たせて嬉しいよ=I’ll be happy to fulfil|our arrangement.
+契約が果たせて嬉しいよ=I’ll be happy to fulfill|our arrangement.
 それは……=That’s...
 そうだね、|ボクにとっても|いろいろ感じるところがあるよ。=But I’ve got mixed feelings about it, too.
-この旅の終わり──|つまり、ホロとの契約が果たせれば、|それほど嬉しいことはないよ。=The end of this journey-- in other words, if I fulfil my contract with you, I wouldn’t be all that happy.
+この旅の終わり──|つまり、ホロとの契約が果たせれば、|それほど嬉しいことはないよ。=The end of this journey-- in other words, if I fulfill my contract with you, I wouldn’t be all that happy.
 ……ごめん、ホロのほうが、|もっと嬉しいはずだよね？|やっと故郷が近づいていて。=...Sorry, it’s a good thing for you, right? Finally getting back to your hometown, and all.
 ……うむ。=...Aye.
 嬉しいといえば嬉しい。|ずっと仲間達に会いたいと|思っていたのじゃからな。=If you’re asking if I’m happy, I am happy.|I have been longing to see my kin, after all.#tc better phrasing for the first part?
@@ -5457,7 +5457,7 @@
 なんじゃ？=What is it?
 ボクも、ホロと旅できて|すごく楽しいよ。|──うまく言えないけど。=I’m really enjoying traveling with you too.|--I can’t really describe it.
 ふふふ、そうじゃろう。|わっちと旅をできるぬしは|幸せ者じゃ。=Heh-heh-heh, quite. Aren’t you so lucky to be able to travel with me?
-そうだね。ボクも、|ホロの約束が早く果たせるように、|これからも頑張るよ。=Yeah. I’m going to keep doing my best, so I can fulfil my contract with you.
+そうだね。ボクも、|ホロの約束が早く果たせるように、|これからも頑張るよ。=Yeah. I’m going to keep doing my best, so I can fulfill my contract with you.
 正直言うと、|ボクはすごく大変だよ。|気苦労が多いというか……。=To tell you the truth, it’s not easy for me. There are a lot of hardships, I mean...
 照れるでない。|本当はぬしだって、嬉しかろう？=Don’t be shy. Aren’t you actually quite happy?
 わっちみたいな見目麗しい狼と|旅ができるんじゃからな。|楽しくないはずがない。=Being able to travel with a beautiful wolf like me. There’s no way you wouldn’t enjoy it.
@@ -6577,7 +6577,7 @@
 （あまり、みっともない所を|　見せるわけには……）=(I can’t let him see such a shameful side of me...)
 うー……。=Ngh...
 （やっぱりホロ、|　機嫌悪いな……）=(She really must be in a bad mood...)
-!FILE:event/ev_ren/ren_e04_horotohitoyasumi.wsb
+!FILE:event/ev_ren/ren_e04_horotohitoyasumi.wsb#Final
 馬車の旅というのも、|意外と疲れるものじゃのう。=Traveling by cart is surprisingly tiring.
 それに、しばらく、|似たような景色が続いておる。|退屈じゃ。=And all that you see is the same landscape for miles. 'Tis a bore.
 のう、ぬしよ。|ここいらで一休みせんかや？=Say, why don’t we stop to rest here for a while?
@@ -7067,7 +7067,7 @@
 ほら、見てみなよ。|あの露店でものを買ってるのは、|身なりのいい人ばっかりだよ。=You can see for yourself.|The only people buying from that stall are those who are well-off.
 それに、ホロはこの前の町でも|お菓子を食べたじゃないか。|宿に泊まれなくなったら、困るだろ？=And, you already had candy in the last town. What if we couldn’t afford an inn, then what would you do?
 なんと、嘆かわしい……。|貧乏とは切ないものでありんす……。=How heartrending...|What a miserable fate it is to be so poor...
-わっちゃあ、依頼を持ちかける人間|を間違えたのやもしれぬ。|栗ひとつ、食べられぬ旅とは……！=Have I chosen the wrong person to fulfil my request? What a woeful journey, when even a single chestnut is too much...!
+わっちゃあ、依頼を持ちかける人間|を間違えたのやもしれぬ。|栗ひとつ、食べられぬ旅とは……！=Have I chosen the wrong person to fulfill my request? What a woeful journey, when even a single chestnut is too much...!
 栗なら森に落ちてるよ。=If it’s chestnuts you want, the forest is full of them.
 つまらぬ雄じゃな……。=What an uninspiring male...
 ところでぬしよ、|隣の店もなにやら|人が群れておるようじゃが？=By the way, doesn’t there seem to be quite the crowd growing at the neighboring stall?
@@ -7223,7 +7223,7 @@
 いらっしゃいませ。=Welcome.
 !FILE:event/ev_sys/t01_aima_mon_ashidome.wsb
 あの詩人とやらに|会わなくてもいいのかや？=Should you not meet with the wordsmith?
-!FILE:event/ev_sys/t01_aima_pub.wsb#untested
+!FILE:event/ev_sys/t01_aima_pub.wsb#Final
 吟遊詩人と話す=Talk to the Minstrel
 いらっしゃいませ。=Welcome.
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
@@ -7311,13 +7311,13 @@
 いらっしゃいませ。=Welcome.
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you’re going to Yubel via cart, you'll have to pass through the mines.
 でも、廃坑になって|しばらく経つから、|ちょっと心配ですね。=But, they’ve been abandoned for a while now, so I can’t help but worry about how safe it is to cross.
-!FILE:event/ev_sys/t17_dess_act_140_ichiba_asidome.wsb
+!FILE:event/ev_sys/t17_dess_act_140_ichiba_asidome.wsb#Final
 市場に顔を出したのだが、|そろそろ取引も終わりの時間だった。|明日、あらためて来ることにした。=I headed to the market, but all the stalls were about to close. I decided to try again tomorrow.
-!FILE:event/ev_sys/t17_dess_act_140_mon_asidome.wsb
+!FILE:event/ev_sys/t17_dess_act_140_mon_asidome.wsb#Final
 （ホロを置いてくわけには|　いかないよな……）=(I can’t just leave Holo behind...)
-!FILE:event/ev_sys/t17_dess_act_140_pub_asidome.wsb
+!FILE:event/ev_sys/t17_dess_act_140_pub_asidome.wsb#Final
 開店までには|まだ時間があるらしい。|奥のほうで準備をしてるみたいだ。=There's still time before the tavern opens. It looks like they’re setting up inside.
-!FILE:event/ev_sys/t17_dess_act_140_shoukan_asidome.wsb
+!FILE:event/ev_sys/t17_dess_act_140_shoukan_asidome.wsb#Final
 いま誰もいないよ。|ごめーん、また来てね～。=There's no one here right now.|Sorry, do come back later～.
 ソフィー=Sophie
 !FILE:event/ev_sys/t18_maru_pub.wsb
