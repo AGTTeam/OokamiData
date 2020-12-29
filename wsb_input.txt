@@ -1809,7 +1809,7 @@
 なんじゃ、ぬしよ。|その気になったのかや？=What’s this?|Do you feel like it now?
 （ダメだ……！|　こんな状況なのに、|　どこに行けるっていうんだ！）=(No...! In a situation like this, where would I even go?!)
 !FILE:event/ev_act/act_390_rt3_daite_clr_gakusya_talk.wsb#Final
-ホロ様なら、|いつでも歓迎いたします。=With most esteemed Holo as ypur guest, I welcome you any time.
+ホロ様なら、|いつでも歓迎いたします。=With most esteemed Holo as your guest, I welcome you any time.
 お役に立てることがあれば、|この老体にムチをうって|お手伝いいたします。=If there is anything I can do to be of use, I won’t let these old bones stop me.
 む、そうかや。=Hm, is that so?
 それなら、|ありがた迷惑という言葉を|覚えてくれると助かるの。=Then, I would like you to remember the words ‘unwelcome offering’.
