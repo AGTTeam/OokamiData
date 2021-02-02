@@ -1164,7 +1164,7 @@
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
 ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the “Ancient Forest”?
 えっ、なんですか、それ？=Huh? What's that?
-だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=In that case, is there anyone in this town who’s familiar folklore or the like?
+だったら、この町に昔話とか、|そういうのに詳しい人いないかな？=In that case, is there anyone in this town who’s familiar with folklore or the like?
 さあ？　わかんないです。|それより、ビールにします？|それとも葡萄酒？=Hmm... I don’t really know.|Anyway, are you having beer?|Or wine maybe?
 !FILE:event/ev_act/act_220_rt2_sakba_de_kiku.wsb#Final
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
