@@ -424,9 +424,9 @@
 とある学者がこんな話してたよ。|「ある地方では悪天候が続いてい|るが、私の作った麦のおかげで飢|饉にはならないと…いいなぁ…」|祈るような話ぶりだったなぁ。=I heard a scholar saying, “The bad weather in the region has yet to let up, but thanks to the wheat I cultivated, there won’t be a famine... I hope..." It sounded like he was praying.
 マールケでの農作物買占めの噂、|聞いたかい？|飢饉がおこるとしたら大変だよな。|俺なら黙ってられないかもなぁ。=Have you heard the news about produce being bought up in Mahlke? If there is a famine, things will be tough. I’m not sure I could just sit back and watch that happen.
 マールケで聞いた飢饉への投資の|噂だけど、私も大きく投資してみ|るわ。|やっぱり困ってる人は見過ごせな|いものね。=About the talk at Mahkle of lending money to fight a famine, I'm going to go all in and make a large investment. I can't just overlook people who are in need.
-教会からの誘い=An Invite From The Church#The Church's Invite
+教会からの誘い=An Invite from The Church#The Church's Invite
 アイマベルグの商館でこんな投資|の噂があるって聞いたよ。|なんでも教会が大聖堂を建てるの|に３０日以内にお金が必要なんだ|ってさ。本当ならチャンスかな？=At the trading house in Eimeberg, I heard a rumor about an investment. Apparently, the Church is building a great cathedral, and they need the money within 30 days. If that's true, wouldn't it be a great opportunity?
-“教会からの誘い”の話=“An Invite From The Church" Rumor
+“教会からの誘い”の話=“An Invite from The Church" Rumor
 アイマベルグに教会が建つという|話は知っていますかな？|わたしは熱心な正教徒ですから、|もちろん融資させていただきます。|立派な大聖堂が建つことでしょう。=Did you hear that they’re planning to build a church in Eimeberg? I'm an avid believer, so naturally, I plan to invest. I'm sure it will be a fine cathedral.
 アイマベルグでの教会への投資の|話だけど、どうも信憑性のある噂|のようだね。|どうだい、君も投資してみないか|い？=It looks like the rumor about the cathedral in Eimeberg is credible. How about it? Why don't you invest too?
 アイマベルグに教会が建つって噂|だけど投資してみたいなら商館に|行ってみるといい。|もしかしたら教会関係者にも詳し|い話を聞けるかもしれないしな。=If you want to invest in building the cathedral in Eimeberg, you should go to the trading house. You might be able to hear more details from some of the people involved.
@@ -535,7 +535,7 @@
 特産品　宝石細工=Special: Gemwork
 宝石細工のことならアイマベルグ|で買い付けたほうがいいみたいだ。|あの町の宝石細工は一級品ばかり|だ。|特産品としては申し分ないようだ。=If it’s gemwork you’re after, they say Eimeberg is the place to go. The gemwork in that city is all top-notch. As a local speciality, it leaves nothing to be desired.
 特産品　銀の短剣=Special: Silver Dagger
-銀の短剣といえば、ドルトンクの|特産品として有名らしいよ。|護身用にも装飾品としても使える|から需要も高いらしい。=Doltonkh’s famed for its silver daggers. Because they can be used both for self-defence as well as an accessory, demand seems to be high.
+銀の短剣といえば、ドルトンクの|特産品として有名らしいよ。|護身用にも装飾品としても使える|から需要も高いらしい。=Doltonkh’s famed for its silver daggers. Because they can be used both for self-defense as well as an accessory, demand seems to be high.
 特産品　絵画=Special: Painting
 絵画ならタルリッヒが特産品だろ|うな。|美術品なんかの工房も多く品揃え|もいいよ。=When it comes to paintings, Tarlich are the experts. It’s home to many different artist workshops, so there’s a good range of them too.
 特産品　竜の脚=Special: Dragon Leg
@@ -567,7 +567,7 @@
 アイマベルグで価格暴落中？=Eimeberg Depression?
 今アイマベルグの町全体で価格暴|落がおきているようだぜっ！|原因はまだ不明なんだが市場が半|値程度まで下がってるみたいだ。|２５日位は収まらないだろうな。=The whole town of Eimeberg is in the middle of a price crash right now! The cause is still unknown, but everything in the market has been slashed to half price. It looks like it won’t be resolved for another 25 days, either.
 シナモンが良い値？=Bargain Cinnamon?
-クライシュタインでシナモンが良|い値段で買取されているみたいね。|今なら１．２倍の値段で売れるよ|うだわ。|ひと月以内は売りチャンスみたい。=Cinammon is being sold for a good price in Kleistein right now. It looks like you can sell it for about 1.2x that. But, this opportunity is only going to last for a month.
+クライシュタインでシナモンが良|い値段で買取されているみたいね。|今なら１．２倍の値段で売れるよ|うだわ。|ひと月以内は売りチャンスみたい。=Cinnamon is being sold for a good price in Kleistein right now. It looks like you can sell it for about 1.2x that. But, this opportunity is only going to last for a month.
 クライシュタインで高騰？=Kleistein Inflation?
 クライシュタインが品物不足で、|商品価格が高騰してるようだよ。|噂だと３０日位は３割増しに近い|価格で取引されるそうだ。|特産品なんか売りチャンスだね！|=There’s a shortage of goods in Kleistein which is causing the price of things to soar. According to the rumors, you can sell products there with a near-30% mark up for the next 30 days. It’s a great chance to sell specialty goods!
 小麦が超品薄？=Wheat Shortage?
