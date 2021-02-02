@@ -1116,7 +1116,7 @@
 わっちは麦に宿る狼じゃと、|何度言えば信じるのかや？=How often must I tell you that I am a wolf who dwells in wheat before you believe me?
 （……ただの偶然だよな……）=(...It must be a coincidence...)
 ねえ、ホロ。|もしかして、これって。=Hey, Holo.|Could this be it?#appears if player has spoken to other chroniclers first
-うむ。わっちのことを|語っておるんじゃろうな。=Mm. It is me the tale speaks of.
+うむ。わっちのことを|語っておるんじゃろうな。=Mm. It is I of whom the tale speaks.#me->I, rearranged word order to be grammatically more correct, also appropriately old-fashioned for Holo.
 行く先々で|同じようなことをしておったから、|どこの町の話だかわからんがの。=I did the same thing no matter where I went, so I am unsure of the town.
 はははっ。|ホロって昔から変ってないんだね。=Ha-ha-ha.|Guess you haven’t changed since way back when.
 たわけ。同じじゃありんせん。=Fool. I am not the same.
@@ -1128,7 +1128,7 @@
 そうですか。|ありがとうございます。=I see.|Thank you for your time.
 ところで、この手の話に|詳しい他の年代記作家の方を|知りませんか？=By the way, do you know of any others who may be familiar with such matters?
 えっと……|あまりよく知らないのですけど、|噂を聞いたことはあります。=Let’s see...|I don’t know much, but I have heard rumors.
-たしか東のほうに、|昔の神々について研究している|神学者の方がいらっしゃるとか。=I think there was a theologist who studies old gods somewhere to the east.
+たしか東のほうに、|昔の神々について研究している|神学者の方がいらっしゃるとか。=I think there was a theologian who studies old gods somewhere to the east.#theologian is the more common term, and used elsewhere in the script
 あとは、どこかの町に|昔の伝承を歌にする吟遊詩人が|いるということです。=And there’s a town where a bard supposedly plays songs about the|old legends.
 私が知ってるのは|このぐらいですけど、|お役に立ちましたでしょうか？=I’m afraid that’s all I know, but I hope it might be of use to you.
 とても参考になりました。|ありがとうございます。=You've been very helpful.|Thank you.
@@ -1832,7 +1832,7 @@
 『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest”...?|No, I've never heard of it before.
 それじゃあ、|この村に年代記作家はいませんか？=Then, is there possibly a chronicler in this village?
 年代記作家？|そんな酔狂なもん、|こんな小さな村にいるわけないさ。=A chronicler?|A small village like this could never have something so grand.
-どうしようか、ホロ。|この村では、これ以上の話は|聞けそうもないね。=What now, Holo?|I don’t think we’d be able to get much more out of this village.
+どうしようか、ホロ。|この村では、これ以上の話は|聞けそうもないね。=What now, Holo?|I don’t think we’ll be able to get much more out of this village.
 うむ、そうじゃな。|東のほうにいるという|神学者とやらを探すしかないの。=Mm, so it seems.|Then, we have no choice but to look for this Theologian in the East.
 それで、注文はなんにするの？=So, what can I get you?
 !FILE:event/ev_act/act_410_kouzui_wo_kiku.wsb#Final
@@ -1977,7 +1977,7 @@
 やめてよ、ホロ！=Stop it, Holo!
 どうしたのかな？=Is something wrong?
 いえ、なんでもないです！|神のご加護がありますように。=No, it’s nothing!|May God be with you!
-!FILE:event/ev_act/act_rt1_000_megane_kiku.wsb
+!FILE:event/ev_act/act_rt1_000_megane_kiku.wsb#final
 あら、こんにちは。|故郷のほうは見つかりましたか？=Oh, welcome.|Did you find her hometown?
 いえ、ちょっと問題がありまして。|新しい手がかりがほしくて、|また話を聞きにきたんです。=No, there were some complications. We're looking for new clues, and were hoping you might have something for us.
 ボクは、ホロの故郷が洪水で|失われていたことなどを|かいつまんで話した。=I summed up what we learned of Holo's home being lost to a flood.
@@ -1985,7 +1985,7 @@
 えっと、洪水と狼ですか？|そうですねえ……。=Hmm, floods and wolves?|Let me think...
 たしか『セアベルク』の町に|伝わる昔話で、関係のありそうな|ことが語られていますね。=There’s a folk tale originating in Seabelk that might be relevant.
 「かつて、ずぶ濡れの獣たちが|　東の森からやってきた」=“Many moons ago, a pack of beasts, their fur soaking wet, appeared from the forests to the east.”
-「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」=“They spent some time near town to dry their, fur then headed west, across the sea.”
+「彼らはしばらく|　町で身体を乾かすと、|　西の海を渡っていった」=“They spent some time near town to dry their fur, then headed west, across the sea.”
 こんな感じだったはずですけど、|私も詳しくは知りません。=I think that was about it. I don't know the details, I'm afraid.
 文献に残ってる伝承ではなくて、|本当にただの昔話で|口伝なんです。=It wasn't recorded in books, just passed along by word-of-mouth.
 この間もお話しましたけど、|私が知っているのは|『セアベルク』の町の昔話です。=We spoke of this the other day, but the tale I know of comes from Seabelk.
@@ -2001,7 +2001,7 @@
 うむ。そうじゃな。|それでは、そのセアベルクの町に|行ってみるかや。=Hm. All right. In that case, we should make our way to this Seabelk.
 いまの話を疑うわけじゃないけど、|もう少し他の伝承も|調べたほうがいいと思うんだ。=It’s not that I don’t believe her, but I think it’d be a good idea to see what else we can find out from other legends first.
 うむ。そうじゃな。|あの小娘も、|あまり自信がないようだった。=Hm, all right.|That maid didn’t seem to have much confidence, either.
-!FILE:event/ev_act/act_rt1_010_megane_kiku_clr_megane_talk.wsb
+!FILE:event/ev_act/act_rt1_010_megane_kiku_clr_megane_talk.wsb#final
 ちょっと不思議に|思ってたことがあるんですけど、|聞いてもよろしいですか？=May I ask you something that’s been on my mind for a while?
 ええ、なんでしょうか？=By all means.
 どうして大昔の狼の行方が、|ホロさんの故郷を|見つけることになるんですか？=How does knowing the location of these wolves from long ago relate to Ms. Holo finding her hometown?
@@ -2010,14 +2010,14 @@
 あ、そうですか。|助かりま……。=That’s a reli--
 別に不都合などありんせん。|この小娘には世話になってるし、|教えてやろう。='Tis no issue.|This maid is helping us out, so we can tell her.
 でも、ホロ……。=But, Holo...
-いいか、小娘。|狼の行方を探しとるのは、|わっちが狼だからじゃ。=Listen, Girl.|The reason I seek the wolves is that I am a wolf.
+いいか、小娘。|狼の行方を探しとるのは、|わっちが狼だからじゃ。=Listen, girl.|The reason I seek the wolves is that I am a wolf.
 …………|……………………。=...|.......
 ……ああ、そうだったんですか。=...Ah, so that’s what it was?
 それでホロさんには|狼の尻尾があるんですね。=That explains why Ms. Holo has a wolf's tail.
 む。=--!?
 なんじゃ、知っておったのかや。=Hm, so you knew?
 はい。|私ってこう見えても|実は鋭いんですよ。ふふ。=Yes. Although I may look like this, I'm actually quite perceptive. Hee-hee.
-!FILE:event/ev_act/act_rt1_010_megane_kiku_clr_megane_talk_repeat.wsb
+!FILE:event/ev_act/act_rt1_010_megane_kiku_clr_megane_talk_repeat.wsb#final
 ホロさんの仲間の狼たちに|会えるといいですね。=I hope Ms. Holo is able to meet with her fellow wolves.
 会えたら、話を聞かせてください。|それを伝承として書き残して、|後世に伝えてみた=If you meet them, please tell me about it.|I will write down the legend for future generations-- K
 っ――――=-
@@ -2025,7 +2025,7 @@
 …………っと！=......Ah!
 なんとか、だいじょうぶでした。|今日はまだ転んでませんよ。=Phew, I caught my balance.|I’ve managed to not trip over once so far today!
 えーと、それでですね。|ホロさんの話を伝承で書き残して、|私が後世に伝えてみたいんです。=Now, where was I? Oh, right. I want to turn Ms. Holo's story into a legend to pass on to future generations.
-!FILE:event/ev_act/act_rt1_020_new_city_ehre.wsb
+!FILE:event/ev_act/act_rt1_020_new_city_ehre.wsb#final
 はーい！|お客さん、２名さま、|テーブルにご案内しまーす！=Two guests, coming right in!|Let me lead you to your table!
 ああ、ちょっと|聞きたいことがあるんだ。=Ah, I just wanted to ask something.
 この町から|西の海を越えたところにある|村とか町を知らないかな？=Is there a village or town to the west, across the sea?
@@ -2036,7 +2036,7 @@
 !FILE:event/ev_act/act_rt1_020_new_city_ehre_seaberuku_sakaba_talk.wsb
 エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're heading for Ehre, you’d best be careful.
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=The weather takes a turn around this time of year, and the seas get rough.
-!FILE:event/ev_act/act_rt1_030_kiki_umi.wsb
+!FILE:event/ev_act/act_rt1_030_kiki_umi.wsb#final
 最初のうち、航海は順調だった。|ホロも波しぶきがはじけるたびに|楽しそうな声=At first, the voyage across the sea was going smoothly.>>Holo laughed cheerfully whenever the waves made a splash against the ship.
 を上げていた。=!
 海の旅というのも、|なかなか楽しいものじゃな。=Traveling by ship is rather fun.
@@ -2102,11 +2102,11 @@
 !FILE:event/ev_act/act_rt1_040_ehre_mori_kiku_ehre_sakaba_talk.wsb
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
-!FILE:event/ev_act/act_rt1_rt2_kakuteigo_gakusya_talk.wsb
+!FILE:event/ev_act/act_rt1_rt2_kakuteigo_gakusya_talk.wsb#final
 ホロ様にお会いできたことで、|わしの人生には|何の悔いもなくなりました。=Now that I’ve met you, esteemed Holo,|I no longer have any regrets about my life.
 正教の神は唯一のものではなく、|世界にはたくさんの異教の神が|いるとわかったのですからな。=I realized that the orthodox god is not the only one, but that there are also many pagan gods in the world.
 わしの研究は間違っていなかったと|確信を持てました。|本当に感謝しております。=Now I can say with confidence that my research was not wrong.|I am truly grateful.
-!FILE:event/ev_act/act_rt1_rt3_kakuteigo_sizin_talk.wsb
+!FILE:event/ev_act/act_rt1_rt3_kakuteigo_sizin_talk.wsb#final
 いま、新作の歌を作っていてね。|さすらいの王子と、|それをたぶらかす魔女。=I'm writing a new song right now.|It features a wandering prince and the witch who seduces him.
 そして、その魔女を|こらしめる騎士の物語なんだよ。=And so, the story tells of a knight who comes to teach the witch a lesson.
 へえ、面白そうですね。=Oh, sounds interesting.
@@ -2253,7 +2253,7 @@
 てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that a romance was going to sprout...
 !FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb
 おお、ホロ様。|このようなあばら家にわざわざ|足を運んでいただき、恐縮です。=O esteemed Holo!|I'm honored that you would step inside this lousy shack I call my home.
-『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learned anything about the “Ancient Forest”?
+『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learn anything about the “Ancient Forest”?
 ボクは、ホロの故郷が洪水で|失われていたことなどを|かいつまんで話した。=I summed up what we learned of Holo's home being lost to a flood.
 そして、洪水に追われた|狼たちの行方について、|何かの伝承が残ってないかを尋ねた。=Then I asked whether he knew of any legends regarding where the fleeing wolves might’ve gone.
 うむ、なるほど。|大蛇というのは|洪水のことであったか。=Hm, I understand.|So the giant serpent was referring to|a flood.
