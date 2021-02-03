@@ -202,7 +202,7 @@
 ぬしよ……。|たしかに、ここじゃ。|ここがわっちの故郷じゃ……！=This is it... This is my home...!
 そうつぶやくと、|ホロはわき目も振らずに|丘を駆けおりていった。=With that, Holo dashed down the hill without a shred of hesitation.
 あっ！　ホロ！|ちょっと待って……！=Ah! Holo!|Wait...!
-ボクはホロの投げ捨てた|荷物を拾ってから、|あわててホロのあとを追いかけた。=Picking up everything she had impatiently threw on the ground, I chased after her.
+ボクはホロの投げ捨てた|荷物を拾ってから、|あわててホロのあとを追いかけた。=Picking up everything she had impatiently thrown on the ground, I chased after her.
 ホロ！　どこにいるの！|ねえ、ホロ！=Holo! Where are you?|Answer me, Holo!
 ボクはホロの名を呼んだが、|答えはなかった。|狼の遠吠えが聞こえるだけだった。=I called out to Holo, but there was no answer. All I heard was howling.
 嘘……だよね、ホロ？|まさか、このまま|別れるってことなの……!?=Holo... you're kidding...|Is this really how it ends...?
@@ -2251,7 +2251,7 @@
 ふたりっきりの旅を|ずっと続けられるなんて|よっぽど気が合うんでしょうね。=I’ll bet as you continue traveling together with just the two of you, you might really hit it off.
 そうなんですか。|でも、初めてお会いしたときと|あんまり変らない気もしますね。=Is that right?|But, things don’t seem to have changed much from when we first met.
 てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that a romance was going to sprout...
-!FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb
+!FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb#final
 おお、ホロ様。|このようなあばら家にわざわざ|足を運んでいただき、恐縮です。=O esteemed Holo!|I'm honored that you would step inside this lousy shack I call my home.
 『古狼の森』について、|その後、何かわかりましたかな？=Have you managed to learn anything about the “Ancient Forest”?
 ボクは、ホロの故郷が洪水で|失われていたことなどを|かいつまんで話した。=I summed up what we learned of Holo's home being lost to a flood.
@@ -2275,12 +2275,12 @@
 うむ。そうじゃな。|それでは、そのシュリンケルの町に|行ってみるかや。=Hm, all right.|Then the town of Schrinkel is where we must go.
 いまの話を疑うわけじゃないけど、|もう少し他の伝承も|調べたほうがいいと思うんだ。=It’s not that I don’t believe him, but I think it’d be a good idea to see what else we can find out from other legends first.
 うむ。そうじゃな。|わっちとしても、あの老人は|あまり好きじゃありんせん。=Hm, all right.|I must say, I’m not the most fond of that old man.
-!FILE:event/ev_act/act_rt3_010_gakusya_kiku_clr_gakusya_talk.wsb
+!FILE:event/ev_act/act_rt3_010_gakusya_kiku_clr_gakusya_talk.wsb#Final
 ホロ様のお仲間なら、|異教の神々ということでしょう？=If they’re esteemed Holo’s kin, then we’re talking about pagan gods here, correct?
 ならば、いくら時間が経とうとも|ご健在に違いないです。|なんの心配もいりません。=In that case, no matter how much time has passed, they are surely still alive and well.>>You have nothing to worry about.
 本当に神ならばな。|じゃが、わっちらは|そんなものじゃありんせん。=If they were gods, that is.|But, we are no such things.
 ………………？=......?
-!FILE:event/ev_act/act_rt3_020_new_city_yuubel.wsb
+!FILE:event/ev_act/act_rt3_020_new_city_yuubel.wsb#final
 いらっしゃい。|おふたりさんですか？=Welcome.|Table for two?
 ああ、ちょっと|聞きたいことがあるんだけど、|いいかな？=Ah, do you mind if we ask you something?
 この町から、|さらに山を越えたところに|町はないかな？=Is there another town nearby, somewhere over the mountains?
@@ -2291,7 +2291,7 @@
 !FILE:event/ev_act/act_rt3_020_new_city_yuubel_syurinkeru_sakaba_talk.wsb
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you’re going to Yubel via cart, you'll have to pass through the mines.
 でも、廃坑になって|しばらく経つから、|ちょっと心配ですね。=But, they’ve been abandoned for a while now, so it might be dangerous.
-!FILE:event/ev_act/act_rt3_030_kiki_kouzan.wsb
+!FILE:event/ev_act/act_rt3_030_kiki_kouzan.wsb#final
 ボクたちは廃坑に|なっているという鉱山に|たどり着いた。=We arrived at the abandoned mine.
 荷馬車が通れそうな坑道は|１つしか見当たらなかったので、|その中へと進むことにした。=There was only one tunnel that it seemed like the cart might fit through, so we decided to give it a shot.
 坑道の中は真っ暗だった。|松明を灯したのだが、足元を照らす|ぐらいにしか役立たない。=It was pitch dark inside. I lit a torch, but still could barely see beyond the cart.
@@ -2544,7 +2544,7 @@
 さよなら、ホロ。|ボクもホロのことは忘れないよ。=Goodbye, Holo. I will always remember you too.
 ボクはホロをその場に残して、|荷馬車を出発させた。=I drove away, leaving her there.
 最後に見たホロの笑顔は、|いまでもボクの心に残っている……。=That last smile I saw from her is still burned into my heart...
-!FILE:event/ev_act/ending_list_bad_b.wsb
+!FILE:event/ev_act/ending_list_bad_b.wsb#final
 ぬしよ。|そんなに堅苦しく|考えることはありんせん。=There’s no need to take it so seriously.#See common for missing section
 えっ？=What?
 ぬしは、よくやってくれた。|その礼として、|荷馬車はぬしの物じゃ。=You did well. As thanks, the cart shall be yours.
@@ -2578,7 +2578,7 @@
 さぞや、からかいがいのある|楽しい玩具だったと思う。=I was a fun toy that she could enjoy teasing.
 飽きた玩具は捨てられる。|ただ、それだけのことだ……。=Toys that you are tired of get thrown away. That’s all it was...
 少しでも早く立ち去ろうと、|ボクはあふれる涙をぬぐいながら|馬を急がせた。=Wiping away my tears, I spurred on the horse, trying to get away from there|as fast as possible.
-!FILE:event/ev_act/ending_list_bad_c.wsb
+!FILE:event/ev_act/ending_list_bad_c.wsb#final
 うむ、そうじゃな。|ぬしには少し|荷が重かったかもしれぬ。=Yes, it seems like it. Maybe it was a bit too much to ask of you.#See common for missing section
 このあとは、わっち独りで|故郷を目指すつもりじゃ。=From now on, I'll search for my hometown on my own.
 そう……だよね。|役に立たなくて、ごめん。=I see...|I’m sorry that I wasn't of any use to you.
@@ -2596,7 +2596,7 @@
 !FILE:event/ev_act/ending_list_bad_de_1.wsb
 !FILE:event/ev_act/ending_list_bad_de_2.wsb
 !FILE:event/ev_act/ending_list_bad_de_3.wsb#Identical, found in common but titles left here for force command testing.
-!FILE:event/ev_act/ending_list_bad_sa.wsb
+!FILE:event/ev_act/ending_list_bad_sa.wsb#final
 そうじゃな。ぬしは荷馬車を|手に入れることができず、|わっちとの旅もここで終わりじゃ。=Indeed. You will not receive the cart, and our journey together shall end here.#See common for missing section
 それはそうだけど……ホロ！=That’s what we agreed on, but... Holo!
 ボクはホロが、この旅をもう少し|続けようと言い出すのではないかと|期待していた。=I was hoping that she might suggest we continue this trip a little longer.
@@ -2608,7 +2608,7 @@
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
 …………|……………………。=...|.......
 今度こそ、ちゃんとホロを故郷まで|連れていってあげる。|新しい契約、結んでくれないかな？=This time, I will take you to your hometown for sure. Won’t you agree to a new contract?
-わっちには、そんな気はありんせん。|あきらめてくりゃれ。=I’ve no intent to.|Stop this, now.
+わっちには、そんな気はありんせん。|あきらめてくりゃれ。=I’ve no intention of doing so.|Stop this, now.
 お願いだよ、ホロ！|どんな条件でも飲むから。=Please Holo!|Whatever conditions you have, I’ll accept!
 本当かや？=Really?
 もちろんだよ。|こっちから新しい契約を|お願いするんだし。=Of course. I’m asking for a new contract, after all.
@@ -2642,7 +2642,7 @@
 それでは、さっそく|契約を果たしてもらいんす。=Then, we shall put it into effect at once.
 まずは『桃の蜂蜜漬け』あたりから|食べさせてくりゃれ？=For starters, how about you buy me some honeyed peach preserves?
 !FILE:event/ev_act/ending_list_good_a.wsb#found in common, final
-!FILE:event/ev_act/ending_list_good_b.wsb
+!FILE:event/ev_act/ending_list_good_b.wsb#final
 こうしてホロの故郷も|見つかったんだし、|またいつでも帰れるよね。=Now that we’ve found your hometown, it means you can return whenever you want.#See common for missing section
 もう少しだけ、ボクといっしょに|旅をしてほしんだ。=But, I hope you might travel with me a little longer.
 ふむ、そうじゃの……。=Hm, that’s true...
@@ -2662,7 +2662,7 @@
 そんなの、|わっちにもわかりんせん。=That, even I do not know.
 少なくとも|美味いものを食べ飽きるまでは|いっしょにいるつもりじゃ。=I’ll stay with you until I tire of eating delicious food, at least.
 せいぜい|がんばって稼いでくりゃれ。=Do your best to earn a good income.
-!FILE:event/ev_act/ending_list_good_c.wsb
+!FILE:event/ev_act/ending_list_good_c.wsb#final
 ――ぬしよ。=Wait!
 ホロ!?=Holo!?
 許してくりゃれ。|数百年ぶりに会ったせいで、|つい興奮してしまった。=Forgive me. We hadn’t seen each other|in hundreds of years, so got a little carried away.#See common for missing section
@@ -2684,11 +2684,11 @@
 こうして、|ボクとホロの旅は終わった……。=And so, my travels with Holo came to an end...
 あれ以来、|ボクはホロには会っていない。=After that, I never saw Holo again.
 いまでも、ホロは|あの森で暮らしているのだろうか？=I wonder if she still lives in that forest, even now?
-!FILE:event/ev_act/ending_list_good_de.wsb
+!FILE:event/ev_act/ending_list_good_de.wsb#final
 ぱらついていた小雨は、|とうとう土砂降りへと変った。=The light drizzle of rain finally turned into a downpour.#See common for missing section
 それでもホロは戻ってこなかった。=But Holo still did not come back.
 こうして、|ボクとホロの旅が終わった……。=And so, my travels with Holo came to an end...
-!FILE:event/ev_act/ending_list_good_s.wsb
+!FILE:event/ev_act/ending_list_good_s.wsb#final
 ボクたちは森をあとにして、|町に向かった。=Leaving the forest behind, we headed towards town.#See common for missing section
 しばらく歩きつづけると、|途中で置いてきた|荷馬車のところにたどり着いた。=After some walking, we reached the place where I'd left the cart.
 ああ、良かった。|荷馬車も馬も無事みたいだ。=Oh, good. Both the horse and the cart are safe.
