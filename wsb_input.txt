@@ -2719,7 +2719,7 @@
 そうかや？|ぬしは、そんなわっちが|好きなんじゃろ？=Really? But you like this side of me, do you not?
 ――なあ、ぬしよ。=Listen...
 あとで、わっちの尻尾の|毛づくろいをしてくりゃれ。=After this, could you groom my tail?
-!FILE:event/ev_act/ending_list_special.wsb
+!FILE:event/ev_act/ending_list_special.wsb#final, but most of the lines are elsewhere…
 スペシャルコメントを聞く=Listen to Special Comments
 メニューにもどる=Return to Menu
 もういちど|スペシャルコメントを聞く=Listen to Special|Comments again
@@ -2769,12 +2769,12 @@
 闇の支配者=Dark Lord
 ツンデレ=Tsundere
 クマー=Bear
-!FILE:event/ev_act/hasan_end_horo.wsb
+!FILE:event/ev_act/hasan_end_horo.wsb#final
 なあ、ぬしよ。|どうやら、ぬしには商人としての|才能がまったくありんせん。=Say. It appears you really do lack the talent for being a merchant.
 ぬしの持っておる財産では、|これ以上、どんな商品を|仕入れることもできんせん。=With the assets you carry, it is not possible to purchase any more goods.
 ぬしのようなたわけを選んだとは、|わっちの見る目が|なかったということかや。=To have chosen such a fool...|My eye for people must not be as clear as I thought.
 まったく情けないの……。=It is most pitiful...
-!FILE:event/ev_act/hasan_end_player_only.wsb
+!FILE:event/ev_act/hasan_end_player_only.wsb#final
 しまった……！=Dammit...!
 いま持ってる財産だと、|これ以上、どんな商品を|仕入れることもできやしない。=I'll never be able to buy anything with only this small amount of money.
 これじゃあ、|もう行商人は続けられないや……。=I guess my days of being a merchant are over...
@@ -3406,7 +3406,7 @@
 本当に？！|貴方には、なんて御礼を言ったら|いいのかしら。=You really mean it!?|I don’t know how to thank you!
 これで、あの女に|ギャフンと言わせてあげられるわ！|うふふふふ……=With this, I’ll be able to knock that woman speechless! Mwa-hah-hah-hah...
 ありがとう。|これで新しいお店が|出せそうだわ！=Thank you. With this, I think should be able to open that new store!
-結果は、@<number1@>日後に|お知らせいたします。=You should expect to see the results|in @<number1@> days time.
+結果は、@<number1@>日後に|お知らせいたします。=You should expect to see the results|in @<number1@> days' time.#needs an apostrophe
 良い取引になることを|期待しています。=I hope things turn out well.
 こちらこそ。|貴方のご期待に添えるよう|努力いたしますわ。=As do I. I will do my best to meet your expectations.
 結果は、@<number1@>日後に|お知らせするわね。=You should hear the results within @<number1@> days.
@@ -3417,9 +3417,9 @@
 美術商クララ=Art Dealer Clara
 !FILE:event/ev_mou/mou_03_end.wsb
 あの後、すごくいい話でさぁ。|ううっ、人情話ってやつだね……。=After that, a wonderful thing happened. Well, it’s a heartwarming tale about human relationships...#untested
-老芸術家のニールセン氏の所に|家出した息子さんが帰ってきてね、|見事に大復活！=After his son who had run away from home returned, the artist, Sir Nielsen was able to make a splendid comeback!
+老芸術家のニールセン氏の所に|家出した息子さんが帰ってきてね、|見事に大復活！=After his son who had run away from home returned, the artist, Sir Nielsen, was able to make a splendid comeback!#commas needed around the name, which could be missed out without changing the sense of the sentence
 ニールセン氏のつくった髪飾りは|飛ぶように売れてるんだよ。=The hairpieces he made are just flying off the shelves!
-メアリさんのお店も|さすが老舗の底力を|見せたってことだね！=Ms. Mary’s store showed just what resilience a well-established ought|to have!
+メアリさんのお店も|さすが老舗の底力を|見せたってことだね！=Ms. Mary’s store showed just what resilience a well-established business ought to have!#need a noun here; check whether manual line break was needed.
 結局、芸術家のニールセン氏は|絶不調のまんまでね、|髪飾りの出来もさっぱりだったよ。=In the end, because of the slump he was in, the artist, Sir Nielsen was unable to make any hair ornaments.#tested
 代わりに若手の職人が手掛けた|髪飾りが飛ぶように|売れてるんだけれど、なんと――！=But in their place, the hairpieces made by a young craftsman are just flying off the shelves. And what’s more--!
 噂じゃ、その職人はニールセン氏の|家出した息子らしいんだってさ！|なんとなく、燃える話っぽいよね。=According to the rumors, that young craftsman is the runaway son of Sir Nielsen!>>It’s just like a stage production, isn’t it?#tc burning story. I kind of want to use soap opera, but don’t know if that would sound too blazingly anachronistic.
@@ -3903,7 +3903,7 @@
 そうなれば、あっという間に|キミにもそれだけの|財産が転がり込んでくるだろう。=And if that happens, you’ll be rolling in money in no time too.
 本当ですか？！=Is that true?!
 もしボクにそんな|途方もないお金があったら──=If I had that much money--
-キミ程度の若者であれば、|すぐには使い切れないほどの金|かも知れんな。はっはっは。=A young man like you might not even be able to spend all money. Hah-hah-hah.
+キミ程度の若者であれば、|すぐには使い切れないほどの金|かも知れんな。はっはっは。=A young man like you might not even be able to spend all that money. Hah-hah-hah.#grammar
 …………。=......
 どうだ？|この程度の資金、持ち合わせが|ないということはあるまいな？=Well? You must have at least that much money to hand, right?
 持っていない=I don’t.
@@ -3937,7 +3937,7 @@
 　―　超特大口で投資　―|　　【 銀貨@<trade_c@>枚 】=　―　Extra-Large Investment　―|　　　　【 @<trade_c@> silver 】
 うむ、いいだろう。=Mm, that’ll do.
 こちらとしても、金は少しでも|必要だからな。|特別に投資させてやるのだぞ？=Even I need a bit of extra money for this. So I’m letting you invest as a special deal, all right?
-それでは、ワシは帰る。|いつまでも、キミみたいな小物に|構ってはいられないからな。=Well, I’ll be off then. I can’t spend all my time on small fries, you know.
+それでは、ワシは帰る。|いつまでも、キミみたいな小物に|構ってはいられないからな。=Well, I’ll be off then. I can’t spend all my time on small fry, you know.#fry = small fishes, plural is same word
 ガハハハハハ！=Bwa-hah-hah!
 おお、そうか！　ありがとう！|キミの投資があれば、|金鉱の利権はワシのものだ。=Oh, 'that right? Thank you!|With your investment, the rights to the gold mine will be mine.
 配当金を|楽しみにしているがいい！=You’d best be looking forward to seeing your shares!
@@ -3949,7 +3949,7 @@
 ガハハハハハ！=Bwa-hah-hah-ha!
 なに？|こんないい話を断るだと？=What?|You’re going to turn down such a great opportunity?
 そうか……ふん！|無駄足を踏まされたわ！='That so...? Hmph!|What a wasted trip!
-それでは、ワシは帰る。|いつまでも、キミみたいな小物に|構ってはいられないからな。=Well, I’ll be off then. I can’t spend all my time on small fries, you know.
+それでは、ワシは帰る。|いつまでも、キミみたいな小物に|構ってはいられないからな。=Well, I’ll be off then. I can’t spend all my time on small fry, you know.
 ガハハハハハ！=Bwa-hah-hah!
 感じの悪いやつじゃったのう。|とはいえ、仕方あるまい。=What an entirely unpleasant meeting. Though, I suppose it can’t be helped.#I took it to mean ‘it can’t be helped that we have to speak to people like that’, so I changed the wording from ‘unpleasant man’ to ‘unpleasant meeting’.
 やつの言う通り、|ぬしはまだ小物じゃ。=As he said, you are still in the minor leagues.
@@ -3961,14 +3961,14 @@
 金鉱！|それはお金の山！|……もうクラクラしちゃう。=A gold mine! Actual, mountains of gold!|...Just the thought makes my head spin, it does.
 あたしもお金さえあれば|あの人に投資したのに……。=If only I had the money, I would have invested in him too...
 やっぱり商人はお金が無きゃ|ダメダメだよねえ。=I guess merchants are nothing without money, after all.
-おにーさん、オズワルドさんに|名前を覚えてもらったのなら、|いつかまた機会があるかも！=But if Mr. Oswald remembers your name sir, you might get another chance one day, too!
+おにーさん、オズワルドさんに|名前を覚えてもらったのなら、|いつかまた機会があるかも！=But if Mr. Oswald remembers your name, sir, you might get another chance one day, too!
 その時までに、|地道にお金を貯めなくちゃ。|──目指せ！　金の山！=So until then, you’ve gotta keep saving up money. Remember! Aim for the mountains of gold!
 すったもんだの末に、|金鉱はオズワルドさんの|ものになったんだけど、=After several issues, the gold mine finally fell into Mr. Oswald’s hands, but...#tested
 オズワルドさんは|相当危ない橋を渡ったみたい。|儲けが出るのは、まだ先らしいよ。=It looks like he really went out on a limb with that one. He’s still a way off turning a profit.
 さすがに大口で投資した人には、|きっちり返しているみたいだけど、|小口の人は、ちょっと厳しいみたい。=It looks like he’s paid back those who made large investments,>>but is being stubborn about the people who only made small ones.
 あたしもお金さえあれば|大口に投資したのに……。=If only I had the money, I would have made a large investment too...
 やっぱり商人はお金が無きゃ|ダメダメだよねえ。=I guess merchants are nothing without money, after all.
-おにーさん、オズワルドさんに|名前を覚えてもらったのなら、|いつかまた機会があるかも！=But if Mr. Oswald remembers your name sir, you might get another chance one day, too!
+おにーさん、オズワルドさんに|名前を覚えてもらったのなら、|いつかまた機会があるかも！=But if Mr. Oswald remembers your name, sir, you might get another chance one day, too!
 その時までに、|地道にお金を貯めなくちゃ。|──目指せ！　金の山！=So until then, you’ve gotta keep saving up money. Remember! Aim for the mountains of gold!
 !FILE:event/ev_mou/mou_09.wsb
 キミかね。商館の言う|若くて有望な行商人というのは？=So it’s you? The young and talented merchant I was promised.
@@ -4011,7 +4011,7 @@
 金鉱を守るためには、まず金だ。|何よりも大量の銀貨だ。|元手がなければ、戦うことも出来ん。=The first step to protect the gold mine|is money. Moreover, a large amount of money.
 というわけで、ワシのために|これだけの資金を用立てて欲しい。=If I don’t have the funds, I can’t fight. So, I would like for you to lend me this amount.
 これだけあれば、当座の資金は|充分だ。乗っ取りから金鉱を、|守る事ができるはずだ。=With that, I should have enough for the time being. I’d be able to stop the gold mine from being taken over.
-見返りとして、@<number1@>日後に|配当を渡そう。|な、悪い話じゃないだろう？=And quid pro quo, I’ll send you your due|in @<number1@> days. Not a bad offer now, is it?
+見返りとして、@<number1@>日後に|配当を渡そう。|な、悪い話じゃないだろう？=And quid pro quo, I’ll send you your due|in @<number1@> days. Not a bad offer now, is it?#add a comma before now?
 銀貨@<trade_a@>枚ですか。|並の商人の払える金額では|ないですね。=@<trade_a@> silver coins, you say.|That’s not an amount an ordinary|merchant would be able to afford.
 そう言わず、是非とも用立てて|欲しい！=Now don’t say that, I’d really like your help!
 そう、あとこれは出来ればの|話だが……=Right, but there is another offer if you’re up for it...
@@ -4055,7 +4055,7 @@
 融資しない=Don’t invest
 融資する=Invest
 な、なんだと！|そんな事を言わず、頼む！|金はあるのだろう！？=W-What!? Don’t say that, please!|You have the money, don’t you!?
-落ちぶれたワシを笑っているのか？|ワシを破滅させようとして|いるのか！？=Are you laughing at me, having sunk this low? Are you trying to destroy me!?
+落ちぶれたワシを笑っているのか？|ワシを破滅させようとして|いるのか！？=Are you laughing at me having sunk this low? Are you trying to destroy me!?
 そういうわけじゃありません。|ですが……。=That’s not the case. However...
 ええい、もういい！|無駄足を踏まされたわ！=No, enough!|What a wasted trip!
 大商人オズワルド=Big-shot Oswald
@@ -4240,7 +4240,7 @@
 ──ほらほら、|この袋にいっぱい入っているのが|例の安いほうの菓子だよ。=--Look see, this pouch is full of the less expensive ones.
 ……ひょい、ぱくっと。=...Om nom nom.
 ……もひとつ、ぱくっと。=...And maybe just one more, for good luck. Nom!
-う～ん。|いくら食べても飽きない味って|こういう味なんだろうね。=Mmm～|Yeah, this is a flavor that you don’t tire of no matter how many you eat.
+う～ん。|いくら食べても飽きない味って|こういう味なんだろうね。=Mmm～|Yeah, this is a flavor that you don’t tire of, no matter how many you eat.
 ついつい袋いっぱい|買っちゃっても、|お財布に優しいのも嬉しいかな。=Even though I accidentally bought a load of them, I’m glad it’s not harsh on my wallet.
 !FILE:event/ev_mou/mou_11.wsb
 やあ、キミかね。|商館の言っていた、|最近売り出し中の行商人というのは。=Ah, so it’s you? The one the trading house said was an up-and-coming merchant.
@@ -4257,7 +4257,7 @@
 実は、事業を拡大し|他の地方との交易をしようかと|思っておってな。=And as it happens, I’ve been thinking of expanding my business to trade with other regions.
 そこで、私の事業への|投資をお願いしたいのだ。=That’s why I’m here today asking for an investment.
 この町は街道と港、両方に近い。|交易に使わない手は無いだろう。=This town is close to both a road and a port. It’s too good of an opportunity to not use for trade.
-キミには、海路を使った交易か|陸路を使った交易か、どちらかに|投資をしてもらいたいのだ。=I’d like for you to make an investment in either overseas or overland trading.
+キミには、海路を使った交易か|陸路を使った交易か、どちらかに|投資をしてもらいたいのだ。=I’d like for you to make an investment in either maritime or overland trading.#overseas trade would mean with a different country across the sea, we just mean trade that goes by sea, which is maritime
 交易はいいぞ。|なにせ、動く金が違う。|投資したキミも儲かるぞ。=Trade is good. After all, money that moves is something else.>>If you invest, I’m sure you’ll see a profit too.
 投資の額は、この通りだ。|およそ@<number1@>日後に、|配当を加えてお返ししよう。=These are the investment conditions.|You should see the results in roughly @<number1@>|days.
 もし手持ちが少ないようなら、|小口の投資も受け付けておる。=If you don’t have much with you, there’s also the possibility of making a smaller investment.
@@ -4272,7 +4272,7 @@
 陸での交易、というより、|キミがこれからも|陸路での行商人をするなら、=Trading by land is-- well more than that, if you’ve plans to continue working the roads as you are,
 ぜひ私の店に投資するといい。|他の店よりも有利な商売が|できるからだ。=then you should invest in my shop by all means. We can offer you better opportunities than other stores can.
 ……どのような点が|有利なのですか？=...What sort of opportunities?
-うちは海路での交易にも強い。|つまり、海路での交易品を、|直接扱えるところだ。=We also have strong links to sea trade routes. In other words, we handle both overseas and terrain goods directly.
+うちは海路での交易にも強い。|つまり、海路での交易品を、|直接扱えるところだ。=We also have strong links to sea trade routes. In other words, we handle both cargo and freight directly.#'overseas' (=foreign) and 'terrain' (=landscape) aren't the right words. Cargo and freight are better, but this line could still do with some tweaking.
 他の仲買人を通さず、|直接仕入れができるなら、|大きく手数料を抑えられますね。=If you purchase something directly without going through other middlemen, it saves a lot on the handling fee...
 その通りだ。|内陸では手に入らない品物は、|特に利益が大きい。=Precisely. Goods that aren’t available inland are especially profitable.
 海路の交易よりは、|商いの規模は小さいが、|キミの投資には丁度良いだろう。=The scale of trading by land is smaller than sea, but it might be just right for you.
@@ -4289,7 +4289,7 @@
 陸の交易の欠点……？|それは馬車で行商している|キミのほうが詳しいだろう。=The disadvantages of trading by land...? I’m sure that you know far better than I, peddling with your cart, and all.
 まあ、あえて私から言うとすれば、|“手間の割に利益が少ない”|ということだろうか。=But, if I had to pick, I’d probably say|“the profits are small for all the time|and effort”.
 ……おっと、この辺りは|キミのような陸の行商人には|異論があるかもしれないな。=...Ah, I guess the peddlers around here might have something different to say on the matter, though.
-だが、船での交易に慣れてしまうと、|陸路で物を運ぶ時の遅さが、|どうにもわずらわしいのだ。=But, once you get used to overseas trading, all the time consumed in trying to transport something over land...>>starts to become frustrating.
+だが、船での交易に慣れてしまうと、|陸路で物を運ぶ時の遅さが、|どうにもわずらわしいのだ。=But, once you get used to maritime trading, all the time consumed in trying to transport something over land...>>starts to become frustrating.
 加えて、巷で言われるほど、|陸の交易は確実でもない。=Not to mention, using the roads is not as reliable as people say it is.
 まあ、船に比べれば多少は|安全だとは思うがね。=Well, it’s probably still a little safer than by ship, I guess.
 さて、返事を聞こうか。|海路と陸路、|どちらでもいいぞ？=Now then, may I hear your answer?|Whether by sea or land, both are good options, aren’t they?
@@ -4335,7 +4335,7 @@
 では、交易の方法を決めてくれ。=Which method will you be investing in?
 海路での交易に投資=Invest in sea trade
 陸路での交易に投資=Invest in land trade
-わかった。|海路での交易に|投資するのだな。=An investment in overseas trade, then. Got it.
+わかった。|海路での交易に|投資するのだな。=An investment in maritime trade, then. Got it.
 わかった。|陸路での交易に|投資するのだな。=An investment in overland trade, then. Got it.
 では、投資の額は？=Now then, how much are you going to invest?
 商談成立だな。|結果は、@<number1@>日後に|知らせよう。=A deal’s a deal, then.|You’ll know the results in @<number1@> days.
