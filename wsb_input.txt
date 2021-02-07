@@ -2243,9 +2243,9 @@
 !FILE:event/ev_act/act_rt2_rt3_kakuteigo_megane_talk.wsb
 ずっとホロさんと|旅をしてるんですか？=Have you been traveling with Ms. Holo all this time?
 ええ、そうですよ。=Yes, that’s right.
-やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You seem a lot closer than when we first met.
-いまのおふたりは、|とってもお似合いな感じがしますよ。=When see the two of you together now,|I can’t help but think you make a great couple.
-やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You seem to be on better terms compared to when we|first met.
+やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You two seem a lot closer than when we first met.
+いまのおふたりは、|とってもお似合いな感じがしますよ。=When I see the two of you together now,|I can’t help but think that you both make a great couple.
+やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You two seem to be on better terms compared to when we|first met.
 ふたりっきりの旅なら、|いろいろロマンスが生まれますよね。=A two-person trip can give rise to a lot of romantic situations, no?
 それで、そんなに|仲が良さそうなんですね。=That must be why you seem so close.
 ふたりっきりの旅を|ずっと続けられるなんて|よっぽど気が合うんでしょうね。=I’ll bet as you continue traveling together with just the two of you, you might really hit it off.
