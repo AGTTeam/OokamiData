@@ -1,2 +1,19 @@
 ndstextgen --center --vert 7 --no-crop --spacing 1 --width 132 --height 200 --color white holo12 "Staff"
 ndstextgen --color white --spacing 1 holo8 ""
+
+
+Hacking, Graphics
+Illidan
+
+Translation
+Phantom         rottenpantsu
+jbondsr         Morgas
+StargazerOntan  Moaku
+casadillaa      nanjigen
+
+Proofreading
+emcintosh       NowlasWolf
+Pockychan
+
+Special Thanks
+Suruz      Masa    Remilia
