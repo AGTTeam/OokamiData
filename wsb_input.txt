@@ -2243,9 +2243,9 @@
 !FILE:event/ev_act/act_rt2_rt3_kakuteigo_megane_talk.wsb
 ずっとホロさんと|旅をしてるんですか？=Have you been traveling with Ms. Holo all this time?
 ええ、そうですよ。=Yes, that’s right.
-やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You seem a lot closer than when we first met.
-いまのおふたりは、|とってもお似合いな感じがしますよ。=When see the two of you together now,|I can’t help but think you make a great couple.
-やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You seem to be on better terms compared to when we|first met.
+やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You two seem a lot closer than when we first met.
+いまのおふたりは、|とってもお似合いな感じがしますよ。=When I see the two of you together now,|I can’t help but think that you both make a great couple.
+やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You two seem to be on better terms compared to when we|first met.
 ふたりっきりの旅なら、|いろいろロマンスが生まれますよね。=A two-person trip can give rise to a lot of romantic situations, no?
 それで、そんなに|仲が良さそうなんですね。=That must be why you seem so close.
 ふたりっきりの旅を|ずっと続けられるなんて|よっぽど気が合うんでしょうね。=I’ll bet as you continue traveling together with just the two of you, you might really hit it off.
@@ -4407,7 +4407,7 @@
 すごくいい印象を与えたようだ！=
 ちょっぴり|いい印象を与えたようだ！=
 ちょっとハズしちゃったみたい……=
-!FILE:event/ev_ren/ren_a01_samuiyoruniha.wsb
+!FILE:event/ev_ren/ren_a01_samuiyoruniha.wsb#final
 ホロ、今夜は、|ここで寝ようか。=Holo, how about we sleep here tonight?
 うむ。|しかし、やたらと風が強いのう。=Right. Still, the wind is rather strong.
 この時期は、それほど|風は吹かないはずなのに。|何か不吉なことの前触れかな？=The wind shouldn't be so strong at this time of year. Could it be an omen that something bad’s about to happen?
@@ -4449,7 +4449,7 @@
 うん……。=Yeah...
 ふふっ、良い心持ちじゃ。|こうやって、朝までわっちを|暖めてくりゃれ？=Heh-heh, this feels rather nice.|Will you keep me warm until the morning?
 ぬしの体は|暖かいの……。=You're so warm...
-!FILE:event/ev_ren/ren_a02_sutekinakotoba.wsb
+!FILE:event/ev_ren/ren_a02_sutekinakotoba.wsb#final
 ふう、やっと町についたか。=Mmm, seems we’ve finally made it to town.
 ふふっ、ぬしは、|“今日もよく働いた”|という、いい顔をしておるな。=Hee-hee, that face of yours speaks of being satisfied with your work today.
 以前のぬしは、|そのような顔はせんかった。|ここ最近じゃな。変わったのは。=You never made that kind of face before. You've changed recently.
@@ -4490,7 +4490,7 @@
 ぬしには感謝しておる……。=I'm grateful for you...
 …………。=......
 ……さて、寝るとしようかの。|今夜は、よく眠れそうじゃ。=...All right, I should be getting to bed.|I think I will sleep well tonight.
-!FILE:event/ev_ren/ren_a03_horononamida.wsb
+!FILE:event/ev_ren/ren_a03_horononamida.wsb#final
 今日は、ここらで休もうか。=Let's rest here for today.
 うむ、そうじゃのう……。=Yes, let us do that...
 ホロ、どうしたの？|なんだか|元気が無いみたいだけど……？=Holo, is something wrong?|You don't seem too cheerful...
@@ -4508,7 +4508,7 @@
 早く寝たほうがいい=You should get back to sleep.#untested
 ホロ、泣いてるじゃないか。|悪い夢でも見たような、|とても悲しい顔をしてる……。=Holo, you're crying!|You look like you had a bad dream.|A very sorrowful one...
 夢……ああ、夢を見た……。|わっちのいつも見とる夢じゃ。=A dream... Yes, I had a dream...|The one I always do.
-こうやって誰かと旅をしておるとな|つい“１人でない”夢を見る。|ずっと、１人でないままじゃと。=Traveling with someone like this, makes me dream of not being alone. Never again.
+こうやって誰かと旅をしておるとな|つい“１人でない”夢を見る。|ずっと、１人でないままじゃと。=Traveling with someone, like this, makes me dream of not being alone. Never again.
 だが、それは夢じゃ。|本当はわっちは１人なのに……。=But it is just a dream.|In reality, I am alone...
 １人は寂しい……もう飽いた……。|しかし、わっちは――、=Such lonesomeness...|I’ve had enough of it...|But I am--
 …………。=......
@@ -4541,7 +4541,7 @@
 ……わかった。|そのかわり、ボクが何かしても|知らないよ？=...All right.|But that means you can't blame me for anything that might happen next.
 くふっ、それは平気じゃ。|ぬしの事は信用しておる。=Heh-heh, I don't mind.|I trust you.
 そんな度胸、ありんせん。=You wouldn't have the guts.
-!FILE:event/ev_ren/ren_a04_horotohitoyasumi.wsb
+!FILE:event/ev_ren/ren_a04_horotohitoyasumi.wsb#final
 ふう。|今日の道程は順調だね。|この辺りで一休みしてこうか。=Whew. I think we made good time today. Let's stop here and take a break.
 それがよい。|ずっと馬車に揺られていては|尻が痛くなってしまいんす。=Yes, that would be good. It hurts my bottom to constantly be rocked about|in the cart.
 ん～……。|なにやら、やたらと|よい日和じゃ。=Mmm～|Unexpectedly, it’s rather nice weather.
@@ -4570,7 +4570,7 @@
 もう、ホロってば！|日暮れまでに次の町に着かないと|晩御飯、食べられないよ！=Holo! If we don’t get to town before sundown we won’t be able to get dinner!
 むにゃ……。=Zzz...
 ホロー！=Holo!!
-!FILE:event/ev_ren/ren_a05_tabihaituowaru.wsb
+!FILE:event/ev_ren/ren_a05_tabihaituowaru.wsb#final
 …………。=......
 ホロ、どうかしたの？=Holo, is something wrong?
 いや、ただ思索に|ふけっておっただけじゃ。|ぬしと旅を始めてから、もう、=No, I was just lost in thought.|Since we started this journey...
@@ -4595,12 +4595,12 @@
 ん……っ！|ふわあ、よく寝た。|ぬしよ、まだ寝ておるのかや？=Nn...! Ah, I slept well.|Say, are you still asleep?
 すぅ……すぅ……。=Zzz... zzz...
 くふっ、まだ寝ておるのか。|暢気な奴じゃ。子供のような顔で|寝息を立ておって。=Heh-heh, still sleeping?|How easy-going, breathing softly with that childish face.#tc
-わっちが起こしてやらねば|昼寝から目を覚ます事も|できんのかや？　こんな事では、=Will he wake up if I don’t stir him?|If it’s like this...
+わっちが起こしてやらねば|昼寝から目を覚ます事も|できんのかや？　こんな事では、=Will he wake up if I don’t disturb him?|If it’s like this...#stir in this context means waking
 わっちと別れた後、どうする気じゃ。|いつまでも一緒では|ないというのに……。=What is he going to do after we part ways? Even though we won’t be together like this forever...
 ん……ホロ……。=Nnn... Holo...
 くふっ、寝言でわっちの名前を|呼びおった。可愛い奴。|どんな夢を見ているのやら。=Heh-heh, he called my name in his sleep. How adorable.|What kind of dream are you having?
 ほれ、そろそろ起きんす。|そんなことでは、いつまで経っても、|わっちの故郷に着かぬままじゃ？=Come now, it’s time to wake up. At this rate, no matter how much time passes, we’ll never reach my hometown.
-それとも、着きたくないのかや。|それならば――、=Or perhaps, you don’t want to get there? In that case...
+それとも、着きたくないのかや。|それならば――、=Or, perhaps, you don’t want to get there? In that case...
 ……わっちは、|それでも構わぬがな……。=...Even then, I wouldn’t mind...
 ん……んん……。|あっ、おはよう、ホロ。|……あれ？　もう夕方なの？！=Nn... Mmm...|Oh, good morning, Holo.|...Huh? It’s already evening?!
 やっと起きたか、だらしのない。|ぬしがそんなだから、いつまで|経っても旅が終わらんのじゃ。=So you’re finally awake, you slugabed? Since you’re like this, our journey will never end.
@@ -4613,10 +4613,10 @@
 ホロ、そろそろ起きて。|もうすぐ日が暮れちゃうよ。|早く次の宿まで行かないと！=It’s time to get up, Holo. The sun’s going to set soon. We need to get to the next inn as soon as possible!
 ん～……むにゃむにゃ……|もう少し寝かせてくりゃれ……。=Mm... Hmm?|Let me sleep a little longer...
 出発するよ。|ホロ、早く乗ってってば！=We’re leaving.|Come on, get in, Holo!
-!FILE:event/ev_ren/ren_a06_bedgahitotu.wsb
+!FILE:event/ev_ren/ren_a06_bedgahitotu.wsb#final
 やれやれ、|やっと町に着いたはよいが、|何やら混雑した町じゃのう。=Oh my.|We finally reach a town, and it ends up being so packed.
 さ、急ごう。|この混雑ぶりだ。早くしないと|宿が取れなくなっちゃうよ。=Let's hurry.|With this crowd, all the inns will be sold out soon.
-残念ですが、お客さん。|２人用の部屋は、ついさっき|満室になってしまって。=I'm terribly sorry, but all our double rooms are full.
+残念ですが、お客さん。|２人用の部屋は、ついさっき|満室になってしまって。=I'm terribly sorry, but all our two-bed rooms are full.
 そこを何とかなりませんか？|ベッドのある部屋なら、|どこでも構いません。=Is there anything else?|As long as we have beds, it'd be fine.
 あるにはありますが……。=Well, we do have a room, but...
 それでは、その部屋に|案内してもらおうかや。=In that case, do show us the way.
@@ -4675,7 +4675,7 @@
 …………。=......
 くふふ、そう照れるでない。|そう赤くなられては、こっちまで|恥ずかしくなってしまいんす。=Heh-heh-heh, do not blush so.|If I see that red face, I'll start feeling embarrassed too.
 宿屋の主人=Innkeeper
-!FILE:event/ev_ren/ren_a07_utukusisahatumi.wsb
+!FILE:event/ev_ren/ren_a07_utukusisahatumi.wsb#final
 ふう、今日は町に着くのが|随分遅くなっちゃったな。=Phew, we made it into town pretty late today.
 ぬしよ、わっちは|腹が減ってしまいんす。|そこいらで食べていかぬかや？=I’m hungry. What say we get something to eat over there?
 そこの店から羊を焼いた|良い匂いがしておる。|その店にしよう。=That store smells of a delicious roast lamb. Let’s go there.
@@ -4725,7 +4725,7 @@
 ……もう。|今日のホロは、少し変だよ？=...Phew.|Aren’t you acting a little strange tonight?
 ふふ……。=Hee-hee...
 酒場男=Tavern Patron
-!FILE:event/ev_ren/ren_a08_shukuen.wsb
+!FILE:event/ev_ren/ren_a08_shukuen.wsb#final
 お腹が空いたね。|どこかで食事にしようか。=I’m pretty hungry. Let’s find somewhere to eat.
 ならば、あの店はどうじゃ？|酒のよい匂いがする。=Then, what about that store?|It smells of good liquor.
 樽を開けたばかりの|ちょうど飲み頃の蜂蜜酒じゃ。='Tis that of a ready-to-drink barrel of mead just being opened.
@@ -4769,7 +4769,7 @@
 …………。=......
 （……あっ、ホロが寝ちゃった。|　結局ボクが、このまま|　運んでいくしかないのか）=(...Ah, she fell asleep. I guess I’ll have to carry her.)
 （もしかして、|　楽をしようとしたのは、|　ボクのほう……？）=(Maybe I was the one who couldn’t be bothered...?)
-!FILE:event/ev_ren/ren_a09_timelimit.wsb
+!FILE:event/ev_ren/ren_a09_timelimit.wsb#final
 この馬車……|さっきから随分と|がたがた揺れるのう。=The cart... It’s been rattling for a while now.
 道が荒れてるみたいだ。|ちょっとの間|我慢してね。=The roads around here are rough.|I’m afraid you’ll have to bear with it for a little while.
 これではうるさくてかなわぬ。|それにしても、|町にはまだ着かんのかや？='Tis too loud to bear. Besides, we still haven’t arrived in town yet?
@@ -4819,7 +4819,7 @@
 何か言ったかや？=Did you say something?
 いいや、何も！|もうすぐ町に着きそうだ|って言ったんだ！=No, it’s nothing! Just that we’ll be reaching town soon!
 そうかや！|ならば、さっきわっちが|言ったことと同じじゃの！=I see! Then, it’s just like I was saying before!
-!FILE:event/ev_ren/ren_a10_rusuban.wsb
+!FILE:event/ev_ren/ren_a10_rusuban.wsb#final
 意外に賑やかな町じゃのう。|ほれ、ぬしよ。リンゴじゃ。|赤く熟れてて美味そうじゃな。='Tis an unexpectedly busy town.|Ah, look there, apples! They’re ripe red and appear rather toothsome, no?
 きっとリンゴの方も、|わっちに食われるのを|待っているに違いない。=It seems they’re just bursting to be eaten by me.
 ……もう。仕方ないなあ。|１個だけだよ？=...All right, I get it. I’m only buying you one though, okay?
