@@ -5471,12 +5471,12 @@
 ホロとボクは、商売上の契約で|結ばれた関係だよ？|楽しいとか、楽しくないとか──。=You and I are bound by a business contract, right? Whether or not it’s|fun, is--
 だって、そうしてくれると|わっちも嬉しいからの。=But, if you’re happy, it’ll make me happy too.
 …………。=......
-!FILE:event/ev_ren/ren_c03_bedgahitotu2.wsb
+!FILE:event/ev_ren/ren_c03_bedgahitotu2.wsb#final
 やっと町に着いたはよいが、|何やらやたらと|混雑した町じゃのう。=I’m glad that we’ve finally made it to town, but it seems to be rather crowded for some reason.
 じゃが、人が多ければ|自然と食べ物を売る店も多くなる。|それは良いことじゃな。=Though, the more people there are, the more stalls there’ll be selling food too. That’s a plus.
 のう、さっきぬしが買ってくれた|羊の香草焼きと、貝の酒蒸しは|とても旨かった。=The roast lamb with herbs and the shellfish steamed in wine you bought|last time were both delicious.
 この調子で、|わっちにうまいものを|たくさん食べさせてくりゃれ？=Won’t you keep up the good work and let me eat plenty more tasty food?
-さ、急ぎんす。食事もいいが、|早くせんと、この混雑ぶりじゃ。|宿が一杯になってしまう。=Well, we’d best hurry. Food is all well and good, but if we don’t move soon we’ll get caught out. The inns will fill up.
+さ、急ぎんす。食事もいいが、|早くせんと、この混雑ぶりじゃ。|宿が一杯になってしまう。=Well, we’d best hurry. Food is all well and good, but if we don’t move soon we’ll miss out. The inns will fill up.
 お客さん、運がいい。|この部屋が最後の一部屋だ。=You’re lucky. This is the last room we have.
 あれ？　この部屋の|ベッドは１つだけですか？|２人で泊まると言ったはずなのに。=Huh? There’s only one bed in this room? I’m sure I said we wanted a room for two.
 何か問題でも？=Is there a problem?
@@ -5525,11 +5525,11 @@
 !FILE:event/ev_ren/ren_c04_horonoinori.wsb
 おや、見るがよい。|巡礼者じゃ。|行列を作っておる。=Oh, look. Pilgrims. A procession of them.
 この町には有名な教会でも|あるのかや？=Is there a famous church here, I wonder?
-あの教会の中の井戸に|お祈りしてるみたいだ。|向こうに看板が出てる。=It looks like they’re going to pray to a sacred well inside the church.|See, there’s a sign over there.
-昔、聖人が水を飲んだ井戸で、|ここにお祈りすると|願いが叶うらしいよ。=Apparently, a saint once drank water from that well, and if you pray to it,|your wish will come true.
+あの教会の中の井戸に|お祈りしてるみたいだ。|向こうに看板が出てる。=It looks like they’re going to pray at a sacred well inside the church.|See, there’s a sign over there.
+昔、聖人が水を飲んだ井戸で、|ここにお祈りすると|願いが叶うらしいよ。=Apparently, a saint once drank water from that well, and if you pray at it,|your wish will come true.
 ほう、面白い。|ひとつ、わっちらも列に並んで|願い事をしていくかや。=Ho, interesting.|Shall we also go stand in line and make a wish?
 聖人にお祈りするの？|ホロは教会が苦手なのかと|思ってた。=Are you going to pray to the saint?|I thought you weren’t fond of churches.
-バチでも当たると|思っておるのかや？|ふふっ、意外と迷信深いんじゃな。=Do you think you’ll be made to pay for your sins? Heh-heh, you’re surprisingly suppositious.
+バチでも当たると|思っておるのかや？|ふふっ、意外と迷信深いんじゃな。=Do you think you’ll be made to pay for your sins? Heh-heh, you’re surprisingly superstitious.#suppositious means based on assumptions, not believing in the supernatural. I think superstitious is what is meant.
 わっちは平気じゃ。|バチも当たらぬし、耳を隠して|いれば牧師に追われる事もない。=I’ll be fine. If you should get struck out, I’ll hide my ears so the pastor won’t cast us out.
 ……と、そんな話をしている間に|もう、わっちらの順番じゃ。|ほれ、祈るがよい。=...And while we’ve been talking, it seems our turn has come. Here, you should pray.
 ぬしは何を祈る？=What will you pray for?
