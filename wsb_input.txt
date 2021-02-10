@@ -5522,7 +5522,7 @@
 もう少し、わっちに遊ばれてから|眠れば良いものを。|そんなことだから、ぬしは……。=I wanted to play a little more before sleeping. That’s why, you...
 わっちより先に寝るとは……。=Falling asleep before me...
 宿屋の主人=Innkeeper
-!FILE:event/ev_ren/ren_c04_horonoinori.wsb
+!FILE:event/ev_ren/ren_c04_horonoinori.wsb#final
 おや、見るがよい。|巡礼者じゃ。|行列を作っておる。=Oh, look. Pilgrims. A procession of them.
 この町には有名な教会でも|あるのかや？=Is there a famous church here, I wonder?
 あの教会の中の井戸に|お祈りしてるみたいだ。|向こうに看板が出てる。=It looks like they’re going to pray at a sacred well inside the church.|See, there’s a sign over there.
@@ -5561,7 +5561,7 @@
 くふふ、まあ、そう怒るでない。|ぬしのために|祈ってやったのじゃからな。=Heh-heh, don’t be mad. I did pray for you, after all.
 それに……ふふっ、|嬉しいのも本当じゃ。=Besides... Heh-heh, it’s no lie that I’m happy.
 ぬしはいい奴じゃの……。=You are a good man...
-!FILE:event/ev_ren/ren_c05_okusamaikaga.wsb
+!FILE:event/ev_ren/ren_c05_okusamaikaga.wsb#final
 やっと町に着いたか。|ぬしは、いつまで経っても馬車の|扱いが上手くならんのう。=So we’ve arrived in town at last? No matter how much times passes, you never get any better at driving the cart.
 ああ揺れては、|尻尾の毛が抜けてしまいんす。=Aah, when I get so knocked about, the hairs on my tail fall out.
 ……ごめんね、ホロ。|それじゃあ、ここは一休みして|露店でも見て回ろうか？=...I’m sorry, Holo. Well, why don’t we have a break and look around the stalls?
@@ -5783,10 +5783,10 @@
 ……いや、構わん。|先に行ってくりゃれ。=...No, it’s fine.|Let’s keep going.
 うん、わかった。|じゃあ、行くよ。=All right.|Let’s go then.
 うむ……。=Aye...
-!FILE:event/ev_ren/ren_c09_okurimono.wsb
-ぬしよ、見るがよい。|市が立っておるぞ。|あちこちに露店が出ておる。=Come look. The market is open!|There are stalls all around.
+!FILE:event/ev_ren/ren_c09_okurimono.wsb#final
+ぬしよ、見るがよい。|市が立っておるぞ。|あちこちに露店が出ておる。=Come look. The market is open!|There are stalls all around.#store->stall throughout this event - it's an outdoor market
 ふむ……。=Hm...
-（ホロ……露店を見てる。|　欲しい物でもあるのかな？）=(Holo’s looking at all the stores... Is there something she’s after?)
+（ホロ……露店を見てる。|　欲しい物でもあるのかな？）=(Holo’s looking at all the stalls... Is there something she’s after?)
 ねえホロ、|何か欲しい物があるの？|ボクが買ってあげようか？=Hey, Holo, is there something you’d like?|I could buy it for you.
 よいのかや？=Is that okay?
 うん、たまにはね。|あんまり高い物はダメだけど……=Yeah, I don’t mind once in a while.|But, nothing too expensive...
@@ -5799,14 +5799,14 @@
 ふむ……確かに|美味そうなリンゴじゃ。|１個貰おうかの。=Hm... They do look delicious.|I’ll take one.
 ああ、よかった。|やっぱり食べ物が|欲しかったんだね。=Ah, good.|So you did want food, after all.
 別に、そういうわけではない。|ぬしが薦めたからじゃ。=Not in particular.|'Tis because you recommended them.
-だったら、|隣の店に売っていた|髪飾りの方が良かったのかな？=Then, should I have gone for the hair clip they’re selling at the store next door?
+だったら、|隣の店に売っていた|髪飾りの方が良かったのかな？=Then, should I have gone for the hair clip they’re selling at the stall next door?
 ああ、それも|悪くなかったかもしれぬ。しかし、|わっちが髪飾りをつけたならば、=Ah, that might not have been bad either. Though, if I were to wear the hair clip...
 ただでさえ美しいわっちが|美しくなりすぎて、|ぬしが困る事になりはせんかの？=and the already-beautiful me became far too beautiful, wouldn’t you be in trouble?
 一緒に野宿する時などに、|落ち着いていられなく|なってしまうじゃろう？=You wouldn’t be able to stay calm when we are sleeping together outdoors, would you?
 …………。=......
 ふふっ、じゃから買ってもらうのは|リンゴで構わん。=Heh-heh-heh, so I don’t mind if you buy me an apple.
 （……結局、ホロは|　どっちが欲しかったのかな？）=(...In the end, I still don’t know which one Holo would have preferred.)
-あのお店の首飾りはどうかな？|とても綺麗だと思うんだけど……。=What about the necklace they’re selling in that store?|I think it’s very beautiful.
+あのお店の首飾りはどうかな？|とても綺麗だと思うんだけど……。=What about the necklace they’re selling at that stall?|I think it’s very beautiful.
 なんじゃと？　ぬしは、|わっちが首飾りなぞもらって|喜ぶと思っておるのかや？=What? Do you really think I’d be thrilled to receive a necklace?
 ごめん。ボクはただ、|ホロに似合うんじゃないかと|思って、その……。=Sorry. I just thought that it might suit you, so...
 だったら食べ物にしようか？|そこのリンゴはどう？=Then, would you prefer food? How about those apples?
@@ -5865,7 +5865,7 @@
 くふっ、しかし|ぬしは意外といい体を|しとるのじゃな。=Though I must say, you are more well-built than I thought.
 な……っ！=Wha--!
 ふふっ、冗談じゃ。|何にしても|今日はゆっくり休むがよい。=Hee-hee, I jest. Anyway, you should get some rest for now.
-!FILE:event/ev_ren/ren_d01_horotoonsen.wsb
+!FILE:event/ev_ren/ren_d01_horotoonsen.wsb#final
 ぬしよ、|ここいらで一休みせんかや？=Why don’t we rest here for today?
 そうだね。|もうそろそろ、一休みしようか。=You’re right. We should stop soon.
 わっちはもう、くたくたじゃ。|どうして、あんなに揺れるんじゃ？=I’m exhausted. Why must it shake so?
@@ -5923,7 +5923,7 @@
 今のぬしでは、まだ物足りん。=But, you’re not quite there yet.
 え、それって……？！=Huh, you mean...?!
 くふっ、ふふふ……。=Heh-heh, heh-heh-heh...
-!FILE:event/ev_ren/ren_d02_bashaga.wsb
+!FILE:event/ev_ren/ren_d02_bashaga.wsb#final
 今日は１日ずっと|馬車に乗りっぱなしじゃの……。|これ、ぬしよ。=We’ve done nothing but ride in the cart all day... Say...
 ──ん？|どうしたの、ホロ。=--Hm? What’s up, Holo?
 尻が痛い。=My bottom hurts.
@@ -5978,7 +5978,7 @@
 ぬしは、もっとオロオロと|していた方が可愛いんじゃがな。=It’d be much cuter if you were all flustered.
 …………。=......
 ふん、面白くない。|退屈じゃ……。=Hmph, how dull. I’m bored...
-!FILE:event/ev_ren/ren_d03_sipponimuchu.wsb
+!FILE:event/ev_ren/ren_d03_sipponimuchu.wsb#final
 ふう、ここらで一休みとするかや。=Hmm, I feel it’s time we take a break.
 のう、ぬしよ。|さっきカモが飛んでいたのを|見たかや？=Say, did you see the ducks flying overhead before?
 …………。=......
@@ -6010,7 +6010,7 @@
 んっ……。|あ……っ！　あ……=Mm...|Ah...!|Ah......
 ……って、ぬしよ、|どこ、さわっておる！？=...Hey! Where do you think you’re touching?!
 どこって……尻尾だよ？=Where...? This is your tail, right?
-形が可愛いし、|毛並みもツヤツヤしてる。|それに手触りも最高だよ。=It has a lovely shape and such shiny fur. But more than that, it really nice to pet.
+形が可愛いし、|毛並みもツヤツヤしてる。|それに手触りも最高だよ。=It has a lovely shape and such shiny fur. But more than that, it is really nice to pet.
 毛皮だったら|銀貨何枚になるんだろう！=This fur would turn a big profit, I’m sure!
 ぬし、わっちの尻尾の事を|言っておったのか！=So you were talking about my tail?
 ……ん？|そうだよ。|それがどうかしたの？=...Hm? I was.|Why, what’s wrong?
@@ -6028,7 +6028,7 @@
 だから、今度我慢できなくなったら|黙っておらずに、素直に言うがよい。|尻くらいなら触らせてやる。=That’s why, next time you feel you can bear it no longer, you should speak your honest feelings. I’ll let you have a feel.
 …………！=...!
 ふふふ、冗談じゃ。どうせ|ぬしにそんな事を頼める|度胸はありんせん。=Heh-heh-heh, I jest. 'Tis not as though you would have the courage to ask that, anyway.
-!FILE:event/ev_ren/ren_d04_otanosimi.wsb
+!FILE:event/ev_ren/ren_d04_otanosimi.wsb#final
 早く今夜の宿を決めねばな。|折角じゃから、|なるべく立派な宿がよいな。=We ought to decide on an inn for tonight soon. We should pick the best possible place while we have the chance.
 このところ野宿ばかりで疲れておる。|たまには柔らかいベッドで|寝なければの。=I’m tired from always sleeping outside lately. One has to sleep in a soft bed every once in a while.
 ボクも賛成だよ。|ゆっくり休めそうな部屋を|探してみようか。=I agree. Let’s look for a room where we can rest in peace.
@@ -6112,7 +6112,7 @@
 照れることはありんせん。|ぬしがあんなに上手とは|思わなかったからの。=There’s nothing to be shy about. I never thought you would be that skilled.
 …………！|そういう言い方は、|やめてよ、ホロ！=......!|Stop saying things that are so misleading, Holo!
 宿屋の主人=Innkeeper
-!FILE:event/ev_ren/ren_d05_hitorizake.wsb
+!FILE:event/ev_ren/ren_d05_hitorizake.wsb#final
 のう、ぬしよ。|酒など１杯飲みたくはないかや？=Say, do you fancy a drink?
 ……お酒？|さっき食事と一緒に|飲んでいなかったっけ？=...A drink? Didn’t you just have one with our meal?
 確かに、水でかさを増やした|うすーいビールを|飲みはしたがの……。='Tis true that I drank a light beer diluted with water, but...
@@ -6137,7 +6137,7 @@
 うむ……。|いい酒じゃった。|こんな酒は、あの時以来じゃ……。=Mm... It was a fine drink. I haven’t had such a thing since...
 （そうか、ホロは|　ボクと会う前にもいろいろ|　あったって言っていた）=(Right, Holo said all sorts of things happened before she met me.)
 （きっと悲しい事なんかも|　あったんだろうな……）=(That also includes sad things, no doubt...)
-なんじゃ、ぬし？|急に黙ってしまって。=What is it? You’ve suddenly went quiet.
+なんじゃ、ぬし？|急に黙ってしまって。=What is it? You’ve suddenly gone quiet.
 いや……。|ホロ、もう１杯飲む？|ボクが買ってくるよ。=No... Holo, would you like another round? I’ll go and buy some.
 いいのかや？=Are you sure?
 ボクが帰ってくるまでに|寝ちゃってたら、|おあずけだからね？=If you fall asleep by the time I get back, we can always set it aside, right?
@@ -6150,7 +6150,7 @@
 そんなつまらん使われ方されるより|わっちに飲まれた方が|酒だって嬉しかろうに。=I bet even the drink would be happier to be drunk by me than to be used in such a boring way.
 いくらホロの頼みでも、だめだよ。|今回は我慢して。=No matter how many times you ask, my answer is still no. You’ll just have to bear with it this time.
 ふん、ぬしがそんなに|けちな奴じゃとは|思わなかったが……。=Hmph. I didn’t take you for such a miser...
-!FILE:event/ev_ren/ren_d06_kanbanmusume.wsb
+!FILE:event/ev_ren/ren_d06_kanbanmusume.wsb#final
 やっと町に着いたかや。|ここはかなり良い町のようじゃな。=We’ve finally made it to town, have we? This is quite the fine town.
 ホロにもわかるの？=You know it?
 うむ、良い町は匂いでわかる。|焼いた鶏肉とブドウ酒の匂いが|かすかにするじゃろう？=Nn, I can tell it’s fine from the smell. There’s a faint scent of roast chicken and wine, no?
@@ -6331,7 +6331,7 @@
 違う手、って一体……。=W-What do you mean, “different method”...?
 気にすることはありんせん。|道中の慰めに、|ちと遊んでみただけじゃ。=Oh, don’t mind that. I just thought I’d play with you a little as a distraction from the journey.
 雇い主のわっちとしては、|当然、雇った相手のことは|興味があるからのう？=As an employer, it’s only natural that I’d be interested in the person I hired, no?
-!FILE:event/ev_ren/ren_d09_sonsitetokutore.wsb
+!FILE:event/ev_ren/ren_d09_sonsitetokutore.wsb#final
 さて、町に着いたが、|この後はどうする？　夕食まで、|町を見物するか？=Now then, we’ve made it to town, but what would you like to do? Shall we see the sights until dinner?
 いや、ボクは用事があるんだ。|商館の人と会う事に|なっているんだ。=No, I’ve got some business to take care of. I'm supposed to be meeting someone from the trading house soon.
 さっき買ったお菓子は、|今回の商談相手への|お土産なんだ。=The candy we bought a little while ago is a souvenir for them.
@@ -6367,7 +6367,7 @@
 菓子なら、その箱の下じゃ。|手つかずで置いてある。=If it’s the candy you’re after, they’re under that box. Left untouched.
 え……っ？|本当だ。|だったら、さっきのは？=What...?|It’s true. Then, what was all that before?
 食べたフリだけじゃ。|ちょっと、からかってみた。=I was only pretending to chew. I thought I might tease you a little.
-ぬしが困る事を|わっちがするわけがなかろう。=There’s no way I’d do something which would trouble you so.
+ぬしが困る事を|わっちがするわけがなかろう。=There’s no way I’d do something that would trouble you so.
 じゃが、約束は約束じゃ。|謝ったのだから、|ちゃんとお菓子、買ってくりゃれ？=But, a promise is a promise. Since I apologized, you’ll buy me some candy, won’t you?
 …………。=......
 ……なんじゃ、怒ったのか？|そんなに拗ねる事はなかろう？=...What, are you angry? There’s no reason to be sulking like that, is there?
@@ -6377,7 +6377,7 @@
 菓子なら、その箱の下じゃ。|手つかずで置いてある。=If it’s the candy you’re after, they’re under that box. Left untouched.
 え……っ？|本当だ。|だったら、さっきのは？=What...?|It’s true...|Then, what was all that before?
 食べたフリだけじゃ。|ちょっと、からかってみた。=I was only pretending to chew. I thought I might tease you a little.
-ぬしが困る事を|わっちがするわけがなかろう。=There’s no way I’d do something which would trouble you so.
+ぬしが困る事を|わっちがするわけがなかろう。=There’s no way I’d do something that would trouble you so.
 だから、ぬし、機嫌を直して|くりゃれ？　せめて、黙ったまま|怒るのは堪忍じゃ。=So, won’t you cheer up? At the very least, forgive me and don’t just keep quiet.
 黙ったままだと、|わっちは寂しい。|１人きりでおるようで……。=If you don’t talk, I’ll be lonely. It feels like I’m all by myself again...
 ……いいよ、許すよ。=...Okay, I’ll forgive you.
@@ -6520,7 +6520,7 @@
 言葉が悪かったかや？|わっちがぬしと旅をする気になった|理由を、思い出して欲しいだけじゃ。=Perhaps you misunderstood? I meant for you to remember the reason why I chose to travel with you.
 （理由って、そういえば……）=(The reason? Come to think of it...)
 つまらぬことを言ってしまったの。|まあ、ぬしは普通にしていればよい。|これは、わっちの旅じゃからな……。=I said something pointless. Well, you need only be your usual self. 'Tis my journey, after all...
-!FILE:event/ev_ren/ren_e03_horonofukigen.wsb
+!FILE:event/ev_ren/ren_e03_horonofukigen.wsb#final
 ぬしよ、そろそろ食事にせんかや？|わっちは腹が減った。=What say we eat soon? I am hungry.
 朝の魚の残りがあるじゃろ？|あれを焼いて食べよう。=There were leftovers from this morning’s fish, yes? Let’s grill and eat those.
 いいよ。|ちょっと待っていて。|馬車を止めて、火を起こすから。=All right. Just give me a minute. I’ll stop the cart and start a fire.
@@ -6557,7 +6557,7 @@
 魚の骨じゃ。|ずっと、喉に引っ掛かって|おって……=A fish bone.|It was stuck in my throat this whole time...
 まさか、それで黙ってたの？！|怒っていたわけじゃ|なかったんだ……。=What? So that’s why you weren’t talking?! You weren’t angry...?
 うむ。|わっちは心の広い狼じゃからな。=Aye. I am a wolf with a large heart, after all.#tc
-ところでぬしよ、先程はあれこれと|聞き捨てならんことを言っておった|ようじゃが……？=Though, it seems like you said a thing or two which I cannot overlook...
+ところでぬしよ、先程はあれこれと|聞き捨てならんことを言っておった|ようじゃが……？=Though, it seems like you said a thing or two that I cannot overlook...
 ええと、それは……。=Aaah, that was--
 ふふっ。|まあ、正直に言ったことは|褒めてやろう。=Heh-heh-heh. Well, I give you points for speaking the truth.
 それに、ぬしが必死で謝って|機嫌を取ろうとする姿を見るのは|楽しかったからのう。=And it was fun watching you desperately trying to apologize to humor me.
@@ -6619,7 +6619,7 @@
 わっちが居眠りしている隙に|何かすればよかったものを。=It would have been fine to do something while I was sleeping.
 そんな事、しないよ。|何かするって、そんな……。=I wouldn’t do that. Something like that...
 くふふ、照れるでない。|そんなに真っ赤になるものじゃ|ありんせん。=Heh-heh, don’t be shy. There’s no reason to turn so red.
-!FILE:event/ev_ren/ren_e05_hayaokiha.wsb
+!FILE:event/ev_ren/ren_e05_hayaokiha.wsb#final
 やっと町に着いたかや。|馬車に揺られ続けて|ちょっと疲れてしまいんす。=We finally made it to town!|I am a little tired from being rocked by the cart.
 余計に疲れた気がするのは、|居眠りのし過ぎだよ。ホロ。|──さてと、宿を決めないと。=You’re only tired because you took too many naps. Anyway, we ought to find somewhere to spend the night.
 そこの宿はどうじゃ？|厨房から美味そうな匂いがする。|食事が期待できそうじゃ。=How about that inn? There’s a delicious smell coming from the kitchen. I am sure that we can expect something good.
@@ -6795,7 +6795,7 @@
 じゃが、わっちもぬしの懐具合を|知らぬわけではない。|今日のところは勘弁してやろうかの。=Though, I am not ignorant of the state of your purse.|I shall let you off for today.
 感謝してくりゃれ？=Aren’t you glad?
 感謝するよ。|とほほ……。=Yeah. But don’t remind me...
-!FILE:event/ev_ren/ren_e09_kokyohenoomoi.wsb
+!FILE:event/ev_ren/ren_e09_kokyohenoomoi.wsb#final
 今日は天気がいいね。|日差しがこんなに暖かい。=We’ve good weather today.|The sun is so warm.
 そうじゃのう。|いい日和じゃ。風も爽やかじゃし、|気持ちがよい……。=Indeed, 'tis a fine day. The air is fresh and it feels nice...
 ふう……。=*Sigh...*
@@ -6902,7 +6902,7 @@
 もうよい、行こう。|わっちゃあ、少し休みたい……=But enough of that, let us go.|I'd like to rest...
 いや、その前にまずは飯と酒じゃ。|今日は前祝いでたっぷりご馳走して|もらわなければならぬ！=No, before that... we need food and drinks! Let us treat ourselves today, as an early celebration!
 ぬしよ、今日は派手にゆこう！|わっちらの目的もあと少しで叶うの|じゃからな！=Let us go all out today, now that our goal is in sight!
-!FILE:event/ev_ren/ren_rru_b2a.wsb
+!FILE:event/ev_ren/ren_rru_b2a.wsb#final
 やれやれ、やっと着いたかや。|しばらく野宿が続くと、|やはりベッドが恋しくなりんす。=Well, well, we finally made it.|After a few nights outside, one can't help but long for a bed.
 どうやら今日は|宿でゆっくりできそうじゃな。=We should be able to have a good rest at the inn tonight.
 えっ？|あ、ああ、そうだね。=Huh?|Oh, yeah, right.
@@ -6953,7 +6953,7 @@
 ぬしもわっちらのやり方に|つきあってくりゃれ？=Will you also play along with our way of doing things?
 ぬしになら、いつかわっちが|頼むかもしれんからの。=One day, I might just ask such a thing from you.
 わっちの尻尾の手入れを|してくりゃれ、とな。=To groom my tail, that is.
-!FILE:event/ev_ren/ren_rru_c2b.wsb
+!FILE:event/ev_ren/ren_rru_c2b.wsb#final
 ……んあ？=Hnn?
 あ、ごめん。|起こしちゃった？=Oh, sorry.|Did I wake you?
 どうしたんじゃ？|馬車が止まっているようじゃが……。=What's wrong?|Why have we stopped?
