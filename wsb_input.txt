@@ -985,11 +985,11 @@
 どんな大商人も|最初は駆け出しです。=Every great merchant was once a beginner.
 若い商人の方とのおつきあいは|将来への投資だと、ルーデンス侯は|よくおっしゃっております。=Lord Ludens often says that trading with young merchants is an investment in the future.
 何かございましたら、|当家まで足をお運びください。=If there is something you need, please do pay us a visit.
-!FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk_repeat.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou_situzi_talk_repeat.wsb#final
 当家は、ルーデンス侯の|屋敷でございます。=This is the residence of Lord Ludens.
 若い商人の方とのつきあいは、|将来への投資だとルーデンス侯は|おっしゃっております。=Lord Ludens often says that trading with young merchants is an investment in the future.
 何かございましたら、|当家まで足をお運びください。=If there is something you need, please do pay us a visit.
-!FILE:event/ev_act/act_170_kottou_yuudou_sizin_talk.wsb
+!FILE:event/ev_act/act_170_kottou_yuudou_sizin_talk.wsb#black screen on force, so can't test
 ようこそ、アイマベルグの町へ。|酒の供に私の歌はいかがかな？=Welcome to Eimeberg.|How about a song to accompany|your wine?
 昔語りの浪漫を、|新しき調べで歌い上げよう。=I'll sing to you an old romance with a new melody.
 最近、町の様子はどうです？=How's town these days?
@@ -1160,7 +1160,7 @@
 ああ、びっくりした。|なんとか、だいじょうぶでした。=Ah, that frightened me.|I somehow managed to catch my balance.
 びっくりしたのは、こっちですよ。=You gave me a fright.
 すみません……。|とにかく私も応援してますから、|いつでも力になりますよ。=I'm sorry...|I meant to say, I’m here for you,|so please count on me any time.
-!FILE:event/ev_act/act_210_rt1_megane_kiku_merusu_sakaba_talk.wsb
+!FILE:event/ev_act/act_210_rt1_megane_kiku_merusu_sakaba_talk.wsb#black screen on force, so can't test
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
 ちょっと聞きたいんだけど、|『古狼の森』って知らないかな？=I was wondering if you might know anything about the “Ancient Forest”?
 えっ、なんですか、それ？=Huh? What's that?
@@ -1826,7 +1826,7 @@
 !FILE:event/ev_act/act_400_sira_wo_siru_merusu_sakaba_talk.wsb#Final
 シラって本当に小さな村で、|この町でも知ってる人は|少ないんですよ。=Shila is a really small village, and there aren’t many in this town who know of it.
 アタシの彼が、|たまたまシラの出身だから|知ってたんです。=I only know because my beau just happens to be from there.
-!FILE:event/ev_act/act_400_sira_wo_siru_sira_sakaba_talk.wsb
+!FILE:event/ev_act/act_400_sira_wo_siru_sira_sakaba_talk.wsb#black screen on force, so can't test
 あら、めずらしいね。|あんたたち、行商人かい？=My, how unusual.|Are you merchants?
 ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest” that’s around here?
 『古狼の森』……？|いや、聞いたこともないよ。=“Ancient Forest”...?|No, I've never heard of it before.
@@ -2081,7 +2081,7 @@
 ぬしは雄として、|まだまだ未熟ということじゃな。=But you've still a ways to go as a male.
 半日ほどで、その嵐は去っていった。=Half a day later, the storm passed.
 その後、ボクたちを乗せた船は|目的地を目指し、|順調に航海を続けた。=After that, the ship continued to its destination without any more trouble.
-!FILE:event/ev_act/act_rt1_040_ehre_mori_kiku.wsb
+!FILE:event/ev_act/act_rt1_040_ehre_mori_kiku.wsb#final
 いらっしゃいませ。|ウチの酒場は|会員制になってましてね。=Welcome.|Our establishment is members-only.# Note: text for this and the next 8 lines is repeated in act_rt2_040_warden_mori_kiku and act_rt3_040_yuubel_mori_kiku
 会員になるには、|銀貨「@<number1@>枚」が必要なんですよ。=You can gain membership for @<number1@> silver.
 【 銀貨@<number1@>枚 】を支払う=Pay @<number1@> silver
@@ -2099,7 +2099,7 @@
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
 そうですか！|ありがとうございます！=I see, thank you!
-!FILE:event/ev_act/act_rt1_040_ehre_mori_kiku_ehre_sakaba_talk.wsb
+!FILE:event/ev_act/act_rt1_040_ehre_mori_kiku_ehre_sakaba_talk.wsb#black screen on force, so can't test
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
 !FILE:event/ev_act/act_rt1_rt2_kakuteigo_gakusya_talk.wsb#final
@@ -2240,16 +2240,16 @@
 !FILE:event/ev_act/act_rt2_040_warden_mori_kiku_warden_sakaba_talk.wsb#Final
 西の森から大きな狼が|やってきたせいで、この辺りには|狼が多いそうなんです。=It seems like because of the giant wolves who came from the forest to the west, there’s now a lot of wolves in this area.
 ここから東に２日ぐらい|行ったところの森に、|狼たちは住みついたって話です。=It’s said they made their home in a forest about two days out to the east.
-!FILE:event/ev_act/act_rt2_rt3_kakuteigo_megane_talk.wsb
+!FILE:event/ev_act/act_rt2_rt3_kakuteigo_megane_talk.wsb#final
 ずっとホロさんと|旅をしてるんですか？=Have you been traveling with Ms. Holo all this time?
 ええ、そうですよ。=Yes, that’s right.
-やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You two seem a lot closer than when we first met.
+やっぱり、ふふ。|最初に会ったときより、|ずっと仲良しに見えますからね。=Heh-heh, I thought so. You two seem a lot closer than when we first met.#tested
 いまのおふたりは、|とってもお似合いな感じがしますよ。=When I see the two of you together now,|I can’t help but think that you both make a great couple.
 やっぱり、そうなんですね。|最初に会ったときに比べて、|仲が良さそうですから。=Ah, so I was right. You two seem to be on better terms compared to when we|first met.
 ふたりっきりの旅なら、|いろいろロマンスが生まれますよね。=A two-person trip can give rise to a lot of romantic situations, no?
 それで、そんなに|仲が良さそうなんですね。=That must be why you seem so close.
 ふたりっきりの旅を|ずっと続けられるなんて|よっぽど気が合うんでしょうね。=I’ll bet as you continue traveling together with just the two of you, you might really hit it off.
-そうなんですか。|でも、初めてお会いしたときと|あんまり変らない気もしますね。=Is that right?|But, things don’t seem to have changed much from when we first met.
+そうなんですか。|でも、初めてお会いしたときと|あんまり変らない気もしますね。=Is that right?|But, things don’t seem to have changed much from when we first met.#tested
 てっきり、ロマンスが|芽生えるかと思ってたんですけど。=I was sure that a romance was going to sprout...
 !FILE:event/ev_act/act_rt3_000_gakusya_kiku.wsb#final
 おお、ホロ様。|このようなあばら家にわざわざ|足を運んでいただき、恐縮です。=O esteemed Holo!|I'm honored that you would step inside this lousy shack I call my home.
@@ -2288,7 +2288,7 @@
 お客さん、荷馬車ですよね？|だったら鉱山を抜けてくしか|道はないですよ。=You have a cart, don't you? Then the only way is through the mines.
 ただ廃坑になって、|しばらく経ってますから|ちょっと心配ですね。=However, they’ve been abandoned for a while now, so it might be dangerous.
 ええ、気をつけてみます。|ありがとう。=All right, we'll be careful.|Thank you.
-!FILE:event/ev_act/act_rt3_020_new_city_yuubel_syurinkeru_sakaba_talk.wsb
+!FILE:event/ev_act/act_rt3_020_new_city_yuubel_syurinkeru_sakaba_talk.wsb#black screen on force, so can't test
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you’re going to Yubel via cart, you'll have to pass through the mines.
 でも、廃坑になって|しばらく経つから、|ちょっと心配ですね。=But, they’ve been abandoned for a while now, so it might be dangerous.
 !FILE:event/ev_act/act_rt3_030_kiki_kouzan.wsb#final
@@ -2346,7 +2346,7 @@
 そうでなければ、|甘い雰囲気も何もありんせん。|わかったかや？=Else, you can’t create a pleasant mood.|Do you understand?
 わかったら……|次は優しくしてくりゃれ？=If you do... then be gentle next time.
 その後は落盤などもなく、|ボクたちは無事に|鉱山を通り抜けることができた。=With no further cave-ins, we made it through the mine in one piece.
-!FILE:event/ev_act/act_rt3_040_yuubel_mori_kiku.wsb
+!FILE:event/ev_act/act_rt3_040_yuubel_mori_kiku.wsb#final
 いらっしゃいませ。|ウチの酒場は|会員制になってましてね。=Welcome.|Our establishment is members-only.
 会員になるには、|銀貨「@<number1@>枚」が必要なんですよ。=You can gain membership for @<number1@> silver.
 【 銀貨@<number1@>枚 】を支払う=Pay @<number1@> silver
@@ -2364,7 +2364,7 @@
 この村には、|人の言葉を話す狼の話が|伝わってるわよ。=There's one in this village about talking wolves.
 北からやってきた狼が|ここから２日ぐらい南に行った森に|住みついたって昔話なの。=The wolves in it came from the north, and settled down in a forest about two days south of here.
 それですよ！|ありがとうございます。=Just what we were looking for!|Thank you.
-!FILE:event/ev_act/act_rt3_040_yuubel_mori_kiku_yuubel_sakaba_talk.wsb
+!FILE:event/ev_act/act_rt3_040_yuubel_mori_kiku_yuubel_sakaba_talk.wsb#black screen on force, so can't test
 人の言葉を話す狼が、|北のほうからやってきたっていう|昔話がこの村に伝わってるの。=There's an old legend in this village about wolves from the north who can speak human words.
 狼は、この村から|２日ぐらい南に行った森に|住みついたらしいわ。=They say the wolves settled in a forest about two days south of here.
 !FILE:event/ev_act/act_rt_ending.wsb#Final
@@ -7225,7 +7225,7 @@
 しかたがない。あきらめるかや。=Well, so be it. I give up.
 !FILE:event/ev_sys/normal_pub.wsb
 いらっしゃいませ。=Welcome.
-!FILE:event/ev_sys/t01_aima_mon_ashidome.wsb
+!FILE:event/ev_sys/t01_aima_mon_ashidome.wsb#final
 あの詩人とやらに|会わなくてもいいのかや？=Should you not meet with the wordsmith?
 !FILE:event/ev_sys/t01_aima_pub.wsb#Final
 吟遊詩人と話す=Talk to the Minstrel
@@ -7251,7 +7251,7 @@
 !FILE:event/ev_sys/t04_seab_pub.wsb
 店員と話す =Talk to the Clerk
 いらっしゃいませ。=Welcome.
-エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're heading for Ehre, you’d best be careful.
+エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're heading for Ehre, you’d best be careful.#I don't see this line, either I can rumours or return to town…
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=The weather takes a turn around this time of year, and the seas get rough.
 !FILE:event/ev_sys/t06_meru_pub.wsb
 店員と話す=Talk to the Clerk
@@ -7279,7 +7279,7 @@
 あら、お客さん。|シラには行ってみたんですか？|何かいいモノ、ありました？=My, it’s nice to see you again.|Did you visit Shila?|Find anything nice?
 うん、まあね。|なんとか商売の役に立つと思うよ。=Well, more or less.|I think it could be useful for trade.
 へぇ、さすが商人は違いますね。=Heh, I guess that’s merchants for you. You always see things differently.
-!FILE:event/ev_sys/t09_dort_act_240_mon_ashidome.wsb
+!FILE:event/ev_sys/t09_dort_act_240_mon_ashidome.wsb#final
 あのうさん臭い男に|会わなくてもいいのかや？=Should you not go and meet with that dubious fellow?
 !FILE:event/ev_sys/t09_dort_act_320_ichiba_ashidome.wsb#Final
 （いまは買い物なんか|　してる場合じゃない……！）=(This is hardly the time to go shopping...!)
@@ -7310,7 +7310,7 @@
 こわいですよね～～。|私もずっと口説かれてたんですけど、|断っといて良かったわぁ……。=How scary～～ He’d been trying to make a move on me for a long time, but I'm glad I turned him down...
 それじゃ、|よろしくお願いします。=Well then, we’ll be counting on you.
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Understood. We shall escort you to the neighboring town of Valerie and back.
-!FILE:event/ev_sys/t14_shul_pub.wsb
+!FILE:event/ev_sys/t14_shul_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you’re going to Yubel via cart, you'll have to pass through the mines.
@@ -7324,7 +7324,7 @@
 !FILE:event/ev_sys/t17_dess_act_140_shoukan_asidome.wsb#Final
 いま誰もいないよ。|ごめーん、また来てね～。=There's no one here right now.|Sorry, do come back later～.
 ソフィー=Sophie
-!FILE:event/ev_sys/t18_maru_pub.wsb
+!FILE:event/ev_sys/t18_maru_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 ワーデンまでは|山越えしかないから、|あんまり道が良くないよ。=The only way to get to Warden is through the mountains though the roads aren't in good condition.
@@ -7333,12 +7333,12 @@
 シュミットと話す=Talk to Schmidt
 いらっしゃいませ。=Welcome.
 やあ、元気そうだね。|商売のほうはどうだい？=You’re looking well.|How goes business?
-たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.
+たいしたことないんですよ。|まだ荷馬車の借金も|返せてないんですから。=Not as well as I hoped.|I still haven't managed to pay off the loan for the cart yet.#tested
 だったら、|しばらくはこの辺りで|行商を続けてみることだな。=Then you're probably best sticking to trading around this area for now.
 もし、荷馬車の借金を|返し終わったら、|またこの酒場まで会いにきてくれ。=If you manage to pay off the cart, come find me here again.
 ほかの地方への行商路のこととか|教えてやるよ。=I’ll tell you about a few trading routes to other places.
 わかりました！|ありがとうございます。=All right!|Thank you!
-どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fare you? Using a cart for trade is a world away from peddling, isn't it?
+どうだい？　徒歩の行商と|荷馬車の行商では、|なかなか勝手が違うだろ。=How fare you? Using a cart for trade is a world away from peddling, isn't it?#untested
 ええ、そうですね。|なんと言っても|扱える金額が大きくなりましたし。=Yeah, it is. Any way you look at it, you sure are dealing with lots more money.
 そうだな。だからといって、|あまり欲をかかないほうがいい。=That you are. But even so, take care not to get greedy.
 地道にやっていれば|損することは、まずないからな。|がんばれよ。=If you work hard and steady, you're not likely to lose your earnings. Good luck.
@@ -7380,17 +7380,17 @@
 ああ、そうだよね。|この店は、何がお勧め？=Ah, that’s true.|What do you recommend?
 コイ料理だね。|丸揚げとか、パイ包み焼きとか。|どっちもおいしいよ。=Definitely the carp.|Fried or made into pie, either way it’s delicious.
 じゃあ、それを両方とも。|それから葡萄酒を持ってきて。=Then, we’ll take both.|And some wine to follow.
-!FILE:event/ev_sys/t24_elle_pub.wsb
+!FILE:event/ev_sys/t24_elle_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
-!FILE:event/ev_sys/t25_ward_pub.wsb
+!FILE:event/ev_sys/t25_ward_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 西の森から大きな狼が|やってきたせいで、この辺りには|狼が多いそうなんです。=It seems like because of the giant wolves who came from the forest to the west, there’s now a lot of wolves in this area.
 ここから東に２日ぐらい|行ったところの森に、|狼たちは住みついたって話です。=It’s said they made their home in a forest about two days out to the east.
-!FILE:event/ev_sys/t26_jube_pub.wsb
+!FILE:event/ev_sys/t26_jube_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
 人の言葉を話す狼が、|北のほうからやってきたっていう|昔話がこの村に伝わってるの。=There's an old legend in this village about wolves from the north who can speak human words.
@@ -7494,7 +7494,7 @@
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
 商人レベルが上がった！=Merchant level has risen!
-!FILE:event/ev_sys/traderlv_up8.wsb
+!FILE:event/ev_sys/traderlv_up8.wsb#final
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……=Say, I have been thinking lately...
 ぬしも商品の扱いというものが|少しばかりわかってきたように|思えるの。=It seems you’ve learned quite a bit about handling goods.
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
@@ -7506,7 +7506,7 @@
 ぬしもずいぶんと商人としての|貫禄がついてきたのではないか？|ま、わっちのおかげなんじゃがの。=And your gravitas as a merchant has increased as well, hasn’t it?|Although I do take the credit.
 出来る雄が隣にいると、わっちも|鼻が高い。|その調子で精進してくりゃれ。=I am proud to have such a capable male at my side. Do keep it up.
 商人レベルが上がった！=Merchant level has risen!
-!FILE:event/ev_sys/traderlv_up10.wsb
+!FILE:event/ev_sys/traderlv_up10.wsb#final
 のう、ぬしよ。|わっちも、ずいぶんと長い間|いろんな人間を見てきたが……=For a long time now, I have watched all kinds of people, but...
 今のぬしほど商才に長けた|人間は、これまで見たことが|ないやも知れぬ！=I have never known a human as skilled at business as the one I see before me.
 わっちはぬしを少し侮っておった|ようじゃ。|これほどの逸材だったとはの……。=It seems I underestimated you a little.|To think you had such incredible talent...
