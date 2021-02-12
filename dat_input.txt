@@ -32,7 +32,7 @@
 【村長の家】||デッセル村の村長の家です=[Village Leader's House]|Where the head of Dessel village lives.
 !FILE:goods.dat
 牛=Cow
-役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for food and milk.
+役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for meat and milk.
 馬=Horse
 丈夫な脚と心臓を持つ馬は文化|と生活を支える大事な動物。=Horses with strong legs play a crucial role in daily life.
 鶏=Chicken
@@ -92,7 +92,7 @@
 キノコ=Mushroom
 山の幸の代表。野趣あふれる香|りと食感で料理に彩りを添える。=From the mountains. Used to add color and texture to a dish.
 タマネギ=Onion
-美味しくて薬効の高いタマネギ。|煮てよし焼いてよしの優秀食材。=Tasty, and remedial onion.|Good boiled or grilled.
+美味しくて薬効の高いタマネギ。|煮てよし焼いてよしの優秀食材。=Tasty and remedial onion.|Good boiled or grilled.
 ジャガイモ=Potato
 別名を大地のリンゴ。まるまる|と太ったイモは食べごたえ満点。=“The Apple of the Earth”.|One can live off just this.
 小麦=Wheat
@@ -120,7 +120,7 @@
 コーヒー=Coffee
 異国から伝わった薫り高い飲み|物。文化人の間で評判が高い。=A drink from a foreign country. Popular among high society.
 紅茶=Black Tea
-憩いのひとときをもたらす飲み|物。すっきりとした香りが魅力。=A refreshing drink that provides a moments relaxation.
+憩いのひとときをもたらす飲み|物。すっきりとした香りが魅力。=A refreshing drink that provides a moment's relaxation.
 栗=Chestnut
 固くしまった大きな栗の実。煮|ても焼いても甘く美味しい。=Sweet and delicious whether roasted or boiled.
 さくらんぼ=Cherry
@@ -130,14 +130,14 @@
 干し肉=Jerky
 肉を日干しにした保存食。旅の|携帯食としても用いられる。=Sun-dried meat. It’s portable, so often eaten when traveling.
 ハム=Ham
-調味した塩漬け肉を熟成させた|加工食品。深い味わいが人気。=Seasoned, and salt-preserved aged meat.
+調味した塩漬け肉を熟成させた|加工食品。深い味わいが人気。=Seasoned and salt-preserved aged meat.
 ベーコン=Bacon
 塩漬け豚肉の燻製。様々な料理|に応用が利く便利な食材。=Smoked, salted pork. Used in a variety of dishes.
 ソーセージ=Sausage
 挽肉の腸詰め。一本一本に職人|の努力と工夫が込められている。=Ground meat stuffed into links by a butcher.
 チーズ=Cheese
 動物の生乳を発酵させて固めた|美味しい保存食品。=A tasty preserved food made from fermented milk.
-やぎのチーズ=Goats Cheese
+やぎのチーズ=Goat's Cheese
 山羊の生乳を原料としたチーズ。|濃厚でクリーミーな味わい。=Cheese made from goat milk.|Rich and creamy in flavor.
 小麦粉=Wheat Flour
 暮らしに欠かせない必需品。質|の見定めが商人の格を分ける。=An essential for daily life.
@@ -162,7 +162,7 @@
 ぶどう酒=Wine
 ぶどうから作られるお酒。芳醇|な味と香りは、まさに神の恵み。=The mellow taste and aroma are like a gift from heaven.
 ビール=Beer
-麦を発酵させた飲料。爽やかな|苦みが喉と人生に潤いを与える。=A fermented hops drink.|Bitter and refreshing.
+麦を発酵させた飲料。爽やかな|苦みが喉と人生に潤いを与える。=A fermented hop drink.|Bitter and refreshing.
 蒸留酒=Hard Liquor
 火のように強い酒。錬金の技術|が生み出した魔法の液体。=A fiery liquor. Created using alchemists’ techniques.
 クッキー=Cookie
@@ -420,10 +420,10 @@
 “飢饉発生？”の話=“A Famine?" Rumor
 とある学者がこんな話してたよ。|「ある地方では悪天候が続いてい|るが、私の作った麦のおかげで飢|饉にはならないだろう」|信憑性ありそうな感じだったなぁ。=I heard a scholar saying, “The bad weather in the region has yet to let up, but thanks to the wheat I cultivated, there isn’t likely to be a famine." He seemed to be credible.
 マールケで噂されてる農作物買占|めの話知ってるかい？|しかしそんな簡単に飢饉なんてお|こるものなのかねぇ。|俺は信じられないね。=Have you heard the news about produce being bought up in Mahlke? Still, could a famine really happen that easily? I find it hard to believe.
-マールケで聞いた飢饉への投資の|噂、話が話だけに大きく投資して|もそんなに儲からなそうだけど、|私も小口で投資してみようかしら。=It doesn’t seem like it’ll be that profitable to invest heavily in the talk at Mahkle of lending money to fight a famine, but I have been thinking about making a small investment myself.
+マールケで聞いた飢饉への投資の|噂、話が話だけに大きく投資して|もそんなに儲からなそうだけど、|私も小口で投資してみようかしら。=It doesn’t seem like it’ll be that profitable to invest heavily in the talk at Mahlke of lending money to fight a famine, but I have been thinking about making a small investment myself.
 とある学者がこんな話してたよ。|「ある地方では悪天候が続いてい|るが、私の作った麦のおかげで飢|饉にはならないと…いいなぁ…」|祈るような話ぶりだったなぁ。=I heard a scholar saying, “The bad weather in the region has yet to let up, but thanks to the wheat I cultivated, there won’t be a famine... I hope..." It sounded like he was praying.
 マールケでの農作物買占めの噂、|聞いたかい？|飢饉がおこるとしたら大変だよな。|俺なら黙ってられないかもなぁ。=Have you heard the news about produce being bought up in Mahlke? If there is a famine, things will be tough. I’m not sure I could just sit back and watch that happen.
-マールケで聞いた飢饉への投資の|噂だけど、私も大きく投資してみ|るわ。|やっぱり困ってる人は見過ごせな|いものね。=About the talk at Mahkle of lending money to fight a famine, I'm going to go all in and make a large investment. I can't just overlook people who are in need.
+マールケで聞いた飢饉への投資の|噂だけど、私も大きく投資してみ|るわ。|やっぱり困ってる人は見過ごせな|いものね。=About the talk at Mahlke of lending money to fight a famine, I'm going to go all in and make a large investment. I can't just overlook people who are in need.
 教会からの誘い=An Invite from The Church#The Church's Invite
 アイマベルグの商館でこんな投資|の噂があるって聞いたよ。|なんでも教会が大聖堂を建てるの|に３０日以内にお金が必要なんだ|ってさ。本当ならチャンスかな？=At the trading house in Eimeberg, I heard a rumor about an investment. Apparently, the Church is building a great cathedral, and they need the money within 30 days. If that's true, wouldn't it be a great opportunity?
 “教会からの誘い”の話=“An Invite from The Church" Rumor
@@ -472,7 +472,7 @@
 海千山千=A Slippery Fellow
 セアベルクの商館で交易事業への|投資話が出てるようだよ。|３０日以内に商館に行ってみれば|詳しい話が聞けるだろうね。|話だけでも聞いてみたらどうかな？=There seems to be talk of investing in a trading opportunity at the trade house in Seabelk. If you go there within the next 30 days, you should be able to find out more. Why not pop round to see what it’s all about?
 “海千山千”の話=“A Slippery Fellow" Rumor
-セアベルク付近の海域では海賊が|出没していたみたいだね。|でも最近は以前に比べて、数が減|ったように見えるけど、どうなん|だろうね。=The waters around Seabelk have long been full of pirates. But I heard that recently, there’s less of them than there were before. I wonder if it’s true?
+セアベルク付近の海域では海賊が|出没していたみたいだね。|でも最近は以前に比べて、数が減|ったように見えるけど、どうなん|だろうね。=The waters around Seabelk have long been full of pirates. But I heard that recently, there’s fewer of them than before. I wonder if it’s true?
 セアベルク付近での男達の会話。|「最近海賊家業が儲からないな」|「暴れすぎたせいで船を使うヤツ|がいなくなったせいだ」|「これからは山賊になろうぜ！」=I heard some guys talking near Seabelk. “Being a pirate ain’t been so profitable lately.” “People just ain’t usin’ boats no more ‘cuz of all the trouble.” “Let’s become bandits instead!”
 セアベルクの交易投資の話は知っ|てるかい？|交易路は慎重に選ばないと損をす|ることもあるだろう。|しかし今日は海風が気持ちいいね。=Did ya hear about the investment in a trading business in Seabelk? If you’re not careful about which trade route ya pick, you’re gonna lose a lot of money. But I gotta say, the sea breeze is real nice today...
 セアベルク付近の海域では海賊が|出没していたみたいだね。|少しは取り締まっているみたいだ|けど、あまり数が減ったように見|えないわねぇ。=The waters around Seabelk have long been full of pirates. I heard that they were trying to crack down on it a bit, but it doesn’t look like their numbers have gone down at all.
@@ -493,7 +493,7 @@
 特産品　エビ=Special: Shrimp
 ランドルタットのエビといえば、|大陸の向こうでも有名だよ。|活きのいいのが大量に捕れるから|買い付けに行くといいと思うよ。=Speaking of shrimp, Landoltatt's shrimp are known across the continent. There are a lot of lively ones to be caught. I think I should go buy some, too.
 特産品　ムール貝=Special: Mussel
-ムール貝を買い付けるならランド|ルタットがいいよ。|煮てよし、蒸してよしの食べ物だ|から需要もあるだろうしな。=If you want mussels, Landolatt is the place to go. Since they're great whether boiled or steamed, there might be some high demand for them.
+ムール貝を買い付けるならランド|ルタットがいいよ。|煮てよし、蒸してよしの食べ物だ|から需要もあるだろうしな。=If you want mussels, Landoltatt is the place to go. Since they're great whether boiled or steamed, there might be some high demand for them.
 特産品　干し肉=Special: Jerky
 干し肉といえば、ノーリン産がい|いという話だよ。|保存食としても人気が高いから需|要もあるしね。=Speaking of jerky, Norlin's is supposed to be pretty good. Because it's so popular as a preserved food, it's usually in high demand.
 特産品　ジャム=Special: Jam
@@ -505,7 +505,7 @@
 特産品　ぶどう酒=Special: Wine
 ヴィンヘンの特産品で有名なのは|ぶどう酒だね。|これを知らないんじゃ商人として|どうかと思うよ。=Vinchen's specialty is wine. If you're a merchant who doesn't know this, I'd wonder about you.
 特産品　蜂蜜酒=Special: Mead
-蜂蜜酒……といえばメリンツの特|産品だろうね。|港湾都市なのに蜂蜜酒が特産品な|んて珍しいだろ。=Mead... when you think “mead”, you think Meltinz. Although it's a port town, mead is still a well-known specialty.
+蜂蜜酒……といえばメリンツの特|産品だろうね。|港湾都市なのに蜂蜜酒が特産品な|んて珍しいだろ。=Mead... when you think “mead”, you think Melintz. Although it's a port town, mead is still a well-known specialty.
 特産品　高級ぶどう酒=Special: Premium Wine
 ヴィンヘンの高級ブドウ酒は巷で|は有名という話だ。|普通のブドウ酒よりも高価だがそ|れに比べて儲けも多いんじゃない|かな。=Vinchen's premium wine is said to be famous. It's more expensive than regular wine, but in comparison it's also much more profitable.
 特産品　大理石=Special: Marble
@@ -639,7 +639,7 @@
 東の方に昔の神々を研究している|神学者がいる。|どこかの町に昔の伝承を歌う|吟遊詩人がいる。=There’s a theologist who studies old gods somewhere to the east. Also, there’s a town where a bard supposedly plays songs about the old legends.
 シラ=Shila
 シラという村の近くには|“古狼の森”と呼ばれる森が|あった。|その森には人語を解する巨大な狼|たちが住んでいたという。=There used to be a large forest known as the “Ancient Forest” near the village of Shila. It’s said that it was inhabited by giant wolves who could understand human speech.
-ロウメスに聞いた年代記作家の噂=From the Chronicler Loumas
+ロウメスに聞いた年代記作家の噂=From the Chronicler Loumes
 東の方に昔の神々を研究している|神学者がいる。|西の海岸地方に昔の文献を|集めている貴族か領主がいる。=There’s is a theologian who studies the gods of old to the east. Then to west coast, there’s some kind of lord or noble who collects old books.
 教会への寄付金=Donation to the Church
 ドルトンクの教会に、|銀貨１５０００枚を寄付しないと|情報を教えてくれない。=You must pay 15,000 silver coins to the church in Doltonkh to hear more information.
@@ -653,7 +653,7 @@
 ホロの仲間の狼たちの行方を|調べるために、もう１度、|年代記作家に会いにゆく。|何かの伝承が残っているかも|しれない。=Head to a chronicler to see if you can uncover any information on the whereabouts of Holo’s kin. There might be some folklore that didn’t seem relevant until now.
 アニスに聞いた獣たちの行方=Anise's Answer on a Location
 かつて、『セアベルク』の町に|ずぶ濡れの獣たちが東の森から|やってきた。彼らはしばらく|町で身体を乾かすと、やがて|西の海を渡っていった。=Many moons ago, a pack of beasts, their fur soaking wet, appeared in “Seabelk” having travelled from the forests to the east. They spent some time near town to dry their fur, then headed west, across the sea.
-ロウメスに聞いた獣たちの行方=Loumas' Answer on a Location
+ロウメスに聞いた獣たちの行方=Loumes' Answer on a Location
 昔、『マールケ』の村に|ずぶ濡れの獣たちが西の森から|逃げてきた。|彼らは村で少し休んだあと、|山を越えて去っていった。=Over a hundred years ago, beasts with soaking wet fur came to “Mahlke”, fleeing the western forests. After a short rest near the village, they disappeared into the mountains.
 グスタに聞いた獣たちの行方=Gusta's Answer on a Location
 かつて、『シュリンケル』の町|にずぶ濡れの獣たちが北の森か|らはるばるやってきた。|彼らは住処の森を探す旅の途中|で、そのまま山を越えていった。=Long ago, a pack of soaking wet beasts stopped in the town of “Schrinkel”, having come from the faraway northern forests. They continued their travels over the mountains in search of a new home.
