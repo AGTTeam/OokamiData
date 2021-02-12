@@ -2464,7 +2464,7 @@
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
 …………|……………………。=...|.......
 今度こそ、ちゃんとホロを故郷まで|連れていってあげる。|新しい契約、結んでくれないかな？=This time, I will take you to your hometown for sure. Won’t you agree to a new contract?
-わっちには、そんな気はありんせん。|あきらめてくりゃれ。=I’ve no intent to.|Stop this, now.
+わっちには、そんな気はありんせん。|あきらめてくりゃれ。=I’ve no intention of doing so.|Stop this, now.
 お願いだよ、ホロ！|どんな条件でも飲むから。=Please Holo!|Whatever conditions you have, I’ll accept!
 本当かや？=Really?
 もちろんだよ。|こっちから新しい契約を|お願いするんだし。=Of course. I’m asking for a new contract, after all.
@@ -2602,7 +2602,7 @@
 ボクはホロが、この旅をもう少し|続けようと言い出すのではないかと|期待していた。=I was hoping that she might suggest we continue this trip a little longer.
 たしかに契約はしたけど、|ホロにとってはあくまでも|形式的なものにすぎない、と。=I know we signed a contract, but wasn’t that just a formality to her?
 ぬしも駆け出しとはいえ、|商人じゃろう？　だったら、|取るべき態度はわかっておるはず。=You may be a novice, but you are still a merchant, correct? You should know how you ought to behave here.
-（きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=I'm sure that Holo is telling me to|abide by the contract and withdraw|with grace...)
+（きっとホロは、契約書通りに|　潔く引き下がれと|　言ってるんだろう……）=(I'm sure that Holo is telling me to|abide by the contract and withdraw|with grace...)
 （だけど、商人はあきらめが悪い。|　断られてからが、|　本当の交渉の始まりなんだ！）=(But, merchants are bad at giving up. Once you've been turned down, that's when the real negotiations start!)
 たしかに|あの契約は履行できなかったよ。|それは認める。=It’s true that I failed to fulfill the contract. I don’t deny that.
 だから、あの契約の代わりに|新しい契約を結びたい。|それを禁じる条項はないよね？=That’s why I want to replace it with a new one. There’s no clause which prohibits that, right?
@@ -5149,7 +5149,7 @@
 なるほど。|それでは早速、商売の話を|しようじゃないか。=I see. Then, let’s get down to business, shall we?
 書面を見てくれ。|近頃はウチも苦しくてね。|この条件でどうかね？=Take a look at the listing. It's been tough around here, so... What say you to this offer?
 ですが、ええと……。|その条件では、|ボクが赤字になってしまいます。=Well, uh...|With these terms, I'd end up at a loss.
-せめて、その倍は出して|いただかないと……。=I was ideally hoping for at least twice this much...
+せめて、その倍は出して|いただかないと……。=I was hoping for at least twice this much...
 なんとかならんのかや？=Is there nothing that can be done?
 ふむ……|そう言われても……。=Hmm... I understand, but...
 まあ……素敵な方！|お父様、この方はどなたで？=My... What a fine gentleman!|Father, who is your guest?
@@ -5293,7 +5293,7 @@
 それで、|何か食べる物はあるのかや？=So, is there anything to eat?
 とっておきのが荷台にあるよ=I’ve something special in the back.#tested
 そういえば、あそこに羊がいるね=Now that you mention it, there’s|a sheep over there.#untested
-たいした物はないんだけど……=I don’t have anything special, but...#untested
+たいした物はないんだけど……=I don’t have anything special, but...
 くふ。知っておる。|甘い匂いのする実じゃろ？=Heh-heh, I could tell. It’s that sweetly scented fruit, isn’t it?
 荷台で寝てるときから、|ずっと狙っていたんじゃ。|食べてもいいのかや？=I’ve had my eye on it ever since I fell asleep back here. Am I allowed to have it?
 うん、いいよ。|東のほうから入ってきた|珍しい果物なんだって。=Sure, go ahead. It’s a rare fruit that I got from the east.
@@ -5346,7 +5346,7 @@
 何？=What’s up?
 わっちは働くぞ。=I’m going to work.
 働く？|働くって、どこで？=Work?|Work where?
-そこに立っておったら、今の|男に声をかけられた。わっちに|店を手伝ってほしいそうじゃ。=While I was stood here, that man called out to me. He wants my help with his store.
+そこに立っておったら、今の|男に声をかけられた。わっちに|店を手伝ってほしいそうじゃ。=While I stood here, that man called out to me. He wants my help with his store.
 どんなお店なの？=What kind of store?
 知らぬ。|じゃが、客の酒の相手をしておれば、|食べ放題飲み放題だそうじゃ。=That I don’t know. But, it seems to be a simple job, with unlimited food and drink.
 簡単そうな仕事じゃろ？|どうじゃ、やってもいいかや？=It sounds like a good job, doesn’t it? Well, what say you? Will you let me do it?
@@ -5371,7 +5371,7 @@
 ホロがしっかり者なのは、|ボクも知っているけど……。=I know you’ve got the guts, but I’m not so sure about me...
 そうかや。|ならば、早速行ってくる。=Is that right? Then, I’ll leave at once.
 ……ホロ？=...Holo?
-（……あ、もう行っちゃった。|　ホロだからこそ、|　別の意味で心配なんだけどな）=(...Ah, she’s already gone. It’s precisely because it’s her that I’m worried, but in a different sense.)
+（……あ、もう行っちゃった。|　ホロだからこそ、|　別の意味で心配なんだけどな）=(...Ah, she’s already gone. It’s precisely because it’s her that I’m worried, but in a different way.)
 （後で様子を見てこよう）=(I should go and check on things later.)
 よく来てくれたの。|わっちゃあ、|たくさん飲み食いする雄が好きじゃ。=I’m glad you’re here. I’ve a liking for males who can eat and drink a lot.
 そういう雄なら、|わっちが酒の相手をしてやろう。=For such a male, I will be your drinking partner.
@@ -6216,7 +6216,7 @@
 迂闊な契約条件を出す方が悪い。|それに、損はしておらんはずじゃ。|わっちのおかげで満員だったじゃろ？='Tis his own fault for carelessly issuing such terms. Besides, I’d hardly call that a loss. Thanks to me, they were full, no?
 それはボクも見ていたよ。|ホロ目当ての客が|いっぱい集まっていたね。=I noticed that too. There were a lot of customers there after you.
 そうじゃろう。|わっちの美貌、見直したかや？|ホレ直してもかまわんぞ。=Indeed. Have you re-estimated my good looks? I don’t mind if you fall for me a second time.
-うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... Wait. What is “fall a second time” supposed to mean?!
+うん、見直した──って、あれ？|“ホレ直す”って、|どういう意味？！=Yeah, I’ve re-esti... Wait. What is “fall for me a second time” supposed to mean?!
 “ホレ直す”とは、つまり|“もともとわっちにホレている”|という意味じゃ。=“A second time” means “already fallen for me to begin with”.
 だから心配で、わざわざ様子を|見にきたのじゃろう？=That’s why you were worried, and came out of your way to check on things, correct?
 いや、あれは、その……。=No, that was, um...
@@ -7327,7 +7327,7 @@
 !FILE:event/ev_sys/t18_maru_pub.wsb#final
 店員と話す=Talk to the Clerk
 いらっしゃいませ。=Welcome.
-ワーデンまでは|山越えしかないから、|あんまり道が良くないよ。=The only way to get to Warden is through the mountains though the roads aren't in good condition.
+ワーデンまでは|山越えしかないから、|あんまり道が良くないよ。=You have to cross through the mountains to get there, and the|roads aren't in good condition.
 それに、天気が変わりやすくて|いきなり吹雪いたりするから|気をつけることね。=Plus, the weather can be finnicky around this time of year, with sudden blizzards. You’d best be careful.
 !FILE:event/ev_sys/t20_vinc_pub.wsb
 シュミットと話す=Talk to Schmidt
