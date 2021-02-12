@@ -3056,7 +3056,7 @@
 また儲け話を聞いたら、|商館に来てね。|またね～！=
 商人=
 お使いの少女=
-!FILE:event/ev_mou/mou_01.wsb
+!FILE:event/ev_mou/mou_01.wsb#final
 やあ、キミかね。|若くて有望な行商人というのは！=Ah, so you’re the one?|A young and promising merchant!
 私はこの地方で|広く海産物を扱っている者だ。=I operate in this region, dealing in a wide range of seafood.
 最近、この地方の貴族の間で|新しい海産物料理が|流行っているのを知っておるかね？=Did you know that there’s a new seafood dish which has been popular among the nobility lately?
@@ -3241,7 +3241,7 @@
 なんだか、その地方の人は、|“品種改良したから、|　もう凶作にはならないはずだ！”=The local people said, “now that we’ve improved the wheat strain, we should never have a bad harvest again!”
 ……って思い込んでいたみたい|だけど、そんなにうまい話は|あるわけないよねぇ。=...And it seemed pretty convincing, but I guess it was too good to be true.
 私もちゃんと|麦の神様にお祈りしようっと。|──あ、教会には内緒だよ？=I’m going to keep praying to the wheat goddess.>>--Ah, keep that a secret from the Church, okay?
-!FILE:event/ev_mou/mou_03.wsb
+!FILE:event/ev_mou/mou_03.wsb#final
 はじめまして。|私、この町でアクセサリーを|商っている者でございます。=Pleased to make your acquaintance.|I work in this town as a jeweler.
 本日は、私どもの商売に|投資して頂ければと思い――、=Today, I’d like to talk to you about investing in my business--
 ちょっと待って！|投資の話なら、うちの店が|先でしょう？=Now hold on! If you’re talking investments, it’s only natural that my store should come first, right?
