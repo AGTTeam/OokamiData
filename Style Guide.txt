@@ -25,7 +25,7 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 
 ==Characters==
 ホロ=Holo
-店員=Clerk
+店員=Barmaid
 シュミット=Schmidt
 酒場の主人=Barkeeper
 村人=Villager

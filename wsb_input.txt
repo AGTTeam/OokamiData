@@ -7,7 +7,7 @@
 手持ちの銀貨が足りません=You don’t have enough silver.
 ボク=Me
 ホロ=Holo
-店員=Clerk
+店員=Barmaid
 シュミット=Schmidt
 酒場の主人=Barkeeper
 村人=Villager
@@ -7249,12 +7249,12 @@
 うむ。なかなか良い歌じゃな。|馬鹿馬鹿しい話のわりに|心に残るものがある。=Mm. 'Tis a delightful song.|The story is rather foolish, but it certainly stays with you.
 そう言ってもらえれば、|歌いがいがあるというもの。|どうぞ、ごひいきに。=Hearing that from you makes singing worth the while.|Tips are also welcome.#tc
 !FILE:event/ev_sys/t04_seab_pub.wsb
-店員と話す =Talk to the Clerk
+店員と話す =Talk to the barmaid
 いらっしゃいませ。=Welcome.
 エーレの村に行くなら、|気をつけたほうがいいですよ。=If you're heading for Ehre, you’d best be careful.#I don't see this line, either I can rumours or return to town…
 この時期は、海が荒れて|大時化（おおしけ）になることが|あるんです。=The weather takes a turn around this time of year, and the seas get rough.
 !FILE:event/ev_sys/t06_meru_pub.wsb
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 いらっしゃいませ！|何になさいます？=Welcome!|What can I do for you?
 とりあえず、ビールじゃ。=Beer, to start.
@@ -7286,9 +7286,9 @@
 !FILE:event/ev_sys/t09_dort_act_320_mon_asidome.wsb#Final
 （なんとか|　ホロに会わないと……！）=(I have to find Holo, somehow...!)
 !FILE:event/ev_sys/t09_dort_pub.wsb#Final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 サーセンと話す=Talk to Sarsen
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 もしかして、お客さん、|東のほうに行きたいんですか？=Sir, could it be that you’re wanting to head east?
 はい、そのつもりなんです。=Yes, that’s the plan.
@@ -7311,7 +7311,7 @@
 それじゃ、|よろしくお願いします。=Well then, we’ll be counting on you.
 わかりました。この町から|隣の『ヴァルアリー』との往復を|護衛することにいたします。=Understood. We shall escort you to the neighboring town of Valerie and back.
 !FILE:event/ev_sys/t14_shul_pub.wsb#final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 荷馬車でユーベルに行くなら、|廃坑になった鉱山を|通り抜けてくしかないですよ。=If you’re going to Yubel via cart, you'll have to pass through the mines.
 でも、廃坑になって|しばらく経つから、|ちょっと心配ですね。=But, they’ve been abandoned for a while now, so I can’t help but worry about how safe it is to cross.
@@ -7325,7 +7325,7 @@
 いま誰もいないよ。|ごめーん、また来てね～。=There's no one here right now.|Sorry, do come back later～.
 ソフィー=Sophie
 !FILE:event/ev_sys/t18_maru_pub.wsb#final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 ワーデンまでは|山越えしかないから、|あんまり道が良くないよ。=You have to cross through the mountains to get there, and the|roads aren't in good condition.
 それに、天気が変わりやすくて|いきなり吹雪いたりするから|気をつけることね。=Plus, the weather can be finnicky around this time of year, with sudden blizzards. You’d best be careful.
@@ -7363,7 +7363,7 @@
 !FILE:event/ev_sys/t23_sila_act_440_mon_asidome.wsb#Final
 わっちは大蛇の湖とやらを|見てみたい。|ついてきてくりゃれ？=I'd like to see this Serpent Lake.|Are you coming along?
 !FILE:event/ev_sys/t23_sila_pub.wsb#Final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 あら、めずらしいね。|あんたたち、行商人かい？=My, how unusual.|Are you merchants?
 ええ、そうです。|ところで、この近くにある|『古狼の森』って知りませんか？=Yes, that’s right.|By the way, do you know of the “Ancient Forest” that’s around here?
@@ -7381,17 +7381,17 @@
 コイ料理だね。|丸揚げとか、パイ包み焼きとか。|どっちもおいしいよ。=Definitely the carp.|Fried or made into pie, either way it’s delicious.
 じゃあ、それを両方とも。|それから葡萄酒を持ってきて。=Then, we’ll take both.|And some wine to follow.
 !FILE:event/ev_sys/t24_elle_pub.wsb#final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 昔、この村には、|東にある海を越えて|大きな狼がやってきたらしいんだ。=Long ago, giant wolves crossed the sea to the east and came to this village.
 狼はこの村から南に|２日ぐらい行ったところにある森に|移り住んだって話だよ。=It's said they made their new home in a forest about two days south of here.
 !FILE:event/ev_sys/t25_ward_pub.wsb#final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 西の森から大きな狼が|やってきたせいで、この辺りには|狼が多いそうなんです。=It seems like because of the giant wolves who came from the forest to the west, there’s now a lot of wolves in this area.
 ここから東に２日ぐらい|行ったところの森に、|狼たちは住みついたって話です。=It’s said they made their home in a forest about two days out to the east.
 !FILE:event/ev_sys/t26_jube_pub.wsb#final
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the barmaid
 いらっしゃいませ。=Welcome.
 人の言葉を話す狼が、|北のほうからやってきたっていう|昔話がこの村に伝わってるの。=There's an old legend in this village about wolves from the north who can speak human words.
 狼は、この村から|２日ぐらい南に行った森に|住みついたらしいわ。=They say the wolves settled in a forest about two days south of here.
@@ -7416,10 +7416,10 @@
 まだ何か用か？=Anything else?
 親方=Cartwright
 !FILE:event/ev_sys/test_pub.wsb
-店員に話しかける=Talk to the Clerk
+店員に話しかける=Talk to the barmaid
 ホロに話しかける=Talk to Holo
 いらっしゃいませ。=Welcome.
-店員（酒場娘１キャラ）との会話=Talk to the Clerk (Bar Girl)
+店員（酒場娘１キャラ）との会話=Talk to the barmaid (Bar Girl)
 　　　ホロとの会話|（ＮＰＣとかもこれに相当）=      Talk to Holo|(NPC may consider)
 !FILE:event/ev_sys/time_event_06month.wsb#Final
 のう、ぬしよ。=Say...
