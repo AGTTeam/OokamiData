@@ -3150,7 +3150,7 @@
 むむ……|残念だが、それもよいでしょう。=Mm...|That is a shame, but I understand.
 またお会いできる日を|楽しみにしておりますよ。=I hope to see you again.
 海産物問屋=Seafood Wholesaler
-!FILE:event/ev_mou/mou_01_end.wsb
+!FILE:event/ev_mou/mou_01_end.wsb#final - read here, not tested in game
 あの後、料理人対決では|貝料理人が勝って、|巷でも貝の料理が大流行！=In the end, it was the shellfish cook who won in the Seafood Chef Battle, and shellfish dishes are all the rage!#untested
 魚の方も、付け合わせ料理で|そこそこ掃けてるけど、|高級魚に投資した人はダメダメ。=The fish is also selling reasonably well as a side-dish,>>but it’s of little solace to the people who invested in the high-grade stuff.
 実はあの直後、貝料理人が|南の国へ帰っちゃったのよ。|そしたら、さあ大変！=To tell you the truth, the shellfish cook went back home right after that. And then, everything else went south!#tested
@@ -3233,7 +3233,7 @@
 まあ、いいさ。|縁があったら、また会おう。|そん時はよろしく頼むぜ。=Ah well. If fate allows, come stop by again sometime. It’s all in your hands.
 なに！|ここまで聞いて、投資しないって|言うのか？=What!? You’ve been listenin’ all this time but you say you’re gonna back out now?
 小麦商人=Wheat Merchant
-!FILE:event/ev_mou/mou_02_end.wsb
+!FILE:event/ev_mou/mou_02_end.wsb#final - read here, not tested in game
 今年はあの地方の小麦は|豊作らしいよ。|領主様もかまど税で大儲けだろうね。=It seems there’s been a good harvest this year. The count is sure to make a fortune with the oven tax, too.#untested
 でも、豊作続きのせいで、|小麦そのものの値段は|下がる一方なんだって。=But, thanks to the succession of good harvests, the price of wheat itself is going down.
 ……あ、おにーさんは、|小麦商人じゃないから、|関係ない話だったね。ごめーん。=...Ah, you’re not a wheat merchant, so it probably doesn’t mean all that much to you. Sorry.
@@ -3415,7 +3415,7 @@
 え？|どちらにも投資は|なさらない……と？=Huh? You’re not going to invest...?
 宝石商メアリ=Jeweler Mary
 美術商クララ=Art Dealer Clara
-!FILE:event/ev_mou/mou_03_end.wsb
+!FILE:event/ev_mou/mou_03_end.wsb#final - read here, not tested in game
 あの後、すごくいい話でさぁ。|ううっ、人情話ってやつだね……。=After that, a wonderful thing happened. Well, it’s a heartwarming tale about human relationships...#untested
 老芸術家のニールセン氏の所に|家出した息子さんが帰ってきてね、|見事に大復活！=After his son who had run away from home returned, the artist, Sir Nielsen, was able to make a splendid comeback!#commas needed around the name, which could be missed out without changing the sense of the sentence
 ニールセン氏のつくった髪飾りは|飛ぶように売れてるんだよ。=The hairpieces he made are just flying off the shelves!
@@ -3424,7 +3424,7 @@
 代わりに若手の職人が手掛けた|髪飾りが飛ぶように|売れてるんだけれど、なんと――！=But in their place, the hairpieces made by a young craftsman are just flying off the shelves. And what’s more--!
 噂じゃ、その職人はニールセン氏の|家出した息子らしいんだってさ！|なんとなく、燃える話っぽいよね。=According to the rumors, that young craftsman is the runaway son of Sir Nielsen!>>It’s just like a stage production, isn’t it?#tc burning story. I kind of want to use soap opera, but don’t know if that would sound too blazingly anachronistic.
 クララさんは、どうやって|彼を口説いたんだろうね。|あたし、気になるな～。=How do you think Ms. Clara managed to convince him? It makes me wonder～
-!FILE:event/ev_mou/mou_04.wsb
+!FILE:event/ev_mou/mou_04.wsb#final
 これはどうも。|私、今はこの地方で|砂糖を商っております。=Good morrow. I am a sugar merchant who operates in this area.
 どうか、私どもに資金の融資を|していただきたい。=I do very much hope you might lend me your financial aid.
 御存知のように、この地方一帯の|砂糖は、サトウダイコンから|作るものなのでございますが――=As you must know, the sugar in this region comes from a plant called a|sugar beet, however...
@@ -3511,7 +3511,7 @@
 むむ……|残念ですが、いたしかた|ありません。=Mmm...|That is a shame, but I suppose I’m out of luck there.
 またお会いできる日を|楽しみにしております。=I look forward to seeing you again.
 砂糖商人=Sugar Merchant
-!FILE:event/ev_mou/mou_04_end.wsb
+!FILE:event/ev_mou/mou_04_end.wsb#final - read here, not tested in game
 ねえ、聞いた聞いた？|あの冴えない感じの砂糖商人さんが、|まんまとやってくれたのよ！=Hey, did you hear? That measly-seeming sugar merchant really did it!#untested
 実はあの地方の砂糖の値上がりは、|あの砂糖商人さんの|買占めによるものだったんだって。=Truth be told, the reason why sugar went up in value in that region is because of him buying it all.
 あの砂糖商人さんはもちろん、|投資した人も、今ごろ|“甘い汁吸ってますよ”って感じ？=The merchant, and those who invested in him must be feeling like they landed a “pretty sweet deal” right now, huh?
@@ -3646,7 +3646,7 @@
 今年凶作になったら、大飢饉の|キケンがあるとも言われてたけど、|なぜか飢饉は起きなかったみたい。=It was predicted that if the crops failed there would be a great famine, but somehow, it never came to that.
 きっと、安くてたくさんの食料を|持ち込んでくれた優しい商人さんが|いっぱいいたんだね！=It must be because of the kind merchants who took over lots of|cheap food!
 今年は飢饉になると思って、|コッソリ投資した人には、|優しくない話だったかな？=I guess it’s not such a happy ending for the people who invested in secret, thinking that there’d would be a famine, though...
-!FILE:event/ev_mou/mou_06.wsb
+!FILE:event/ev_mou/mou_06.wsb#final
 はじめまして。|貴方ですね、商館の言う|若くて有望な行商人というのは。=You must be the young, promising merchant I was told about.|A pleasure to make your acquaintance.
 私は正教教会の代理で|投資を募っている者です。=I’m here seeking an investment on behalf of the Church.
 教会が投資を？=The Church?
@@ -3753,7 +3753,7 @@
 では、別の方を探すことにします。|ありがとうございました。=Well, I suppose I’ll have to look for someone else. Thank you for your time.
 仲介業者=Intermediary
 司教=Bishop
-!FILE:event/ev_mou/mou_06_end.wsb
+!FILE:event/ev_mou/mou_06_end.wsb#final - read here, not tested in game
 大聖堂は建築が始まったって。|やっぱり、お金かかってる建物は|違うよねえ。=Construction on the new cathedral has been ongoing. But wow, expensive buildings sure are different!#untested
 もうだいぶ、出来上がってるよ。|そろそろ最初に投資した人には|お金を返し始めてるみたい。=It should be finished soon. It looks like they’re starting to return money to the original investors.
 これはナイショの話だけど、|担当の司教様は、|なかなか話がわかる人みたいよ？=Between you and me, I thought the bishop in charge seemed to be very open-minded.
@@ -3766,7 +3766,7 @@
 教会の中のことなんで、|あたしも詳しいことは|知らないんだけどね……。=It’s church-business, so I don’t know all the details, but...
 そうそう。風の噂だと、|その司教様の息が掛かった商人は|笑っちゃうほど大損したみたい。=Right, there was a rumor that a merchant under the bishop’s control lost so much money he burst into laughter.
 おにーさんも、そういう人とは|関わらないほうがいいよ？|天罰てきめーん！ってね。=You’d best not get involved with people like that, sir. It’s divine retribution!|...Or something.
-!FILE:event/ev_mou/mou_07.wsb
+!FILE:event/ev_mou/mou_07.wsb#final
 貴方ですね。|商館の言っていた|若いのに有望な行商人というのは。=Ah, you must be the young merchant I’ve heard so much about.
 私は、ある大商人の代理で|資金を集めている者です。=I’m raising money on behalf of a major client.
 その大商人が扱う案件に対して|あなたに投資をお願いしたい。=I’m here today asking for investments in a project being handled by said client.
@@ -3851,14 +3851,14 @@
 投資はしないと|おっしゃいますか？=Do you mean to say you won’t be making an investment?
 そうですか、残念です。=I see, that is a shame.
 建設業者=Building Contractor
-!FILE:event/ev_mou/mou_07_end.wsb
+!FILE:event/ev_mou/mou_07_end.wsb#final - read here, not tested in game
 あの後、東の国境で|大きな砦の建造が発表されたよ。=After that, it was announced that a large stronghold was to be built on the eastern border.#untested
 あの地方に木材運んでた商人は|大儲けしてるみたい。=It seems that the merchant who has been transporting wood to the area is doing quite well for himself.
 実は東の国境には|砦はできないらしいよ。=As it turns out, the stronghold at the eastern border wasn’t to be.#tested
 あれはウソの情報で、|本当は南の国境にできるんだって。=It was false information, and it’s actually being planned for the southern border.
 おかげで、南の国境近くの地方で|木材扱ってた商人は大儲け。=Thanks to that, the merchant dealing in wood near the southern border has been doing quite well for himself,
 東の国境に賭けてた人たちは|大損してるみたいだよ。=but those who were counting on the eastern front have lost a lot of money.
-!FILE:event/ev_mou/mou_08.wsb
+!FILE:event/ev_mou/mou_08.wsb#final
 ウォッホン。|キミかね。商館の言う|若くて有望な行商人というのは？=Ahem.|So it’s you? The young and talented merchant I was promised?
 （ふん。何やら、|　偉そうなやつじゃのう？）=(Hmph. This one just reeks of arrogance.)
 （しっ、ホロってば！|　聞こえたら大変だよ！）=(Wha-- Holo! What if he heard you say that!?)
@@ -3956,7 +3956,7 @@
 ……その辺は、自分でも|痛いほどわかってるよ。=...I know the pain of that all too well.
 ならば、早く大物になって|やつを見返してやらねばのう。|なあ、ぬしよ？=Then, the only thing to do is become a big shot yourself and outdo him, no?
 大商人オズワルド=Big-shot Oswald
-!FILE:event/ev_mou/mou_08_end.wsb
+!FILE:event/ev_mou/mou_08_end.wsb#final - read here, not tested in game
 オズワルドさんは金鉱で|大儲けしてるらしいよ。|投資した人も大儲けだって。=Mr. Oswald’s gold mine business seems to be booming. The people who invested in him have made a lot of money too.#untested
 金鉱！|それはお金の山！|……もうクラクラしちゃう。=A gold mine! Actual, mountains of gold!|...Just the thought makes my head spin, it does.
 あたしもお金さえあれば|あの人に投資したのに……。=If only I had the money, I would have invested in him too...
@@ -3970,7 +3970,7 @@
 やっぱり商人はお金が無きゃ|ダメダメだよねえ。=I guess merchants are nothing without money, after all.
 おにーさん、オズワルドさんに|名前を覚えてもらったのなら、|いつかまた機会があるかも！=But if Mr. Oswald remembers your name, sir, you might get another chance one day, too!
 その時までに、|地道にお金を貯めなくちゃ。|──目指せ！　金の山！=So until then, you’ve gotta keep saving up money. Remember! Aim for the mountains of gold!
-!FILE:event/ev_mou/mou_09.wsb
+!FILE:event/ev_mou/mou_09.wsb#final
 キミかね。商館の言う|若くて有望な行商人というのは？=So it’s you? The young and talented merchant I was promised.
 はて？|確か、前にどこかで|見た事があるような……。=Hm?|Haven’t I seen you somewhere before...?
 君のような行商人と取引を|したような気がしてたのだが……|まあ、人違いだろう。=I have a feeling that I once did business with a peddler like you...|Well, not that it matters.
@@ -4059,7 +4059,7 @@
 そういうわけじゃありません。|ですが……。=That’s not the case. However...
 ええい、もういい！|無駄足を踏まされたわ！=No, enough!|What a wasted trip!
 大商人オズワルド=Big-shot Oswald
-!FILE:event/ev_mou/mou_09_end.wsb
+!FILE:event/ev_mou/mou_09_end.wsb#final - read here, not tested in game
 例の金鉱は、結局|乗っ取られずに|済んだらしいよ。=In the end, it seems that the gold mine wasn’t taken over after all.#untested
 オズワルドさんは、|昔の勢いを取り戻して、|金鉱で儲けているとか。=Mr. Oswald has regained his old vigor and is making money in the mines.
 それにしても、|オズワルドさんは|運が良かったよね～。=Though I have to say, he sure is lucky, huh～?
@@ -4224,7 +4224,7 @@
 ううむ、興味を持っていただいたと|思ったのですが……=Mmm, and here I thought you were interested in it.
 では、ごきげんよう。|またお会いできる日を|楽しみにしておりますよ。=Well then, enjoy the rest of your day.|I look forward to seeing you again.
 食品問屋=Grocer
-!FILE:event/ev_mou/mou_10_end.wsb
+!FILE:event/ev_mou/mou_10_end.wsb#final - read here, not tested in game
 あの後、町では|高級なお菓子が大流行！|高いけど飛ぶように売れてるよ。=After that, the luxury sweets became all the rage in town! They may be expensive, but they’re flying off the shelves.#untested
 安い方のお菓子は|売り上げがイマイチみたい。|流行ってわかんないよね。=The cheaper sweets don’t seem to be making that much. I’m not sure why they aren’t popular.
 やっぱり本当にいい物は|高くても売れるって事なのかな？=Maybe if something’s really good, it’ll sell no matter how expensive it is?
@@ -4242,7 +4242,7 @@
 ……もひとつ、ぱくっと。=...And maybe just one more, for good luck. Nom!
 う～ん。|いくら食べても飽きない味って|こういう味なんだろうね。=Mmm～|Yeah, this is a flavor that you don’t tire of, no matter how many you eat.
 ついつい袋いっぱい|買っちゃっても、|お財布に優しいのも嬉しいかな。=Even though I accidentally bought a load of them, I’m glad it’s not harsh on my wallet.
-!FILE:event/ev_mou/mou_11.wsb
+!FILE:event/ev_mou/mou_11.wsb#final
 やあ、キミかね。|商館の言っていた、|最近売り出し中の行商人というのは。=Ah, so it’s you? The one the trading house said was an up-and-coming merchant.
 そうです=That’s right.
 いえ、ボクなんてまだまだです=No, I still have a long way to go.
@@ -4357,7 +4357,7 @@
 また、いつか商売の話をしよう。|もちろん、キミさえよければだが。=Let’s talk business again someday. If you don’t mind, of course.
 はい。|機会があれば喜んで。=Yes. Should such an occasion arise, I’d be more than happy to.
 貿易商=Trader
-!FILE:event/ev_mou/mou_11_end.wsb
+!FILE:event/ev_mou/mou_11_end.wsb#final - read here, not tested in game
 あの後、あの町ではなぜか|パッタリ海賊がいなくなって|海路の交易が大賑わい。=After that, the town suddenly became free of pirates for some reason, and sea trade has been flourishing.#untested
 かわりに陸路で山賊が|出るようになって、陸路は|すっかり寂れちゃったんだ。=However, the roads became flooded with bandits, so they’ve been all but abandoned.
 これまで、あの辺りでは、|海賊が出たことはあっても、|山賊なんていなかったのにね。=There had always been pirates in the area, but never bandits, until now.
