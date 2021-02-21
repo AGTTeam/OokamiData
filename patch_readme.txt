@@ -6,7 +6,7 @@ Before you can play the translation, you'll need to patch the game on your compu
 
 Instructions
 
--Download DeltaPatcher from https://www.romhacking.net/utilities/704/ 
+-Download DeltaPatcher from https://www.romhacking.net/utilities/704/
 -Extract the file, and run either DeltaPatcher or DeltaPatcherLite
 -'Original file' should be your copy of the ROM, as an '.nds' filetype.
 -For 'XDelta patch', choose the 'BokutoHoloPatch.xdelta' file.
@@ -37,3 +37,10 @@ A list of bug fixes/tweaks that were made to the original ROM.
 Questions, comments or feedback?
 
 Join us down at the Anime Games Team Discord https://discord.com/invite/UUF7Zbm or stop by the thread on GBAtemp.
+
+===
+
+Changelog
+
+1.1
+- Fixed an issue with one dialog line getting stuck and not advancing in the third intimacy level up scene with Holo.
