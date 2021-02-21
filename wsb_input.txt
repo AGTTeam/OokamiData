@@ -7071,7 +7071,7 @@
 ほら、見てみなよ。|あの露店でものを買ってるのは、|身なりのいい人ばっかりだよ。=You can see for yourself.|The only people buying from that stall are those who are well-off.
 それに、ホロはこの前の町でも|お菓子を食べたじゃないか。|宿に泊まれなくなったら、困るだろ？=And, you already had candy in the last town. What if we couldn’t afford an inn, then what would you do?
 なんと、嘆かわしい……。|貧乏とは切ないものでありんす……。=How heartrending...|What a miserable fate it is to be so poor...
-わっちゃあ、依頼を持ちかける人間|を間違えたのやもしれぬ。|栗ひとつ、食べられぬ旅とは……！=Have I chosen the wrong person to fulfill my request? What a woeful journey, when even a single chestnut is too much...!
+わっちゃあ、依頼を持ちかける人間|を間違えたのやもしれぬ。|栗ひとつ、食べられぬ旅とは……！=Have I chosen the wrong person to fulfill my request? What a woeful journey, when even a chestnut is too much...!
 栗なら森に落ちてるよ。=If it’s chestnuts you want, the forest is full of them.
 つまらぬ雄じゃな……。=What an uninspiring male...
 ところでぬしよ、|隣の店もなにやら|人が群れておるようじゃが？=By the way, doesn’t there seem to be quite the crowd growing at the neighboring stall?
