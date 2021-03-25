@@ -569,7 +569,7 @@
 シナモンが良い値？=Bargain Cinnamon?
 クライシュタインでシナモンが良|い値段で買取されているみたいね。|今なら１．２倍の値段で売れるよ|うだわ。|ひと月以内は売りチャンスみたい。=Cinnamon is being sold for a good price in Kleistein right now. It looks like you can sell it for about 1.2x that. But, this opportunity is only going to last for a month.
 クライシュタインで高騰？=Kleistein Inflation?
-クライシュタインが品物不足で、|商品価格が高騰してるようだよ。|噂だと３０日位は３割増しに近い|価格で取引されるそうだ。|特産品なんか売りチャンスだね！|=There’s a shortage of goods in Kleistein which is causing the price of things to soar. According to the rumors, you can sell products there with a near-30% mark up for the next 30 days. It’s a great chance to sell specialty goods!
+クライシュタインが品物不足で、|商品価格が高騰してるようだよ。|噂だと３０日位は３割増しに近い|価格で取引されるそうだ。|特産品なんか売りチャンスだね！|=There’s a shortage of goods in Kleistein making prices soar. According to the rumors, you can sell products there at a near 30% mark up for the next 30 days. It’s a great chance to sell specialty goods!
 小麦が超品薄？=Wheat Shortage?
 メリンツでは今、小麦がものすご|く不足しているらしい。|なんと通常の４倍の価格がついて|るみたいだ。|３０日間位は不足したままだろう。=It seems there’s a huge shortage of wheat in Melintz right now. They say it’s quadrupled in value. It looks like the shortage is going to last for another 30 days, too.
 食器が安い？=Tableware is Cheap?
